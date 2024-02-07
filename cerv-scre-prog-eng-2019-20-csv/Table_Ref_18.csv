@@ -1,0 +1,177 @@
+﻿Table_ref,Collection_Year,Sample_Reg_Year,Parent_Org_Code,Parent_Org_Name,Unit,Indicator,Value
+18,2019-20,2018-19,R1,North East,Number,1/8/3 result_CIN1_All_Ages,2002
+18,2019-20,2018-19,R1,North East,Number,1/8/3 result_CIN2_All_Ages,497
+18,2019-20,2018-19,R1,North East,Number,1/8/3 result_CIN3_And_Adeno_All_Ages,222
+18,2019-20,2018-19,R1,North East,Number,1/8/3 result_Cervical_cancer_All_Ages,3
+18,2019-20,2018-19,R1,North East,Number,1/8/3 result_HPV_only_All_Ages,341
+18,2019-20,2018-19,R1,North East,Number,1/8/3 result_Inadequate_biopsy_All_Ages,101
+18,2019-20,2018-19,R1,North East,Number,1/8/3 result_No_CIN_No_HPV_All_Ages,398
+18,2019-20,2018-19,R1,North East,Number,1/8/3 result_Non_cerv_cancer_All_Ages,3
+18,2019-20,2018-19,R1,North East,Number,1/8/3 result_Seen_Colp_NAD_All_Ages,722
+18,2019-20,2018-19,R1,North East,Number,1/8/3 result_Seen_Colp_result_n/k_All_Ages,21
+18,2019-20,2018-19,R1,North East,Number,1/8/3 result_Total_all_results_All_Ages,4431
+18,2019-20,2018-19,R2,North West,Number,1/8/3 result_CIN1_All_Ages,2007
+18,2019-20,2018-19,R2,North West,Number,1/8/3 result_CIN2_All_Ages,801
+18,2019-20,2018-19,R2,North West,Number,1/8/3 result_CIN3_And_Adeno_All_Ages,441
+18,2019-20,2018-19,R2,North West,Number,1/8/3 result_Cervical_cancer_All_Ages,8
+18,2019-20,2018-19,R2,North West,Number,1/8/3 result_HPV_only_All_Ages,1306
+18,2019-20,2018-19,R2,North West,Number,1/8/3 result_Inadequate_biopsy_All_Ages,167
+18,2019-20,2018-19,R2,North West,Number,1/8/3 result_No_CIN_No_HPV_All_Ages,407
+18,2019-20,2018-19,R2,North West,Number,1/8/3 result_Non_cerv_cancer_All_Ages,2
+18,2019-20,2018-19,R2,North West,Number,1/8/3 result_Seen_Colp_NAD_All_Ages,4505
+18,2019-20,2018-19,R2,North West,Number,1/8/3 result_Seen_Colp_result_n/k_All_Ages,8
+18,2019-20,2018-19,R2,North West,Number,1/8/3 result_Total_all_results_All_Ages,10324
+18,2019-20,2018-19,R3,Yorkshire and the Humber,Number,1/8/3 result_CIN1_All_Ages,1451
+18,2019-20,2018-19,R3,Yorkshire and the Humber,Number,1/8/3 result_CIN2_All_Ages,558
+18,2019-20,2018-19,R3,Yorkshire and the Humber,Number,1/8/3 result_CIN3_And_Adeno_All_Ages,356
+18,2019-20,2018-19,R3,Yorkshire and the Humber,Number,1/8/3 result_Cervical_cancer_All_Ages,6
+18,2019-20,2018-19,R3,Yorkshire and the Humber,Number,1/8/3 result_HPV_only_All_Ages,892
+18,2019-20,2018-19,R3,Yorkshire and the Humber,Number,1/8/3 result_Inadequate_biopsy_All_Ages,155
+18,2019-20,2018-19,R3,Yorkshire and the Humber,Number,1/8/3 result_No_CIN_No_HPV_All_Ages,1032
+18,2019-20,2018-19,R3,Yorkshire and the Humber,Number,1/8/3 result_Non_cerv_cancer_All_Ages,0
+18,2019-20,2018-19,R3,Yorkshire and the Humber,Number,1/8/3 result_Seen_Colp_NAD_All_Ages,2037
+18,2019-20,2018-19,R3,Yorkshire and the Humber,Number,1/8/3 result_Seen_Colp_result_n/k_All_Ages,29
+18,2019-20,2018-19,R3,Yorkshire and the Humber,Number,1/8/3 result_Total_all_results_All_Ages,6782
+18,2019-20,2018-19,R4,East Midlands,Number,1/8/3 result_CIN1_All_Ages,1692
+18,2019-20,2018-19,R4,East Midlands,Number,1/8/3 result_CIN2_All_Ages,606
+18,2019-20,2018-19,R4,East Midlands,Number,1/8/3 result_CIN3_And_Adeno_All_Ages,459
+18,2019-20,2018-19,R4,East Midlands,Number,1/8/3 result_Cervical_cancer_All_Ages,8
+18,2019-20,2018-19,R4,East Midlands,Number,1/8/3 result_HPV_only_All_Ages,1040
+18,2019-20,2018-19,R4,East Midlands,Number,1/8/3 result_Inadequate_biopsy_All_Ages,79
+18,2019-20,2018-19,R4,East Midlands,Number,1/8/3 result_No_CIN_No_HPV_All_Ages,498
+18,2019-20,2018-19,R4,East Midlands,Number,1/8/3 result_Non_cerv_cancer_All_Ages,1
+18,2019-20,2018-19,R4,East Midlands,Number,1/8/3 result_Seen_Colp_NAD_All_Ages,2235
+18,2019-20,2018-19,R4,East Midlands,Number,1/8/3 result_Seen_Colp_result_n/k_All_Ages,15
+18,2019-20,2018-19,R4,East Midlands,Number,1/8/3 result_Total_all_results_All_Ages,6908
+18,2019-20,2018-19,R5,West Midlands,Number,1/8/3 result_CIN1_All_Ages,1340
+18,2019-20,2018-19,R5,West Midlands,Number,1/8/3 result_CIN2_All_Ages,475
+18,2019-20,2018-19,R5,West Midlands,Number,1/8/3 result_CIN3_And_Adeno_All_Ages,300
+18,2019-20,2018-19,R5,West Midlands,Number,1/8/3 result_Cervical_cancer_All_Ages,7
+18,2019-20,2018-19,R5,West Midlands,Number,1/8/3 result_HPV_only_All_Ages,824
+18,2019-20,2018-19,R5,West Midlands,Number,1/8/3 result_Inadequate_biopsy_All_Ages,52
+18,2019-20,2018-19,R5,West Midlands,Number,1/8/3 result_No_CIN_No_HPV_All_Ages,381
+18,2019-20,2018-19,R5,West Midlands,Number,1/8/3 result_Non_cerv_cancer_All_Ages,0
+18,2019-20,2018-19,R5,West Midlands,Number,1/8/3 result_Seen_Colp_NAD_All_Ages,3552
+18,2019-20,2018-19,R5,West Midlands,Number,1/8/3 result_Seen_Colp_result_n/k_All_Ages,2
+18,2019-20,2018-19,R5,West Midlands,Number,1/8/3 result_Total_all_results_All_Ages,7197
+18,2019-20,2018-19,R6,East of England,Number,1/8/3 result_CIN1_All_Ages,1910
+18,2019-20,2018-19,R6,East of England,Number,1/8/3 result_CIN2_All_Ages,519
+18,2019-20,2018-19,R6,East of England,Number,1/8/3 result_CIN3_And_Adeno_All_Ages,417
+18,2019-20,2018-19,R6,East of England,Number,1/8/3 result_Cervical_cancer_All_Ages,8
+18,2019-20,2018-19,R6,East of England,Number,1/8/3 result_HPV_only_All_Ages,932
+18,2019-20,2018-19,R6,East of England,Number,1/8/3 result_Inadequate_biopsy_All_Ages,105
+18,2019-20,2018-19,R6,East of England,Number,1/8/3 result_No_CIN_No_HPV_All_Ages,691
+18,2019-20,2018-19,R6,East of England,Number,1/8/3 result_Non_cerv_cancer_All_Ages,2
+18,2019-20,2018-19,R6,East of England,Number,1/8/3 result_Seen_Colp_NAD_All_Ages,5419
+18,2019-20,2018-19,R6,East of England,Number,1/8/3 result_Seen_Colp_result_n/k_All_Ages,29
+18,2019-20,2018-19,R6,East of England,Number,1/8/3 result_Total_all_results_All_Ages,10377
+18,2019-20,2018-19,R7,London,Number,1/8/3 result_CIN1_All_Ages,4305
+18,2019-20,2018-19,R7,London,Number,1/8/3 result_CIN2_All_Ages,1314
+18,2019-20,2018-19,R7,London,Number,1/8/3 result_CIN3_And_Adeno_All_Ages,616
+18,2019-20,2018-19,R7,London,Number,1/8/3 result_Cervical_cancer_All_Ages,31
+18,2019-20,2018-19,R7,London,Number,1/8/3 result_HPV_only_All_Ages,2906
+18,2019-20,2018-19,R7,London,Number,1/8/3 result_Inadequate_biopsy_All_Ages,193
+18,2019-20,2018-19,R7,London,Number,1/8/3 result_No_CIN_No_HPV_All_Ages,1258
+18,2019-20,2018-19,R7,London,Number,1/8/3 result_Non_cerv_cancer_All_Ages,0
+18,2019-20,2018-19,R7,London,Number,1/8/3 result_Seen_Colp_NAD_All_Ages,5924
+18,2019-20,2018-19,R7,London,Number,1/8/3 result_Seen_Colp_result_n/k_All_Ages,68
+18,2019-20,2018-19,R7,London,Number,1/8/3 result_Total_all_results_All_Ages,17464
+18,2019-20,2018-19,S,South,Number,1/8/3 result_CIN1_All_Ages,7023
+18,2019-20,2018-19,S,South,Number,1/8/3 result_CIN2_All_Ages,2195
+18,2019-20,2018-19,S,South,Number,1/8/3 result_CIN3_And_Adeno_All_Ages,1386
+18,2019-20,2018-19,S,South,Number,1/8/3 result_Cervical_cancer_All_Ages,20
+18,2019-20,2018-19,S,South,Number,1/8/3 result_HPV_only_All_Ages,3731
+18,2019-20,2018-19,S,South,Number,1/8/3 result_Inadequate_biopsy_All_Ages,400
+18,2019-20,2018-19,S,South,Number,1/8/3 result_No_CIN_No_HPV_All_Ages,1829
+18,2019-20,2018-19,S,South,Number,1/8/3 result_Non_cerv_cancer_All_Ages,5
+18,2019-20,2018-19,S,South,Number,1/8/3 result_Seen_Colp_NAD_All_Ages,6784
+18,2019-20,2018-19,S,South,Number,1/8/3 result_Seen_Colp_result_n/k_All_Ages,78
+18,2019-20,2018-19,S,South,Number,1/8/3 result_Total_all_results_All_Ages,24136
+18,2019-20,2018-19,R1,North East,Number,7/4/5/6 result_CIN1_All_Ages,274
+18,2019-20,2018-19,R1,North East,Number,7/4/5/6 result_CIN2_All_Ages,626
+18,2019-20,2018-19,R1,North East,Number,7/4/5/6 result_CIN3_And_Adeno_All_Ages,977
+18,2019-20,2018-19,R1,North East,Number,7/4/5/6 result_Cervical_cancer_All_Ages,42
+18,2019-20,2018-19,R1,North East,Number,7/4/5/6 result_HPV_only_All_Ages,27
+18,2019-20,2018-19,R1,North East,Number,7/4/5/6 result_Inadequate_biopsy_All_Ages,11
+18,2019-20,2018-19,R1,North East,Number,7/4/5/6 result_No_CIN_No_HPV_All_Ages,49
+18,2019-20,2018-19,R1,North East,Number,7/4/5/6 result_Non_cerv_cancer_All_Ages,1
+18,2019-20,2018-19,R1,North East,Number,7/4/5/6 result_Seen_Colp_NAD_All_Ages,24
+18,2019-20,2018-19,R1,North East,Number,7/4/5/6 result_Seen_Colp_result_n/k_All_Ages,3
+18,2019-20,2018-19,R1,North East,Number,7/4/5/6 result_Total_all_results_All_Ages,2069
+18,2019-20,2018-19,R2,North West,Number,7/4/5/6 result_CIN1_All_Ages,313
+18,2019-20,2018-19,R2,North West,Number,7/4/5/6 result_CIN2_All_Ages,1247
+18,2019-20,2018-19,R2,North West,Number,7/4/5/6 result_CIN3_And_Adeno_All_Ages,3023
+18,2019-20,2018-19,R2,North West,Number,7/4/5/6 result_Cervical_cancer_All_Ages,202
+18,2019-20,2018-19,R2,North West,Number,7/4/5/6 result_HPV_only_All_Ages,120
+18,2019-20,2018-19,R2,North West,Number,7/4/5/6 result_Inadequate_biopsy_All_Ages,14
+18,2019-20,2018-19,R2,North West,Number,7/4/5/6 result_No_CIN_No_HPV_All_Ages,72
+18,2019-20,2018-19,R2,North West,Number,7/4/5/6 result_Non_cerv_cancer_All_Ages,2
+18,2019-20,2018-19,R2,North West,Number,7/4/5/6 result_Seen_Colp_NAD_All_Ages,41
+18,2019-20,2018-19,R2,North West,Number,7/4/5/6 result_Seen_Colp_result_n/k_All_Ages,1
+18,2019-20,2018-19,R2,North West,Number,7/4/5/6 result_Total_all_results_All_Ages,5106
+18,2019-20,2018-19,R3,Yorkshire and the Humber,Number,7/4/5/6 result_CIN1_All_Ages,228
+18,2019-20,2018-19,R3,Yorkshire and the Humber,Number,7/4/5/6 result_CIN2_All_Ages,862
+18,2019-20,2018-19,R3,Yorkshire and the Humber,Number,7/4/5/6 result_CIN3_And_Adeno_All_Ages,2179
+18,2019-20,2018-19,R3,Yorkshire and the Humber,Number,7/4/5/6 result_Cervical_cancer_All_Ages,98
+18,2019-20,2018-19,R3,Yorkshire and the Humber,Number,7/4/5/6 result_HPV_only_All_Ages,89
+18,2019-20,2018-19,R3,Yorkshire and the Humber,Number,7/4/5/6 result_Inadequate_biopsy_All_Ages,27
+18,2019-20,2018-19,R3,Yorkshire and the Humber,Number,7/4/5/6 result_No_CIN_No_HPV_All_Ages,203
+18,2019-20,2018-19,R3,Yorkshire and the Humber,Number,7/4/5/6 result_Non_cerv_cancer_All_Ages,4
+18,2019-20,2018-19,R3,Yorkshire and the Humber,Number,7/4/5/6 result_Seen_Colp_NAD_All_Ages,26
+18,2019-20,2018-19,R3,Yorkshire and the Humber,Number,7/4/5/6 result_Seen_Colp_result_n/k_All_Ages,5
+18,2019-20,2018-19,R3,Yorkshire and the Humber,Number,7/4/5/6 result_Total_all_results_All_Ages,3796
+18,2019-20,2018-19,R4,East Midlands,Number,7/4/5/6 result_CIN1_All_Ages,213
+18,2019-20,2018-19,R4,East Midlands,Number,7/4/5/6 result_CIN2_All_Ages,507
+18,2019-20,2018-19,R4,East Midlands,Number,7/4/5/6 result_CIN3_And_Adeno_All_Ages,1748
+18,2019-20,2018-19,R4,East Midlands,Number,7/4/5/6 result_Cervical_cancer_All_Ages,112
+18,2019-20,2018-19,R4,East Midlands,Number,7/4/5/6 result_HPV_only_All_Ages,79
+18,2019-20,2018-19,R4,East Midlands,Number,7/4/5/6 result_Inadequate_biopsy_All_Ages,2
+18,2019-20,2018-19,R4,East Midlands,Number,7/4/5/6 result_No_CIN_No_HPV_All_Ages,79
+18,2019-20,2018-19,R4,East Midlands,Number,7/4/5/6 result_Non_cerv_cancer_All_Ages,0
+18,2019-20,2018-19,R4,East Midlands,Number,7/4/5/6 result_Seen_Colp_NAD_All_Ages,41
+18,2019-20,2018-19,R4,East Midlands,Number,7/4/5/6 result_Seen_Colp_result_n/k_All_Ages,1
+18,2019-20,2018-19,R4,East Midlands,Number,7/4/5/6 result_Total_all_results_All_Ages,2852
+18,2019-20,2018-19,R5,West Midlands,Number,7/4/5/6 result_CIN1_All_Ages,210
+18,2019-20,2018-19,R5,West Midlands,Number,7/4/5/6 result_CIN2_All_Ages,559
+18,2019-20,2018-19,R5,West Midlands,Number,7/4/5/6 result_CIN3_And_Adeno_All_Ages,1817
+18,2019-20,2018-19,R5,West Midlands,Number,7/4/5/6 result_Cervical_cancer_All_Ages,129
+18,2019-20,2018-19,R5,West Midlands,Number,7/4/5/6 result_HPV_only_All_Ages,80
+18,2019-20,2018-19,R5,West Midlands,Number,7/4/5/6 result_Inadequate_biopsy_All_Ages,13
+18,2019-20,2018-19,R5,West Midlands,Number,7/4/5/6 result_No_CIN_No_HPV_All_Ages,80
+18,2019-20,2018-19,R5,West Midlands,Number,7/4/5/6 result_Non_cerv_cancer_All_Ages,1
+18,2019-20,2018-19,R5,West Midlands,Number,7/4/5/6 result_Seen_Colp_NAD_All_Ages,65
+18,2019-20,2018-19,R5,West Midlands,Number,7/4/5/6 result_Seen_Colp_result_n/k_All_Ages,2
+18,2019-20,2018-19,R5,West Midlands,Number,7/4/5/6 result_Total_all_results_All_Ages,3006
+18,2019-20,2018-19,R6,East of England,Number,7/4/5/6 result_CIN1_All_Ages,493
+18,2019-20,2018-19,R6,East of England,Number,7/4/5/6 result_CIN2_All_Ages,962
+18,2019-20,2018-19,R6,East of England,Number,7/4/5/6 result_CIN3_And_Adeno_All_Ages,2223
+18,2019-20,2018-19,R6,East of England,Number,7/4/5/6 result_Cervical_cancer_All_Ages,99
+18,2019-20,2018-19,R6,East of England,Number,7/4/5/6 result_HPV_only_All_Ages,136
+18,2019-20,2018-19,R6,East of England,Number,7/4/5/6 result_Inadequate_biopsy_All_Ages,19
+18,2019-20,2018-19,R6,East of England,Number,7/4/5/6 result_No_CIN_No_HPV_All_Ages,110
+18,2019-20,2018-19,R6,East of England,Number,7/4/5/6 result_Non_cerv_cancer_All_Ages,2
+18,2019-20,2018-19,R6,East of England,Number,7/4/5/6 result_Seen_Colp_NAD_All_Ages,61
+18,2019-20,2018-19,R6,East of England,Number,7/4/5/6 result_Seen_Colp_result_n/k_All_Ages,5
+18,2019-20,2018-19,R6,East of England,Number,7/4/5/6 result_Total_all_results_All_Ages,4209
+18,2019-20,2018-19,R7,London,Number,7/4/5/6 result_CIN1_All_Ages,499
+18,2019-20,2018-19,R7,London,Number,7/4/5/6 result_CIN2_All_Ages,1091
+18,2019-20,2018-19,R7,London,Number,7/4/5/6 result_CIN3_And_Adeno_All_Ages,1974
+18,2019-20,2018-19,R7,London,Number,7/4/5/6 result_Cervical_cancer_All_Ages,109
+18,2019-20,2018-19,R7,London,Number,7/4/5/6 result_HPV_only_All_Ages,164
+18,2019-20,2018-19,R7,London,Number,7/4/5/6 result_Inadequate_biopsy_All_Ages,21
+18,2019-20,2018-19,R7,London,Number,7/4/5/6 result_No_CIN_No_HPV_All_Ages,116
+18,2019-20,2018-19,R7,London,Number,7/4/5/6 result_Non_cerv_cancer_All_Ages,1
+18,2019-20,2018-19,R7,London,Number,7/4/5/6 result_Seen_Colp_NAD_All_Ages,84
+18,2019-20,2018-19,R7,London,Number,7/4/5/6 result_Seen_Colp_result_n/k_All_Ages,20
+18,2019-20,2018-19,R7,London,Number,7/4/5/6 result_Total_all_results_All_Ages,4160
+18,2019-20,2018-19,S,South,Number,7/4/5/6 result_CIN1_All_Ages,858
+18,2019-20,2018-19,S,South,Number,7/4/5/6 result_CIN2_All_Ages,2092
+18,2019-20,2018-19,S,South,Number,7/4/5/6 result_CIN3_And_Adeno_All_Ages,5190
+18,2019-20,2018-19,S,South,Number,7/4/5/6 result_Cervical_cancer_All_Ages,301
+18,2019-20,2018-19,S,South,Number,7/4/5/6 result_HPV_only_All_Ages,224
+18,2019-20,2018-19,S,South,Number,7/4/5/6 result_Inadequate_biopsy_All_Ages,34
+18,2019-20,2018-19,S,South,Number,7/4/5/6 result_No_CIN_No_HPV_All_Ages,217
+18,2019-20,2018-19,S,South,Number,7/4/5/6 result_Non_cerv_cancer_All_Ages,8
+18,2019-20,2018-19,S,South,Number,7/4/5/6 result_Seen_Colp_NAD_All_Ages,118
+18,2019-20,2018-19,S,South,Number,7/4/5/6 result_Seen_Colp_result_n/k_All_Ages,35
+18,2019-20,2018-19,S,South,Number,7/4/5/6 result_Total_all_results_All_Ages,9205

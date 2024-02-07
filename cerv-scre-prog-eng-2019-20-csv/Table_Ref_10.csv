@@ -1,0 +1,254 @@
+﻿Table_ref,Collection_Year,Parent_Org_Code,Parent_Org_Name,Unit,Indicator,Value
+10,2019-20,A,North East,%,Borderline_changes_Action_Normal_25to64,40.2242466713385000
+10,2019-20,A,North East,%,Borderline_changes_Action_Repeat_25to64,5.4192945573464100
+10,2019-20,A,North East,%,Borderline_changes_Action_Suspend_25to64,54.356458771315100
+10,2019-20,A,North East,Number,Borderline_changes_Total_Tests_25to64,4281
+10,2019-20,A,North East,%,Glandular_neoplasia_Action_Suspend_25to64,100.0000000000000000
+10,2019-20,A,North East,Number,Glandular_neoplasia_Total_Tests_25to64,75
+10,2019-20,A,North East,%,Inadequate_Action_Repeat_25to64,98.2326951399116000
+10,2019-20,A,North East,%,Inadequate_Action_Suspend_25to64,1.7673048600883700
+10,2019-20,A,North East,Number,Inadequate_Total_Tests_25to64,1358
+10,2019-20,A,North East,%,Low_Grade_dyskaryosis_Action_Normal_25to64,15.4340836012862000
+10,2019-20,A,North East,%,Low_Grade_dyskaryosis_Action_Repeat_25to64,1.2861736334405100
+10,2019-20,A,North East,%,Low_Grade_dyskaryosis_Action_Suspend_25to64,83.2797427652733000
+10,2019-20,A,North East,Number,Low_Grade_dyskaryosis_Total_Tests_25to64,3110
+10,2019-20,A,North East,%,Moderate_dyskaryosis_Action_Suspend_25to64,100.0000000000000000
+10,2019-20,A,North East,Number,Moderate_dyskaryosis_Total_Tests_25to64,999
+10,2019-20,A,North East,%,Negative_Action_Normal_25to64,91.1137770105189000
+10,2019-20,A,North East,%,Negative_Action_Repeat_25to64,8.4619548520182000
+10,2019-20,A,North East,%,Negative_Action_Suspend_25to64,0.4242681374628770
+10,2019-20,A,North East,Number,Negative_Total_Tests_25to64,136706
+10,2019-20,A,North East,%,Severe_dyskaryosis_Action_Suspend_25to64,100.0000000000000000
+10,2019-20,A,North East,%,Severe_dyskaryosis_Inv_Action_Suspend_25to64,100.0000000000000000
+10,2019-20,A,North East,Number,Severe_dyskaryosis_Inv_Total_Tests_25to64,52
+10,2019-20,A,North East,Number,Severe_dyskaryosis_Total_Tests_25to64,1027
+10,2019-20,B,North West,%,Borderline_changes_Action_Normal_25to64,15.3104130596092000
+10,2019-20,B,North West,%,Borderline_changes_Action_Repeat_25to64,1.1377689834281500
+10,2019-20,B,North West,%,Borderline_changes_Action_Suspend_25to64,83.5518179569627000
+10,2019-20,B,North West,Number,Borderline_changes_Total_Tests_25to64,4043
+10,2019-20,B,North West,%,Glandular_neoplasia_Action_Suspend_25to64,100.0000000000000000
+10,2019-20,B,North West,Number,Glandular_neoplasia_Total_Tests_25to64,165
+10,2019-20,B,North West,%,Inadequate_Action_Repeat_25to64,89.7792869269949000
+10,2019-20,B,North West,%,Inadequate_Action_Suspend_25to64,10.2207130730051000
+10,2019-20,B,North West,Number,Inadequate_Total_Tests_25to64,2945
+10,2019-20,B,North West,%,Low_Grade_dyskaryosis_Action_Normal_25to64,4.3453003369350500
+10,2019-20,B,North West,%,Low_Grade_dyskaryosis_Action_Repeat_25to64,0.1510398512838390
+10,2019-20,B,North West,%,Low_Grade_dyskaryosis_Action_Suspend_25to64,95.5036598117811000
+10,2019-20,B,North West,Number,Low_Grade_dyskaryosis_Total_Tests_25to64,8607
+10,2019-20,B,North West,%,Moderate_dyskaryosis_Action_Suspend_25to64,100.0000000000000000
+10,2019-20,B,North West,Number,Moderate_dyskaryosis_Total_Tests_25to64,1858
+10,2019-20,B,North West,%,Negative_Action_Normal_25to64,86.8646061042087000
+10,2019-20,B,North West,%,Negative_Action_Repeat_25to64,10.0649260808645000
+10,2019-20,B,North West,%,Negative_Action_Suspend_25to64,3.0704678149267100
+10,2019-20,B,North West,Number,Negative_Total_Tests_25to64,397529
+10,2019-20,B,North West,%,Severe_dyskaryosis_Action_Suspend_25to64,100.0000000000000000
+10,2019-20,B,North West,%,Severe_dyskaryosis_Inv_Action_Suspend_25to64,100.0000000000000000
+10,2019-20,B,North West,Number,Severe_dyskaryosis_Inv_Total_Tests_25to64,66
+10,2019-20,B,North West,Number,Severe_dyskaryosis_Total_Tests_25to64,2690
+10,2019-20,D,Yorkshire and the Humber,%,Borderline_changes_Action_Normal_25to64,8.2037129954841900
+10,2019-20,D,Yorkshire and the Humber,%,Borderline_changes_Action_Repeat_25to64,11.7410938283994000
+10,2019-20,D,Yorkshire and the Humber,%,Borderline_changes_Action_Suspend_25to64,80.0551931761164000
+10,2019-20,D,Yorkshire and the Humber,Number,Borderline_changes_Total_Tests_25to64,3986
+10,2019-20,D,Yorkshire and the Humber,%,Glandular_neoplasia_Action_Suspend_25to64,100.0000000000000000
+10,2019-20,D,Yorkshire and the Humber,Number,Glandular_neoplasia_Total_Tests_25to64,119
+10,2019-20,D,Yorkshire and the Humber,%,Inadequate_Action_Repeat_25to64,95.7490713990920000
+10,2019-20,D,Yorkshire and the Humber,%,Inadequate_Action_Suspend_25to64,4.2509286009079700
+10,2019-20,D,Yorkshire and the Humber,Number,Inadequate_Total_Tests_25to64,2423
+10,2019-20,D,Yorkshire and the Humber,%,Low_Grade_dyskaryosis_Action_Normal_25to64,5.5164319248826300
+10,2019-20,D,Yorkshire and the Humber,%,Low_Grade_dyskaryosis_Action_Repeat_25to64,0.2816901408450700
+10,2019-20,D,Yorkshire and the Humber,%,Low_Grade_dyskaryosis_Action_Suspend_25to64,94.2018779342723000
+10,2019-20,D,Yorkshire and the Humber,Number,Low_Grade_dyskaryosis_Total_Tests_25to64,4260
+10,2019-20,D,Yorkshire and the Humber,%,Moderate_dyskaryosis_Action_Suspend_25to64,100.0000000000000000
+10,2019-20,D,Yorkshire and the Humber,Number,Moderate_dyskaryosis_Total_Tests_25to64,1370
+10,2019-20,D,Yorkshire and the Humber,%,Negative_Action_Normal_25to64,91.2583716430019000
+10,2019-20,D,Yorkshire and the Humber,%,Negative_Action_Repeat_25to64,7.6522172781580500
+10,2019-20,D,Yorkshire and the Humber,%,Negative_Action_Suspend_25to64,1.0894110788400700
+10,2019-20,D,Yorkshire and the Humber,Number,Negative_Total_Tests_25to64,284741
+10,2019-20,D,Yorkshire and the Humber,%,Severe_dyskaryosis_Action_Suspend_25to64,100.0000000000000000
+10,2019-20,D,Yorkshire and the Humber,%,Severe_dyskaryosis_Inv_Action_Suspend_25to64,100.0000000000000000
+10,2019-20,D,Yorkshire and the Humber,Number,Severe_dyskaryosis_Inv_Total_Tests_25to64,60
+10,2019-20,D,Yorkshire and the Humber,Number,Severe_dyskaryosis_Total_Tests_25to64,1895
+10,2019-20,E,East Midlands,%,Borderline_changes_Action_Normal_25to64,11.8908382066277000
+10,2019-20,E,East Midlands,%,Borderline_changes_Action_Repeat_25to64,1.0396361273554300
+10,2019-20,E,East Midlands,%,Borderline_changes_Action_Suspend_25to64,87.0695256660169000
+10,2019-20,E,East Midlands,Number,Borderline_changes_Total_Tests_25to64,3078
+10,2019-20,E,East Midlands,%,Glandular_neoplasia_Action_Suspend_25to64,100.0000000000000000
+10,2019-20,E,East Midlands,Number,Glandular_neoplasia_Total_Tests_25to64,114
+10,2019-20,E,East Midlands,%,Inadequate_Action_Repeat_25to64,97.2154372252076000
+10,2019-20,E,East Midlands,%,Inadequate_Action_Suspend_25to64,2.7845627747923800
+10,2019-20,E,East Midlands,Number,Inadequate_Total_Tests_25to64,2047
+10,2019-20,E,East Midlands,%,Low_Grade_dyskaryosis_Action_Normal_25to64,6.1853493772429800
+10,2019-20,E,East Midlands,%,Low_Grade_dyskaryosis_Action_Repeat_25to64,0.5488705932024490
+10,2019-20,E,East Midlands,%,Low_Grade_dyskaryosis_Action_Suspend_25to64,93.2657800295546000
+10,2019-20,E,East Midlands,Number,Low_Grade_dyskaryosis_Total_Tests_25to64,4737
+10,2019-20,E,East Midlands,%,Moderate_dyskaryosis_Action_Suspend_25to64,100.0000000000000000
+10,2019-20,E,East Midlands,Number,Moderate_dyskaryosis_Total_Tests_25to64,1113
+10,2019-20,E,East Midlands,%,Negative_Action_Normal_25to64,91.5565582953077000
+10,2019-20,E,East Midlands,%,Negative_Action_Repeat_25to64,8.1007232997771200
+10,2019-20,E,East Midlands,%,Negative_Action_Suspend_25to64,0.3427184049151600
+10,2019-20,E,East Midlands,Number,Negative_Total_Tests_25to64,256187
+10,2019-20,E,East Midlands,%,Severe_dyskaryosis_Action_Suspend_25to64,100.0000000000000000
+10,2019-20,E,East Midlands,%,Severe_dyskaryosis_Inv_Action_Suspend_25to64,100.0000000000000000
+10,2019-20,E,East Midlands,Number,Severe_dyskaryosis_Inv_Total_Tests_25to64,52
+10,2019-20,E,East Midlands,Number,Severe_dyskaryosis_Total_Tests_25to64,1454
+10,2019-20,ENG,England,%,Borderline_changes_Action_Normal_25to64,28.8000770416025000
+10,2019-20,ENG,England,%,Borderline_changes_Action_Repeat_25to64,3.6363636363636400
+10,2019-20,ENG,England,%,Borderline_changes_Action_Suspend_25to64,67.5635593220339000
+10,2019-20,ENG,England,Number,Borderline_changes_Total_Tests_25to64,51920
+10,2019-20,ENG,England,%,Glandular_neoplasia_Action_Suspend_25to64,100.0000000000000000
+10,2019-20,ENG,England,Number,Glandular_neoplasia_Total_Tests_25to64,1154
+10,2019-20,ENG,England,%,Inadequate_Action_Repeat_25to64,96.5842404694710000
+10,2019-20,ENG,England,%,Inadequate_Action_Suspend_25to64,3.4157595305290500
+10,2019-20,ENG,England,Number,Inadequate_Total_Tests_25to64,44646
+10,2019-20,ENG,England,%,Low_Grade_dyskaryosis_Action_Normal_25to64,9.7283719346049000
+10,2019-20,ENG,England,%,Low_Grade_dyskaryosis_Action_Repeat_25to64,0.8358878292461400
+10,2019-20,ENG,England,%,Low_Grade_dyskaryosis_Action_Suspend_25to64,89.4357402361490000
+10,2019-20,ENG,England,Number,Low_Grade_dyskaryosis_Total_Tests_25to64,70464
+10,2019-20,ENG,England,%,Moderate_dyskaryosis_Action_Suspend_25to64,100.0000000000000000
+10,2019-20,ENG,England,Number,Moderate_dyskaryosis_Total_Tests_25to64,15408
+10,2019-20,ENG,England,%,Negative_Action_Normal_25to64,91.2955492622170000
+10,2019-20,ENG,England,%,Negative_Action_Repeat_25to64,7.8424963289476600
+10,2019-20,ENG,England,%,Negative_Action_Suspend_25to64,0.8619544088353670
+10,2019-20,ENG,England,Number,Negative_Total_Tests_25to64,2995054
+10,2019-20,ENG,England,%,Severe_dyskaryosis_Action_Suspend_25to64,100.0000000000000000
+10,2019-20,ENG,England,%,Severe_dyskaryosis_Inv_Action_Suspend_25to64,100.0000000000000000
+10,2019-20,ENG,England,Number,Severe_dyskaryosis_Inv_Total_Tests_25to64,595
+10,2019-20,ENG,England,Number,Severe_dyskaryosis_Total_Tests_25to64,16425
+10,2019-20,F,West Midlands,%,Borderline_changes_Action_Normal_25to64,36.5143628301523000
+10,2019-20,F,West Midlands,%,Borderline_changes_Action_Repeat_25to64,1.8315018315018300
+10,2019-20,F,West Midlands,%,Borderline_changes_Action_Suspend_25to64,61.6541353383459000
+10,2019-20,F,West Midlands,Number,Borderline_changes_Total_Tests_25to64,5187
+10,2019-20,F,West Midlands,%,Glandular_neoplasia_Action_Suspend_25to64,100.0000000000000000
+10,2019-20,F,West Midlands,Number,Glandular_neoplasia_Total_Tests_25to64,102
+10,2019-20,F,West Midlands,%,Inadequate_Action_Repeat_25to64,96.4146306202111000
+10,2019-20,F,West Midlands,%,Inadequate_Action_Suspend_25to64,3.5853693797889300
+10,2019-20,F,West Midlands,Number,Inadequate_Total_Tests_25to64,6917
+10,2019-20,F,West Midlands,%,Low_Grade_dyskaryosis_Action_Normal_25to64,14.9049990776610000
+10,2019-20,F,West Midlands,%,Low_Grade_dyskaryosis_Action_Repeat_25to64,0.7747648035417820
+10,2019-20,F,West Midlands,%,Low_Grade_dyskaryosis_Action_Suspend_25to64,84.3202361187973000
+10,2019-20,F,West Midlands,Number,Low_Grade_dyskaryosis_Total_Tests_25to64,5421
+10,2019-20,F,West Midlands,%,Moderate_dyskaryosis_Action_Suspend_25to64,100.0000000000000000
+10,2019-20,F,West Midlands,Number,Moderate_dyskaryosis_Total_Tests_25to64,1198
+10,2019-20,F,West Midlands,%,Negative_Action_Normal_25to64,92.3728319636864000
+10,2019-20,F,West Midlands,%,Negative_Action_Repeat_25to64,7.1475344640206300
+10,2019-20,F,West Midlands,%,Negative_Action_Suspend_25to64,0.4796335722930190
+10,2019-20,F,West Midlands,Number,Negative_Total_Tests_25to64,291681
+10,2019-20,F,West Midlands,%,Severe_dyskaryosis_Action_Suspend_25to64,100.0000000000000000
+10,2019-20,F,West Midlands,%,Severe_dyskaryosis_Inv_Action_Suspend_25to64,100.0000000000000000
+10,2019-20,F,West Midlands,Number,Severe_dyskaryosis_Inv_Total_Tests_25to64,46
+10,2019-20,F,West Midlands,Number,Severe_dyskaryosis_Total_Tests_25to64,1527
+10,2019-20,G,East of England,%,Borderline_changes_Action_Normal_25to64,33.6232420429312000
+10,2019-20,G,East of England,%,Borderline_changes_Action_Repeat_25to64,4.1450777202072500
+10,2019-20,G,East of England,%,Borderline_changes_Action_Suspend_25to64,62.2316802368616000
+10,2019-20,G,East of England,Number,Borderline_changes_Total_Tests_25to64,5404
+10,2019-20,G,East of England,%,Glandular_neoplasia_Action_Suspend_25to64,100.0000000000000000
+10,2019-20,G,East of England,Number,Glandular_neoplasia_Total_Tests_25to64,149
+10,2019-20,G,East of England,%,Inadequate_Action_Repeat_25to64,97.1238938053097000
+10,2019-20,G,East of England,%,Inadequate_Action_Suspend_25to64,2.8761061946902700
+10,2019-20,G,East of England,Number,Inadequate_Total_Tests_25to64,4068
+10,2019-20,G,East of England,%,Low_Grade_dyskaryosis_Action_Normal_25to64,9.7541633624107900
+10,2019-20,G,East of England,%,Low_Grade_dyskaryosis_Action_Repeat_25to64,0.7816925342698540
+10,2019-20,G,East of England,%,Low_Grade_dyskaryosis_Action_Suspend_25to64,89.4641441033194000
+10,2019-20,G,East of England,Number,Low_Grade_dyskaryosis_Total_Tests_25to64,8827
+10,2019-20,G,East of England,%,Moderate_dyskaryosis_Action_Suspend_25to64,100.0000000000000000
+10,2019-20,G,East of England,Number,Moderate_dyskaryosis_Total_Tests_25to64,2155
+10,2019-20,G,East of England,%,Negative_Action_Normal_25to64,90.5272016660486000
+10,2019-20,G,East of England,%,Negative_Action_Repeat_25to64,8.9872478817790200
+10,2019-20,G,East of England,%,Negative_Action_Suspend_25to64,0.4855504521724250
+10,2019-20,G,East of England,Number,Negative_Total_Tests_25to64,350530
+10,2019-20,G,East of England,%,Severe_dyskaryosis_Action_Suspend_25to64,100.0000000000000000
+10,2019-20,G,East of England,%,Severe_dyskaryosis_Inv_Action_Suspend_25to64,100.0000000000000000
+10,2019-20,G,East of England,Number,Severe_dyskaryosis_Inv_Total_Tests_25to64,66
+10,2019-20,G,East of England,Number,Severe_dyskaryosis_Total_Tests_25to64,2114
+10,2019-20,H,London,%,Borderline_changes_Action_Normal_25to64,31.2115924436689000
+10,2019-20,H,London,%,Borderline_changes_Action_Repeat_25to64,2.6932706167969000
+10,2019-20,H,London,%,Borderline_changes_Action_Suspend_25to64,66.0951369395342000
+10,2019-20,H,London,Number,Borderline_changes_Total_Tests_25to64,13181
+10,2019-20,H,London,%,Glandular_neoplasia_Action_Suspend_25to64,100.0000000000000000
+10,2019-20,H,London,Number,Glandular_neoplasia_Total_Tests_25to64,152
+10,2019-20,H,London,%,Inadequate_Action_Repeat_25to64,96.9149983590417000
+10,2019-20,H,London,%,Inadequate_Action_Suspend_25to64,3.0850016409583200
+10,2019-20,H,London,Number,Inadequate_Total_Tests_25to64,9141
+10,2019-20,H,London,%,Low_Grade_dyskaryosis_Action_Normal_25to64,10.1861034945452000
+10,2019-20,H,London,%,Low_Grade_dyskaryosis_Action_Repeat_25to64,1.4059856484452500
+10,2019-20,H,London,%,Low_Grade_dyskaryosis_Action_Suspend_25to64,88.4079108570095000
+10,2019-20,H,London,Number,Low_Grade_dyskaryosis_Total_Tests_25to64,17141
+10,2019-20,H,London,%,Moderate_dyskaryosis_Action_Suspend_25to64,100.0000000000000000
+10,2019-20,H,London,Number,Moderate_dyskaryosis_Total_Tests_25to64,2768
+10,2019-20,H,London,%,Negative_Action_Normal_25to64,91.2776839013741000
+10,2019-20,H,London,%,Negative_Action_Repeat_25to64,8.1439290932039500
+10,2019-20,H,London,%,Negative_Action_Suspend_25to64,0.5783870054219090
+10,2019-20,H,London,Number,Negative_Total_Tests_25to64,533207
+10,2019-20,H,London,%,Severe_dyskaryosis_Action_Suspend_25to64,100.0000000000000000
+10,2019-20,H,London,%,Severe_dyskaryosis_Inv_Action_Suspend_25to64,100.0000000000000000
+10,2019-20,H,London,Number,Severe_dyskaryosis_Inv_Total_Tests_25to64,92
+10,2019-20,H,London,Number,Severe_dyskaryosis_Total_Tests_25to64,2000
+10,2019-20,J,South East,%,Borderline_changes_Action_Normal_25to64,39.1267414203194000
+10,2019-20,J,South East,%,Borderline_changes_Action_Repeat_25to64,3.7886510363574600
+10,2019-20,J,South East,%,Borderline_changes_Action_Suspend_25to64,57.0846075433231000
+10,2019-20,J,South East,Number,Borderline_changes_Total_Tests_25to64,5886
+10,2019-20,J,South East,%,Glandular_neoplasia_Action_Suspend_25to64,100.0000000000000000
+10,2019-20,J,South East,Number,Glandular_neoplasia_Total_Tests_25to64,96
+10,2019-20,J,South East,%,Inadequate_Action_Repeat_25to64,97.5850242926550000
+10,2019-20,J,South East,%,Inadequate_Action_Suspend_25to64,2.4149757073449600
+10,2019-20,J,South East,Number,Inadequate_Total_Tests_25to64,6998
+10,2019-20,J,South East,%,Low_Grade_dyskaryosis_Action_Normal_25to64,12.8633197213548000
+10,2019-20,J,South East,%,Low_Grade_dyskaryosis_Action_Repeat_25to64,0.8407398510689410
+10,2019-20,J,South East,%,Low_Grade_dyskaryosis_Action_Suspend_25to64,86.2959404275763000
+10,2019-20,J,South East,Number,Low_Grade_dyskaryosis_Total_Tests_25to64,8326
+10,2019-20,J,South East,%,Moderate_dyskaryosis_Action_Suspend_25to64,100.0000000000000000
+10,2019-20,J,South East,Number,Moderate_dyskaryosis_Total_Tests_25to64,1468
+10,2019-20,J,South East,%,Negative_Action_Normal_25to64,94.4374325255813000
+10,2019-20,J,South East,%,Negative_Action_Repeat_25to64,5.1543374051423800
+10,2019-20,J,South East,%,Negative_Action_Suspend_25to64,0.4082300692763590
+10,2019-20,J,South East,Number,Negative_Total_Tests_25to64,317713
+10,2019-20,J,South East,%,Severe_dyskaryosis_Action_Suspend_25to64,100.0000000000000000
+10,2019-20,J,South East,%,Severe_dyskaryosis_Inv_Action_Suspend_25to64,100.0000000000000000
+10,2019-20,J,South East,Number,Severe_dyskaryosis_Inv_Total_Tests_25to64,60
+10,2019-20,J,South East,Number,Severe_dyskaryosis_Total_Tests_25to64,1522
+10,2019-20,K,South West,%,Borderline_changes_Action_Normal_25to64,26.0546988652895000
+10,2019-20,K,South West,%,Borderline_changes_Action_Repeat_25to64,3.0986325283677600
+10,2019-20,K,South West,%,Borderline_changes_Action_Suspend_25to64,70.8466686063427000
+10,2019-20,K,South West,Number,Borderline_changes_Total_Tests_25to64,6874
+10,2019-20,K,South West,%,Glandular_neoplasia_Action_Suspend_25to64,100.0000000000000000
+10,2019-20,K,South West,Number,Glandular_neoplasia_Total_Tests_25to64,182
+10,2019-20,K,South West,%,Inadequate_Action_Repeat_25to64,97.4397073951309000
+10,2019-20,K,South West,%,Inadequate_Action_Suspend_25to64,2.5602926048691300
+10,2019-20,K,South West,Number,Inadequate_Total_Tests_25to64,8749
+10,2019-20,K,South West,%,Low_Grade_dyskaryosis_Action_Normal_25to64,9.8355754857997000
+10,2019-20,K,South West,%,Low_Grade_dyskaryosis_Action_Repeat_25to64,0.7573492775286500
+10,2019-20,K,South West,%,Low_Grade_dyskaryosis_Action_Suspend_25to64,89.4070752366716000
+10,2019-20,K,South West,Number,Low_Grade_dyskaryosis_Total_Tests_25to64,10035
+10,2019-20,K,South West,%,Moderate_dyskaryosis_Action_Suspend_25to64,100.0000000000000000
+10,2019-20,K,South West,Number,Moderate_dyskaryosis_Total_Tests_25to64,2479
+10,2019-20,K,South West,%,Negative_Action_Normal_25to64,92.9274065048271000
+10,2019-20,K,South West,%,Negative_Action_Repeat_25to64,6.7051738682163300
+10,2019-20,K,South West,%,Negative_Action_Suspend_25to64,0.3674196269566030
+10,2019-20,K,South West,Number,Negative_Total_Tests_25to64,426760
+10,2019-20,K,South West,%,Severe_dyskaryosis_Action_Suspend_25to64,100.0000000000000000
+10,2019-20,K,South West,%,Severe_dyskaryosis_Inv_Action_Suspend_25to64,100.0000000000000000
+10,2019-20,K,South West,Number,Severe_dyskaryosis_Inv_Total_Tests_25to64,101
+10,2019-20,K,South West,Number,Severe_dyskaryosis_Total_Tests_25to64,2196
+10,2019-20,S,South,%,Borderline_changes_Action_Normal_25to64,32.0846394984326000
+10,2019-20,S,South,%,Borderline_changes_Action_Repeat_25to64,3.4169278996865200
+10,2019-20,S,South,%,Borderline_changes_Action_Suspend_25to64,64.4984326018809000
+10,2019-20,S,South,Number,Borderline_changes_Total_Tests_25to64,12760
+10,2019-20,S,South,%,Glandular_neoplasia_Action_Suspend_25to64,100.0000000000000000
+10,2019-20,S,South,Number,Glandular_neoplasia_Total_Tests_25to64,278
+10,2019-20,S,South,%,Inadequate_Action_Repeat_25to64,97.5042865307678000
+10,2019-20,S,South,%,Inadequate_Action_Suspend_25to64,2.4957134692322300
+10,2019-20,S,South,Number,Inadequate_Total_Tests_25to64,15747
+10,2019-20,S,South,%,Low_Grade_dyskaryosis_Action_Normal_25to64,11.2085398398780000
+10,2019-20,S,South,%,Low_Grade_dyskaryosis_Action_Repeat_25to64,0.7951636621099070
+10,2019-20,S,South,%,Low_Grade_dyskaryosis_Action_Suspend_25to64,87.9962964980121000
+10,2019-20,S,South,Number,Low_Grade_dyskaryosis_Total_Tests_25to64,18361
+10,2019-20,S,South,%,Moderate_dyskaryosis_Action_Suspend_25to64,100.0000000000000000
+10,2019-20,S,South,Number,Moderate_dyskaryosis_Total_Tests_25to64,3947
+10,2019-20,S,South,%,Negative_Action_Normal_25to64,93.5718286626916000
+10,2019-20,S,South,%,Negative_Action_Repeat_25to64,6.0433353526588600
+10,2019-20,S,South,%,Negative_Action_Suspend_25to64,0.3848359846495440
+10,2019-20,S,South,Number,Negative_Total_Tests_25to64,744473
+10,2019-20,S,South,%,Severe_dyskaryosis_Action_Suspend_25to64,100.0000000000000000
+10,2019-20,S,South,%,Severe_dyskaryosis_Inv_Action_Suspend_25to64,100.0000000000000000
+10,2019-20,S,South,Number,Severe_dyskaryosis_Inv_Total_Tests_25to64,161
+10,2019-20,S,South,Number,Severe_dyskaryosis_Total_Tests_25to64,3718

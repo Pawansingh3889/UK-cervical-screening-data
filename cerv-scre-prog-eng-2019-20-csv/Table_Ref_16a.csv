@@ -1,0 +1,386 @@
+﻿Table_ref,Collection_Year,Parent_Org_Code,Parent_Org_Name,Org_Code,Org_Name,Unit,Indicator,Value
+16a,2019-20,ENG,England,ENG,England,Number,Total_samples_All_Ages,3276400
+16a,2019-20,ENG,England,ENG,England,%,0-2_Weeks_All_Ages,61.6522097424002000000
+16a,2019-20,ENG,England,ENG,England,%,3-4_Weeks_All_Ages,17.9259553168111000000
+16a,2019-20,ENG,England,ENG,England,%,5-6_Weeks_All_Ages,10.4566292272006000000
+16a,2019-20,ENG,England,ENG,England,%,7-8_Weeks_All_Ages,5.0948602124282700000
+16a,2019-20,ENG,England,ENG,England,%,9-10_Weeks_All_Ages,2.7227749969478700000
+16a,2019-20,ENG,England,ENG,England,%,Over10_Weeks_All_Ages,2.1475705042119400000
+16a,2019-20,NEYH,"North East, Yorkshire and the Humber",NEYH,"North East, Yorkshire and the Humber",Number,Total_samples_All_Ages,482420
+16a,2019-20,NEYH,"North East, Yorkshire and the Humber",NEYH,"North East, Yorkshire and the Humber",%,0-2_Weeks_All_Ages,62.3158243853903000000
+16a,2019-20,NEYH,"North East, Yorkshire and the Humber",NEYH,"North East, Yorkshire and the Humber",%,3-4_Weeks_All_Ages,13.8584635794536000000
+16a,2019-20,NEYH,"North East, Yorkshire and the Humber",NEYH,"North East, Yorkshire and the Humber",%,5-6_Weeks_All_Ages,14.0844077774553000000
+16a,2019-20,NEYH,"North East, Yorkshire and the Humber",NEYH,"North East, Yorkshire and the Humber",%,7-8_Weeks_All_Ages,9.3089009576717400000
+16a,2019-20,NEYH,"North East, Yorkshire and the Humber",NEYH,"North East, Yorkshire and the Humber",%,9-10_Weeks_All_Ages,0.3797520832469630000
+16a,2019-20,NEYH,"North East, Yorkshire and the Humber",NEYH,"North East, Yorkshire and the Humber",%,Over10_Weeks_All_Ages,0.0526512167820571000
+16a,2019-20,R1,North East,60050,University Hospital of North Durham,Number,Total_samples_All_Ages,18119
+16a,2019-20,R1,North East,60050,University Hospital of North Durham,%,0-2_Weeks_All_Ages,53.8992218113582000000
+16a,2019-20,R1,North East,60050,University Hospital of North Durham,%,3-4_Weeks_All_Ages,45.2784369998344000000
+16a,2019-20,R1,North East,60050,University Hospital of North Durham,%,5-6_Weeks_All_Ages,0.8223411888073290000
+16a,2019-20,R1,North East,60050,University Hospital of North Durham,%,7-8_Weeks_All_Ages,0.0000000000000000000
+16a,2019-20,R1,North East,60050,University Hospital of North Durham,%,9-10_Weeks_All_Ages,0.0000000000000000000
+16a,2019-20,R1,North East,60050,University Hospital of North Durham,%,Over10_Weeks_All_Ages,0.0000000000000000000
+16a,2019-20,R1,North East,60080,Queen Elizabeth Hospital,Number,Total_samples_All_Ages,181544
+16a,2019-20,R1,North East,60080,Queen Elizabeth Hospital,%,0-2_Weeks_All_Ages,83.4387255982021000000
+16a,2019-20,R1,North East,60080,Queen Elizabeth Hospital,%,3-4_Weeks_All_Ages,7.7039175076014600000
+16a,2019-20,R1,North East,60080,Queen Elizabeth Hospital,%,5-6_Weeks_All_Ages,2.9744855241704500000
+16a,2019-20,R1,North East,60080,Queen Elizabeth Hospital,%,7-8_Weeks_All_Ages,5.8206275062794700000
+16a,2019-20,R1,North East,60080,Queen Elizabeth Hospital,%,9-10_Weeks_All_Ages,0.0088132904419865200
+16a,2019-20,R1,North East,60080,Queen Elizabeth Hospital,%,Over10_Weeks_All_Ages,0.0534305733045433000
+16a,2019-20,R1,North East,60103,Royal Victoria Infirmary,Number,Total_samples_All_Ages,25144
+16a,2019-20,R1,North East,60103,Royal Victoria Infirmary,%,0-2_Weeks_All_Ages,12.0147947820554000000
+16a,2019-20,R1,North East,60103,Royal Victoria Infirmary,%,3-4_Weeks_All_Ages,12.1778555520204000000
+16a,2019-20,R1,North East,60103,Royal Victoria Infirmary,%,5-6_Weeks_All_Ages,63.9635698377346000000
+16a,2019-20,R1,North East,60103,Royal Victoria Infirmary,%,7-8_Weeks_All_Ages,10.2290804963411000000
+16a,2019-20,R1,North East,60103,Royal Victoria Infirmary,%,9-10_Weeks_All_Ages,1.0141584473433000000
+16a,2019-20,R1,North East,60103,Royal Victoria Infirmary,%,Over10_Weeks_All_Ages,0.6005408845052500000
+16a,2019-20,R1,North East,60110,University Hospital of North Tees,Number,Total_samples_All_Ages,19883
+16a,2019-20,R1,North East,60110,University Hospital of North Tees,%,0-2_Weeks_All_Ages,33.2847155861791000000
+16a,2019-20,R1,North East,60110,University Hospital of North Tees,%,3-4_Weeks_All_Ages,66.5392546396419000000
+16a,2019-20,R1,North East,60110,University Hospital of North Tees,%,5-6_Weeks_All_Ages,0.1760297741789470000
+16a,2019-20,R1,North East,60110,University Hospital of North Tees,%,7-8_Weeks_All_Ages,0.0000000000000000000
+16a,2019-20,R1,North East,60110,University Hospital of North Tees,%,9-10_Weeks_All_Ages,0.0000000000000000000
+16a,2019-20,R1,North East,60110,University Hospital of North Tees,%,Over10_Weeks_All_Ages,0.0000000000000000000
+16a,2019-20,R8,South East,61350,Queen Alexandra Hospital,Number,Total_samples_All_Ages,37765
+16a,2019-20,R8,South East,61350,Queen Alexandra Hospital,%,0-2_Weeks_All_Ages,0.5719581623196080000
+16a,2019-20,R8,South East,61350,Queen Alexandra Hospital,%,3-4_Weeks_All_Ages,0.1456374950350850000
+16a,2019-20,R8,South East,61350,Queen Alexandra Hospital,%,5-6_Weeks_All_Ages,42.6506024096386000000
+16a,2019-20,R8,South East,61350,Queen Alexandra Hospital,%,7-8_Weeks_All_Ages,56.5947305706342000000
+16a,2019-20,R8,South East,61350,Queen Alexandra Hospital,%,9-10_Weeks_All_Ages,0.0317754534622004000
+16a,2019-20,R8,South East,61350,Queen Alexandra Hospital,%,Over10_Weeks_All_Ages,0.0052959089103667400
+16a,2019-20,R8,South East,61355,Poole Hospital,Number,Total_samples_All_Ages,27954
+16a,2019-20,R8,South East,61355,Poole Hospital,%,0-2_Weeks_All_Ages,99.9069900550905000000
+16a,2019-20,R8,South East,61355,Poole Hospital,%,3-4_Weeks_All_Ages,0.0751234170422838000
+16a,2019-20,R8,South East,61355,Poole Hospital,%,5-6_Weeks_All_Ages,0.0143092222937683000
+16a,2019-20,R8,South East,61355,Poole Hospital,%,7-8_Weeks_All_Ages,0.0035773055734420800
+16a,2019-20,R8,South East,61355,Poole Hospital,%,9-10_Weeks_All_Ages,0.0000000000000000000
+16a,2019-20,R8,South East,61355,Poole Hospital,%,Over10_Weeks_All_Ages,0.0000000000000000000
+16a,2019-20,R8,South East,61370,Royal Hampshire County Hospital,Number,Total_samples_All_Ages,27753
+16a,2019-20,R8,South East,61370,Royal Hampshire County Hospital,%,0-2_Weeks_All_Ages,32.9585990703708000000
+16a,2019-20,R8,South East,61370,Royal Hampshire County Hospital,%,3-4_Weeks_All_Ages,17.6125103592404000000
+16a,2019-20,R8,South East,61370,Royal Hampshire County Hospital,%,5-6_Weeks_All_Ages,35.3943717796274000000
+16a,2019-20,R8,South East,61370,Royal Hampshire County Hospital,%,7-8_Weeks_All_Ages,14.0345187907614000000
+16a,2019-20,R8,South East,61370,Royal Hampshire County Hospital,%,9-10_Weeks_All_Ages,0.0000000000000000000
+16a,2019-20,R8,South East,61370,Royal Hampshire County Hospital,%,Over10_Weeks_All_Ages,0.0000000000000000000
+16a,2019-20,R10,South West,61390,Royal United Hospital,Number,Total_samples_All_Ages,30875
+16a,2019-20,R10,South West,61390,Royal United Hospital,%,0-2_Weeks_All_Ages,6.4323886639676100000
+16a,2019-20,R10,South West,61390,Royal United Hospital,%,3-4_Weeks_All_Ages,36.3886639676113000000
+16a,2019-20,R10,South West,61390,Royal United Hospital,%,5-6_Weeks_All_Ages,57.0947368421053000000
+16a,2019-20,R10,South West,61390,Royal United Hospital,%,7-8_Weeks_All_Ages,0.0842105263157895000
+16a,2019-20,R10,South West,61390,Royal United Hospital,%,9-10_Weeks_All_Ages,0.0000000000000000000
+16a,2019-20,R10,South West,61390,Royal United Hospital,%,Over10_Weeks_All_Ages,0.0000000000000000000
+16a,2019-20,R8,South East,61440,John Radcliffe Hospital,Number,Total_samples_All_Ages,26461
+16a,2019-20,R8,South East,61440,John Radcliffe Hospital,%,0-2_Weeks_All_Ages,17.5994860360531000000
+16a,2019-20,R8,South East,61440,John Radcliffe Hospital,%,3-4_Weeks_All_Ages,80.3559956161899000000
+16a,2019-20,R8,South East,61440,John Radcliffe Hospital,%,5-6_Weeks_All_Ages,2.0445183477570800000
+16a,2019-20,R8,South East,61440,John Radcliffe Hospital,%,7-8_Weeks_All_Ages,0.0000000000000000000
+16a,2019-20,R8,South East,61440,John Radcliffe Hospital,%,9-10_Weeks_All_Ages,0.0000000000000000000
+16a,2019-20,R8,South East,61440,John Radcliffe Hospital,%,Over10_Weeks_All_Ages,0.0000000000000000000
+16a,2019-20,R10,South West,61565,Royal Devon and Exeter Hospital,Number,Total_samples_All_Ages,69807
+16a,2019-20,R10,South West,61565,Royal Devon and Exeter Hospital,%,0-2_Weeks_All_Ages,99.9971349578123000000
+16a,2019-20,R10,South West,61565,Royal Devon and Exeter Hospital,%,3-4_Weeks_All_Ages,0.0028650421877462100
+16a,2019-20,R10,South West,61565,Royal Devon and Exeter Hospital,%,5-6_Weeks_All_Ages,0.0000000000000000000
+16a,2019-20,R10,South West,61565,Royal Devon and Exeter Hospital,%,7-8_Weeks_All_Ages,0.0000000000000000000
+16a,2019-20,R10,South West,61565,Royal Devon and Exeter Hospital,%,9-10_Weeks_All_Ages,0.0000000000000000000
+16a,2019-20,R10,South West,61565,Royal Devon and Exeter Hospital,%,Over10_Weeks_All_Ages,0.0000000000000000000
+16a,2019-20,R10,South West,61580,Gloucestershire Royal Hospital,Number,Total_samples_All_Ages,51835
+16a,2019-20,R10,South West,61580,Gloucestershire Royal Hospital,%,0-2_Weeks_All_Ages,99.6951866499469000000
+16a,2019-20,R10,South West,61580,Gloucestershire Royal Hospital,%,3-4_Weeks_All_Ages,0.2893797627085950000
+16a,2019-20,R10,South West,61580,Gloucestershire Royal Hospital,%,5-6_Weeks_All_Ages,0.0135043889264011000
+16a,2019-20,R10,South West,61580,Gloucestershire Royal Hospital,%,7-8_Weeks_All_Ages,0.0000000000000000000
+16a,2019-20,R10,South West,61580,Gloucestershire Royal Hospital,%,9-10_Weeks_All_Ages,0.0019291984180573000
+16a,2019-20,R10,South West,61580,Gloucestershire Royal Hospital,%,Over10_Weeks_All_Ages,0.0000000000000000000
+16a,2019-20,R10,South West,61590,Southmead Hospital,Number,Total_samples_All_Ages,131503
+16a,2019-20,R10,South West,61590,Southmead Hospital,%,0-2_Weeks_All_Ages,65.3315893933979000000
+16a,2019-20,R10,South West,61590,Southmead Hospital,%,3-4_Weeks_All_Ages,22.6207767123183000000
+16a,2019-20,R10,South West,61590,Southmead Hospital,%,5-6_Weeks_All_Ages,11.7928868542923000000
+16a,2019-20,R10,South West,61590,Southmead Hospital,%,7-8_Weeks_All_Ages,0.2068393876945770000
+16a,2019-20,R10,South West,61590,Southmead Hospital,%,9-10_Weeks_All_Ages,0.0235736066857790000
+16a,2019-20,R10,South West,61590,Southmead Hospital,%,Over10_Weeks_All_Ages,0.0243340456111267000
+16a,2019-20,R10,South West,61600,Musgrove Park Hospital,Number,Total_samples_All_Ages,25957
+16a,2019-20,R10,South West,61600,Musgrove Park Hospital,%,0-2_Weeks_All_Ages,82.6058481334515000000
+16a,2019-20,R10,South West,61600,Musgrove Park Hospital,%,3-4_Weeks_All_Ages,17.3787417652271000000
+16a,2019-20,R10,South West,61600,Musgrove Park Hospital,%,5-6_Weeks_All_Ages,0.0115575759910621000
+16a,2019-20,R10,South West,61600,Musgrove Park Hospital,%,7-8_Weeks_All_Ages,0.0000000000000000000
+16a,2019-20,R10,South West,61600,Musgrove Park Hospital,%,9-10_Weeks_All_Ages,0.0038525253303540500
+16a,2019-20,R10,South West,61600,Musgrove Park Hospital,%,Over10_Weeks_All_Ages,0.0000000000000000000
+16a,2019-20,R2,North West,61920,Royal Liverpool University Hospital,Number,Total_samples_All_Ages,52666
+16a,2019-20,R2,North West,61920,Royal Liverpool University Hospital,%,0-2_Weeks_All_Ages,40.4055747541108000000
+16a,2019-20,R2,North West,61920,Royal Liverpool University Hospital,%,3-4_Weeks_All_Ages,52.7968708464664000000
+16a,2019-20,R2,North West,61920,Royal Liverpool University Hospital,%,5-6_Weeks_All_Ages,6.5545133482702300000
+16a,2019-20,R2,North West,61920,Royal Liverpool University Hospital,%,7-8_Weeks_All_Ages,0.2430410511525460000
+16a,2019-20,R2,North West,61920,Royal Liverpool University Hospital,%,9-10_Weeks_All_Ages,0.0000000000000000000
+16a,2019-20,R2,North West,61920,Royal Liverpool University Hospital,%,Over10_Weeks_All_Ages,0.0000000000000000000
+16a,2019-20,R2,North West,61930,Whiston Hospital,Number,Total_samples_All_Ages,22729
+16a,2019-20,R2,North West,61930,Whiston Hospital,%,0-2_Weeks_All_Ages,99.3928461436931000000
+16a,2019-20,R2,North West,61930,Whiston Hospital,%,3-4_Weeks_All_Ages,0.6071538563069210000
+16a,2019-20,R2,North West,61930,Whiston Hospital,%,5-6_Weeks_All_Ages,0.0000000000000000000
+16a,2019-20,R2,North West,61930,Whiston Hospital,%,7-8_Weeks_All_Ages,0.0000000000000000000
+16a,2019-20,R2,North West,61930,Whiston Hospital,%,9-10_Weeks_All_Ages,0.0000000000000000000
+16a,2019-20,R2,North West,61930,Whiston Hospital,%,Over10_Weeks_All_Ages,0.0000000000000000000
+16a,2019-20,R2,North West,62010,Manchester Cytology Centre,Number,Total_samples_All_Ages,348594
+16a,2019-20,R2,North West,62010,Manchester Cytology Centre,%,0-2_Weeks_All_Ages,78.4832785417993000000
+16a,2019-20,R2,North West,62010,Manchester Cytology Centre,%,3-4_Weeks_All_Ages,16.7369490008434000000
+16a,2019-20,R2,North West,62010,Manchester Cytology Centre,%,5-6_Weeks_All_Ages,4.7158011899229500000
+16a,2019-20,R2,North West,62010,Manchester Cytology Centre,%,7-8_Weeks_All_Ages,0.0622500674136675000
+16a,2019-20,R2,North West,62010,Manchester Cytology Centre,%,9-10_Weeks_All_Ages,0.0017212000206544000
+16a,2019-20,R2,North West,62010,Manchester Cytology Centre,%,Over10_Weeks_All_Ages,0.0000000000000000000
+16a,2019-20,R3,Yorkshire and the Humber,60310,Leeds Teaching Hospitals,Number,Total_samples_All_Ages,81571
+16a,2019-20,R3,Yorkshire and the Humber,60310,Leeds Teaching Hospitals,%,0-2_Weeks_All_Ages,21.0822473673242000000
+16a,2019-20,R3,Yorkshire and the Humber,60310,Leeds Teaching Hospitals,%,3-4_Weeks_All_Ages,10.6349070135220000000
+16a,2019-20,R3,Yorkshire and the Humber,60310,Leeds Teaching Hospitals,%,5-6_Weeks_All_Ages,27.5379730541491000000
+16a,2019-20,R3,Yorkshire and the Humber,60310,Leeds Teaching Hospitals,%,7-8_Weeks_All_Ages,38.8434615243162000000
+16a,2019-20,R3,Yorkshire and the Humber,60310,Leeds Teaching Hospitals,%,9-10_Weeks_All_Ages,1.9014110406884800000
+16a,2019-20,R3,Yorkshire and the Humber,60310,Leeds Teaching Hospitals,%,Over10_Weeks_All_Ages,0.0000000000000000000
+16a,2019-20,R3,Yorkshire and the Humber,60340,York Hospital,Number,Total_samples_All_Ages,64602
+16a,2019-20,R3,Yorkshire and the Humber,60340,York Hospital,%,0-2_Weeks_All_Ages,68.3895235441627000000
+16a,2019-20,R3,Yorkshire and the Humber,60340,York Hospital,%,3-4_Weeks_All_Ages,9.3526516206928600000
+16a,2019-20,R3,Yorkshire and the Humber,60340,York Hospital,%,5-6_Weeks_All_Ages,22.2454413176063000000
+16a,2019-20,R3,Yorkshire and the Humber,60340,York Hospital,%,7-8_Weeks_All_Ages,0.0123835175381567000
+16a,2019-20,R3,Yorkshire and the Humber,60340,York Hospital,%,9-10_Weeks_All_Ages,0.0000000000000000000
+16a,2019-20,R3,Yorkshire and the Humber,60340,York Hospital,%,Over10_Weeks_All_Ages,0.0000000000000000000
+16a,2019-20,R3,Yorkshire and the Humber,60470,Royal Hallamshire Hospital,Number,Total_samples_All_Ages,91557
+16a,2019-20,R3,Yorkshire and the Humber,60470,Royal Hallamshire Hospital,%,0-2_Weeks_All_Ages,74.6671472416091000000
+16a,2019-20,R3,Yorkshire and the Humber,60470,Royal Hallamshire Hospital,%,3-4_Weeks_All_Ages,14.9163908821827000000
+16a,2019-20,R3,Yorkshire and the Humber,60470,Royal Hallamshire Hospital,%,5-6_Weeks_All_Ages,10.3159780246185000000
+16a,2019-20,R3,Yorkshire and the Humber,60470,Royal Hallamshire Hospital,%,7-8_Weeks_All_Ages,0.0830083991393340000
+16a,2019-20,R3,Yorkshire and the Humber,60470,Royal Hallamshire Hospital,%,9-10_Weeks_All_Ages,0.0109221577814913000
+16a,2019-20,R3,Yorkshire and the Humber,60470,Royal Hallamshire Hospital,%,Over10_Weeks_All_Ages,0.0065532946688947900
+16a,2019-20,R4,East Midlands,60370,Royal Derby Hospital,Number,Total_samples_All_Ages,216802
+16a,2019-20,R4,East Midlands,60370,Royal Derby Hospital,%,0-2_Weeks_All_Ages,44.9013385485374000000
+16a,2019-20,R4,East Midlands,60370,Royal Derby Hospital,%,3-4_Weeks_All_Ages,40.3377275117388000000
+16a,2019-20,R4,East Midlands,60370,Royal Derby Hospital,%,5-6_Weeks_All_Ages,14.7221889096964000000
+16a,2019-20,R4,East Midlands,60370,Royal Derby Hospital,%,7-8_Weeks_All_Ages,0.0373612789549912000
+16a,2019-20,R4,East Midlands,60370,Royal Derby Hospital,%,9-10_Weeks_All_Ages,0.0013837510724070800
+16a,2019-20,R4,East Midlands,60370,Royal Derby Hospital,%,Over10_Weeks_All_Ages,0.0000000000000000000
+16a,2019-20,R4,East Midlands,60420,Leicester Royal Infirmary,Number,Total_samples_All_Ages,36209
+16a,2019-20,R4,East Midlands,60420,Leicester Royal Infirmary,%,0-2_Weeks_All_Ages,1.6625700792620600000
+16a,2019-20,R4,East Midlands,60420,Leicester Royal Infirmary,%,3-4_Weeks_All_Ages,0.0635201193073545000
+16a,2019-20,R4,East Midlands,60420,Leicester Royal Infirmary,%,5-6_Weeks_All_Ages,0.1187550056615760000
+16a,2019-20,R4,East Midlands,60420,Leicester Royal Infirmary,%,7-8_Weeks_All_Ages,29.9400701483057000000
+16a,2019-20,R4,East Midlands,60420,Leicester Royal Infirmary,%,9-10_Weeks_All_Ages,42.0779364246458000000
+16a,2019-20,R4,East Midlands,60420,Leicester Royal Infirmary,%,Over10_Weeks_All_Ages,26.1371482228175000000
+16a,2019-20,R4,East Midlands,61450,Kettering General Hospital,Number,Total_samples_All_Ages,26824
+16a,2019-20,R4,East Midlands,61450,Kettering General Hospital,%,0-2_Weeks_All_Ages,3.2098121085595000000
+16a,2019-20,R4,East Midlands,61450,Kettering General Hospital,%,3-4_Weeks_All_Ages,39.4124664479571000000
+16a,2019-20,R4,East Midlands,61450,Kettering General Hospital,%,5-6_Weeks_All_Ages,56.9601849090367000000
+16a,2019-20,R4,East Midlands,61450,Kettering General Hospital,%,7-8_Weeks_All_Ages,0.4175365344467640000
+16a,2019-20,R4,East Midlands,61450,Kettering General Hospital,%,9-10_Weeks_All_Ages,0.0000000000000000000
+16a,2019-20,R4,East Midlands,61450,Kettering General Hospital,%,Over10_Weeks_All_Ages,0.0000000000000000000
+16a,2019-20,R5,West Midlands,61720,Royal Stoke University Hospital,Number,Total_samples_All_Ages,43909
+16a,2019-20,R5,West Midlands,61720,Royal Stoke University Hospital,%,0-2_Weeks_All_Ages,4.9192648431984300000
+16a,2019-20,R5,West Midlands,61720,Royal Stoke University Hospital,%,3-4_Weeks_All_Ages,29.5952993691498000000
+16a,2019-20,R5,West Midlands,61720,Royal Stoke University Hospital,%,5-6_Weeks_All_Ages,49.4454439864265000000
+16a,2019-20,R5,West Midlands,61720,Royal Stoke University Hospital,%,7-8_Weeks_All_Ages,16.0354369263704000000
+16a,2019-20,R5,West Midlands,61720,Royal Stoke University Hospital,%,9-10_Weeks_All_Ages,0.0045548748548133600
+16a,2019-20,R5,West Midlands,61720,Royal Stoke University Hospital,%,Over10_Weeks_All_Ages,0.0000000000000000000
+16a,2019-20,R5,West Midlands,61740,Royal Wolverhampton Hospitals,Number,Total_samples_All_Ages,169475
+16a,2019-20,R5,West Midlands,61740,Royal Wolverhampton Hospitals,%,0-2_Weeks_All_Ages,23.7545360672666000000
+16a,2019-20,R5,West Midlands,61740,Royal Wolverhampton Hospitals,%,3-4_Weeks_All_Ages,33.6202979790530000000
+16a,2019-20,R5,West Midlands,61740,Royal Wolverhampton Hospitals,%,5-6_Weeks_All_Ages,13.1104882726066000000
+16a,2019-20,R5,West Midlands,61740,Royal Wolverhampton Hospitals,%,7-8_Weeks_All_Ages,16.5357722377932000000
+16a,2019-20,R5,West Midlands,61740,Royal Wolverhampton Hospitals,%,9-10_Weeks_All_Ages,6.1501696415400500000
+16a,2019-20,R5,West Midlands,61740,Royal Wolverhampton Hospitals,%,Over10_Weeks_All_Ages,6.8287358017406700000
+16a,2019-20,R5,West Midlands,61790,Birmingham Heartlands Hospital,Number,Total_samples_All_Ages,21193
+16a,2019-20,R5,West Midlands,61790,Birmingham Heartlands Hospital,%,0-2_Weeks_All_Ages,0.0330297739819752000
+16a,2019-20,R5,West Midlands,61790,Birmingham Heartlands Hospital,%,3-4_Weeks_All_Ages,0.0330297739819752000
+16a,2019-20,R5,West Midlands,61790,Birmingham Heartlands Hospital,%,5-6_Weeks_All_Ages,0.1085264002264900000
+16a,2019-20,R5,West Midlands,61790,Birmingham Heartlands Hospital,%,7-8_Weeks_All_Ages,11.0319445099797000000
+16a,2019-20,R5,West Midlands,61790,Birmingham Heartlands Hospital,%,9-10_Weeks_All_Ages,86.4672297456707000000
+16a,2019-20,R5,West Midlands,61790,Birmingham Heartlands Hospital,%,Over10_Weeks_All_Ages,2.3262397961591100000
+16a,2019-20,R5,West Midlands,61820,"University Hospital, Coventry",Number,Total_samples_All_Ages,30378
+16a,2019-20,R5,West Midlands,61820,"University Hospital, Coventry",%,0-2_Weeks_All_Ages,43.1134373559813000000
+16a,2019-20,R5,West Midlands,61820,"University Hospital, Coventry",%,3-4_Weeks_All_Ages,22.5525051023767000000
+16a,2019-20,R5,West Midlands,61820,"University Hospital, Coventry",%,5-6_Weeks_All_Ages,18.5561919810389000000
+16a,2019-20,R5,West Midlands,61820,"University Hospital, Coventry",%,7-8_Weeks_All_Ages,7.0741984330765700000
+16a,2019-20,R5,West Midlands,61820,"University Hospital, Coventry",%,9-10_Weeks_All_Ages,8.5390743301073200000
+16a,2019-20,R5,West Midlands,61820,"University Hospital, Coventry",%,Over10_Weeks_All_Ages,0.1645927974191850000
+16a,2019-20,R6,East of England,60500,Cervical Cytology Network,Number,Total_samples_All_Ages,136917
+16a,2019-20,R6,East of England,60500,Cervical Cytology Network,%,0-2_Weeks_All_Ages,86.9439149265613000000
+16a,2019-20,R6,East of England,60500,Cervical Cytology Network,%,3-4_Weeks_All_Ages,12.3812236610501000000
+16a,2019-20,R6,East of England,60500,Cervical Cytology Network,%,5-6_Weeks_All_Ages,0.6690184564371120000
+16a,2019-20,R6,East of England,60500,Cervical Cytology Network,%,7-8_Weeks_All_Ages,0.0029214779757079100
+16a,2019-20,R6,East of England,60500,Cervical Cytology Network,%,9-10_Weeks_All_Ages,0.0014607389878539600
+16a,2019-20,R6,East of England,60500,Cervical Cytology Network,%,Over10_Weeks_All_Ages,0.0014607389878539600
+16a,2019-20,R6,East of England,60540,Norfolk and Norwich University Hospital,Number,Total_samples_All_Ages,138418
+16a,2019-20,R6,East of England,60540,Norfolk and Norwich University Hospital,%,0-2_Weeks_All_Ages,99.9682122267335000000
+16a,2019-20,R6,East of England,60540,Norfolk and Norwich University Hospital,%,3-4_Weeks_All_Ages,0.0317877732664827000
+16a,2019-20,R6,East of England,60540,Norfolk and Norwich University Hospital,%,5-6_Weeks_All_Ages,0.0000000000000000000
+16a,2019-20,R6,East of England,60540,Norfolk and Norwich University Hospital,%,7-8_Weeks_All_Ages,0.0000000000000000000
+16a,2019-20,R6,East of England,60540,Norfolk and Norwich University Hospital,%,9-10_Weeks_All_Ages,0.0000000000000000000
+16a,2019-20,R6,East of England,60540,Norfolk and Norwich University Hospital,%,Over10_Weeks_All_Ages,0.0000000000000000000
+16a,2019-20,R6,East of England,60610,Bedford Hospital,Number,Total_samples_All_Ages,25514
+16a,2019-20,R6,East of England,60610,Bedford Hospital,%,0-2_Weeks_All_Ages,23.4459512424551000000
+16a,2019-20,R6,East of England,60610,Bedford Hospital,%,3-4_Weeks_All_Ages,76.0876381594419000000
+16a,2019-20,R6,East of England,60610,Bedford Hospital,%,5-6_Weeks_All_Ages,0.4664105981030020000
+16a,2019-20,R6,East of England,60610,Bedford Hospital,%,7-8_Weeks_All_Ages,0.0000000000000000000
+16a,2019-20,R6,East of England,60610,Bedford Hospital,%,9-10_Weeks_All_Ages,0.0000000000000000000
+16a,2019-20,R6,East of England,60610,Bedford Hospital,%,Over10_Weeks_All_Ages,0.0000000000000000000
+16a,2019-20,R6,East of England,60750,Watford General Hospital,Number,Total_samples_All_Ages,19698
+16a,2019-20,R6,East of England,60750,Watford General Hospital,%,0-2_Weeks_All_Ages,0.0863031779876130000
+16a,2019-20,R6,East of England,60750,Watford General Hospital,%,3-4_Weeks_All_Ages,9.8131790029444600000
+16a,2019-20,R6,East of England,60750,Watford General Hospital,%,5-6_Weeks_All_Ages,11.6813889734998000000
+16a,2019-20,R6,East of England,60750,Watford General Hospital,%,7-8_Weeks_All_Ages,15.1132094628896000000
+16a,2019-20,R6,East of England,60750,Watford General Hospital,%,9-10_Weeks_All_Ages,0.5127424103969950000
+16a,2019-20,R6,East of England,60750,Watford General Hospital,%,Over10_Weeks_All_Ages,62.7931769722815000000
+16a,2019-20,R6,East of England,60865,Pathology First,Number,Total_samples_All_Ages,23916
+16a,2019-20,R6,East of England,60865,Pathology First,%,0-2_Weeks_All_Ages,4.7039638735574500000
+16a,2019-20,R6,East of England,60865,Pathology First,%,3-4_Weeks_All_Ages,11.7536377320622000000
+16a,2019-20,R6,East of England,60865,Pathology First,%,5-6_Weeks_All_Ages,13.3007191838100000000
+16a,2019-20,R6,East of England,60865,Pathology First,%,7-8_Weeks_All_Ages,12.3808329152032000000
+16a,2019-20,R6,East of England,60865,Pathology First,%,9-10_Weeks_All_Ages,23.3442047165078000000
+16a,2019-20,R6,East of England,60865,Pathology First,%,Over10_Weeks_All_Ages,34.5166415788593000000
+16a,2019-20,R7,London,60710,Northwick Park Hospital (TDL),Number,Total_samples_All_Ages,50806
+16a,2019-20,R7,London,60710,Northwick Park Hospital (TDL),%,0-2_Weeks_All_Ages,92.1721843876708000000
+16a,2019-20,R7,London,60710,Northwick Park Hospital (TDL),%,3-4_Weeks_All_Ages,7.7943549974412500000
+16a,2019-20,R7,London,60710,Northwick Park Hospital (TDL),%,5-6_Weeks_All_Ages,0.0236192575680038000
+16a,2019-20,R7,London,60710,Northwick Park Hospital (TDL),%,7-8_Weeks_All_Ages,0.0000000000000000000
+16a,2019-20,R7,London,60710,Northwick Park Hospital (TDL),%,9-10_Weeks_All_Ages,0.0039365429280006300
+16a,2019-20,R7,London,60710,Northwick Park Hospital (TDL),%,Over10_Weeks_All_Ages,0.0059048143920009500
+16a,2019-20,R7,London,60745,St Mary's Hospital,Number,Total_samples_All_Ages,42333
+16a,2019-20,R7,London,60745,St Mary's Hospital,%,0-2_Weeks_All_Ages,99.6055087047930000000
+16a,2019-20,R7,London,60745,St Mary's Hospital,%,3-4_Weeks_All_Ages,0.3921290718824560000
+16a,2019-20,R7,London,60745,St Mary's Hospital,%,5-6_Weeks_All_Ages,0.0023622233245931100
+16a,2019-20,R7,London,60745,St Mary's Hospital,%,7-8_Weeks_All_Ages,0.0000000000000000000
+16a,2019-20,R7,London,60745,St Mary's Hospital,%,9-10_Weeks_All_Ages,0.0000000000000000000
+16a,2019-20,R7,London,60745,St Mary's Hospital,%,Over10_Weeks_All_Ages,0.0000000000000000000
+16a,2019-20,R7,London,60800,Queen's Hospital,Number,Total_samples_All_Ages,34722
+16a,2019-20,R7,London,60800,Queen's Hospital,%,0-2_Weeks_All_Ages,61.3530326594090000000
+16a,2019-20,R7,London,60800,Queen's Hospital,%,3-4_Weeks_All_Ages,22.5275041760267000000
+16a,2019-20,R7,London,60800,Queen's Hospital,%,5-6_Weeks_All_Ages,16.0273025747365000000
+16a,2019-20,R7,London,60800,Queen's Hospital,%,7-8_Weeks_All_Ages,0.0864005529635390000
+16a,2019-20,R7,London,60800,Queen's Hospital,%,9-10_Weeks_All_Ages,0.0000000000000000000
+16a,2019-20,R7,London,60800,Queen's Hospital,%,Over10_Weeks_All_Ages,0.0057600368642359300
+16a,2019-20,R7,London,60900,The Royal London Hospital,Number,Total_samples_All_Ages,59117
+16a,2019-20,R7,London,60900,The Royal London Hospital,%,0-2_Weeks_All_Ages,67.8112894768002000000
+16a,2019-20,R7,London,60900,The Royal London Hospital,%,3-4_Weeks_All_Ages,3.5353620785899100000
+16a,2019-20,R7,London,60900,The Royal London Hospital,%,5-6_Weeks_All_Ages,3.7890961990628800000
+16a,2019-20,R7,London,60900,The Royal London Hospital,%,7-8_Weeks_All_Ages,4.8344807754114700000
+16a,2019-20,R7,London,60900,The Royal London Hospital,%,9-10_Weeks_All_Ages,4.9427406668132700000
+16a,2019-20,R7,London,60900,The Royal London Hospital,%,Over10_Weeks_All_Ages,15.0870308033222000000
+16a,2019-20,R7,London,61025,Health Service Laboratories Cervical Cytology Service,Number,Total_samples_All_Ages,250096
+16a,2019-20,R7,London,61025,Health Service Laboratories Cervical Cytology Service,%,0-2_Weeks_All_Ages,93.3825411042160000000
+16a,2019-20,R7,London,61025,Health Service Laboratories Cervical Cytology Service,%,3-4_Weeks_All_Ages,6.4987044974729700000
+16a,2019-20,R7,London,61025,Health Service Laboratories Cervical Cytology Service,%,5-6_Weeks_All_Ages,0.1063591580832960000
+16a,2019-20,R7,London,61025,Health Service Laboratories Cervical Cytology Service,%,7-8_Weeks_All_Ages,0.0091964685560744700
+16a,2019-20,R7,London,61025,Health Service Laboratories Cervical Cytology Service,%,9-10_Weeks_All_Ages,0.0011995393768792800
+16a,2019-20,R7,London,61025,Health Service Laboratories Cervical Cytology Service,%,Over10_Weeks_All_Ages,0.0019992322947988000
+16a,2019-20,R7,London,61090,St Thomas' Hospital,Number,Total_samples_All_Ages,52185
+16a,2019-20,R7,London,61090,St Thomas' Hospital,%,0-2_Weeks_All_Ages,63.9302481556003000000
+16a,2019-20,R7,London,61090,St Thomas' Hospital,%,3-4_Weeks_All_Ages,16.5871418990131000000
+16a,2019-20,R7,London,61090,St Thomas' Hospital,%,5-6_Weeks_All_Ages,19.4481172750790000000
+16a,2019-20,R7,London,61090,St Thomas' Hospital,%,7-8_Weeks_All_Ages,0.0287438919229664000
+16a,2019-20,R7,London,61090,St Thomas' Hospital,%,9-10_Weeks_All_Ages,0.0019162594615310900
+16a,2019-20,R7,London,61090,St Thomas' Hospital,%,Over10_Weeks_All_Ages,0.0038325189230621800
+16a,2019-20,R7,London,61140,Princess Royal University Hospital,Number,Total_samples_All_Ages,35410
+16a,2019-20,R7,London,61140,Princess Royal University Hospital,%,0-2_Weeks_All_Ages,79.7571307540243000000
+16a,2019-20,R7,London,61140,Princess Royal University Hospital,%,3-4_Weeks_All_Ages,16.3964981643604000000
+16a,2019-20,R7,London,61140,Princess Royal University Hospital,%,5-6_Weeks_All_Ages,3.8435470206156500000
+16a,2019-20,R7,London,61140,Princess Royal University Hospital,%,7-8_Weeks_All_Ages,0.0028240609997175900
+16a,2019-20,R7,London,61140,Princess Royal University Hospital,%,9-10_Weeks_All_Ages,0.0000000000000000000
+16a,2019-20,R7,London,61140,Princess Royal University Hospital,%,Over10_Weeks_All_Ages,0.0000000000000000000
+16a,2019-20,R7,London,61280,St Helier Hospital,Number,Total_samples_All_Ages,24263
+16a,2019-20,R7,London,61280,St Helier Hospital,%,0-2_Weeks_All_Ages,28.4259984338293000000
+16a,2019-20,R7,London,61280,St Helier Hospital,%,3-4_Weeks_All_Ages,17.0671392655484000000
+16a,2019-20,R7,London,61280,St Helier Hospital,%,5-6_Weeks_All_Ages,11.1651485801426000000
+16a,2019-20,R7,London,61280,St Helier Hospital,%,7-8_Weeks_All_Ages,29.7696080451717000000
+16a,2019-20,R7,London,61280,St Helier Hospital,%,9-10_Weeks_All_Ages,13.5721056753081000000
+16a,2019-20,R7,London,61280,St Helier Hospital,%,Over10_Weeks_All_Ages,0.0000000000000000000
+16a,2019-20,R7,London,61300,South West London Pathology,Number,Total_samples_All_Ages,56693
+16a,2019-20,R7,London,61300,South West London Pathology,%,0-2_Weeks_All_Ages,68.1883124900781000000
+16a,2019-20,R7,London,61300,South West London Pathology,%,3-4_Weeks_All_Ages,31.7658264688762000000
+16a,2019-20,R7,London,61300,South West London Pathology,%,5-6_Weeks_All_Ages,0.0458610410456317000
+16a,2019-20,R7,London,61300,South West London Pathology,%,7-8_Weeks_All_Ages,0.0000000000000000000
+16a,2019-20,R7,London,61300,South West London Pathology,%,9-10_Weeks_All_Ages,0.0000000000000000000
+16a,2019-20,R7,London,61300,South West London Pathology,%,Over10_Weeks_All_Ages,0.0000000000000000000
+16a,2019-20,R8,South East,61040,Royal Sussex County Hospital,Number,Total_samples_All_Ages,63905
+16a,2019-20,R8,South East,61040,Royal Sussex County Hospital,%,0-2_Weeks_All_Ages,0.3692981769814570000
+16a,2019-20,R8,South East,61040,Royal Sussex County Hospital,%,3-4_Weeks_All_Ages,0.8575228855332130000
+16a,2019-20,R8,South East,61040,Royal Sussex County Hospital,%,5-6_Weeks_All_Ages,21.7166105938502000000
+16a,2019-20,R8,South East,61040,Royal Sussex County Hospital,%,7-8_Weeks_All_Ages,11.1603160942023000000
+16a,2019-20,R8,South East,61040,Royal Sussex County Hospital,%,9-10_Weeks_All_Ages,39.6479148736406000000
+16a,2019-20,R8,South East,61040,Royal Sussex County Hospital,%,Over10_Weeks_All_Ages,26.2483373757922000000
+16a,2019-20,R8,South East,61150,Maidstone Hospital,Number,Total_samples_All_Ages,45860
+16a,2019-20,R8,South East,61150,Maidstone Hospital,%,0-2_Weeks_All_Ages,65.9899694723070000000
+16a,2019-20,R8,South East,61150,Maidstone Hospital,%,3-4_Weeks_All_Ages,9.0863497601395600000
+16a,2019-20,R8,South East,61150,Maidstone Hospital,%,5-6_Weeks_All_Ages,24.9236807675534000000
+16a,2019-20,R8,South East,61150,Maidstone Hospital,%,7-8_Weeks_All_Ages,0.0000000000000000000
+16a,2019-20,R8,South East,61150,Maidstone Hospital,%,9-10_Weeks_All_Ages,0.0000000000000000000
+16a,2019-20,R8,South East,61150,Maidstone Hospital,%,Over10_Weeks_All_Ages,0.0000000000000000000
+16a,2019-20,R8,South East,61190,William Harvey Hospital,Number,Total_samples_All_Ages,23105
+16a,2019-20,R8,South East,61190,William Harvey Hospital,%,0-2_Weeks_All_Ages,3.1984418956935700000
+16a,2019-20,R8,South East,61190,William Harvey Hospital,%,3-4_Weeks_All_Ages,6.6132871672798100000
+16a,2019-20,R8,South East,61190,William Harvey Hospital,%,5-6_Weeks_All_Ages,20.9435187188920000000
+16a,2019-20,R8,South East,61190,William Harvey Hospital,%,7-8_Weeks_All_Ages,65.3365072495131000000
+16a,2019-20,R8,South East,61190,William Harvey Hospital,%,9-10_Weeks_All_Ages,2.3587967972300400000
+16a,2019-20,R8,South East,61190,William Harvey Hospital,%,Over10_Weeks_All_Ages,1.5494481713914700000
+16a,2019-20,R8,South East,61290,Berkshire and Surrey Pathology Services,Number,Total_samples_All_Ages,276807
+16a,2019-20,R8,South East,61290,Berkshire and Surrey Pathology Services,%,0-2_Weeks_All_Ages,66.7551759890465000000
+16a,2019-20,R8,South East,61290,Berkshire and Surrey Pathology Services,%,3-4_Weeks_All_Ages,22.9759363021889000000
+16a,2019-20,R8,South East,61290,Berkshire and Surrey Pathology Services,%,5-6_Weeks_All_Ages,7.0673790763961900000
+16a,2019-20,R8,South East,61290,Berkshire and Surrey Pathology Services,%,7-8_Weeks_All_Ages,1.4898467163041400000
+16a,2019-20,R8,South East,61290,Berkshire and Surrey Pathology Services,%,9-10_Weeks_All_Ages,1.0595830307759600000
+16a,2019-20,R8,South East,61290,Berkshire and Surrey Pathology Services,%,Over10_Weeks_All_Ages,0.6520788852883050000
+16a,2019-20,R8,South East,61520,Wycombe Hospital,Number,Total_samples_All_Ages,35526
+16a,2019-20,R8,South East,61520,Wycombe Hospital,%,0-2_Weeks_All_Ages,8.8273377244834800000
+16a,2019-20,R8,South East,61520,Wycombe Hospital,%,3-4_Weeks_All_Ages,26.8338681529021000000
+16a,2019-20,R8,South East,61520,Wycombe Hospital,%,5-6_Weeks_All_Ages,55.6127906322130000000
+16a,2019-20,R8,South East,61520,Wycombe Hospital,%,7-8_Weeks_All_Ages,8.6640770140179000000
+16a,2019-20,R8,South East,61520,Wycombe Hospital,%,9-10_Weeks_All_Ages,0.0591116365478804000
+16a,2019-20,R8,South East,61520,Wycombe Hospital,%,Over10_Weeks_All_Ages,0.0028148398356133500
+16a,2019-20,S,South,S,South,Number,Total_samples_All_Ages,875113
+16a,2019-20,S,South,S,South,%,0-2_Weeks_All_Ages,56.2130833389517000000
+16a,2019-20,S,South,S,South,%,3-4_Weeks_All_Ages,17.2831394345645000000
+16a,2019-20,S,South,S,South,%,5-6_Weeks_All_Ages,14.7510092982278000000
+16a,2019-20,S,South,S,South,%,7-8_Weeks_All_Ages,6.2845598225600600000
+16a,2019-20,S,South,S,South,%,9-10_Weeks_All_Ages,3.3002595093433600000
+16a,2019-20,S,South,S,South,%,Over10_Weeks_All_Ages,2.1679485963527000000
+16a,2019-20,R1,North East,R1,North East,Number,Total_samples_All_Ages,244690
+16a,2019-20,R1,North East,R1,North East,%,0-2_Weeks_All_Ages,69.8365278515673000000
+16a,2019-20,R1,North East,R1,North East,%,3-4_Weeks_All_Ages,15.7268380399689000000
+16a,2019-20,R1,North East,R1,North East,%,5-6_Weeks_All_Ages,8.8548776002288600000
+16a,2019-20,R1,North East,R1,North East,%,7-8_Weeks_All_Ages,5.3696513956434700000
+16a,2019-20,R1,North East,R1,North East,%,9-10_Weeks_All_Ages,0.1107523805631620000
+16a,2019-20,R1,North East,R1,North East,%,Over10_Weeks_All_Ages,0.1013527320282810000
+16a,2019-20,R2,North West,R2,North West,Number,Total_samples_All_Ages,423989
+16a,2019-20,R2,North West,R2,North West,%,0-2_Weeks_All_Ages,74.8743481552587000000
+16a,2019-20,R2,North West,R2,North West,%,3-4_Weeks_All_Ages,20.3514713825123000000
+16a,2019-20,R2,North West,R2,North West,%,5-6_Weeks_All_Ages,4.6913952956326700000
+16a,2019-20,R2,North West,R2,North West,%,7-8_Weeks_All_Ages,0.0813700355433749000
+16a,2019-20,R2,North West,R2,North West,%,9-10_Weeks_All_Ages,0.0014151310529282600
+16a,2019-20,R2,North West,R2,North West,%,Over10_Weeks_All_Ages,0.0000000000000000000
+16a,2019-20,R3,Yorkshire and the Humber,R3,Yorkshire and the Humber,Number,Total_samples_All_Ages,237730
+16a,2019-20,R3,Yorkshire and the Humber,R3,Yorkshire and the Humber,%,0-2_Weeks_All_Ages,54.5749379548227000000
+16a,2019-20,R3,Yorkshire and the Humber,R3,Yorkshire and the Humber,%,3-4_Weeks_All_Ages,11.9353888865520000000
+16a,2019-20,R3,Yorkshire and the Humber,R3,Yorkshire and the Humber,%,5-6_Weeks_All_Ages,19.4670424431077000000
+16a,2019-20,R3,Yorkshire and the Humber,R3,Yorkshire and the Humber,%,7-8_Weeks_All_Ages,13.3634795776722000000
+16a,2019-20,R3,Yorkshire and the Humber,R3,Yorkshire and the Humber,%,9-10_Weeks_All_Ages,0.6566272662263910000
+16a,2019-20,R3,Yorkshire and the Humber,R3,Yorkshire and the Humber,%,Over10_Weeks_All_Ages,0.0025238716190636400
+16a,2019-20,R4,East Midlands,R4,East Midlands,Number,Total_samples_All_Ages,279835
+16a,2019-20,R4,East Midlands,R4,East Midlands,%,0-2_Weeks_All_Ages,35.3100934479247000000
+16a,2019-20,R4,East Midlands,R4,East Midlands,%,3-4_Weeks_All_Ages,35.0377901263244000000
+16a,2019-20,R4,East Midlands,R4,East Midlands,%,5-6_Weeks_All_Ages,16.8813765254525000000
+16a,2019-20,R4,East Midlands,R4,East Midlands,%,7-8_Weeks_All_Ages,3.9430378615970100000
+16a,2019-20,R4,East Midlands,R4,East Midlands,%,9-10_Weeks_All_Ages,5.4457090785641500000
+16a,2019-20,R4,East Midlands,R4,East Midlands,%,Over10_Weeks_All_Ages,3.3819929601372200000
+16a,2019-20,R5,West Midlands,R5,West Midlands,Number,Total_samples_All_Ages,264955
+16a,2019-20,R5,West Midlands,R5,West Midlands,%,0-2_Weeks_All_Ages,20.9552565529996000000
+16a,2019-20,R5,West Midlands,R5,West Midlands,%,3-4_Weeks_All_Ages,28.9977543356419000000
+16a,2019-20,R5,West Midlands,R5,West Midlands,%,5-6_Weeks_All_Ages,18.7163858013625000000
+16a,2019-20,R5,West Midlands,R5,West Midlands,%,7-8_Weeks_All_Ages,14.9278179313468000000
+16a,2019-20,R5,West Midlands,R5,West Midlands,%,9-10_Weeks_All_Ages,11.8299333849144000000
+16a,2019-20,R5,West Midlands,R5,West Midlands,%,Over10_Weeks_All_Ages,4.5728519937347900000
+16a,2019-20,R6,East of England,R6,East of England,Number,Total_samples_All_Ages,344463
+16a,2019-20,R6,East of England,R6,East of England,%,0-2_Weeks_All_Ages,76.7975080052139000000
+16a,2019-20,R6,East of England,R6,East of England,%,3-4_Weeks_All_Ages,11.9470015647544000000
+16a,2019-20,R6,East of England,R6,East of England,%,5-6_Weeks_All_Ages,1.8919303379463100000
+16a,2019-20,R6,East of England,R6,East of England,%,7-8_Weeks_All_Ages,1.7250038465669800000
+16a,2019-20,R6,East of England,R6,East of England,%,9-10_Weeks_All_Ages,1.6506852695354800000
+16a,2019-20,R6,East of England,R6,East of England,%,Over10_Weeks_All_Ages,5.9878709759829100000
+16a,2019-20,R7,London,R7,London,Number,Total_samples_All_Ages,605625
+16a,2019-20,R7,London,R7,London,%,0-2_Weeks_All_Ages,81.0882972136223000000
+16a,2019-20,R7,London,R7,London,%,3-4_Weeks_All_Ages,11.0469349845201000000
+16a,2019-20,R7,London,R7,London,%,5-6_Weeks_All_Ages,3.6869349845201200000
+16a,2019-20,R7,London,R7,London,%,7-8_Weeks_All_Ages,1.6759545923632600000
+16a,2019-20,R7,London,R7,London,%,9-10_Weeks_All_Ages,1.0272033023735800000
+16a,2019-20,R7,London,R7,London,%,Over10_Weeks_All_Ages,1.4746749226006200000

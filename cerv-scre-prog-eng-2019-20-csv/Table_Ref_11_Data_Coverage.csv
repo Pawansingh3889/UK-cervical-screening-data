@@ -1,0 +1,55 @@
+﻿Table_ref,Collection_Year,Parent_Org_Code,Parent_Org_Name,Unit,Indicator,Value
+11,2020,A,North East,Number,Eligible__25-64,687470
+11,2020,A,North East,Number,Screened_in_period__25-64,518849
+11,2020,A,North East,Number,Eligible__25-49,435382
+11,2020,A,North East,Number,Screened_3andhalfyears__25-49,325998
+11,2020,A,North East,Number,Eligible__50-64,252088
+11,2020,A,North East,Number,Screened_5andhalfyears__50-64,192851
+11,2020,B,North West,Number,Eligible__25-64,1959365
+11,2020,B,North West,Number,Screened_in_period__25-64,1437146
+11,2020,B,North West,Number,Eligible__25-49,1287538
+11,2020,B,North West,Number,Screened_3andhalfyears__25-49,929350
+11,2020,B,North West,Number,Eligible__50-64,671827
+11,2020,B,North West,Number,Screened_5andhalfyears__50-64,507796
+11,2020,D,Yorkshire and The Humber,Number,Eligible__25-64,1426004
+11,2020,D,Yorkshire and The Humber,Number,Screened_in_period__25-64,1064108
+11,2020,D,Yorkshire and The Humber,Number,Eligible__25-49,933385
+11,2020,D,Yorkshire and The Humber,Number,Screened_3andhalfyears__25-49,681368
+11,2020,D,Yorkshire and The Humber,Number,Eligible__50-64,492619
+11,2020,D,Yorkshire and The Humber,Number,Screened_5andhalfyears__50-64,382740
+11,2020,E,East Midlands,Number,Eligible__25-64,1254465
+11,2020,E,East Midlands,Number,Screened_in_period__25-64,945200
+11,2020,E,East Midlands,Number,Eligible__25-49,813280
+11,2020,E,East Midlands,Number,Screened_3andhalfyears__25-49,600354
+11,2020,E,East Midlands,Number,Eligible__50-64,441185
+11,2020,E,East Midlands,Number,Screened_5andhalfyears__50-64,344846
+11,2020,F,West Midlands,Number,Eligible__25-64,1543393
+11,2020,F,West Midlands,Number,Screened_in_period__25-64,1111019
+11,2020,F,West Midlands,Number,Eligible__25-49,1020032
+11,2020,F,West Midlands,Number,Screened_3andhalfyears__25-49,715135
+11,2020,F,West Midlands,Number,Eligible__50-64,523361
+11,2020,F,West Midlands,Number,Screened_5andhalfyears__50-64,395884
+11,2020,G,East of England,Number,Eligible__25-64,1753610
+11,2020,G,East of England,Number,Screened_in_period__25-64,1296938
+11,2020,G,East of England,Number,Eligible__25-49,1157040
+11,2020,G,East of England,Number,Screened_3andhalfyears__25-49,838488
+11,2020,G,East of England,Number,Eligible__50-64,596570
+11,2020,G,East of England,Number,Screened_5andhalfyears__50-64,458450
+11,2020,H,London,Number,Eligible__25-64,3026218
+11,2020,H,London,Number,Screened_in_period__25-64,1957993
+11,2020,H,London,Number,Eligible__25-49,2263508
+11,2020,H,London,Number,Screened_3andhalfyears__25-49,1399628
+11,2020,H,London,Number,Eligible__50-64,762710
+11,2020,H,London,Number,Screened_5andhalfyears__50-64,558365
+11,2020,J,South East,Number,Eligible__25-64,1667119
+11,2020,J,South East,Number,Screened_in_period__25-64,1223185
+11,2020,J,South East,Number,Eligible__25-49,1087158
+11,2020,J,South East,Number,Screened_3andhalfyears__25-49,781385
+11,2020,J,South East,Number,Eligible__50-64,579961
+11,2020,J,South East,Number,Screened_5andhalfyears__50-64,441800
+11,2020,K,South West,Number,Eligible__25-64,2149572
+11,2020,K,South West,Number,Screened_in_period__25-64,1609237
+11,2020,K,South West,Number,Eligible__25-49,1370595
+11,2020,K,South West,Number,Screened_3andhalfyears__25-49,1009796
+11,2020,K,South West,Number,Eligible__50-64,778977
+11,2020,K,South West,Number,Screened_5andhalfyears__50-64,599441

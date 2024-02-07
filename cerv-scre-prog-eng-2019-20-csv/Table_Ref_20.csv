@@ -1,0 +1,145 @@
+﻿Table_ref,Collection_Year,Parent_Org_Code,Parent_Org_Name,Unit,Indicator,Value
+20,2019-20,ENG,England,Number,Total_referrals_All_Ages,191563
+20,2019-20,ENG,England,%,Total_Screening_Sample_All_Ages,65.9647217886544000000
+20,2019-20,ENG,England,%,Inadequate_All_Ages,0.5940604396464870000
+20,2019-20,ENG,England,%,Borderline_changes_All_Ages,17.7466420968559000000
+20,2019-20,ENG,England,%,Low_Grade_dyskaryosis_All_Ages,30.6604093692414000000
+20,2019-20,ENG,England,%,Moderate_dyskaryosis_All_Ages,7.4085287868742900000
+20,2019-20,ENG,England,%,Severe_dyskaryosis_All_Ages,8.7349853572976000000
+20,2019-20,ENG,England,%,Severe_dyskaryosis_Inv_All_Ages,0.2448280722268910000
+20,2019-20,ENG,England,%,Glandular_neoplasia_All_Ages,0.5752676665118000000
+20,2019-20,ENG,England,%,Clinical_Urgent_All_Ages,7.3834717560280400000
+20,2019-20,ENG,England,%,Clinical_Non_Urgent_All_Ages,19.7799157457338000000
+20,2019-20,ENG,England,%,Other_All_Ages,6.8718907095837900000
+20,2019-20,NEYH,"North East, Yorkshire and the Humber",Number,Total_referrals_All_Ages,27317
+20,2019-20,NEYH,"North East, Yorkshire and the Humber",%,Total_Screening_Sample_All_Ages,59.0804261082842000000
+20,2019-20,NEYH,"North East, Yorkshire and the Humber",%,Inadequate_All_Ages,0.2782150309331190000
+20,2019-20,NEYH,"North East, Yorkshire and the Humber",%,Borderline_changes_All_Ages,18.2962990079438000000
+20,2019-20,NEYH,"North East, Yorkshire and the Humber",%,Low_Grade_dyskaryosis_All_Ages,21.6788080682359000000
+20,2019-20,NEYH,"North East, Yorkshire and the Humber",%,Moderate_dyskaryosis_All_Ages,7.4898414906468500000
+20,2019-20,NEYH,"North East, Yorkshire and the Humber",%,Severe_dyskaryosis_All_Ages,10.4037778672621000000
+20,2019-20,NEYH,"North East, Yorkshire and the Humber",%,Severe_dyskaryosis_Inv_All_Ages,0.2562506863857670000
+20,2019-20,NEYH,"North East, Yorkshire and the Humber",%,Glandular_neoplasia_All_Ages,0.6772339568766700000
+20,2019-20,NEYH,"North East, Yorkshire and the Humber",%,Clinical_Urgent_All_Ages,12.0620858805872000000
+20,2019-20,NEYH,"North East, Yorkshire and the Humber",%,Clinical_Non_Urgent_All_Ages,21.3420214518432000000
+20,2019-20,NEYH,"North East, Yorkshire and the Humber",%,Other_All_Ages,7.5154665592854300000
+20,2019-20,R1,North East,Number,Total_referrals_All_Ages,8395
+20,2019-20,R1,North East,%,Total_Screening_Sample_All_Ages,76.1286480047647000000
+20,2019-20,R1,North East,%,Inadequate_All_Ages,0.2977963073257890000
+20,2019-20,R1,North East,%,Borderline_changes_All_Ages,25.4556283502085000000
+20,2019-20,R1,North East,%,Low_Grade_dyskaryosis_All_Ages,27.7546158427635000000
+20,2019-20,R1,North East,%,Moderate_dyskaryosis_All_Ages,10.4466944609887000000
+20,2019-20,R1,North East,%,Severe_dyskaryosis_All_Ages,10.9469922572960000000
+20,2019-20,R1,North East,%,Severe_dyskaryosis_Inv_All_Ages,0.3811792733770100000
+20,2019-20,R1,North East,%,Glandular_neoplasia_All_Ages,0.8457415128052410000
+20,2019-20,R1,North East,%,Clinical_Urgent_All_Ages,2.1203097081596200000
+20,2019-20,R1,North East,%,Clinical_Non_Urgent_All_Ages,15.4496724240619000000
+20,2019-20,R1,North East,%,Other_All_Ages,6.3013698630137000000
+20,2019-20,R10,South West,Number,Total_referrals_All_Ages,26035
+20,2019-20,R10,South West,%,Total_Screening_Sample_All_Ages,70.4090647205685000000
+20,2019-20,R10,South West,%,Inadequate_All_Ages,0.9756097560975610000
+20,2019-20,R10,South West,%,Borderline_changes_All_Ages,18.5865181486461000000
+20,2019-20,R10,South West,%,Low_Grade_dyskaryosis_All_Ages,32.2373727674285000000
+20,2019-20,R10,South West,%,Moderate_dyskaryosis_All_Ages,9.0916074515075800000
+20,2019-20,R10,South West,%,Severe_dyskaryosis_All_Ages,8.5807566737084700000
+20,2019-20,R10,South West,%,Severe_dyskaryosis_Inv_All_Ages,0.3188016132129830000
+20,2019-20,R10,South West,%,Glandular_neoplasia_All_Ages,0.6183983099673520000
+20,2019-20,R10,South West,%,Clinical_Urgent_All_Ages,6.6871519108891900000
+20,2019-20,R10,South West,%,Clinical_Non_Urgent_All_Ages,17.5648165930478000000
+20,2019-20,R10,South West,%,Other_All_Ages,5.3389667754945300000
+20,2019-20,R2,North West,Number,Total_referrals_All_Ages,27538
+20,2019-20,R2,North West,%,Total_Screening_Sample_All_Ages,55.8537293921127000000
+20,2019-20,R2,North West,%,Inadequate_All_Ages,0.4393928389861280000
+20,2019-20,R2,North West,%,Borderline_changes_All_Ages,11.4242138136393000000
+20,2019-20,R2,North West,%,Low_Grade_dyskaryosis_All_Ages,26.9845304669911000000
+20,2019-20,R2,North West,%,Moderate_dyskaryosis_All_Ages,5.9009368872104000000
+20,2019-20,R2,North West,%,Severe_dyskaryosis_All_Ages,10.3856489214903000000
+20,2019-20,R2,North West,%,Severe_dyskaryosis_Inv_All_Ages,0.1670419057302640000
+20,2019-20,R2,North West,%,Glandular_neoplasia_All_Ages,0.5519645580652190000
+20,2019-20,R2,North West,%,Clinical_Urgent_All_Ages,8.0434308954898700000
+20,2019-20,R2,North West,%,Clinical_Non_Urgent_All_Ages,24.3808555450650000000
+20,2019-20,R2,North West,%,Other_All_Ages,11.7219841673324000000
+20,2019-20,R3,Yorkshire and the Humber,Number,Total_referrals_All_Ages,18922
+20,2019-20,R3,Yorkshire and the Humber,%,Total_Screening_Sample_All_Ages,51.5167529859423000000
+20,2019-20,R3,Yorkshire and the Humber,%,Inadequate_All_Ages,0.2695275340873060000
+20,2019-20,R3,Yorkshire and the Humber,%,Borderline_changes_All_Ages,15.1199661769369000000
+20,2019-20,R3,Yorkshire and the Humber,%,Low_Grade_dyskaryosis_All_Ages,18.9831941655216000000
+20,2019-20,R3,Yorkshire and the Humber,%,Moderate_dyskaryosis_All_Ages,6.1779938695698100000
+20,2019-20,R3,Yorkshire and the Humber,%,Severe_dyskaryosis_All_Ages,10.1627734911743000000
+20,2019-20,R3,Yorkshire and the Humber,%,Severe_dyskaryosis_Inv_All_Ages,0.2008244371630910000
+20,2019-20,R3,Yorkshire and the Humber,%,Glandular_neoplasia_All_Ages,0.6024733114892720000
+20,2019-20,R3,Yorkshire and the Humber,%,Clinical_Urgent_All_Ages,16.4728887009830000000
+20,2019-20,R3,Yorkshire and the Humber,%,Clinical_Non_Urgent_All_Ages,23.9562414121129000000
+20,2019-20,R3,Yorkshire and the Humber,%,Other_All_Ages,8.0541169009618400000
+20,2019-20,R4,East Midlands,Number,Total_referrals_All_Ages,11580
+20,2019-20,R4,East Midlands,%,Total_Screening_Sample_All_Ages,76.9861830742660000000
+20,2019-20,R4,East Midlands,%,Inadequate_All_Ages,0.4404145077720210000
+20,2019-20,R4,East Midlands,%,Borderline_changes_All_Ages,21.2003454231434000000
+20,2019-20,R4,East Midlands,%,Low_Grade_dyskaryosis_All_Ages,34.7927461139896000000
+20,2019-20,R4,East Midlands,%,Moderate_dyskaryosis_All_Ages,8.1951640759930900000
+20,2019-20,R4,East Midlands,%,Severe_dyskaryosis_All_Ages,11.3557858376511000000
+20,2019-20,R4,East Midlands,%,Severe_dyskaryosis_Inv_All_Ages,0.2763385146804840000
+20,2019-20,R4,East Midlands,%,Glandular_neoplasia_All_Ages,0.7253886010362690000
+20,2019-20,R4,East Midlands,%,Clinical_Urgent_All_Ages,4.5682210708117400000
+20,2019-20,R4,East Midlands,%,Clinical_Non_Urgent_All_Ages,12.7029360967185000000
+20,2019-20,R4,East Midlands,%,Other_All_Ages,5.7426597582038000000
+20,2019-20,R5,West Midlands,Number,Total_referrals_All_Ages,16355
+20,2019-20,R5,West Midlands,%,Total_Screening_Sample_All_Ages,63.0265973708346000000
+20,2019-20,R5,West Midlands,%,Inadequate_All_Ages,1.1617242433506600000
+20,2019-20,R5,West Midlands,%,Borderline_changes_All_Ages,19.1745643534087000000
+20,2019-20,R5,West Midlands,%,Low_Grade_dyskaryosis_All_Ages,25.7474778355243000000
+20,2019-20,R5,West Midlands,%,Moderate_dyskaryosis_All_Ages,6.8236013451543900000
+20,2019-20,R5,West Midlands,%,Severe_dyskaryosis_All_Ages,9.2754509324365600000
+20,2019-20,R5,West Midlands,%,Severe_dyskaryosis_Inv_All_Ages,0.2506878630388260000
+20,2019-20,R5,West Midlands,%,Glandular_neoplasia_All_Ages,0.5930907979211250000
+20,2019-20,R5,West Midlands,%,Clinical_Urgent_All_Ages,9.8135126872516000000
+20,2019-20,R5,West Midlands,%,Clinical_Non_Urgent_All_Ages,14.9495567104861000000
+20,2019-20,R5,West Midlands,%,Other_All_Ages,12.2103332314277000000
+20,2019-20,R6,East of England,Number,Total_referrals_All_Ages,21933
+20,2019-20,R6,East of England,%,Total_Screening_Sample_All_Ages,76.0497879906989000000
+20,2019-20,R6,East of England,%,Inadequate_All_Ages,0.3100351069165180000
+20,2019-20,R6,East of England,%,Borderline_changes_All_Ages,15.6157388410158000000
+20,2019-20,R6,East of England,%,Low_Grade_dyskaryosis_All_Ages,38.6814389276433000000
+20,2019-20,R6,East of England,%,Moderate_dyskaryosis_All_Ages,9.9712761592121500000
+20,2019-20,R6,East of England,%,Severe_dyskaryosis_All_Ages,10.4454474992021000000
+20,2019-20,R6,East of England,%,Severe_dyskaryosis_Inv_All_Ages,0.3054757671089230000
+20,2019-20,R6,East of England,%,Glandular_neoplasia_All_Ages,0.7203756896001460000
+20,2019-20,R6,East of England,%,Clinical_Urgent_All_Ages,4.1717959239502100000
+20,2019-20,R6,East of England,%,Clinical_Non_Urgent_All_Ages,14.8634477727625000000
+20,2019-20,R6,East of England,%,Other_All_Ages,4.9149683125883400000
+20,2019-20,R7,London,Number,Total_referrals_All_Ages,43285
+20,2019-20,R7,London,%,Total_Screening_Sample_All_Ages,61.7003580917177000000
+20,2019-20,R7,London,%,Inadequate_All_Ages,0.5891186323206650000
+20,2019-20,R7,London,%,Borderline_changes_All_Ages,19.6627007046321000000
+20,2019-20,R7,London,%,Low_Grade_dyskaryosis_All_Ages,30.8790574101883000000
+20,2019-20,R7,London,%,Moderate_dyskaryosis_All_Ages,5.6647799468638100000
+20,2019-20,R7,London,%,Severe_dyskaryosis_All_Ages,4.3848908397828300000
+20,2019-20,R7,London,%,Severe_dyskaryosis_Inv_All_Ages,0.1709599168303110000
+20,2019-20,R7,London,%,Glandular_neoplasia_All_Ages,0.3488506410996880000
+20,2019-20,R7,London,%,Clinical_Urgent_All_Ages,7.8964999422432700000
+20,2019-20,R7,London,%,Clinical_Non_Urgent_All_Ages,27.2796580801663000000
+20,2019-20,R7,London,%,Other_All_Ages,3.1234838858727000000
+20,2019-20,R8,South East,Number,Total_referrals_All_Ages,17520
+20,2019-20,R8,South East,%,Total_Screening_Sample_All_Ages,79.3550228310502000000
+20,2019-20,R8,South East,%,Inadequate_All_Ages,0.7020547945205480000
+20,2019-20,R8,South East,%,Borderline_changes_All_Ages,19.8972602739726000000
+20,2019-20,R8,South East,%,Low_Grade_dyskaryosis_All_Ages,39.3721461187215000000
+20,2019-20,R8,South East,%,Moderate_dyskaryosis_All_Ages,8.2762557077625600000
+20,2019-20,R8,South East,%,Severe_dyskaryosis_All_Ages,10.1369863013699000000
+20,2019-20,R8,South East,%,Severe_dyskaryosis_Inv_All_Ages,0.3196347031963470000
+20,2019-20,R8,South East,%,Glandular_neoplasia_All_Ages,0.6506849315068490000
+20,2019-20,R8,South East,%,Clinical_Urgent_All_Ages,2.4315068493150700000
+20,2019-20,R8,South East,%,Clinical_Non_Urgent_All_Ages,10.2168949771690000000
+20,2019-20,R8,South East,%,Other_All_Ages,7.9965753424657500000
+20,2019-20,S,South,Number,Total_referrals_All_Ages,43555
+20,2019-20,S,South,%,Total_Screening_Sample_All_Ages,74.0075766272529000000
+20,2019-20,S,South,%,Inadequate_All_Ages,0.8655722649523590000
+20,2019-20,S,South,%,Borderline_changes_All_Ages,19.1137642061761000000
+20,2019-20,S,South,%,Low_Grade_dyskaryosis_All_Ages,35.1073355527494000000
+20,2019-20,S,South,%,Moderate_dyskaryosis_All_Ages,8.7636321891860900000
+20,2019-20,S,South,%,Severe_dyskaryosis_All_Ages,9.2067500860980400000
+20,2019-20,S,South,%,Severe_dyskaryosis_Inv_All_Ages,0.3191367236827000000
+20,2019-20,S,South,%,Glandular_neoplasia_All_Ages,0.6313856044082190000
+20,2019-20,S,South,%,Clinical_Urgent_All_Ages,4.9753185627367700000
+20,2019-20,S,South,%,Clinical_Non_Urgent_All_Ages,14.6091149121800000000
+20,2019-20,S,South,%,Other_All_Ages,6.4079898978303300000

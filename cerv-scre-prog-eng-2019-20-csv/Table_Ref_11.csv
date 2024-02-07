@@ -1,0 +1,201 @@
+﻿Table_ref,Collection_Year,Parent_Org_Code,Parent_Org_Name,Unit,Indicator,Value
+11,2019-20,A,North East,Number,Invited_Abnormality_25to64,8482
+11,2019-20,A,North East,Number,Invited_Call_25to64,31309
+11,2019-20,A,North East,Number,Invited_Inadequate_25to64,2463
+11,2019-20,A,North East,Number,Invited_Recall_25to64,144170
+11,2019-20,A,North East,Number,Invited_Surveillance_25to64,13760
+11,2019-20,A,North East,Number,Result_Borderline_changes_25to64,4281
+11,2019-20,A,North East,Number,Result_Glandular_neoplasia_25to64,75
+11,2019-20,A,North East,Number,Result_Low_Grade_dyskaryosis_25to64,3110
+11,2019-20,A,North East,Number,Result_Moderate_dyskaryosis_25to64,999
+11,2019-20,A,North East,Number,Result_Negative_25to64,137596
+11,2019-20,A,North East,Number,Result_Severe_dyskaryosis_25to64,1027
+11,2019-20,A,North East,Number,Result_Severe_dyskaryosis_Inv_25to64,52
+11,2019-20,A,North East,Number,Tested_Abnormality_25to64,316
+11,2019-20,A,North East,Number,Tested_Call_25to64,11806
+11,2019-20,A,North East,Number,Tested_Ceased_25to64,1318
+11,2019-20,A,North East,Number,Tested_Inadequate_25to64,1219
+11,2019-20,A,North East,Number,Tested_Outside_Programme_25to64,21108
+11,2019-20,A,North East,Number,Tested_Recall_25to64,97418
+11,2019-20,A,North East,Number,Tested_Surveillance_25to64,7221
+11,2019-20,A,North East,Number,Tested_Suspended_25to64,7199
+11,2019-20,B,North West,Number,Invited_Abnormality_25to64,18114
+11,2019-20,B,North West,Number,Invited_Call_25to64,110253
+11,2019-20,B,North West,Number,Invited_Inadequate_25to64,8411
+11,2019-20,B,North West,Number,Invited_Recall_25to64,390749
+11,2019-20,B,North West,Number,Invited_Surveillance_25to64,57534
+11,2019-20,B,North West,Number,Result_Borderline_changes_25to64,4043
+11,2019-20,B,North West,Number,Result_Glandular_neoplasia_25to64,165
+11,2019-20,B,North West,Number,Result_Low_Grade_dyskaryosis_25to64,8607
+11,2019-20,B,North West,Number,Result_Moderate_dyskaryosis_25to64,1858
+11,2019-20,B,North West,Number,Result_Negative_25to64,399122
+11,2019-20,B,North West,Number,Result_Severe_dyskaryosis_25to64,2690
+11,2019-20,B,North West,Number,Result_Severe_dyskaryosis_Inv_25to64,66
+11,2019-20,B,North West,Number,Tested_Abnormality_25to64,325
+11,2019-20,B,North West,Number,Tested_Call_25to64,37200
+11,2019-20,B,North West,Number,Tested_Ceased_25to64,2890
+11,2019-20,B,North West,Number,Tested_Inadequate_25to64,4506
+11,2019-20,B,North West,Number,Tested_Outside_Programme_25to64,72419
+11,2019-20,B,North West,Number,Tested_Recall_25to64,247826
+11,2019-20,B,North West,Number,Tested_Surveillance_25to64,26101
+11,2019-20,B,North West,Number,Tested_Suspended_25to64,26627
+11,2019-20,D,Yorkshire and the Humber,Number,Invited_Abnormality_25to64,11247
+11,2019-20,D,Yorkshire and the Humber,Number,Invited_Call_25to64,78978
+11,2019-20,D,Yorkshire and the Humber,Number,Invited_Inadequate_25to64,4452
+11,2019-20,D,Yorkshire and the Humber,Number,Invited_Recall_25to64,296221
+11,2019-20,D,Yorkshire and the Humber,Number,Invited_Surveillance_25to64,27490
+11,2019-20,D,Yorkshire and the Humber,Number,Result_Borderline_changes_25to64,3986
+11,2019-20,D,Yorkshire and the Humber,Number,Result_Glandular_neoplasia_25to64,119
+11,2019-20,D,Yorkshire and the Humber,Number,Result_Low_Grade_dyskaryosis_25to64,4260
+11,2019-20,D,Yorkshire and the Humber,Number,Result_Moderate_dyskaryosis_25to64,1370
+11,2019-20,D,Yorkshire and the Humber,Number,Result_Negative_25to64,286294
+11,2019-20,D,Yorkshire and the Humber,Number,Result_Severe_dyskaryosis_25to64,1895
+11,2019-20,D,Yorkshire and the Humber,Number,Result_Severe_dyskaryosis_Inv_25to64,60
+11,2019-20,D,Yorkshire and the Humber,Number,Tested_Abnormality_25to64,234
+11,2019-20,D,Yorkshire and the Humber,Number,Tested_Call_25to64,26675
+11,2019-20,D,Yorkshire and the Humber,Number,Tested_Ceased_25to64,2125
+11,2019-20,D,Yorkshire and the Humber,Number,Tested_Inadequate_25to64,2515
+11,2019-20,D,Yorkshire and the Humber,Number,Tested_Outside_Programme_25to64,41705
+11,2019-20,D,Yorkshire and the Humber,Number,Tested_Recall_25to64,198810
+11,2019-20,D,Yorkshire and the Humber,Number,Tested_Surveillance_25to64,14310
+11,2019-20,D,Yorkshire and the Humber,Number,Tested_Suspended_25to64,12504
+11,2019-20,E,East Midlands,Number,Invited_Abnormality_25to64,10721
+11,2019-20,E,East Midlands,Number,Invited_Call_25to64,69149
+11,2019-20,E,East Midlands,Number,Invited_Inadequate_25to64,4606
+11,2019-20,E,East Midlands,Number,Invited_Recall_25to64,262205
+11,2019-20,E,East Midlands,Number,Invited_Surveillance_25to64,22193
+11,2019-20,E,East Midlands,Number,Result_Borderline_changes_25to64,3078
+11,2019-20,E,East Midlands,Number,Result_Glandular_neoplasia_25to64,114
+11,2019-20,E,East Midlands,Number,Result_Low_Grade_dyskaryosis_25to64,4737
+11,2019-20,E,East Midlands,Number,Result_Moderate_dyskaryosis_25to64,1113
+11,2019-20,E,East Midlands,Number,Result_Negative_25to64,257488
+11,2019-20,E,East Midlands,Number,Result_Severe_dyskaryosis_25to64,1454
+11,2019-20,E,East Midlands,Number,Result_Severe_dyskaryosis_Inv_25to64,52
+11,2019-20,E,East Midlands,Number,Tested_Abnormality_25to64,230
+11,2019-20,E,East Midlands,Number,Tested_Call_25to64,25086
+11,2019-20,E,East Midlands,Number,Tested_Ceased_25to64,1961
+11,2019-20,E,East Midlands,Number,Tested_Inadequate_25to64,2319
+11,2019-20,E,East Midlands,Number,Tested_Outside_Programme_25to64,36307
+11,2019-20,E,East Midlands,Number,Tested_Recall_25to64,179897
+11,2019-20,E,East Midlands,Number,Tested_Surveillance_25to64,12747
+11,2019-20,E,East Midlands,Number,Tested_Suspended_25to64,10268
+11,2019-20,F,West Midlands,Number,Invited_Abnormality_25to64,14484
+11,2019-20,F,West Midlands,Number,Invited_Call_25to64,94176
+11,2019-20,F,West Midlands,Number,Invited_Inadequate_25to64,11646
+11,2019-20,F,West Midlands,Number,Invited_Recall_25to64,315467
+11,2019-20,F,West Midlands,Number,Invited_Surveillance_25to64,24402
+11,2019-20,F,West Midlands,Number,Result_Borderline_changes_25to64,5187
+11,2019-20,F,West Midlands,Number,Result_Glandular_neoplasia_25to64,102
+11,2019-20,F,West Midlands,Number,Result_Low_Grade_dyskaryosis_25to64,5421
+11,2019-20,F,West Midlands,Number,Result_Moderate_dyskaryosis_25to64,1198
+11,2019-20,F,West Midlands,Number,Result_Negative_25to64,295778
+11,2019-20,F,West Midlands,Number,Result_Severe_dyskaryosis_25to64,1527
+11,2019-20,F,West Midlands,Number,Result_Severe_dyskaryosis_Inv_25to64,46
+11,2019-20,F,West Midlands,Number,Tested_Abnormality_25to64,309
+11,2019-20,F,West Midlands,Number,Tested_Call_25to64,30392
+11,2019-20,F,West Midlands,Number,Tested_Ceased_25to64,2489
+11,2019-20,F,West Midlands,Number,Tested_Inadequate_25to64,6063
+11,2019-20,F,West Midlands,Number,Tested_Outside_Programme_25to64,49887
+11,2019-20,F,West Midlands,Number,Tested_Recall_25to64,198564
+11,2019-20,F,West Midlands,Number,Tested_Surveillance_25to64,12161
+11,2019-20,F,West Midlands,Number,Tested_Suspended_25to64,12209
+11,2019-20,G,East of England,Number,Invited_Abnormality_25to64,18428
+11,2019-20,G,East of England,Number,Invited_Call_25to64,98939
+11,2019-20,G,East of England,Number,Invited_Inadequate_25to64,7209
+11,2019-20,G,East of England,Number,Invited_Recall_25to64,360157
+11,2019-20,G,East of England,Number,Invited_Surveillance_25to64,43552
+11,2019-20,G,East of England,Number,Result_Borderline_changes_25to64,5404
+11,2019-20,G,East of England,Number,Result_Glandular_neoplasia_25to64,149
+11,2019-20,G,East of England,Number,Result_Low_Grade_dyskaryosis_25to64,8827
+11,2019-20,G,East of England,Number,Result_Moderate_dyskaryosis_25to64,2155
+11,2019-20,G,East of England,Number,Result_Negative_25to64,352909
+11,2019-20,G,East of England,Number,Result_Severe_dyskaryosis_25to64,2114
+11,2019-20,G,East of England,Number,Result_Severe_dyskaryosis_Inv_25to64,66
+11,2019-20,G,East of England,Number,Tested_Abnormality_25to64,507
+11,2019-20,G,East of England,Number,Tested_Call_25to64,34308
+11,2019-20,G,East of England,Number,Tested_Ceased_25to64,2834
+11,2019-20,G,East of England,Number,Tested_Inadequate_25to64,3727
+11,2019-20,G,East of England,Number,Tested_Outside_Programme_25to64,48640
+11,2019-20,G,East of England,Number,Tested_Recall_25to64,240842
+11,2019-20,G,East of England,Number,Tested_Surveillance_25to64,26468
+11,2019-20,G,East of England,Number,Tested_Suspended_25to64,16046
+11,2019-20,H,London,Number,Invited_Abnormality_25to64,27489
+11,2019-20,H,London,Number,Invited_Call_25to64,299560
+11,2019-20,H,London,Number,Invited_Inadequate_25to64,18397
+11,2019-20,H,London,Number,Invited_Recall_25to64,551381
+11,2019-20,H,London,Number,Invited_Surveillance_25to64,53124
+11,2019-20,H,London,Number,Result_Borderline_changes_25to64,13181
+11,2019-20,H,London,Number,Result_Glandular_neoplasia_25to64,152
+11,2019-20,H,London,Number,Result_Low_Grade_dyskaryosis_25to64,17141
+11,2019-20,H,London,Number,Result_Moderate_dyskaryosis_25to64,2768
+11,2019-20,H,London,Number,Result_Negative_25to64,537393
+11,2019-20,H,London,Number,Result_Severe_dyskaryosis_25to64,2000
+11,2019-20,H,London,Number,Result_Severe_dyskaryosis_Inv_25to64,92
+11,2019-20,H,London,Number,Tested_Abnormality_25to64,666
+11,2019-20,H,London,Number,Tested_Call_25to64,77594
+11,2019-20,H,London,Number,Tested_Ceased_25to64,3633
+11,2019-20,H,London,Number,Tested_Inadequate_25to64,8717
+11,2019-20,H,London,Number,Tested_Outside_Programme_25to64,139267
+11,2019-20,H,London,Number,Tested_Recall_25to64,295764
+11,2019-20,H,London,Number,Tested_Surveillance_25to64,24326
+11,2019-20,H,London,Number,Tested_Suspended_25to64,27580
+11,2019-20,J,South East,Number,Invited_Abnormality_25to64,13404
+11,2019-20,J,South East,Number,Invited_Call_25to64,94638
+11,2019-20,J,South East,Number,Invited_Inadequate_25to64,9334
+11,2019-20,J,South East,Number,Invited_Recall_25to64,337078
+11,2019-20,J,South East,Number,Invited_Surveillance_25to64,26668
+11,2019-20,J,South East,Number,Result_Borderline_changes_25to64,5886
+11,2019-20,J,South East,Number,Result_Glandular_neoplasia_25to64,96
+11,2019-20,J,South East,Number,Result_Low_Grade_dyskaryosis_25to64,8326
+11,2019-20,J,South East,Number,Result_Moderate_dyskaryosis_25to64,1468
+11,2019-20,J,South East,Number,Result_Negative_25to64,321847
+11,2019-20,J,South East,Number,Result_Severe_dyskaryosis_25to64,1522
+11,2019-20,J,South East,Number,Result_Severe_dyskaryosis_Inv_25to64,60
+11,2019-20,J,South East,Number,Tested_Abnormality_25to64,354
+11,2019-20,J,South East,Number,Tested_Call_25to64,30655
+11,2019-20,J,South East,Number,Tested_Ceased_25to64,2941
+11,2019-20,J,South East,Number,Tested_Inadequate_25to64,4988
+11,2019-20,J,South East,Number,Tested_Outside_Programme_25to64,54861
+11,2019-20,J,South East,Number,Tested_Recall_25to64,220642
+11,2019-20,J,South East,Number,Tested_Surveillance_25to64,15477
+11,2019-20,J,South East,Number,Tested_Suspended_25to64,12313
+11,2019-20,K,South West,Number,Invited_Abnormality_25to64,19839
+11,2019-20,K,South West,Number,Invited_Call_25to64,119040
+11,2019-20,K,South West,Number,Invited_Inadequate_25to64,10799
+11,2019-20,K,South West,Number,Invited_Recall_25to64,448414
+11,2019-20,K,South West,Number,Invited_Surveillance_25to64,41666
+11,2019-20,K,South West,Number,Result_Borderline_changes_25to64,6874
+11,2019-20,K,South West,Number,Result_Glandular_neoplasia_25to64,182
+11,2019-20,K,South West,Number,Result_Low_Grade_dyskaryosis_25to64,10035
+11,2019-20,K,South West,Number,Result_Moderate_dyskaryosis_25to64,2479
+11,2019-20,K,South West,Number,Result_Negative_25to64,431759
+11,2019-20,K,South West,Number,Result_Severe_dyskaryosis_25to64,2196
+11,2019-20,K,South West,Number,Result_Severe_dyskaryosis_Inv_25to64,101
+11,2019-20,K,South West,Number,Tested_Abnormality_25to64,540
+11,2019-20,K,South West,Number,Tested_Call_25to64,42250
+11,2019-20,K,South West,Number,Tested_Ceased_25to64,3595
+11,2019-20,K,South West,Number,Tested_Inadequate_25to64,6073
+11,2019-20,K,South West,Number,Tested_Outside_Programme_25to64,56906
+11,2019-20,K,South West,Number,Tested_Recall_25to64,306013
+11,2019-20,K,South West,Number,Tested_Surveillance_25to64,24883
+11,2019-20,K,South West,Number,Tested_Suspended_25to64,17186
+11,2019-20,S,South,Number,Invited_Abnormality_25to64,33243
+11,2019-20,S,South,Number,Invited_Call_25to64,213678
+11,2019-20,S,South,Number,Invited_Inadequate_25to64,20133
+11,2019-20,S,South,Number,Invited_Recall_25to64,785492
+11,2019-20,S,South,Number,Invited_Surveillance_25to64,68334
+11,2019-20,S,South,Number,Result_Borderline_changes_25to64,12760
+11,2019-20,S,South,Number,Result_Glandular_neoplasia_25to64,278
+11,2019-20,S,South,Number,Result_Low_Grade_dyskaryosis_25to64,18361
+11,2019-20,S,South,Number,Result_Moderate_dyskaryosis_25to64,3947
+11,2019-20,S,South,Number,Result_Negative_25to64,753606
+11,2019-20,S,South,Number,Result_Severe_dyskaryosis_25to64,3718
+11,2019-20,S,South,Number,Result_Severe_dyskaryosis_Inv_25to64,161
+11,2019-20,S,South,Number,Tested_Abnormality_25to64,894
+11,2019-20,S,South,Number,Tested_Call_25to64,72905
+11,2019-20,S,South,Number,Tested_Ceased_25to64,6536
+11,2019-20,S,South,Number,Tested_Inadequate_25to64,11061
+11,2019-20,S,South,Number,Tested_Outside_Programme_25to64,111767
+11,2019-20,S,South,Number,Tested_Recall_25to64,526655
+11,2019-20,S,South,Number,Tested_Surveillance_25to64,40360
+11,2019-20,S,South,Number,Tested_Suspended_25to64,29499

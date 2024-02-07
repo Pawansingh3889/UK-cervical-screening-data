@@ -1,0 +1,577 @@
+﻿Table_ref,Collection_Year,Parent_Org_Code,Parent_Org_Name,Unit,Indicator,Value
+23,2019-20,ENG,England,%,BordLow_Ablation_Biopsy_All_Ages,0.0056637328530487900
+23,2019-20,ENG,England,%,BordLow_Ablation_No_biopsy_All_Ages,0.0203894382709756000
+23,2019-20,ENG,England,%,BordLow_Diag_biopsy_punch_All_Ages,55.0446868522106000000
+23,2019-20,ENG,England,%,BordLow_Excision_All_Ages,0.9820912767186600000
+23,2019-20,ENG,England,%,BordLow_No_procedure_All_Ages,43.5133267634032000000
+23,2019-20,ENG,England,%,BordLow_Other_All_Ages,0.4338419365435370000
+23,2019-20,ENG,England,%,BordLow_Procedure_used_All_Ages,56.4866732365968000000
+23,2019-20,ENG,England,Number,BordLow_referrals_All_Ages,88281
+23,2019-20,ENG,England,%,ClinNonUrg_Ablation_Biopsy_All_Ages,0.1412429378531070000
+23,2019-20,ENG,England,%,ClinNonUrg_Ablation_No_biopsy_All_Ages,1.0924708866597500000
+23,2019-20,ENG,England,%,ClinNonUrg_Diag_biopsy_punch_All_Ages,29.8772051193359000000
+23,2019-20,ENG,England,%,ClinNonUrg_Excision_All_Ages,0.9944655828433070000
+23,2019-20,ENG,England,%,ClinNonUrg_No_procedure_All_Ages,63.6169722126139000000
+23,2019-20,ENG,England,%,ClinNonUrg_Other_All_Ages,4.2776432606941100000
+23,2019-20,ENG,England,%,ClinNonUrg_Procedure_used_All_Ages,36.3830277873861000000
+23,2019-20,ENG,England,Number,ClinNonUrg_referrals_All_Ages,34692
+23,2019-20,ENG,England,%,ClinUrg_Ablation_Biopsy_All_Ages,0.0223347230494342000
+23,2019-20,ENG,England,%,ClinUrg_Ablation_No_biopsy_All_Ages,0.3648004764740920000
+23,2019-20,ENG,England,%,ClinUrg_Diag_biopsy_punch_All_Ages,35.0059559261465000000
+23,2019-20,ENG,England,%,ClinUrg_Excision_All_Ages,1.5336509827278100000
+23,2019-20,ENG,England,%,ClinUrg_No_procedure_All_Ages,58.3680762358547000000
+23,2019-20,ENG,England,%,ClinUrg_Other_All_Ages,4.7051816557474700000
+23,2019-20,ENG,England,%,ClinUrg_Procedure_used_All_Ages,41.6319237641453000000
+23,2019-20,ENG,England,Number,ClinUrg_referrals_All_Ages,13432
+23,2019-20,ENG,England,%,HGDWorse_Ablation_Biopsy_All_Ages,0.0094855661302052100
+23,2019-20,ENG,England,%,HGDWorse_Ablation_No_biopsy_All_Ages,0.0031618553767350700
+23,2019-20,ENG,England,%,HGDWorse_Diag_biopsy_punch_All_Ages,37.0000316185538000000
+23,2019-20,ENG,England,%,HGDWorse_Excision_All_Ages,50.2924716223480000000
+23,2019-20,ENG,England,%,HGDWorse_No_procedure_All_Ages,12.5272710026243000000
+23,2019-20,ENG,England,%,HGDWorse_Other_All_Ages,0.1675783349669590000
+23,2019-20,ENG,England,%,HGDWorse_Procedure_used_All_Ages,87.4727289973757000000
+23,2019-20,ENG,England,Number,HGDWorse_referrals_All_Ages,31627
+23,2019-20,ENG,England,%,Inad_Ablation_Biopsy_All_Ages,0.0000000000000000000
+23,2019-20,ENG,England,%,Inad_Ablation_No_biopsy_All_Ages,0.3696857670979670000
+23,2019-20,ENG,England,%,Inad_Diag_biopsy_punch_All_Ages,25.6007393715342000000
+23,2019-20,ENG,England,%,Inad_Excision_All_Ages,0.7393715341959330000
+23,2019-20,ENG,England,%,Inad_No_procedure_All_Ages,72.3659889094270000000
+23,2019-20,ENG,England,%,Inad_Other_All_Ages,0.9242144177449170000
+23,2019-20,ENG,England,%,Inad_Procedure_used_All_Ages,27.6340110905730000000
+23,2019-20,ENG,England,Number,Inad_referrals_All_Ages,1082
+23,2019-20,ENG,England,%,Total_Ablation_Biopsy_All_Ages,0.0358132641310876000
+23,2019-20,ENG,England,%,Total_Ablation_No_biopsy_All_Ages,0.2754866471622120000
+23,2019-20,ENG,England,%,Total_Diag_biopsy_punch_All_Ages,43.5158707857430000000
+23,2019-20,ENG,England,%,Total_Excision_All_Ages,9.6861105142233800000
+23,2019-20,ENG,England,%,Total_No_procedure_All_Ages,44.9809087753517000000
+23,2019-20,ENG,England,%,Total_Other_All_Ages,1.5058100133886500000
+23,2019-20,ENG,England,%,Total_Procedure_used_All_Ages,55.0190912246483000000
+23,2019-20,ENG,England,Number,Total_referrals_All_Ages,181497
+23,2019-20,NEYH,"North East, Yorkshire and the Humber",%,BordLow_Ablation_Biopsy_All_Ages,0.0369344413665743000
+23,2019-20,NEYH,"North East, Yorkshire and the Humber",%,BordLow_Ablation_No_biopsy_All_Ages,0.0184672206832872000
+23,2019-20,NEYH,"North East, Yorkshire and the Humber",%,BordLow_Diag_biopsy_punch_All_Ages,64.2843951985226000000
+23,2019-20,NEYH,"North East, Yorkshire and the Humber",%,BordLow_Excision_All_Ages,1.0156971375807900000
+23,2019-20,NEYH,"North East, Yorkshire and the Humber",%,BordLow_No_procedure_All_Ages,34.3582640812558000000
+23,2019-20,NEYH,"North East, Yorkshire and the Humber",%,BordLow_Other_All_Ages,0.2862419205909510000
+23,2019-20,NEYH,"North East, Yorkshire and the Humber",%,BordLow_Procedure_used_All_Ages,65.6417359187442000000
+23,2019-20,NEYH,"North East, Yorkshire and the Humber",Number,BordLow_referrals_All_Ages,10830
+23,2019-20,NEYH,"North East, Yorkshire and the Humber",%,ClinNonUrg_Ablation_Biopsy_All_Ages,0.0358615743231128000
+23,2019-20,NEYH,"North East, Yorkshire and the Humber",%,ClinNonUrg_Ablation_No_biopsy_All_Ages,1.3268782499551700000
+23,2019-20,NEYH,"North East, Yorkshire and the Humber",%,ClinNonUrg_Diag_biopsy_punch_All_Ages,30.6437152590999000000
+23,2019-20,NEYH,"North East, Yorkshire and the Humber",%,ClinNonUrg_Excision_All_Ages,1.4703245472476200000
+23,2019-20,NEYH,"North East, Yorkshire and the Humber",%,ClinNonUrg_No_procedure_All_Ages,61.7715617715618000000
+23,2019-20,NEYH,"North East, Yorkshire and the Humber",%,ClinNonUrg_Other_All_Ages,4.7516585978124400000
+23,2019-20,NEYH,"North East, Yorkshire and the Humber",%,ClinNonUrg_Procedure_used_All_Ages,38.2284382284382000000
+23,2019-20,NEYH,"North East, Yorkshire and the Humber",Number,ClinNonUrg_referrals_All_Ages,5577
+23,2019-20,NEYH,"North East, Yorkshire and the Humber",%,ClinUrg_Ablation_Biopsy_All_Ages,0.0000000000000000000
+23,2019-20,NEYH,"North East, Yorkshire and the Humber",%,ClinUrg_Ablation_No_biopsy_All_Ages,0.4146730462519940000
+23,2019-20,NEYH,"North East, Yorkshire and the Humber",%,ClinUrg_Diag_biopsy_punch_All_Ages,38.3094098883573000000
+23,2019-20,NEYH,"North East, Yorkshire and the Humber",%,ClinUrg_Excision_All_Ages,1.3397129186602900000
+23,2019-20,NEYH,"North East, Yorkshire and the Humber",%,ClinUrg_No_procedure_All_Ages,54.3221690590112000000
+23,2019-20,NEYH,"North East, Yorkshire and the Humber",%,ClinUrg_Other_All_Ages,5.6140350877193000000
+23,2019-20,NEYH,"North East, Yorkshire and the Humber",%,ClinUrg_Procedure_used_All_Ages,45.6778309409888000000
+23,2019-20,NEYH,"North East, Yorkshire and the Humber",Number,ClinUrg_referrals_All_Ages,3135
+23,2019-20,NEYH,"North East, Yorkshire and the Humber",%,HGDWorse_Ablation_Biopsy_All_Ages,0.0197160883280757000
+23,2019-20,NEYH,"North East, Yorkshire and the Humber",%,HGDWorse_Ablation_No_biopsy_All_Ages,0.0000000000000000000
+23,2019-20,NEYH,"North East, Yorkshire and the Humber",%,HGDWorse_Diag_biopsy_punch_All_Ages,37.8154574132492000000
+23,2019-20,NEYH,"North East, Yorkshire and the Humber",%,HGDWorse_Excision_All_Ages,50.9660883280757000000
+23,2019-20,NEYH,"North East, Yorkshire and the Humber",%,HGDWorse_No_procedure_All_Ages,11.1001577287066000000
+23,2019-20,NEYH,"North East, Yorkshire and the Humber",%,HGDWorse_Other_All_Ages,0.0985804416403785000
+23,2019-20,NEYH,"North East, Yorkshire and the Humber",%,HGDWorse_Procedure_used_All_Ages,88.8998422712934000000
+23,2019-20,NEYH,"North East, Yorkshire and the Humber",Number,HGDWorse_referrals_All_Ages,5072
+23,2019-20,NEYH,"North East, Yorkshire and the Humber",%,Inad_Ablation_Biopsy_All_Ages,0.0000000000000000000
+23,2019-20,NEYH,"North East, Yorkshire and the Humber",%,Inad_Ablation_No_biopsy_All_Ages,0.0000000000000000000
+23,2019-20,NEYH,"North East, Yorkshire and the Humber",%,Inad_Diag_biopsy_punch_All_Ages,39.4736842105263000000
+23,2019-20,NEYH,"North East, Yorkshire and the Humber",%,Inad_Excision_All_Ages,0.0000000000000000000
+23,2019-20,NEYH,"North East, Yorkshire and the Humber",%,Inad_No_procedure_All_Ages,60.5263157894737000000
+23,2019-20,NEYH,"North East, Yorkshire and the Humber",%,Inad_Other_All_Ages,0.0000000000000000000
+23,2019-20,NEYH,"North East, Yorkshire and the Humber",%,Inad_Procedure_used_All_Ages,39.4736842105263000000
+23,2019-20,NEYH,"North East, Yorkshire and the Humber",Number,Inad_referrals_All_Ages,76
+23,2019-20,NEYH,"North East, Yorkshire and the Humber",%,Total_Ablation_Biopsy_All_Ages,0.0262309825376602000
+23,2019-20,NEYH,"North East, Yorkshire and the Humber",%,Total_Ablation_No_biopsy_All_Ages,0.3897174548452370000
+23,2019-20,NEYH,"North East, Yorkshire and the Humber",%,Total_Diag_biopsy_punch_All_Ages,45.9604286892003000000
+23,2019-20,NEYH,"North East, Yorkshire and the Humber",%,Total_Excision_All_Ages,10.8783631866897000000
+23,2019-20,NEYH,"North East, Yorkshire and the Humber",%,Total_No_procedure_All_Ages,40.8903544929926000000
+23,2019-20,NEYH,"North East, Yorkshire and the Humber",%,Total_Other_All_Ages,1.8549051937345400000
+23,2019-20,NEYH,"North East, Yorkshire and the Humber",%,Total_Procedure_used_All_Ages,59.1096455070074000000
+23,2019-20,NEYH,"North East, Yorkshire and the Humber",Number,Total_referrals_All_Ages,26686
+23,2019-20,R1,North East,%,BordLow_Ablation_Biopsy_All_Ages,0.0878734622144112000
+23,2019-20,R1,North East,%,BordLow_Ablation_No_biopsy_All_Ages,0.0000000000000000000
+23,2019-20,R1,North East,%,BordLow_Diag_biopsy_punch_All_Ages,73.1766256590510000000
+23,2019-20,R1,North East,%,BordLow_Excision_All_Ages,1.1862917398945500000
+23,2019-20,R1,North East,%,BordLow_No_procedure_All_Ages,25.3734622144112000000
+23,2019-20,R1,North East,%,BordLow_Other_All_Ages,0.1757469244288220000
+23,2019-20,R1,North East,%,BordLow_Procedure_used_All_Ages,74.6265377855888000000
+23,2019-20,R1,North East,Number,BordLow_referrals_All_Ages,4552
+23,2019-20,R1,North East,%,ClinNonUrg_Ablation_Biopsy_All_Ages,0.0000000000000000000
+23,2019-20,R1,North East,%,ClinNonUrg_Ablation_No_biopsy_All_Ages,0.0000000000000000000
+23,2019-20,R1,North East,%,ClinNonUrg_Diag_biopsy_punch_All_Ages,20.7801950487622000000
+23,2019-20,R1,North East,%,ClinNonUrg_Excision_All_Ages,1.9504876219054800000
+23,2019-20,R1,North East,%,ClinNonUrg_No_procedure_All_Ages,75.0187546886722000000
+23,2019-20,R1,North East,%,ClinNonUrg_Other_All_Ages,2.2505626406601600000
+23,2019-20,R1,North East,%,ClinNonUrg_Procedure_used_All_Ages,24.9812453113278000000
+23,2019-20,R1,North East,Number,ClinNonUrg_referrals_All_Ages,1333
+23,2019-20,R1,North East,%,ClinUrg_Ablation_Biopsy_All_Ages,0.0000000000000000000
+23,2019-20,R1,North East,%,ClinUrg_Ablation_No_biopsy_All_Ages,0.5917159763313610000
+23,2019-20,R1,North East,%,ClinUrg_Diag_biopsy_punch_All_Ages,37.2781065088757000000
+23,2019-20,R1,North East,%,ClinUrg_Excision_All_Ages,8.8757396449704100000
+23,2019-20,R1,North East,%,ClinUrg_No_procedure_All_Ages,52.0710059171598000000
+23,2019-20,R1,North East,%,ClinUrg_Other_All_Ages,1.1834319526627200000
+23,2019-20,R1,North East,%,ClinUrg_Procedure_used_All_Ages,47.9289940828402000000
+23,2019-20,R1,North East,Number,ClinUrg_referrals_All_Ages,169
+23,2019-20,R1,North East,%,HGDWorse_Ablation_Biopsy_All_Ages,0.0526592943654555000
+23,2019-20,R1,North East,%,HGDWorse_Ablation_No_biopsy_All_Ages,0.0000000000000000000
+23,2019-20,R1,North East,%,HGDWorse_Diag_biopsy_punch_All_Ages,46.0768825697736000000
+23,2019-20,R1,North East,%,HGDWorse_Excision_All_Ages,45.3396524486572000000
+23,2019-20,R1,North East,%,HGDWorse_No_procedure_All_Ages,8.5308056872037900000
+23,2019-20,R1,North East,%,HGDWorse_Other_All_Ages,0.0000000000000000000
+23,2019-20,R1,North East,%,HGDWorse_Procedure_used_All_Ages,91.4691943127962000000
+23,2019-20,R1,North East,Number,HGDWorse_referrals_All_Ages,1899
+23,2019-20,R1,North East,%,Inad_Ablation_Biopsy_All_Ages,0.0000000000000000000
+23,2019-20,R1,North East,%,Inad_Ablation_No_biopsy_All_Ages,0.0000000000000000000
+23,2019-20,R1,North East,%,Inad_Diag_biopsy_punch_All_Ages,29.1666666666667000000
+23,2019-20,R1,North East,%,Inad_Excision_All_Ages,0.0000000000000000000
+23,2019-20,R1,North East,%,Inad_No_procedure_All_Ages,70.8333333333333000000
+23,2019-20,R1,North East,%,Inad_Other_All_Ages,0.0000000000000000000
+23,2019-20,R1,North East,%,Inad_Procedure_used_All_Ages,29.1666666666667000000
+23,2019-20,R1,North East,Number,Inad_referrals_All_Ages,24
+23,2019-20,R1,North East,%,Total_Ablation_Biopsy_All_Ages,0.0591156301726176000
+23,2019-20,R1,North East,%,Total_Ablation_No_biopsy_All_Ages,0.0118231260345235000
+23,2019-20,R1,North East,%,Total_Diag_biopsy_punch_All_Ages,55.4031685977773000000
+23,2019-20,R1,North East,%,Total_Excision_All_Ages,12.0950579333176000000
+23,2019-20,R1,North East,%,Total_No_procedure_All_Ages,31.9460865452826000000
+23,2019-20,R1,North East,%,Total_Other_All_Ages,0.4847481674154650000
+23,2019-20,R1,North East,%,Total_Procedure_used_All_Ages,68.0539134547174000000
+23,2019-20,R1,North East,Number,Total_referrals_All_Ages,8458
+23,2019-20,R10,South West,%,BordLow_Ablation_Biopsy_All_Ages,0.0000000000000000000
+23,2019-20,R10,South West,%,BordLow_Ablation_No_biopsy_All_Ages,0.0156494522691706000
+23,2019-20,R10,South West,%,BordLow_Diag_biopsy_punch_All_Ages,66.9092331768388000000
+23,2019-20,R10,South West,%,BordLow_Excision_All_Ages,1.3771517996870100000
+23,2019-20,R10,South West,%,BordLow_No_procedure_All_Ages,31.1971830985915000000
+23,2019-20,R10,South West,%,BordLow_Other_All_Ages,0.5007824726134590000
+23,2019-20,R10,South West,%,BordLow_Procedure_used_All_Ages,68.8028169014084000000
+23,2019-20,R10,South West,Number,BordLow_referrals_All_Ages,12780
+23,2019-20,R10,South West,%,ClinNonUrg_Ablation_Biopsy_All_Ages,0.0242306760358614000
+23,2019-20,R10,South West,%,ClinNonUrg_Ablation_No_biopsy_All_Ages,0.3634601405379210000
+23,2019-20,R10,South West,%,ClinNonUrg_Diag_biopsy_punch_All_Ages,35.6190937727163000000
+23,2019-20,R10,South West,%,ClinNonUrg_Excision_All_Ages,1.3569178580082400000
+23,2019-20,R10,South West,%,ClinNonUrg_No_procedure_All_Ages,59.3893869638963000000
+23,2019-20,R10,South West,%,ClinNonUrg_Other_All_Ages,3.2469105888054300000
+23,2019-20,R10,South West,%,ClinNonUrg_Procedure_used_All_Ages,40.6106130361037000000
+23,2019-20,R10,South West,Number,ClinNonUrg_referrals_All_Ages,4127
+23,2019-20,R10,South West,%,ClinUrg_Ablation_Biopsy_All_Ages,0.0000000000000000000
+23,2019-20,R10,South West,%,ClinUrg_Ablation_No_biopsy_All_Ages,0.1172332942555690000
+23,2019-20,R10,South West,%,ClinUrg_Diag_biopsy_punch_All_Ages,39.2731535756155000000
+23,2019-20,R10,South West,%,ClinUrg_Excision_All_Ages,1.9929660023446700000
+23,2019-20,R10,South West,%,ClinUrg_No_procedure_All_Ages,54.5134818288394000000
+23,2019-20,R10,South West,%,ClinUrg_Other_All_Ages,4.1031652989449000000
+23,2019-20,R10,South West,%,ClinUrg_Procedure_used_All_Ages,45.4865181711606000000
+23,2019-20,R10,South West,Number,ClinUrg_referrals_All_Ages,1706
+23,2019-20,R10,South West,%,HGDWorse_Ablation_Biopsy_All_Ages,0.0000000000000000000
+23,2019-20,R10,South West,%,HGDWorse_Ablation_No_biopsy_All_Ages,0.0000000000000000000
+23,2019-20,R10,South West,%,HGDWorse_Diag_biopsy_punch_All_Ages,30.4878048780488000000
+23,2019-20,R10,South West,%,HGDWorse_Excision_All_Ages,59.4617325483600000000
+23,2019-20,R10,South West,%,HGDWorse_No_procedure_All_Ages,9.8822539949537400000
+23,2019-20,R10,South West,%,HGDWorse_Other_All_Ages,0.1682085786375110000
+23,2019-20,R10,South West,%,HGDWorse_Procedure_used_All_Ages,90.1177460050463000000
+23,2019-20,R10,South West,Number,HGDWorse_referrals_All_Ages,4756
+23,2019-20,R10,South West,%,Inad_Ablation_Biopsy_All_Ages,0.0000000000000000000
+23,2019-20,R10,South West,%,Inad_Ablation_No_biopsy_All_Ages,0.0000000000000000000
+23,2019-20,R10,South West,%,Inad_Diag_biopsy_punch_All_Ages,33.6065573770492000000
+23,2019-20,R10,South West,%,Inad_Excision_All_Ages,1.2295081967213100000
+23,2019-20,R10,South West,%,Inad_No_procedure_All_Ages,63.9344262295082000000
+23,2019-20,R10,South West,%,Inad_Other_All_Ages,1.2295081967213100000
+23,2019-20,R10,South West,%,Inad_Procedure_used_All_Ages,36.0655737704918000000
+23,2019-20,R10,South West,Number,Inad_referrals_All_Ages,244
+23,2019-20,R10,South West,%,Total_Ablation_Biopsy_All_Ages,0.0080096115338406100
+23,2019-20,R10,South West,%,Total_Ablation_No_biopsy_All_Ages,0.0841009211053264000
+23,2019-20,R10,South West,%,Total_Diag_biopsy_punch_All_Ages,50.8690428514217000000
+23,2019-20,R10,South West,%,Total_Excision_All_Ages,12.4469363235883000000
+23,2019-20,R10,South West,%,Total_No_procedure_All_Ages,35.4425310372447000000
+23,2019-20,R10,South West,%,Total_Other_All_Ages,1.1493792551061300000
+23,2019-20,R10,South West,%,Total_Procedure_used_All_Ages,64.5574689627553000000
+23,2019-20,R10,South West,Number,Total_referrals_All_Ages,24970
+23,2019-20,R2,North West,%,BordLow_Ablation_Biopsy_All_Ages,0.0000000000000000000
+23,2019-20,R2,North West,%,BordLow_Ablation_No_biopsy_All_Ages,0.0096181590843512500
+23,2019-20,R2,North West,%,BordLow_Diag_biopsy_punch_All_Ages,43.7241511974608000000
+23,2019-20,R2,North West,%,BordLow_Excision_All_Ages,0.6059440223141290000
+23,2019-20,R2,North West,%,BordLow_No_procedure_All_Ages,55.1312878715014000000
+23,2019-20,R2,North West,%,BordLow_Other_All_Ages,0.5289987496393190000
+23,2019-20,R2,North West,%,BordLow_Procedure_used_All_Ages,44.8687121284986000000
+23,2019-20,R2,North West,Number,BordLow_referrals_All_Ages,10397
+23,2019-20,R2,North West,%,ClinNonUrg_Ablation_Biopsy_All_Ages,0.5703422053231940000
+23,2019-20,R2,North West,%,ClinNonUrg_Ablation_No_biopsy_All_Ages,0.6020278833967050000
+23,2019-20,R2,North West,%,ClinNonUrg_Diag_biopsy_punch_All_Ages,26.2674271229404000000
+23,2019-20,R2,North West,%,ClinNonUrg_Excision_All_Ages,0.6337135614702150000
+23,2019-20,R2,North West,%,ClinNonUrg_No_procedure_All_Ages,64.4645120405577000000
+23,2019-20,R2,North West,%,ClinNonUrg_Other_All_Ages,7.4619771863117900000
+23,2019-20,R2,North West,%,ClinNonUrg_Procedure_used_All_Ages,35.5354879594423000000
+23,2019-20,R2,North West,Number,ClinNonUrg_referrals_All_Ages,6312
+23,2019-20,R2,North West,%,ClinUrg_Ablation_Biopsy_All_Ages,0.0493339911198816000
+23,2019-20,R2,North West,%,ClinUrg_Ablation_No_biopsy_All_Ages,0.3946719289590530000
+23,2019-20,R2,North West,%,ClinUrg_Diag_biopsy_punch_All_Ages,31.2284163788851000000
+23,2019-20,R2,North West,%,ClinUrg_Excision_All_Ages,0.5920078934385790000
+23,2019-20,R2,North West,%,ClinUrg_No_procedure_All_Ages,63.9861864824864000000
+23,2019-20,R2,North West,%,ClinUrg_Other_All_Ages,3.7493833251110000000
+23,2019-20,R2,North West,%,ClinUrg_Procedure_used_All_Ages,36.0138135175136000000
+23,2019-20,R2,North West,Number,ClinUrg_referrals_All_Ages,2027
+23,2019-20,R2,North West,%,HGDWorse_Ablation_Biopsy_All_Ages,0.0434216239687364000
+23,2019-20,R2,North West,%,HGDWorse_Ablation_No_biopsy_All_Ages,0.0217108119843682000
+23,2019-20,R2,North West,%,HGDWorse_Diag_biopsy_punch_All_Ages,27.3339122883196000000
+23,2019-20,R2,North West,%,HGDWorse_Excision_All_Ages,60.6165870603561000000
+23,2019-20,R2,North West,%,HGDWorse_No_procedure_All_Ages,11.9192357794182000000
+23,2019-20,R2,North West,%,HGDWorse_Other_All_Ages,0.0651324359531046000
+23,2019-20,R2,North West,%,HGDWorse_Procedure_used_All_Ages,88.0807642205819000000
+23,2019-20,R2,North West,Number,HGDWorse_referrals_All_Ages,4606
+23,2019-20,R2,North West,%,Inad_Ablation_Biopsy_All_Ages,0.0000000000000000000
+23,2019-20,R2,North West,%,Inad_Ablation_No_biopsy_All_Ages,0.0000000000000000000
+23,2019-20,R2,North West,%,Inad_Diag_biopsy_punch_All_Ages,29.9212598425197000000
+23,2019-20,R2,North West,%,Inad_Excision_All_Ages,1.5748031496063000000
+23,2019-20,R2,North West,%,Inad_No_procedure_All_Ages,68.5039370078740000000
+23,2019-20,R2,North West,%,Inad_Other_All_Ages,0.0000000000000000000
+23,2019-20,R2,North West,%,Inad_Procedure_used_All_Ages,31.4960629921260000000
+23,2019-20,R2,North West,Number,Inad_referrals_All_Ages,127
+23,2019-20,R2,North West,%,Total_Ablation_Biopsy_All_Ages,0.1549274486094320000
+23,2019-20,R2,North West,%,Total_Ablation_No_biopsy_All_Ages,0.2078295042321640000
+23,2019-20,R2,North West,%,Total_Diag_biopsy_punch_All_Ages,34.0538089480048000000
+23,2019-20,R2,North West,%,Total_Excision_All_Ages,11.1245465538089000000
+23,2019-20,R2,North West,%,Total_No_procedure_All_Ages,51.9913845223700000000
+23,2019-20,R2,North West,%,Total_Other_All_Ages,2.4675030229746100000
+23,2019-20,R2,North West,%,Total_Procedure_used_All_Ages,48.0086154776300000000
+23,2019-20,R2,North West,Number,Total_referrals_All_Ages,26464
+23,2019-20,R3,Yorkshire and the Humber,%,BordLow_Ablation_Biopsy_All_Ages,0.0000000000000000000
+23,2019-20,R3,Yorkshire and the Humber,%,BordLow_Ablation_No_biopsy_All_Ages,0.0318572793883402000
+23,2019-20,R3,Yorkshire and the Humber,%,BordLow_Diag_biopsy_punch_All_Ages,57.8368907295317000000
+23,2019-20,R3,Yorkshire and the Humber,%,BordLow_Excision_All_Ages,0.8920038228735270000
+23,2019-20,R3,Yorkshire and the Humber,%,BordLow_No_procedure_All_Ages,40.8728894552405000000
+23,2019-20,R3,Yorkshire and the Humber,%,BordLow_Other_All_Ages,0.3663587129659130000
+23,2019-20,R3,Yorkshire and the Humber,%,BordLow_Procedure_used_All_Ages,59.1271105447595000000
+23,2019-20,R3,Yorkshire and the Humber,Number,BordLow_referrals_All_Ages,6278
+23,2019-20,R3,Yorkshire and the Humber,%,ClinNonUrg_Ablation_Biopsy_All_Ages,0.0471253534401508000
+23,2019-20,R3,Yorkshire and the Humber,%,ClinNonUrg_Ablation_No_biopsy_All_Ages,1.7436380772855800000
+23,2019-20,R3,Yorkshire and the Humber,%,ClinNonUrg_Diag_biopsy_punch_All_Ages,33.7417530631480000000
+23,2019-20,R3,Yorkshire and the Humber,%,ClinNonUrg_Excision_All_Ages,1.3195098963242200000
+23,2019-20,R3,Yorkshire and the Humber,%,ClinNonUrg_No_procedure_All_Ages,57.6107445805844000000
+23,2019-20,R3,Yorkshire and the Humber,%,ClinNonUrg_Other_All_Ages,5.5372290292177200000
+23,2019-20,R3,Yorkshire and the Humber,%,ClinNonUrg_Procedure_used_All_Ages,42.3892554194156000000
+23,2019-20,R3,Yorkshire and the Humber,Number,ClinNonUrg_referrals_All_Ages,4244
+23,2019-20,R3,Yorkshire and the Humber,%,ClinUrg_Ablation_Biopsy_All_Ages,0.0000000000000000000
+23,2019-20,R3,Yorkshire and the Humber,%,ClinUrg_Ablation_No_biopsy_All_Ages,0.4045853000674310000
+23,2019-20,R3,Yorkshire and the Humber,%,ClinUrg_Diag_biopsy_punch_All_Ages,38.3681726230614000000
+23,2019-20,R3,Yorkshire and the Humber,%,ClinUrg_Excision_All_Ages,0.9103169251517200000
+23,2019-20,R3,Yorkshire and the Humber,%,ClinUrg_No_procedure_All_Ages,54.4504383007417000000
+23,2019-20,R3,Yorkshire and the Humber,%,ClinUrg_Other_All_Ages,5.8664868509777500000
+23,2019-20,R3,Yorkshire and the Humber,%,ClinUrg_Procedure_used_All_Ages,45.5495616992583000000
+23,2019-20,R3,Yorkshire and the Humber,Number,ClinUrg_referrals_All_Ages,2966
+23,2019-20,R3,Yorkshire and the Humber,%,HGDWorse_Ablation_Biopsy_All_Ages,0.0000000000000000000
+23,2019-20,R3,Yorkshire and the Humber,%,HGDWorse_Ablation_No_biopsy_All_Ages,0.0000000000000000000
+23,2019-20,R3,Yorkshire and the Humber,%,HGDWorse_Diag_biopsy_punch_All_Ages,32.8710999054523000000
+23,2019-20,R3,Yorkshire and the Humber,%,HGDWorse_Excision_All_Ages,54.3334383863851000000
+23,2019-20,R3,Yorkshire and the Humber,%,HGDWorse_No_procedure_All_Ages,12.6378821304759000000
+23,2019-20,R3,Yorkshire and the Humber,%,HGDWorse_Other_All_Ages,0.1575795776867320000
+23,2019-20,R3,Yorkshire and the Humber,%,HGDWorse_Procedure_used_All_Ages,87.3621178695241000000
+23,2019-20,R3,Yorkshire and the Humber,Number,HGDWorse_referrals_All_Ages,3173
+23,2019-20,R3,Yorkshire and the Humber,%,Inad_Ablation_Biopsy_All_Ages,0.0000000000000000000
+23,2019-20,R3,Yorkshire and the Humber,%,Inad_Ablation_No_biopsy_All_Ages,0.0000000000000000000
+23,2019-20,R3,Yorkshire and the Humber,%,Inad_Diag_biopsy_punch_All_Ages,44.2307692307692000000
+23,2019-20,R3,Yorkshire and the Humber,%,Inad_Excision_All_Ages,0.0000000000000000000
+23,2019-20,R3,Yorkshire and the Humber,%,Inad_No_procedure_All_Ages,55.7692307692308000000
+23,2019-20,R3,Yorkshire and the Humber,%,Inad_Other_All_Ages,0.0000000000000000000
+23,2019-20,R3,Yorkshire and the Humber,%,Inad_Procedure_used_All_Ages,44.2307692307692000000
+23,2019-20,R3,Yorkshire and the Humber,Number,Inad_referrals_All_Ages,52
+23,2019-20,R3,Yorkshire and the Humber,%,Total_Ablation_Biopsy_All_Ages,0.0109721307877990000
+23,2019-20,R3,Yorkshire and the Humber,%,Total_Ablation_No_biopsy_All_Ages,0.5650647355716480000
+23,2019-20,R3,Yorkshire and the Humber,%,Total_Diag_biopsy_punch_All_Ages,41.5788896203643000000
+23,2019-20,R3,Yorkshire and the Humber,%,Total_Excision_All_Ages,10.3138029405311000000
+23,2019-20,R3,Yorkshire and the Humber,%,Total_No_procedure_All_Ages,45.0405968839149000000
+23,2019-20,R3,Yorkshire and the Humber,%,Total_Other_All_Ages,2.4906736888303700000
+23,2019-20,R3,Yorkshire and the Humber,%,Total_Procedure_used_All_Ages,54.9594031160851000000
+23,2019-20,R3,Yorkshire and the Humber,Number,Total_referrals_All_Ages,18228
+23,2019-20,R4,East Midlands,%,BordLow_Ablation_Biopsy_All_Ages,0.0000000000000000000
+23,2019-20,R4,East Midlands,%,BordLow_Ablation_No_biopsy_All_Ages,0.0154631204577084000
+23,2019-20,R4,East Midlands,%,BordLow_Diag_biopsy_punch_All_Ages,60.3834853873512000000
+23,2019-20,R4,East Midlands,%,BordLow_Excision_All_Ages,1.3607546002783400000
+23,2019-20,R4,East Midlands,%,BordLow_No_procedure_All_Ages,37.4516777485697000000
+23,2019-20,R4,East Midlands,%,BordLow_Other_All_Ages,0.7886191433431270000
+23,2019-20,R4,East Midlands,%,BordLow_Procedure_used_All_Ages,62.5483222514303000000
+23,2019-20,R4,East Midlands,Number,BordLow_referrals_All_Ages,6467
+23,2019-20,R4,East Midlands,%,ClinNonUrg_Ablation_Biopsy_All_Ages,0.1381215469613260000
+23,2019-20,R4,East Midlands,%,ClinNonUrg_Ablation_No_biopsy_All_Ages,5.2486187845303900000
+23,2019-20,R4,East Midlands,%,ClinNonUrg_Diag_biopsy_punch_All_Ages,51.1049723756906000000
+23,2019-20,R4,East Midlands,%,ClinNonUrg_Excision_All_Ages,1.8646408839779000000
+23,2019-20,R4,East Midlands,%,ClinNonUrg_No_procedure_All_Ages,37.5690607734807000000
+23,2019-20,R4,East Midlands,%,ClinNonUrg_Other_All_Ages,4.0745856353591200000
+23,2019-20,R4,East Midlands,%,ClinNonUrg_Procedure_used_All_Ages,62.4309392265193000000
+23,2019-20,R4,East Midlands,Number,ClinNonUrg_referrals_All_Ages,1448
+23,2019-20,R4,East Midlands,%,ClinUrg_Ablation_Biopsy_All_Ages,0.1865671641791040000
+23,2019-20,R4,East Midlands,%,ClinUrg_Ablation_No_biopsy_All_Ages,1.6791044776119400000
+23,2019-20,R4,East Midlands,%,ClinUrg_Diag_biopsy_punch_All_Ages,39.3656716417910000000
+23,2019-20,R4,East Midlands,%,ClinUrg_Excision_All_Ages,1.1194029850746300000
+23,2019-20,R4,East Midlands,%,ClinUrg_No_procedure_All_Ages,52.4253731343284000000
+23,2019-20,R4,East Midlands,%,ClinUrg_Other_All_Ages,5.2238805970149200000
+23,2019-20,R4,East Midlands,%,ClinUrg_Procedure_used_All_Ages,47.5746268656716000000
+23,2019-20,R4,East Midlands,Number,ClinUrg_referrals_All_Ages,536
+23,2019-20,R4,East Midlands,%,HGDWorse_Ablation_Biopsy_All_Ages,0.0000000000000000000
+23,2019-20,R4,East Midlands,%,HGDWorse_Ablation_No_biopsy_All_Ages,0.0000000000000000000
+23,2019-20,R4,East Midlands,%,HGDWorse_Diag_biopsy_punch_All_Ages,28.0650542118432000000
+23,2019-20,R4,East Midlands,%,HGDWorse_Excision_All_Ages,60.0083402835696000000
+23,2019-20,R4,East Midlands,%,HGDWorse_No_procedure_All_Ages,11.5929941618015000000
+23,2019-20,R4,East Midlands,%,HGDWorse_Other_All_Ages,0.3336113427856550000
+23,2019-20,R4,East Midlands,%,HGDWorse_Procedure_used_All_Ages,88.4070058381985000000
+23,2019-20,R4,East Midlands,Number,HGDWorse_referrals_All_Ages,2398
+23,2019-20,R4,East Midlands,%,Inad_Ablation_Biopsy_All_Ages,0.0000000000000000000
+23,2019-20,R4,East Midlands,%,Inad_Ablation_No_biopsy_All_Ages,0.0000000000000000000
+23,2019-20,R4,East Midlands,%,Inad_Diag_biopsy_punch_All_Ages,25.4901960784314000000
+23,2019-20,R4,East Midlands,%,Inad_Excision_All_Ages,1.9607843137254900000
+23,2019-20,R4,East Midlands,%,Inad_No_procedure_All_Ages,72.5490196078431000000
+23,2019-20,R4,East Midlands,%,Inad_Other_All_Ages,0.0000000000000000000
+23,2019-20,R4,East Midlands,%,Inad_Procedure_used_All_Ages,27.4509803921569000000
+23,2019-20,R4,East Midlands,Number,Inad_referrals_All_Ages,51
+23,2019-20,R4,East Midlands,%,Total_Ablation_Biopsy_All_Ages,0.0259493123432229000
+23,2019-20,R4,East Midlands,%,Total_Ablation_No_biopsy_All_Ages,0.7698295995156130000
+23,2019-20,R4,East Midlands,%,Total_Diag_biopsy_punch_All_Ages,49.4247902430586000000
+23,2019-20,R4,East Midlands,%,Total_Excision_All_Ages,13.6233889801920000000
+23,2019-20,R4,East Midlands,%,Total_No_procedure_All_Ages,34.7288296860133000000
+23,2019-20,R4,East Midlands,%,Total_Other_All_Ages,1.4272121788772600000
+23,2019-20,R4,East Midlands,%,Total_Procedure_used_All_Ages,65.2711703139867000000
+23,2019-20,R4,East Midlands,Number,Total_referrals_All_Ages,11561
+23,2019-20,R5,West Midlands,%,BordLow_Ablation_Biopsy_All_Ages,0.0000000000000000000
+23,2019-20,R5,West Midlands,%,BordLow_Ablation_No_biopsy_All_Ages,0.0290613193839000000
+23,2019-20,R5,West Midlands,%,BordLow_Diag_biopsy_punch_All_Ages,44.8852077884336000000
+23,2019-20,R5,West Midlands,%,BordLow_Excision_All_Ages,1.2351060738157500000
+23,2019-20,R5,West Midlands,%,BordLow_No_procedure_All_Ages,52.8770706190061000000
+23,2019-20,R5,West Midlands,%,BordLow_Other_All_Ages,0.9735541993606510000
+23,2019-20,R5,West Midlands,%,BordLow_Procedure_used_All_Ages,47.1229293809939000000
+23,2019-20,R5,West Midlands,Number,BordLow_referrals_All_Ages,6882
+23,2019-20,R5,West Midlands,%,ClinNonUrg_Ablation_Biopsy_All_Ages,0.2189141856392290000
+23,2019-20,R5,West Midlands,%,ClinNonUrg_Ablation_No_biopsy_All_Ages,2.6707530647986000000
+23,2019-20,R5,West Midlands,%,ClinNonUrg_Diag_biopsy_punch_All_Ages,30.2539404553415000000
+23,2019-20,R5,West Midlands,%,ClinNonUrg_Excision_All_Ages,1.5761821366024500000
+23,2019-20,R5,West Midlands,%,ClinNonUrg_No_procedure_All_Ages,60.3765323992995000000
+23,2019-20,R5,West Midlands,%,ClinNonUrg_Other_All_Ages,4.9036777583187400000
+23,2019-20,R5,West Midlands,%,ClinNonUrg_Procedure_used_All_Ages,39.6234676007005000000
+23,2019-20,R5,West Midlands,Number,ClinNonUrg_referrals_All_Ages,2284
+23,2019-20,R5,West Midlands,%,ClinUrg_Ablation_Biopsy_All_Ages,0.0000000000000000000
+23,2019-20,R5,West Midlands,%,ClinUrg_Ablation_No_biopsy_All_Ages,0.4492939666238770000
+23,2019-20,R5,West Midlands,%,ClinUrg_Diag_biopsy_punch_All_Ages,35.9435173299101000000
+23,2019-20,R5,West Midlands,%,ClinUrg_Excision_All_Ages,1.7971758664955100000
+23,2019-20,R5,West Midlands,%,ClinUrg_No_procedure_All_Ages,51.3478818998716000000
+23,2019-20,R5,West Midlands,%,ClinUrg_Other_All_Ages,10.4621309370988000000
+23,2019-20,R5,West Midlands,%,ClinUrg_Procedure_used_All_Ages,48.6521181001284000000
+23,2019-20,R5,West Midlands,Number,ClinUrg_referrals_All_Ages,1558
+23,2019-20,R5,West Midlands,%,HGDWorse_Ablation_Biopsy_All_Ages,0.0000000000000000000
+23,2019-20,R5,West Midlands,%,HGDWorse_Ablation_No_biopsy_All_Ages,0.0000000000000000000
+23,2019-20,R5,West Midlands,%,HGDWorse_Diag_biopsy_punch_All_Ages,25.6226415094340000000
+23,2019-20,R5,West Midlands,%,HGDWorse_Excision_All_Ages,54.4528301886792000000
+23,2019-20,R5,West Midlands,%,HGDWorse_No_procedure_All_Ages,19.2452830188679000000
+23,2019-20,R5,West Midlands,%,HGDWorse_Other_All_Ages,0.6792452830188680000
+23,2019-20,R5,West Midlands,%,HGDWorse_Procedure_used_All_Ages,80.7547169811321000000
+23,2019-20,R5,West Midlands,Number,HGDWorse_referrals_All_Ages,2650
+23,2019-20,R5,West Midlands,%,Inad_Ablation_Biopsy_All_Ages,0.0000000000000000000
+23,2019-20,R5,West Midlands,%,Inad_Ablation_No_biopsy_All_Ages,0.0000000000000000000
+23,2019-20,R5,West Midlands,%,Inad_Diag_biopsy_punch_All_Ages,17.1597633136095000000
+23,2019-20,R5,West Midlands,%,Inad_Excision_All_Ages,0.5917159763313610000
+23,2019-20,R5,West Midlands,%,Inad_No_procedure_All_Ages,79.2899408284024000000
+23,2019-20,R5,West Midlands,%,Inad_Other_All_Ages,2.9585798816568000000
+23,2019-20,R5,West Midlands,%,Inad_Procedure_used_All_Ages,20.7100591715976000000
+23,2019-20,R5,West Midlands,Number,Inad_referrals_All_Ages,169
+23,2019-20,R5,West Midlands,%,Total_Ablation_Biopsy_All_Ages,0.0456501891222121000
+23,2019-20,R5,West Midlands,%,Total_Ablation_No_biopsy_All_Ages,0.4565018912221210000
+23,2019-20,R5,West Midlands,%,Total_Diag_biopsy_punch_All_Ages,34.4332855093257000000
+23,2019-20,R5,West Midlands,%,Total_Excision_All_Ages,10.7082300769532000000
+23,2019-20,R5,West Midlands,%,Total_No_procedure_All_Ages,51.7086213642885000000
+23,2019-20,R5,West Midlands,%,Total_Other_All_Ages,2.6477109690883000000
+23,2019-20,R5,West Midlands,%,Total_Procedure_used_All_Ages,48.2913786357115000000
+23,2019-20,R5,West Midlands,Number,Total_referrals_All_Ages,15334
+23,2019-20,R6,East of England,%,BordLow_Ablation_Biopsy_All_Ages,0.0000000000000000000
+23,2019-20,R6,East of England,%,BordLow_Ablation_No_biopsy_All_Ages,0.0265205091937765000
+23,2019-20,R6,East of England,%,BordLow_Diag_biopsy_punch_All_Ages,34.2114568599717000000
+23,2019-20,R6,East of England,%,BordLow_Excision_All_Ages,1.2376237623762400000
+23,2019-20,R6,East of England,%,BordLow_No_procedure_All_Ages,64.0823903818953000000
+23,2019-20,R6,East of England,%,BordLow_Other_All_Ages,0.4420084865629420000
+23,2019-20,R6,East of England,%,BordLow_Procedure_used_All_Ages,35.9176096181047000000
+23,2019-20,R6,East of England,Number,BordLow_referrals_All_Ages,11312
+23,2019-20,R6,East of England,%,ClinNonUrg_Ablation_Biopsy_All_Ages,0.0344352617079890000
+23,2019-20,R6,East of England,%,ClinNonUrg_Ablation_No_biopsy_All_Ages,0.1377410468319560000
+23,2019-20,R6,East of England,%,ClinNonUrg_Diag_biopsy_punch_All_Ages,27.6859504132231000000
+23,2019-20,R6,East of England,%,ClinNonUrg_Excision_All_Ages,0.8953168044077140000
+23,2019-20,R6,East of England,%,ClinNonUrg_No_procedure_All_Ages,67.8374655647383000000
+23,2019-20,R6,East of England,%,ClinNonUrg_Other_All_Ages,3.4090909090909100000
+23,2019-20,R6,East of England,%,ClinNonUrg_Procedure_used_All_Ages,32.1625344352617000000
+23,2019-20,R6,East of England,Number,ClinNonUrg_referrals_All_Ages,2904
+23,2019-20,R6,East of England,%,ClinUrg_Ablation_Biopsy_All_Ages,0.0000000000000000000
+23,2019-20,R6,East of England,%,ClinUrg_Ablation_No_biopsy_All_Ages,0.4645760743321720000
+23,2019-20,R6,East of England,%,ClinUrg_Diag_biopsy_punch_All_Ages,35.6562137049942000000
+23,2019-20,R6,East of England,%,ClinUrg_Excision_All_Ages,5.6910569105691100000
+23,2019-20,R6,East of England,%,ClinUrg_No_procedure_All_Ages,54.2392566782811000000
+23,2019-20,R6,East of England,%,ClinUrg_Other_All_Ages,3.9488966318234600000
+23,2019-20,R6,East of England,%,ClinUrg_Procedure_used_All_Ages,45.7607433217189000000
+23,2019-20,R6,East of England,Number,ClinUrg_referrals_All_Ages,861
+23,2019-20,R6,East of England,%,HGDWorse_Ablation_Biopsy_All_Ages,0.0000000000000000000
+23,2019-20,R6,East of England,%,HGDWorse_Ablation_No_biopsy_All_Ages,0.0000000000000000000
+23,2019-20,R6,East of England,%,HGDWorse_Diag_biopsy_punch_All_Ages,36.8190767884489000000
+23,2019-20,R6,East of England,%,HGDWorse_Excision_All_Ages,52.3299059286808000000
+23,2019-20,R6,East of England,%,HGDWorse_No_procedure_All_Ages,10.7853861299497000000
+23,2019-20,R6,East of England,%,HGDWorse_Other_All_Ages,0.0656311529205863000
+23,2019-20,R6,East of England,%,HGDWorse_Procedure_used_All_Ages,89.2146138700503000000
+23,2019-20,R6,East of England,Number,HGDWorse_referrals_All_Ages,4571
+23,2019-20,R6,East of England,%,Inad_Ablation_Biopsy_All_Ages,0.0000000000000000000
+23,2019-20,R6,East of England,%,Inad_Ablation_No_biopsy_All_Ages,0.0000000000000000000
+23,2019-20,R6,East of England,%,Inad_Diag_biopsy_punch_All_Ages,20.0000000000000000000
+23,2019-20,R6,East of England,%,Inad_Excision_All_Ages,0.0000000000000000000
+23,2019-20,R6,East of England,%,Inad_No_procedure_All_Ages,80.0000000000000000000
+23,2019-20,R6,East of England,%,Inad_Other_All_Ages,0.0000000000000000000
+23,2019-20,R6,East of England,%,Inad_Procedure_used_All_Ages,20.0000000000000000000
+23,2019-20,R6,East of England,Number,Inad_referrals_All_Ages,65
+23,2019-20,R6,East of England,%,Total_Ablation_Biopsy_All_Ages,0.0048216007714561200
+23,2019-20,R6,East of England,%,Total_Ablation_No_biopsy_All_Ages,0.0578592092574735000
+23,2019-20,R6,East of England,%,Total_Diag_biopsy_punch_All_Ages,34.5756991321119000000
+23,2019-20,R6,East of England,%,Total_Excision_All_Ages,12.6133076181292000000
+23,2019-20,R6,East of England,%,Total_No_procedure_All_Ages,51.8418514946962000000
+23,2019-20,R6,East of England,%,Total_Other_All_Ages,0.9064609450337510000
+23,2019-20,R6,East of England,%,Total_Procedure_used_All_Ages,48.1581485053038000000
+23,2019-20,R6,East of England,Number,Total_referrals_All_Ages,20740
+23,2019-20,R7,London,%,BordLow_Ablation_Biopsy_All_Ages,0.0050574015071056500
+23,2019-20,R7,London,%,BordLow_Ablation_No_biopsy_All_Ages,0.0000000000000000000
+23,2019-20,R7,London,%,BordLow_Diag_biopsy_punch_All_Ages,57.4015071056491000000
+23,2019-20,R7,London,%,BordLow_Excision_All_Ages,0.1314924391847470000
+23,2019-20,R7,London,%,BordLow_No_procedure_All_Ages,42.2141303798109000000
+23,2019-20,R7,London,%,BordLow_Other_All_Ages,0.2478126738481770000
+23,2019-20,R7,London,%,BordLow_Procedure_used_All_Ages,57.7858696201891000000
+23,2019-20,R7,London,Number,BordLow_referrals_All_Ages,19773
+23,2019-20,R7,London,%,ClinNonUrg_Ablation_Biopsy_All_Ages,0.0193330111164814000
+23,2019-20,R7,London,%,ClinNonUrg_Ablation_No_biopsy_All_Ages,0.2513291445142580000
+23,2019-20,R7,London,%,ClinNonUrg_Diag_biopsy_punch_All_Ages,25.2392460125665000000
+23,2019-20,R7,London,%,ClinNonUrg_Excision_All_Ages,0.3673272112131460000
+23,2019-20,R7,London,%,ClinNonUrg_No_procedure_All_Ages,70.8264862252296000000
+23,2019-20,R7,London,%,ClinNonUrg_Other_All_Ages,3.2962783953600800000
+23,2019-20,R7,London,%,ClinNonUrg_Procedure_used_All_Ages,29.1735137747704000000
+23,2019-20,R7,London,Number,ClinNonUrg_referrals_All_Ages,10345
+23,2019-20,R7,London,%,ClinUrg_Ablation_Biopsy_All_Ages,0.0313087038196619000
+23,2019-20,R7,London,%,ClinUrg_Ablation_No_biopsy_All_Ages,0.0939261114589856000
+23,2019-20,R7,London,%,ClinUrg_Diag_biopsy_punch_All_Ages,29.7432686286788000000
+23,2019-20,R7,London,%,ClinUrg_Excision_All_Ages,0.7827175954915470000
+23,2019-20,R7,London,%,ClinUrg_No_procedure_All_Ages,66.6875391358798000000
+23,2019-20,R7,London,%,ClinUrg_Other_All_Ages,2.6612398246712600000
+23,2019-20,R7,London,%,ClinUrg_Procedure_used_All_Ages,33.3124608641202000000
+23,2019-20,R7,London,Number,ClinUrg_referrals_All_Ages,3194
+23,2019-20,R7,London,%,HGDWorse_Ablation_Biopsy_All_Ages,0.0000000000000000000
+23,2019-20,R7,London,%,HGDWorse_Ablation_No_biopsy_All_Ages,0.0000000000000000000
+23,2019-20,R7,London,%,HGDWorse_Diag_biopsy_punch_All_Ages,76.7723880597015000000
+23,2019-20,R7,London,%,HGDWorse_Excision_All_Ages,8.8386194029850700000
+23,2019-20,R7,London,%,HGDWorse_No_procedure_All_Ages,14.2490671641791000000
+23,2019-20,R7,London,%,HGDWorse_Other_All_Ages,0.1399253731343280000
+23,2019-20,R7,London,%,HGDWorse_Procedure_used_All_Ages,85.7509328358209000000
+23,2019-20,R7,London,Number,HGDWorse_referrals_All_Ages,4288
+23,2019-20,R7,London,%,Inad_Ablation_Biopsy_All_Ages,0.0000000000000000000
+23,2019-20,R7,London,%,Inad_Ablation_No_biopsy_All_Ages,0.0000000000000000000
+23,2019-20,R7,London,%,Inad_Diag_biopsy_punch_All_Ages,17.0305676855895000000
+23,2019-20,R7,London,%,Inad_Excision_All_Ages,0.0000000000000000000
+23,2019-20,R7,London,%,Inad_No_procedure_All_Ages,82.0960698689956000000
+23,2019-20,R7,London,%,Inad_Other_All_Ages,0.8733624454148470000
+23,2019-20,R7,London,%,Inad_Procedure_used_All_Ages,17.9039301310044000000
+23,2019-20,R7,London,Number,Inad_referrals_All_Ages,229
+23,2019-20,R7,London,%,Total_Ablation_Biopsy_All_Ages,0.0102307023377155000
+23,2019-20,R7,London,%,Total_Ablation_No_biopsy_All_Ages,0.0767302675328661000
+23,2019-20,R7,London,%,Total_Diag_biopsy_punch_All_Ages,47.3962862550514000000
+23,2019-20,R7,London,%,Total_Excision_All_Ages,1.2276842805258600000
+23,2019-20,R7,London,%,Total_No_procedure_All_Ages,49.9897692976623000000
+23,2019-20,R7,London,%,Total_Other_All_Ages,1.2992991968898700000
+23,2019-20,R7,London,%,Total_Procedure_used_All_Ages,50.0102307023377000000
+23,2019-20,R7,London,Number,Total_referrals_All_Ages,39098
+23,2019-20,R8,South East,%,BordLow_Ablation_Biopsy_All_Ages,0.0000000000000000000
+23,2019-20,R8,South East,%,BordLow_Ablation_No_biopsy_All_Ages,0.0711382113821138000
+23,2019-20,R8,South East,%,BordLow_Diag_biopsy_punch_All_Ages,64.2378048780488000000
+23,2019-20,R8,South East,%,BordLow_Excision_All_Ages,1.8191056910569100000
+23,2019-20,R8,South East,%,BordLow_No_procedure_All_Ages,33.7093495934959000000
+23,2019-20,R8,South East,%,BordLow_Other_All_Ages,0.1626016260162600000
+23,2019-20,R8,South East,%,BordLow_Procedure_used_All_Ages,66.2906504065041000000
+23,2019-20,R8,South East,Number,BordLow_referrals_All_Ages,9840
+23,2019-20,R8,South East,%,ClinNonUrg_Ablation_Biopsy_All_Ages,0.0000000000000000000
+23,2019-20,R8,South East,%,ClinNonUrg_Ablation_No_biopsy_All_Ages,5.0147492625368700000
+23,2019-20,R8,South East,%,ClinNonUrg_Diag_biopsy_punch_All_Ages,40.2359882005900000000
+23,2019-20,R8,South East,%,ClinNonUrg_Excision_All_Ages,2.3598820058997100000
+23,2019-20,R8,South East,%,ClinNonUrg_No_procedure_All_Ages,52.2123893805310000000
+23,2019-20,R8,South East,%,ClinNonUrg_Other_All_Ages,0.1769911504424780000
+23,2019-20,R8,South East,%,ClinNonUrg_Procedure_used_All_Ages,47.7876106194690000000
+23,2019-20,R8,South East,Number,ClinNonUrg_referrals_All_Ages,1695
+23,2019-20,R8,South East,%,ClinUrg_Ablation_Biopsy_All_Ages,0.0000000000000000000
+23,2019-20,R8,South East,%,ClinUrg_Ablation_No_biopsy_All_Ages,0.7228915662650600000
+23,2019-20,R8,South East,%,ClinUrg_Diag_biopsy_punch_All_Ages,40.9638554216867000000
+23,2019-20,R8,South East,%,ClinUrg_Excision_All_Ages,2.4096385542168700000
+23,2019-20,R8,South East,%,ClinUrg_No_procedure_All_Ages,55.9036144578313000000
+23,2019-20,R8,South East,%,ClinUrg_Other_All_Ages,0.0000000000000000000
+23,2019-20,R8,South East,%,ClinUrg_Procedure_used_All_Ages,44.0963855421687000000
+23,2019-20,R8,South East,Number,ClinUrg_referrals_All_Ages,415
+23,2019-20,R8,South East,%,HGDWorse_Ablation_Biopsy_All_Ages,0.0000000000000000000
+23,2019-20,R8,South East,%,HGDWorse_Ablation_No_biopsy_All_Ages,0.0000000000000000000
+23,2019-20,R8,South East,%,HGDWorse_Diag_biopsy_punch_All_Ages,22.7632379793061000000
+23,2019-20,R8,South East,%,HGDWorse_Excision_All_Ages,62.3250152160682000000
+23,2019-20,R8,South East,%,HGDWorse_No_procedure_All_Ages,14.8508825319537000000
+23,2019-20,R8,South East,%,HGDWorse_Other_All_Ages,0.0608642726719416000
+23,2019-20,R8,South East,%,HGDWorse_Procedure_used_All_Ages,85.1491174680463000000
+23,2019-20,R8,South East,Number,HGDWorse_referrals_All_Ages,3286
+23,2019-20,R8,South East,%,Inad_Ablation_Biopsy_All_Ages,0.0000000000000000000
+23,2019-20,R8,South East,%,Inad_Ablation_No_biopsy_All_Ages,3.3057851239669400000
+23,2019-20,R8,South East,%,Inad_Diag_biopsy_punch_All_Ages,27.2727272727273000000
+23,2019-20,R8,South East,%,Inad_Excision_All_Ages,0.8264462809917360000
+23,2019-20,R8,South East,%,Inad_No_procedure_All_Ages,68.5950413223141000000
+23,2019-20,R8,South East,%,Inad_Other_All_Ages,0.0000000000000000000
+23,2019-20,R8,South East,%,Inad_Procedure_used_All_Ages,31.4049586776859000000
+23,2019-20,R8,South East,Number,Inad_referrals_All_Ages,121
+23,2019-20,R8,South East,%,Total_Ablation_Biopsy_All_Ages,0.0000000000000000000
+23,2019-20,R8,South East,%,Total_Ablation_No_biopsy_All_Ages,0.7149723624128810000
+23,2019-20,R8,South East,%,Total_Diag_biopsy_punch_All_Ages,49.8978610910839000000
+23,2019-20,R8,South East,%,Total_Excision_All_Ages,13.8908916125931000000
+23,2019-20,R8,South East,%,Total_No_procedure_All_Ages,35.3100216294160000000
+23,2019-20,R8,South East,%,Total_Other_All_Ages,0.1862533044941120000
+23,2019-20,R8,South East,%,Total_Procedure_used_All_Ages,64.6899783705840000000
+23,2019-20,R8,South East,Number,Total_referrals_All_Ages,16644
+23,2019-20,S,South,%,BordLow_Ablation_Biopsy_All_Ages,0.0000000000000000000
+23,2019-20,S,South,%,BordLow_Ablation_No_biopsy_All_Ages,0.0397877984084881000
+23,2019-20,S,South,%,BordLow_Diag_biopsy_punch_All_Ages,65.7471264367816000000
+23,2019-20,S,South,%,BordLow_Excision_All_Ages,1.5694076038903600000
+23,2019-20,S,South,%,BordLow_No_procedure_All_Ages,32.2900088417330000000
+23,2019-20,S,South,%,BordLow_Other_All_Ages,0.3536693191865610000
+23,2019-20,S,South,%,BordLow_Procedure_used_All_Ages,67.7099911582670000000
+23,2019-20,S,South,Number,BordLow_referrals_All_Ages,22620
+23,2019-20,S,South,%,ClinNonUrg_Ablation_Biopsy_All_Ages,0.0171762281003092000
+23,2019-20,S,South,%,ClinNonUrg_Ablation_No_biopsy_All_Ages,1.7176228100309200000
+23,2019-20,S,South,%,ClinNonUrg_Diag_biopsy_punch_All_Ages,36.9632428718653000000
+23,2019-20,S,South,%,ClinNonUrg_Excision_All_Ages,1.6489178976296800000
+23,2019-20,S,South,%,ClinNonUrg_No_procedure_All_Ages,57.2998969426314000000
+23,2019-20,S,South,%,ClinNonUrg_Other_All_Ages,2.3531432497423600000
+23,2019-20,S,South,%,ClinNonUrg_Procedure_used_All_Ages,42.7001030573686000000
+23,2019-20,S,South,Number,ClinNonUrg_referrals_All_Ages,5822
+23,2019-20,S,South,%,ClinUrg_Ablation_Biopsy_All_Ages,0.0000000000000000000
+23,2019-20,S,South,%,ClinUrg_Ablation_No_biopsy_All_Ages,0.2357378595002360000
+23,2019-20,S,South,%,ClinUrg_Diag_biopsy_punch_All_Ages,39.6039603960396000000
+23,2019-20,S,South,%,ClinUrg_Excision_All_Ages,2.0744931636020700000
+23,2019-20,S,South,%,ClinUrg_No_procedure_All_Ages,54.7854785478548000000
+23,2019-20,S,South,%,ClinUrg_Other_All_Ages,3.3003300330033000000
+23,2019-20,S,South,%,ClinUrg_Procedure_used_All_Ages,45.2145214521452000000
+23,2019-20,S,South,Number,ClinUrg_referrals_All_Ages,2121
+23,2019-20,S,South,%,HGDWorse_Ablation_Biopsy_All_Ages,0.0000000000000000000
+23,2019-20,S,South,%,HGDWorse_Ablation_No_biopsy_All_Ages,0.0000000000000000000
+23,2019-20,S,South,%,HGDWorse_Diag_biopsy_punch_All_Ages,27.3315095747327000000
+23,2019-20,S,South,%,HGDWorse_Excision_All_Ages,60.6316836607809000000
+23,2019-20,S,South,%,HGDWorse_No_procedure_All_Ages,11.9124595871674000000
+23,2019-20,S,South,%,HGDWorse_Other_All_Ages,0.1243471773190750000
+23,2019-20,S,South,%,HGDWorse_Procedure_used_All_Ages,88.0875404128326000000
+23,2019-20,S,South,Number,HGDWorse_referrals_All_Ages,8042
+23,2019-20,S,South,%,Inad_Ablation_Biopsy_All_Ages,0.0000000000000000000
+23,2019-20,S,South,%,Inad_Ablation_No_biopsy_All_Ages,1.0958904109589000000
+23,2019-20,S,South,%,Inad_Diag_biopsy_punch_All_Ages,31.5068493150685000000
+23,2019-20,S,South,%,Inad_Excision_All_Ages,1.0958904109589000000
+23,2019-20,S,South,%,Inad_No_procedure_All_Ages,65.4794520547945000000
+23,2019-20,S,South,%,Inad_Other_All_Ages,0.8219178082191780000
+23,2019-20,S,South,%,Inad_Procedure_used_All_Ages,34.5205479452055000000
+23,2019-20,S,South,Number,Inad_referrals_All_Ages,365
+23,2019-20,S,South,%,Total_Ablation_Biopsy_All_Ages,0.0048060748786466100
+23,2019-20,S,South,%,Total_Ablation_No_biopsy_All_Ages,0.3364252415052630000
+23,2019-20,S,South,%,Total_Diag_biopsy_punch_All_Ages,50.4806074878647000000
+23,2019-20,S,South,%,Total_Excision_All_Ages,13.0244629211323000000
+23,2019-20,S,South,%,Total_No_procedure_All_Ages,35.3895323689143000000
+23,2019-20,S,South,%,Total_Other_All_Ages,0.7641659057048110000
+23,2019-20,S,South,%,Total_Procedure_used_All_Ages,64.6104676310857000000
+23,2019-20,S,South,Number,Total_referrals_All_Ages,41614

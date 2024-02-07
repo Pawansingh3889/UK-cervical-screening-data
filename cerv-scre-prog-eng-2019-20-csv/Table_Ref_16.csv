@@ -1,0 +1,49 @@
+﻿Table_ref,Collection_Year,Parent_Org_Code,Parent_Org_Name,Unit,Indicator,Value
+16,2019-20,R1,North East,Number,0-2_Weeks_All_Ages,170883
+16,2019-20,R1,North East,Number,3-4_Weeks_All_Ages,38482
+16,2019-20,R1,North East,Number,5-6_Weeks_All_Ages,21667
+16,2019-20,R1,North East,Number,7-8_Weeks_All_Ages,13139
+16,2019-20,R1,North East,Number,9-10_Weeks_All_Ages,271
+16,2019-20,R1,North East,Number,Over10_Weeks_All_Ages,248
+16,2019-20,R2,North West,Number,0-2_Weeks_All_Ages,317459
+16,2019-20,R2,North West,Number,3-4_Weeks_All_Ages,86288
+16,2019-20,R2,North West,Number,5-6_Weeks_All_Ages,19891
+16,2019-20,R2,North West,Number,7-8_Weeks_All_Ages,345
+16,2019-20,R2,North West,Number,9-10_Weeks_All_Ages,6
+16,2019-20,R2,North West,Number,Over10_Weeks_All_Ages,0
+16,2019-20,R3,Yorkshire and the Humber,Number,0-2_Weeks_All_Ages,129741
+16,2019-20,R3,Yorkshire and the Humber,Number,3-4_Weeks_All_Ages,28374
+16,2019-20,R3,Yorkshire and the Humber,Number,5-6_Weeks_All_Ages,46279
+16,2019-20,R3,Yorkshire and the Humber,Number,7-8_Weeks_All_Ages,31769
+16,2019-20,R3,Yorkshire and the Humber,Number,9-10_Weeks_All_Ages,1561
+16,2019-20,R3,Yorkshire and the Humber,Number,Over10_Weeks_All_Ages,6
+16,2019-20,R4,East Midlands,Number,0-2_Weeks_All_Ages,98810
+16,2019-20,R4,East Midlands,Number,3-4_Weeks_All_Ages,98048
+16,2019-20,R4,East Midlands,Number,5-6_Weeks_All_Ages,47240
+16,2019-20,R4,East Midlands,Number,7-8_Weeks_All_Ages,11034
+16,2019-20,R4,East Midlands,Number,9-10_Weeks_All_Ages,15239
+16,2019-20,R4,East Midlands,Number,Over10_Weeks_All_Ages,9464
+16,2019-20,R5,West Midlands,Number,0-2_Weeks_All_Ages,55522
+16,2019-20,R5,West Midlands,Number,3-4_Weeks_All_Ages,76831
+16,2019-20,R5,West Midlands,Number,5-6_Weeks_All_Ages,49590
+16,2019-20,R5,West Midlands,Number,7-8_Weeks_All_Ages,39552
+16,2019-20,R5,West Midlands,Number,9-10_Weeks_All_Ages,31344
+16,2019-20,R5,West Midlands,Number,Over10_Weeks_All_Ages,12116
+16,2019-20,R6,East of England,Number,0-2_Weeks_All_Ages,264539
+16,2019-20,R6,East of England,Number,3-4_Weeks_All_Ages,41153
+16,2019-20,R6,East of England,Number,5-6_Weeks_All_Ages,6517
+16,2019-20,R6,East of England,Number,7-8_Weeks_All_Ages,5942
+16,2019-20,R6,East of England,Number,9-10_Weeks_All_Ages,5686
+16,2019-20,R6,East of England,Number,Over10_Weeks_All_Ages,20626
+16,2019-20,R7,London,Number,0-2_Weeks_All_Ages,491091
+16,2019-20,R7,London,Number,3-4_Weeks_All_Ages,66903
+16,2019-20,R7,London,Number,5-6_Weeks_All_Ages,22329
+16,2019-20,R7,London,Number,7-8_Weeks_All_Ages,10150
+16,2019-20,R7,London,Number,9-10_Weeks_All_Ages,6221
+16,2019-20,R7,London,Number,Over10_Weeks_All_Ages,8931
+16,2019-20,S,South,Number,0-2_Weeks_All_Ages,491928
+16,2019-20,S,South,Number,3-4_Weeks_All_Ages,151247
+16,2019-20,S,South,Number,5-6_Weeks_All_Ages,129088
+16,2019-20,S,South,Number,7-8_Weeks_All_Ages,54997
+16,2019-20,S,South,Number,9-10_Weeks_All_Ages,28881
+16,2019-20,S,South,Number,Over10_Weeks_All_Ages,18972

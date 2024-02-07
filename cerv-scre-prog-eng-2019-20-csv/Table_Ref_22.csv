@@ -1,0 +1,289 @@
+﻿Table_ref,Collection_Year,Parent_Org_Code,Parent_Org_Name,Unit,Indicator,Value
+22,2019-20,ENG,England,%,Follow_up_Attended_All_Ages,64.0062209306571000000
+22,2019-20,ENG,England,%,Follow_up_Cancel_Adv_All_Ages,14.6221076688304000000
+22,2019-20,ENG,England,%,Follow_up_Cancel_Clinic_All_Ages,8.8962229020787500000
+22,2019-20,ENG,England,%,Follow_up_Cancel_Day_All_Ages,2.5183086662237100000
+22,2019-20,ENG,England,%,Follow_up_DNA_Late_All_Ages,0.0343173404791285000
+22,2019-20,ENG,England,%,Follow_up_DNA_Left_Not_Seen_All_Ages,0.0248253101338376000
+22,2019-20,ENG,England,%,Follow_up_DNA_No_Adv_Warn_All_Ages,9.8979971815971400000
+22,2019-20,ENG,England,Number,Follow_up_Total_number_All_Ages,136957
+22,2019-20,ENG,England,%,New_appointment_Attended_All_Ages,74.5589135408922000000
+22,2019-20,ENG,England,%,New_appointment_Cancel_Adv_All_Ages,13.1711805712455000000
+22,2019-20,ENG,England,%,New_appointment_Cancel_Clinic_All_Ages,3.5570362276273100000
+22,2019-20,ENG,England,%,New_appointment_Cancel_Day_All_Ages,1.9989072968742900000
+22,2019-20,ENG,England,%,New_appointment_DNA_Late_All_Ages,0.0340956238472187000
+22,2019-20,ENG,England,%,New_appointment_DNA_Left_Not_Seen_All_Ages,0.0328632519009337000
+22,2019-20,ENG,England,%,New_appointment_DNA_No_Adv_Warn_All_Ages,6.6470034876126100000
+22,2019-20,ENG,England,Number,New_appointment_Total_number_All_Ages,243433
+22,2019-20,ENG,England,%,Return_for_Treatment_Attended_All_Ages,79.2229458757098000000
+22,2019-20,ENG,England,%,Return_for_Treatment_Cancel_Adv_All_Ages,11.6173120728929000000
+22,2019-20,ENG,England,%,Return_for_Treatment_Cancel_Clinic_All_Ages,3.0126086817029700000
+22,2019-20,ENG,England,%,Return_for_Treatment_Cancel_Day_All_Ages,2.0212390516218000000
+22,2019-20,ENG,England,%,Return_for_Treatment_DNA_Late_All_Ages,0.0481247393243287000
+22,2019-20,ENG,England,%,Return_for_Treatment_DNA_Left_Not_Seen_All_Ages,0.0096249478648657300
+22,2019-20,ENG,England,%,Return_for_Treatment_DNA_No_Adv_Warn_All_Ages,4.0681446308832500000
+22,2019-20,ENG,England,Number,Return_for_Treatment_Total_number_All_Ages,31169
+22,2019-20,NEYH,"North East, Yorkshire and the Humber",%,Follow_up_Attended_All_Ages,59.6312037290924000000
+22,2019-20,NEYH,"North East, Yorkshire and the Humber",%,Follow_up_Cancel_Adv_All_Ages,15.8829174664107000000
+22,2019-20,NEYH,"North East, Yorkshire and the Humber",%,Follow_up_Cancel_Clinic_All_Ages,10.7485604606526000000
+22,2019-20,NEYH,"North East, Yorkshire and the Humber",%,Follow_up_Cancel_Day_All_Ages,1.9125308472717300000
+22,2019-20,NEYH,"North East, Yorkshire and the Humber",%,Follow_up_DNA_Late_All_Ages,0.0342747463668769000
+22,2019-20,NEYH,"North East, Yorkshire and the Humber",%,Follow_up_DNA_Left_Not_Seen_All_Ages,0.0342747463668769000
+22,2019-20,NEYH,"North East, Yorkshire and the Humber",%,Follow_up_DNA_No_Adv_Warn_All_Ages,11.7562380038388000000
+22,2019-20,NEYH,"North East, Yorkshire and the Humber",Number,Follow_up_Total_number_All_Ages,14588
+22,2019-20,NEYH,"North East, Yorkshire and the Humber",%,New_appointment_Attended_All_Ages,79.2175023005907000000
+22,2019-20,NEYH,"North East, Yorkshire and the Humber",%,New_appointment_Cancel_Adv_All_Ages,10.1522842639594000000
+22,2019-20,NEYH,"North East, Yorkshire and the Humber",%,New_appointment_Cancel_Clinic_All_Ages,2.8349214830646800000
+22,2019-20,NEYH,"North East, Yorkshire and the Humber",%,New_appointment_Cancel_Day_All_Ages,1.4575355478374400000
+22,2019-20,NEYH,"North East, Yorkshire and the Humber",%,New_appointment_DNA_Late_All_Ages,0.0118740166829934000
+22,2019-20,NEYH,"North East, Yorkshire and the Humber",%,New_appointment_DNA_Left_Not_Seen_All_Ages,0.0504645709027221000
+22,2019-20,NEYH,"North East, Yorkshire and the Humber",%,New_appointment_DNA_No_Adv_Warn_All_Ages,6.2754178169620300000
+22,2019-20,NEYH,"North East, Yorkshire and the Humber",Number,New_appointment_Total_number_All_Ages,33687
+22,2019-20,NEYH,"North East, Yorkshire and the Humber",%,Return_for_Treatment_Attended_All_Ages,81.0846312629011000000
+22,2019-20,NEYH,"North East, Yorkshire and the Humber",%,Return_for_Treatment_Cancel_Adv_All_Ages,9.8329893038093500000
+22,2019-20,NEYH,"North East, Yorkshire and the Humber",%,Return_for_Treatment_Cancel_Clinic_All_Ages,2.3081253518483800000
+22,2019-20,NEYH,"North East, Yorkshire and the Humber",%,Return_for_Treatment_Cancel_Day_All_Ages,2.2330643647964000000
+22,2019-20,NEYH,"North East, Yorkshire and the Humber",%,Return_for_Treatment_DNA_Late_All_Ages,0.0000000000000000000
+22,2019-20,NEYH,"North East, Yorkshire and the Humber",%,Return_for_Treatment_DNA_Left_Not_Seen_All_Ages,0.0187652467629949000
+22,2019-20,NEYH,"North East, Yorkshire and the Humber",%,Return_for_Treatment_DNA_No_Adv_Warn_All_Ages,4.5224244698817800000
+22,2019-20,NEYH,"North East, Yorkshire and the Humber",Number,Return_for_Treatment_Total_number_All_Ages,5329
+22,2019-20,R1,North East,%,Follow_up_Attended_All_Ages,68.3776351970669000000
+22,2019-20,R1,North East,%,Follow_up_Cancel_Adv_All_Ages,10.7011915673694000000
+22,2019-20,R1,North East,%,Follow_up_Cancel_Clinic_All_Ages,4.9037580201649900000
+22,2019-20,R1,North East,%,Follow_up_Cancel_Day_All_Ages,2.8872593950504100000
+22,2019-20,R1,North East,%,Follow_up_DNA_Late_All_Ages,0.0687442713107241000
+22,2019-20,R1,North East,%,Follow_up_DNA_Left_Not_Seen_All_Ages,0.0458295142071494000
+22,2019-20,R1,North East,%,Follow_up_DNA_No_Adv_Warn_All_Ages,13.0155820348304000000
+22,2019-20,R1,North East,Number,Follow_up_Total_number_All_Ages,4364
+22,2019-20,R1,North East,%,New_appointment_Attended_All_Ages,81.7277031597256000000
+22,2019-20,R1,North East,%,New_appointment_Cancel_Adv_All_Ages,8.5418881051309300000
+22,2019-20,R1,North East,%,New_appointment_Cancel_Clinic_All_Ages,1.5460430959513000000
+22,2019-20,R1,North East,%,New_appointment_Cancel_Day_All_Ages,1.7103101748961300000
+22,2019-20,R1,North East,%,New_appointment_DNA_Late_All_Ages,0.0000000000000000000
+22,2019-20,R1,North East,%,New_appointment_DNA_Left_Not_Seen_All_Ages,0.0386510773987825000
+22,2019-20,R1,North East,%,New_appointment_DNA_No_Adv_Warn_All_Ages,6.4354043868972900000
+22,2019-20,R1,North East,Number,New_appointment_Total_number_All_Ages,10349
+22,2019-20,R1,North East,%,Return_for_Treatment_Attended_All_Ages,83.5869565217391000000
+22,2019-20,R1,North East,%,Return_for_Treatment_Cancel_Adv_All_Ages,7.4456521739130400000
+22,2019-20,R1,North East,%,Return_for_Treatment_Cancel_Clinic_All_Ages,1.7934782608695700000
+22,2019-20,R1,North East,%,Return_for_Treatment_Cancel_Day_All_Ages,1.9565217391304400000
+22,2019-20,R1,North East,%,Return_for_Treatment_DNA_Late_All_Ages,0.0000000000000000000
+22,2019-20,R1,North East,%,Return_for_Treatment_DNA_Left_Not_Seen_All_Ages,0.0000000000000000000
+22,2019-20,R1,North East,%,Return_for_Treatment_DNA_No_Adv_Warn_All_Ages,5.2173913043478300000
+22,2019-20,R1,North East,Number,Return_for_Treatment_Total_number_All_Ages,1840
+22,2019-20,R10,South West,%,Follow_up_Attended_All_Ages,60.5632551528074000000
+22,2019-20,R10,South West,%,Follow_up_Cancel_Adv_All_Ages,13.7082444918266000000
+22,2019-20,R10,South West,%,Follow_up_Cancel_Clinic_All_Ages,12.3134328358209000000
+22,2019-20,R10,South West,%,Follow_up_Cancel_Day_All_Ages,2.9051172707889100000
+22,2019-20,R10,South West,%,Follow_up_DNA_Late_All_Ages,0.0177683013503909000
+22,2019-20,R10,South West,%,Follow_up_DNA_Left_Not_Seen_All_Ages,0.0533049040511727000
+22,2019-20,R10,South West,%,Follow_up_DNA_No_Adv_Warn_All_Ages,10.4388770433547000000
+22,2019-20,R10,South West,Number,Follow_up_Total_number_All_Ages,11256
+22,2019-20,R10,South West,%,New_appointment_Attended_All_Ages,74.3892993326978000000
+22,2019-20,R10,South West,%,New_appointment_Cancel_Adv_All_Ages,12.8366301239276000000
+22,2019-20,R10,South West,%,New_appointment_Cancel_Clinic_All_Ages,4.9630600571973300000
+22,2019-20,R10,South West,%,New_appointment_Cancel_Day_All_Ages,1.9393469971401300000
+22,2019-20,R10,South West,%,New_appointment_DNA_Late_All_Ages,0.0506434699714013000
+22,2019-20,R10,South West,%,New_appointment_DNA_Left_Not_Seen_All_Ages,0.0148951382268827000
+22,2019-20,R10,South West,%,New_appointment_DNA_No_Adv_Warn_All_Ages,5.8061248808388900000
+22,2019-20,R10,South West,Number,New_appointment_Total_number_All_Ages,33568
+22,2019-20,R10,South West,%,Return_for_Treatment_Attended_All_Ages,81.2921692905336000000
+22,2019-20,R10,South West,%,Return_for_Treatment_Cancel_Adv_All_Ages,10.5090983438970000000
+22,2019-20,R10,South West,%,Return_for_Treatment_Cancel_Clinic_All_Ages,2.5966060110406900000
+22,2019-20,R10,South West,%,Return_for_Treatment_Cancel_Day_All_Ages,1.4925373134328400000
+22,2019-20,R10,South West,%,Return_for_Treatment_DNA_Late_All_Ages,0.0204457166223676000
+22,2019-20,R10,South West,%,Return_for_Treatment_DNA_Left_Not_Seen_All_Ages,0.0000000000000000000
+22,2019-20,R10,South West,%,Return_for_Treatment_DNA_No_Adv_Warn_All_Ages,4.0891433244735200000
+22,2019-20,R10,South West,Number,Return_for_Treatment_Total_number_All_Ages,4891
+22,2019-20,R2,North West,%,Follow_up_Attended_All_Ages,70.6270627062706000000
+22,2019-20,R2,North West,%,Follow_up_Cancel_Adv_All_Ages,11.1443702509786000000
+22,2019-20,R2,North West,%,Follow_up_Cancel_Clinic_All_Ages,7.7058868677565400000
+22,2019-20,R2,North West,%,Follow_up_Cancel_Day_All_Ages,1.9379844961240300000
+22,2019-20,R2,North West,%,Follow_up_DNA_Late_All_Ages,0.0460511167395809000
+22,2019-20,R2,North West,%,Follow_up_DNA_Left_Not_Seen_All_Ages,0.0230255583697905000
+22,2019-20,R2,North West,%,Follow_up_DNA_No_Adv_Warn_All_Ages,8.5156190037608400000
+22,2019-20,R2,North West,Number,Follow_up_Total_number_All_Ages,26058
+22,2019-20,R2,North West,%,New_appointment_Attended_All_Ages,77.0309998544608000000
+22,2019-20,R2,North West,%,New_appointment_Cancel_Adv_All_Ages,11.0085868141464000000
+22,2019-20,R2,North West,%,New_appointment_Cancel_Clinic_All_Ages,3.6675884150778600000
+22,2019-20,R2,North West,%,New_appointment_Cancel_Day_All_Ages,1.6504147867850400000
+22,2019-20,R2,North West,%,New_appointment_DNA_Late_All_Ages,0.0320186290205210000
+22,2019-20,R2,North West,%,New_appointment_DNA_Left_Not_Seen_All_Ages,0.0232862756512880000
+22,2019-20,R2,North West,%,New_appointment_DNA_No_Adv_Warn_All_Ages,6.5871052248581000000
+22,2019-20,R2,North West,Number,New_appointment_Total_number_All_Ages,34355
+22,2019-20,R2,North West,%,Return_for_Treatment_Attended_All_Ages,75.6957839625241000000
+22,2019-20,R2,North West,%,Return_for_Treatment_Cancel_Adv_All_Ages,13.9156792504822000000
+22,2019-20,R2,North West,%,Return_for_Treatment_Cancel_Clinic_All_Ages,4.2435932763846800000
+22,2019-20,R2,North West,%,Return_for_Treatment_Cancel_Day_All_Ages,1.9289060347203100000
+22,2019-20,R2,North West,%,Return_for_Treatment_DNA_Late_All_Ages,0.1928906034720310000
+22,2019-20,R2,North West,%,Return_for_Treatment_DNA_Left_Not_Seen_All_Ages,0.0000000000000000000
+22,2019-20,R2,North West,%,Return_for_Treatment_DNA_No_Adv_Warn_All_Ages,4.0231468724166400000
+22,2019-20,R2,North West,Number,Return_for_Treatment_Total_number_All_Ages,3629
+22,2019-20,R3,Yorkshire and the Humber,%,Follow_up_Attended_All_Ages,55.8978873239437000000
+22,2019-20,R3,Yorkshire and the Humber,%,Follow_up_Cancel_Adv_All_Ages,18.0946791862285000000
+22,2019-20,R3,Yorkshire and the Humber,%,Follow_up_Cancel_Clinic_All_Ages,13.2433489827856000000
+22,2019-20,R3,Yorkshire and the Humber,%,Follow_up_Cancel_Day_All_Ages,1.4964788732394400000
+22,2019-20,R3,Yorkshire and the Humber,%,Follow_up_DNA_Late_All_Ages,0.0195618153364632000
+22,2019-20,R3,Yorkshire and the Humber,%,Follow_up_DNA_Left_Not_Seen_All_Ages,0.0293427230046948000
+22,2019-20,R3,Yorkshire and the Humber,%,Follow_up_DNA_No_Adv_Warn_All_Ages,11.2187010954617000000
+22,2019-20,R3,Yorkshire and the Humber,Number,Follow_up_Total_number_All_Ages,10224
+22,2019-20,R3,Yorkshire and the Humber,%,New_appointment_Attended_All_Ages,78.1043791241752000000
+22,2019-20,R3,Yorkshire and the Humber,%,New_appointment_Cancel_Adv_All_Ages,10.8663981489416000000
+22,2019-20,R3,Yorkshire and the Humber,%,New_appointment_Cancel_Clinic_All_Ages,3.4064615648298900000
+22,2019-20,R3,Yorkshire and the Humber,%,New_appointment_Cancel_Day_All_Ages,1.3454451966749500000
+22,2019-20,R3,Yorkshire and the Humber,%,New_appointment_DNA_Late_All_Ages,0.0171394292570057000
+22,2019-20,R3,Yorkshire and the Humber,%,New_appointment_DNA_Left_Not_Seen_All_Ages,0.0557031450852687000
+22,2019-20,R3,Yorkshire and the Humber,%,New_appointment_DNA_No_Adv_Warn_All_Ages,6.2044733910360800000
+22,2019-20,R3,Yorkshire and the Humber,Number,New_appointment_Total_number_All_Ages,23338
+22,2019-20,R3,Yorkshire and the Humber,%,Return_for_Treatment_Attended_All_Ages,79.7649756377186000000
+22,2019-20,R3,Yorkshire and the Humber,%,Return_for_Treatment_Cancel_Adv_All_Ages,11.0920034393809000000
+22,2019-20,R3,Yorkshire and the Humber,%,Return_for_Treatment_Cancel_Clinic_All_Ages,2.5795356835769600000
+22,2019-20,R3,Yorkshire and the Humber,%,Return_for_Treatment_Cancel_Day_All_Ages,2.3789051304098600000
+22,2019-20,R3,Yorkshire and the Humber,%,Return_for_Treatment_DNA_Late_All_Ages,0.0000000000000000000
+22,2019-20,R3,Yorkshire and the Humber,%,Return_for_Treatment_DNA_Left_Not_Seen_All_Ages,0.0286615075952995000
+22,2019-20,R3,Yorkshire and the Humber,%,Return_for_Treatment_DNA_No_Adv_Warn_All_Ages,4.1559186013184300000
+22,2019-20,R3,Yorkshire and the Humber,Number,Return_for_Treatment_Total_number_All_Ages,3489
+22,2019-20,R4,East Midlands,%,Follow_up_Attended_All_Ages,70.7954545454545000000
+22,2019-20,R4,East Midlands,%,Follow_up_Cancel_Adv_All_Ages,8.0113636363636400000
+22,2019-20,R4,East Midlands,%,Follow_up_Cancel_Clinic_All_Ages,6.8323863636363600000
+22,2019-20,R4,East Midlands,%,Follow_up_Cancel_Day_All_Ages,2.1164772727272700000
+22,2019-20,R4,East Midlands,%,Follow_up_DNA_Late_All_Ages,0.0284090909090909000
+22,2019-20,R4,East Midlands,%,Follow_up_DNA_Left_Not_Seen_All_Ages,0.0000000000000000000
+22,2019-20,R4,East Midlands,%,Follow_up_DNA_No_Adv_Warn_All_Ages,12.2159090909091000000
+22,2019-20,R4,East Midlands,Number,Follow_up_Total_number_All_Ages,7040
+22,2019-20,R4,East Midlands,%,New_appointment_Attended_All_Ages,77.0337797321607000000
+22,2019-20,R4,East Midlands,%,New_appointment_Cancel_Adv_All_Ages,11.4931041375175000000
+22,2019-20,R4,East Midlands,%,New_appointment_Cancel_Clinic_All_Ages,3.2980211872876300000
+22,2019-20,R4,East Midlands,%,New_appointment_Cancel_Day_All_Ages,1.5390765540675600000
+22,2019-20,R4,East Midlands,%,New_appointment_DNA_Late_All_Ages,0.0133253381304551000
+22,2019-20,R4,East Midlands,%,New_appointment_DNA_Left_Not_Seen_All_Ages,0.0066626690652275300
+22,2019-20,R4,East Midlands,%,New_appointment_DNA_No_Adv_Warn_All_Ages,6.6160303817709400000
+22,2019-20,R4,East Midlands,Number,New_appointment_Total_number_All_Ages,15009
+22,2019-20,R4,East Midlands,%,Return_for_Treatment_Attended_All_Ages,84.1852337265181000000
+22,2019-20,R4,East Midlands,%,Return_for_Treatment_Cancel_Adv_All_Ages,7.7763215377894300000
+22,2019-20,R4,East Midlands,%,Return_for_Treatment_Cancel_Clinic_All_Ages,1.8785495849716000000
+22,2019-20,R4,East Midlands,%,Return_for_Treatment_Cancel_Day_All_Ages,2.2717343818261200000
+22,2019-20,R4,East Midlands,%,Return_for_Treatment_DNA_Late_All_Ages,0.0436871996505024000
+22,2019-20,R4,East Midlands,%,Return_for_Treatment_DNA_Left_Not_Seen_All_Ages,0.0000000000000000000
+22,2019-20,R4,East Midlands,%,Return_for_Treatment_DNA_No_Adv_Warn_All_Ages,3.8444735692442100000
+22,2019-20,R4,East Midlands,Number,Return_for_Treatment_Total_number_All_Ages,2289
+22,2019-20,R5,West Midlands,%,Follow_up_Attended_All_Ages,63.5952358969624000000
+22,2019-20,R5,West Midlands,%,Follow_up_Cancel_Adv_All_Ages,14.0245591358139000000
+22,2019-20,R5,West Midlands,%,Follow_up_Cancel_Clinic_All_Ages,8.4295078940079400000
+22,2019-20,R5,West Midlands,%,Follow_up_Cancel_Day_All_Ages,3.2499307543163100000
+22,2019-20,R5,West Midlands,%,Follow_up_DNA_Late_All_Ages,0.0276982734742868000
+22,2019-20,R5,West Midlands,%,Follow_up_DNA_Left_Not_Seen_All_Ages,0.0646293047733358000
+22,2019-20,R5,West Midlands,%,Follow_up_DNA_No_Adv_Warn_All_Ages,10.6084387406518000000
+22,2019-20,R5,West Midlands,Number,Follow_up_Total_number_All_Ages,10831
+22,2019-20,R5,West Midlands,%,New_appointment_Attended_All_Ages,73.7756182045608000000
+22,2019-20,R5,West Midlands,%,New_appointment_Cancel_Adv_All_Ages,12.9221591455788000000
+22,2019-20,R5,West Midlands,%,New_appointment_Cancel_Clinic_All_Ages,2.1408640431059400000
+22,2019-20,R5,West Midlands,%,New_appointment_Cancel_Day_All_Ages,3.4590589820071200000
+22,2019-20,R5,West Midlands,%,New_appointment_DNA_Late_All_Ages,0.0721639565091889000
+22,2019-20,R5,West Midlands,%,New_appointment_DNA_Left_Not_Seen_All_Ages,0.0288655826036756000
+22,2019-20,R5,West Midlands,%,New_appointment_DNA_No_Adv_Warn_All_Ages,7.6012700856345600000
+22,2019-20,R5,West Midlands,Number,New_appointment_Total_number_All_Ages,20786
+22,2019-20,R5,West Midlands,%,Return_for_Treatment_Attended_All_Ages,76.9606247966157000000
+22,2019-20,R5,West Midlands,%,Return_for_Treatment_Cancel_Adv_All_Ages,11.3569801496909000000
+22,2019-20,R5,West Midlands,%,Return_for_Treatment_Cancel_Clinic_All_Ages,3.3843150016270700000
+22,2019-20,R5,West Midlands,%,Return_for_Treatment_Cancel_Day_All_Ages,2.5056947608200500000
+22,2019-20,R5,West Midlands,%,Return_for_Treatment_DNA_Late_All_Ages,0.0650829808005207000
+22,2019-20,R5,West Midlands,%,Return_for_Treatment_DNA_Left_Not_Seen_All_Ages,0.0000000000000000000
+22,2019-20,R5,West Midlands,%,Return_for_Treatment_DNA_No_Adv_Warn_All_Ages,5.7273023104458200000
+22,2019-20,R5,West Midlands,Number,Return_for_Treatment_Total_number_All_Ages,3073
+22,2019-20,R6,East of England,%,Follow_up_Attended_All_Ages,62.6710766423358000000
+22,2019-20,R6,East of England,%,Follow_up_Cancel_Adv_All_Ages,15.0661496350365000000
+22,2019-20,R6,East of England,%,Follow_up_Cancel_Clinic_All_Ages,9.2609489051094900000
+22,2019-20,R6,East of England,%,Follow_up_Cancel_Day_All_Ages,2.6459854014598500000
+22,2019-20,R6,East of England,%,Follow_up_DNA_Late_All_Ages,0.0684306569343066000
+22,2019-20,R6,East of England,%,Follow_up_DNA_Left_Not_Seen_All_Ages,0.0114051094890511000
+22,2019-20,R6,East of England,%,Follow_up_DNA_No_Adv_Warn_All_Ages,10.2760036496350000000
+22,2019-20,R6,East of England,Number,Follow_up_Total_number_All_Ages,8768
+22,2019-20,R6,East of England,%,New_appointment_Attended_All_Ages,73.3043508995158000000
+22,2019-20,R6,East of England,%,New_appointment_Cancel_Adv_All_Ages,14.5088891245184000000
+22,2019-20,R6,East of England,%,New_appointment_Cancel_Clinic_All_Ages,4.3120206411479900000
+22,2019-20,R6,East of England,%,New_appointment_Cancel_Day_All_Ages,1.9404092885165900000
+22,2019-20,R6,East of England,%,New_appointment_DNA_Late_All_Ages,0.0141377725939278000
+22,2019-20,R6,East of England,%,New_appointment_DNA_Left_Not_Seen_All_Ages,0.0494822040787474000
+22,2019-20,R6,East of England,%,New_appointment_DNA_No_Adv_Warn_All_Ages,5.8707100696285300000
+22,2019-20,R6,East of England,Number,New_appointment_Total_number_All_Ages,28293
+22,2019-20,R6,East of England,%,Return_for_Treatment_Attended_All_Ages,80.2452316076294000000
+22,2019-20,R6,East of England,%,Return_for_Treatment_Cancel_Adv_All_Ages,11.3760217983651000000
+22,2019-20,R6,East of England,%,Return_for_Treatment_Cancel_Clinic_All_Ages,3.6444141689373300000
+22,2019-20,R6,East of England,%,Return_for_Treatment_Cancel_Day_All_Ages,1.8732970027248000000
+22,2019-20,R6,East of England,%,Return_for_Treatment_DNA_Late_All_Ages,0.0340599455040872000
+22,2019-20,R6,East of England,%,Return_for_Treatment_DNA_Left_Not_Seen_All_Ages,0.0000000000000000000
+22,2019-20,R6,East of England,%,Return_for_Treatment_DNA_No_Adv_Warn_All_Ages,2.8269754768392400000
+22,2019-20,R6,East of England,Number,Return_for_Treatment_Total_number_All_Ages,2936
+22,2019-20,R7,London,%,Follow_up_Attended_All_Ages,61.3346907398558000000
+22,2019-20,R7,London,%,Follow_up_Cancel_Adv_All_Ages,17.2820012050446000000
+22,2019-20,R7,London,%,Follow_up_Cancel_Clinic_All_Ages,9.1998919615216800000
+22,2019-20,R7,London,%,Follow_up_Cancel_Day_All_Ages,2.9378155450749000000
+22,2019-20,R7,London,%,Follow_up_DNA_Late_All_Ages,0.0332426087137188000
+22,2019-20,R7,London,%,Follow_up_DNA_Left_Not_Seen_All_Ages,0.0145436413122520000
+22,2019-20,R7,London,%,Follow_up_DNA_No_Adv_Warn_All_Ages,9.1978142984770700000
+22,2019-20,R7,London,Number,Follow_up_Total_number_All_Ages,48131
+22,2019-20,R7,London,%,New_appointment_Attended_All_Ages,70.0435320040845000000
+22,2019-20,R7,London,%,New_appointment_Cancel_Adv_All_Ages,16.1408788807080000000
+22,2019-20,R7,London,%,New_appointment_Cancel_Clinic_All_Ages,3.8533885097006500000
+22,2019-20,R7,London,%,New_appointment_Cancel_Day_All_Ages,2.3987388258899000000
+22,2019-20,R7,London,%,New_appointment_DNA_Late_All_Ages,0.0394116909406854000
+22,2019-20,R7,London,%,New_appointment_DNA_Left_Not_Seen_All_Ages,0.0304544884541660000
+22,2019-20,R7,London,%,New_appointment_DNA_No_Adv_Warn_All_Ages,7.4935956002221400000
+22,2019-20,R7,London,Number,New_appointment_Total_number_All_Ages,55821
+22,2019-20,R7,London,%,Return_for_Treatment_Attended_All_Ages,77.0971635485818000000
+22,2019-20,R7,London,%,Return_for_Treatment_Cancel_Adv_All_Ages,13.5938442969221000000
+22,2019-20,R7,London,%,Return_for_Treatment_Cancel_Clinic_All_Ages,3.5003017501508800000
+22,2019-20,R7,London,%,Return_for_Treatment_Cancel_Day_All_Ages,2.3536511768255900000
+22,2019-20,R7,London,%,Return_for_Treatment_DNA_Late_All_Ages,0.0452625226312613000
+22,2019-20,R7,London,%,Return_for_Treatment_DNA_Left_Not_Seen_All_Ages,0.0150875075437538000
+22,2019-20,R7,London,%,Return_for_Treatment_DNA_No_Adv_Warn_All_Ages,3.3946891973446000000
+22,2019-20,R7,London,Number,Return_for_Treatment_Total_number_All_Ages,6628
+22,2019-20,R8,South East,%,Follow_up_Attended_All_Ages,66.6310160427807000000
+22,2019-20,R8,South East,%,Follow_up_Cancel_Adv_All_Ages,14.9732620320856000000
+22,2019-20,R8,South East,%,Follow_up_Cancel_Clinic_All_Ages,5.7170636849781200000
+22,2019-20,R8,South East,%,Follow_up_Cancel_Day_All_Ages,1.8570734078755500000
+22,2019-20,R8,South East,%,Follow_up_DNA_Late_All_Ages,0.0097228974234321800
+22,2019-20,R8,South East,%,Follow_up_DNA_Left_Not_Seen_All_Ages,0.0194457948468644000
+22,2019-20,R8,South East,%,Follow_up_DNA_No_Adv_Warn_All_Ages,10.7924161400097000000
+22,2019-20,R8,South East,Number,Follow_up_Total_number_All_Ages,10285
+22,2019-20,R8,South East,%,New_appointment_Attended_All_Ages,75.9514465638405000000
+22,2019-20,R8,South East,%,New_appointment_Cancel_Adv_All_Ages,13.8085242310852000000
+22,2019-20,R8,South East,%,New_appointment_Cancel_Clinic_All_Ages,2.1310577712877600000
+22,2019-20,R8,South East,%,New_appointment_Cancel_Day_All_Ages,1.4556904262115500000
+22,2019-20,R8,South East,%,New_appointment_DNA_Late_All_Ages,0.0365063429770923000
+22,2019-20,R8,South East,%,New_appointment_DNA_Left_Not_Seen_All_Ages,0.0547595144656384000
+22,2019-20,R8,South East,%,New_appointment_DNA_No_Adv_Warn_All_Ages,6.5620151501323400000
+22,2019-20,R8,South East,Number,New_appointment_Total_number_All_Ages,21914
+22,2019-20,R8,South East,%,Return_for_Treatment_Attended_All_Ages,78.9891395154553000000
+22,2019-20,R8,South East,%,Return_for_Treatment_Cancel_Adv_All_Ages,13.1996658312448000000
+22,2019-20,R8,South East,%,Return_for_Treatment_Cancel_Clinic_All_Ages,2.0467836257309900000
+22,2019-20,R8,South East,%,Return_for_Treatment_Cancel_Day_All_Ages,1.1695906432748500000
+22,2019-20,R8,South East,%,Return_for_Treatment_DNA_Late_All_Ages,0.0000000000000000000
+22,2019-20,R8,South East,%,Return_for_Treatment_DNA_Left_Not_Seen_All_Ages,0.0417710944026733000
+22,2019-20,R8,South East,%,Return_for_Treatment_DNA_No_Adv_Warn_All_Ages,4.5530492898914000000
+22,2019-20,R8,South East,Number,Return_for_Treatment_Total_number_All_Ages,2394
+22,2019-20,S,South,%,Follow_up_Attended_All_Ages,63.4603778840351000000
+22,2019-20,S,South,%,Follow_up_Cancel_Adv_All_Ages,14.3122417715055000000
+22,2019-20,S,South,%,Follow_up_Cancel_Clinic_All_Ages,9.1639199665753700000
+22,2019-20,S,South,%,Follow_up_Cancel_Day_All_Ages,2.4047165869736800000
+22,2019-20,S,South,%,Follow_up_DNA_Late_All_Ages,0.0139269300403881000
+22,2019-20,S,South,%,Follow_up_DNA_Left_Not_Seen_All_Ages,0.0371384801077016000
+22,2019-20,S,South,%,Follow_up_DNA_No_Adv_Warn_All_Ages,10.6076783807623000000
+22,2019-20,S,South,Number,Follow_up_Total_number_All_Ages,21541
+22,2019-20,S,South,%,New_appointment_Attended_All_Ages,75.0063083522584000000
+22,2019-20,S,South,%,New_appointment_Cancel_Adv_All_Ages,13.2205039472261000000
+22,2019-20,S,South,%,New_appointment_Cancel_Clinic_All_Ages,3.8444901048988900000
+22,2019-20,S,South,%,New_appointment_Cancel_Day_All_Ages,1.7483147687538300000
+22,2019-20,S,South,%,New_appointment_DNA_Late_All_Ages,0.0450596589885008000
+22,2019-20,S,South,%,New_appointment_DNA_Left_Not_Seen_All_Ages,0.0306405681121805000
+22,2019-20,S,South,%,New_appointment_DNA_No_Adv_Warn_All_Ages,6.1046825997620900000
+22,2019-20,S,South,Number,New_appointment_Total_number_All_Ages,55482
+22,2019-20,S,South,%,Return_for_Treatment_Attended_All_Ages,80.5353466026081000000
+22,2019-20,S,South,%,Return_for_Treatment_Cancel_Adv_All_Ages,11.3932738503775000000
+22,2019-20,S,South,%,Return_for_Treatment_Cancel_Clinic_All_Ages,2.4159231297186000000
+22,2019-20,S,South,%,Return_for_Treatment_Cancel_Day_All_Ages,1.3864104323953300000
+22,2019-20,S,South,%,Return_for_Treatment_DNA_Late_All_Ages,0.0137268359643102000
+22,2019-20,S,South,%,Return_for_Treatment_DNA_Left_Not_Seen_All_Ages,0.0137268359643102000
+22,2019-20,S,South,%,Return_for_Treatment_DNA_No_Adv_Warn_All_Ages,4.2415923129718600000
+22,2019-20,S,South,Number,Return_for_Treatment_Total_number_All_Ages,7285

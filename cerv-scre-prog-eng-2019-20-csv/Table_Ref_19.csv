@@ -1,0 +1,496 @@
+﻿Table_ref,Collection_Year,Parent_Org_Code,Parent_Org_Name,Org_Code,Org_Name,Unit,Indicator,Value
+19,2019-20,ENG,England,ENG,England,%,Samples_GP_NHSCC_Borderline_25to64,1.4741992528044900000
+19,2019-20,ENG,England,ENG,England,%,Samples_GP_NHSCC_Inadequate_25to64,1.2452939377154600000
+19,2019-20,ENG,England,ENG,England,%,Samples_GP_NHSCC_Low_Grade_25to64,1.9023448892919100000
+19,2019-20,ENG,England,ENG,England,%,Samples_GP_NHSCC_Moderate_25to64,0.4405687579590850000
+19,2019-20,ENG,England,ENG,England,%,Samples_GP_NHSCC_Negative_25to64,95.6600779475530000000
+19,2019-20,ENG,England,ENG,England,%,Samples_GP_NHSCC_Severe_25to64,0.5228091523915180000
+19,2019-20,ENG,England,ENG,England,Number,Samples_Total_GP_NHSCC_25to64,3024025
+19,2019-20,ENG,England,ENG,England,Number,Samples_Total_GP_NHSCC_Adequate_25to64,2986367
+19,2019-20,ENG,England,ENG,England,Number,Samples_Total_all_sources_All_Ages,3276381
+19,2019-20,NEYH,"North East, Yorkshire and the Humber",NEYH,"North East, Yorkshire and the Humber",%,Samples_GP_NHSCC_Borderline_25to64,1.6655409938213100000
+19,2019-20,NEYH,"North East, Yorkshire and the Humber",NEYH,"North East, Yorkshire and the Humber",%,Samples_GP_NHSCC_Inadequate_25to64,0.8247743541861190000
+19,2019-20,NEYH,"North East, Yorkshire and the Humber",NEYH,"North East, Yorkshire and the Humber",%,Samples_GP_NHSCC_Low_Grade_25to64,1.3921957897561500000
+19,2019-20,NEYH,"North East, Yorkshire and the Humber",NEYH,"North East, Yorkshire and the Humber",%,Samples_GP_NHSCC_Moderate_25to64,0.6035425720373770000
+19,2019-20,NEYH,"North East, Yorkshire and the Humber",NEYH,"North East, Yorkshire and the Humber",%,Samples_GP_NHSCC_Negative_25to64,95.6676377016262000000
+19,2019-20,NEYH,"North East, Yorkshire and the Humber",NEYH,"North East, Yorkshire and the Humber",%,Samples_GP_NHSCC_Severe_25to64,0.6710829427589670000
+19,2019-20,NEYH,"North East, Yorkshire and the Humber",NEYH,"North East, Yorkshire and the Humber",Number,Samples_Total_GP_NHSCC_25to64,443394
+19,2019-20,NEYH,"North East, Yorkshire and the Humber",NEYH,"North East, Yorkshire and the Humber",Number,Samples_Total_GP_NHSCC_Adequate_25to64,439737
+19,2019-20,NEYH,"North East, Yorkshire and the Humber",NEYH,"North East, Yorkshire and the Humber",Number,Samples_Total_all_sources_All_Ages,482399
+19,2019-20,R1,North East,60050,University Hospital of North Durham,%,Samples_GP_NHSCC_Borderline_25to64,5.1922725333658400000
+19,2019-20,R1,North East,60050,University Hospital of North Durham,%,Samples_GP_NHSCC_Inadequate_25to64,1.2279540119183800000
+19,2019-20,R1,North East,60050,University Hospital of North Durham,%,Samples_GP_NHSCC_Low_Grade_25to64,3.1080504601133500000
+19,2019-20,R1,North East,60050,University Hospital of North Durham,%,Samples_GP_NHSCC_Moderate_25to64,0.7008349076726190000
+19,2019-20,R1,North East,60050,University Hospital of North Durham,%,Samples_GP_NHSCC_Negative_25to64,90.3467609238832000000
+19,2019-20,R1,North East,60050,University Hospital of North Durham,%,Samples_GP_NHSCC_Severe_25to64,0.6520811749649580000
+19,2019-20,R1,North East,60050,University Hospital of North Durham,Number,Samples_Total_GP_NHSCC_25to64,16613
+19,2019-20,R1,North East,60050,University Hospital of North Durham,Number,Samples_Total_GP_NHSCC_Adequate_25to64,16409
+19,2019-20,R1,North East,60050,University Hospital of North Durham,Number,Samples_Total_all_sources_All_Ages,18119
+19,2019-20,R1,North East,60080,Queen Elizabeth Hospital,%,Samples_GP_NHSCC_Borderline_25to64,1.4619539689995300000
+19,2019-20,R1,North East,60080,Queen Elizabeth Hospital,%,Samples_GP_NHSCC_Inadequate_25to64,0.3527904377994770000
+19,2019-20,R1,North East,60080,Queen Elizabeth Hospital,%,Samples_GP_NHSCC_Low_Grade_25to64,1.6621653358384200000
+19,2019-20,R1,North East,60080,Queen Elizabeth Hospital,%,Samples_GP_NHSCC_Moderate_25to64,0.6100281822451860000
+19,2019-20,R1,North East,60080,Queen Elizabeth Hospital,%,Samples_GP_NHSCC_Negative_25to64,95.6781352747769000000
+19,2019-20,R1,North East,60080,Queen Elizabeth Hospital,%,Samples_GP_NHSCC_Severe_25to64,0.5877172381399720000
+19,2019-20,R1,North East,60080,Queen Elizabeth Hospital,Number,Samples_Total_GP_NHSCC_25to64,170923
+19,2019-20,R1,North East,60080,Queen Elizabeth Hospital,Number,Samples_Total_GP_NHSCC_Adequate_25to64,170320
+19,2019-20,R1,North East,60080,Queen Elizabeth Hospital,Number,Samples_Total_all_sources_All_Ages,181544
+19,2019-20,R1,North East,60103,Royal Victoria Infirmary,%,Samples_GP_NHSCC_Borderline_25to64,3.8002749323755000000
+19,2019-20,R1,North East,60103,Royal Victoria Infirmary,%,Samples_GP_NHSCC_Inadequate_25to64,1.4594712693904300000
+19,2019-20,R1,North East,60103,Royal Victoria Infirmary,%,Samples_GP_NHSCC_Low_Grade_25to64,2.3014500465611300000
+19,2019-20,R1,North East,60103,Royal Victoria Infirmary,%,Samples_GP_NHSCC_Moderate_25to64,0.3946609906434300000
+19,2019-20,R1,North East,60103,Royal Victoria Infirmary,%,Samples_GP_NHSCC_Negative_25to64,92.4304908873221000000
+19,2019-20,R1,North East,60103,Royal Victoria Infirmary,%,Samples_GP_NHSCC_Severe_25to64,1.0731231430978700000
+19,2019-20,R1,North East,60103,Royal Victoria Infirmary,Number,Samples_Total_GP_NHSCC_25to64,22885
+19,2019-20,R1,North East,60103,Royal Victoria Infirmary,Number,Samples_Total_GP_NHSCC_Adequate_25to64,22551
+19,2019-20,R1,North East,60103,Royal Victoria Infirmary,Number,Samples_Total_all_sources_All_Ages,25123
+19,2019-20,R1,North East,60110,University Hospital of North Tees,%,Samples_GP_NHSCC_Borderline_25to64,2.9372272574689500000
+19,2019-20,R1,North East,60110,University Hospital of North Tees,%,Samples_GP_NHSCC_Inadequate_25to64,1.6073984366398800000
+19,2019-20,R1,North East,60110,University Hospital of North Tees,%,Samples_GP_NHSCC_Low_Grade_25to64,1.3147588676289600000
+19,2019-20,R1,North East,60110,University Hospital of North Tees,%,Samples_GP_NHSCC_Moderate_25to64,0.5203088284659280000
+19,2019-20,R1,North East,60110,University Hospital of North Tees,%,Samples_GP_NHSCC_Negative_25to64,94.6234754391854000000
+19,2019-20,R1,North East,60110,University Hospital of North Tees,%,Samples_GP_NHSCC_Severe_25to64,0.6042296072507550000
+19,2019-20,R1,North East,60110,University Hospital of North Tees,Number,Samples_Total_GP_NHSCC_25to64,18166
+19,2019-20,R1,North East,60110,University Hospital of North Tees,Number,Samples_Total_GP_NHSCC_Adequate_25to64,17874
+19,2019-20,R1,North East,60110,University Hospital of North Tees,Number,Samples_Total_all_sources_All_Ages,19883
+19,2019-20,R8,South East,61350,Queen Alexandra Hospital,%,Samples_GP_NHSCC_Borderline_25to64,2.6128194285023900000
+19,2019-20,R8,South East,61350,Queen Alexandra Hospital,%,Samples_GP_NHSCC_Inadequate_25to64,6.0049402345191800000
+19,2019-20,R8,South East,61350,Queen Alexandra Hospital,%,Samples_GP_NHSCC_Low_Grade_25to64,1.9784933244729100000
+19,2019-20,R8,South East,61350,Queen Alexandra Hospital,%,Samples_GP_NHSCC_Moderate_25to64,0.4410076723252580000
+19,2019-20,R8,South East,61350,Queen Alexandra Hospital,%,Samples_GP_NHSCC_Negative_25to64,94.4269920860267000000
+19,2019-20,R8,South East,61350,Queen Alexandra Hospital,%,Samples_GP_NHSCC_Severe_25to64,0.5406874886727480000
+19,2019-20,R8,South East,61350,Queen Alexandra Hospital,Number,Samples_Total_GP_NHSCC_25to64,35221
+19,2019-20,R8,South East,61350,Queen Alexandra Hospital,Number,Samples_Total_GP_NHSCC_Adequate_25to64,33106
+19,2019-20,R8,South East,61350,Queen Alexandra Hospital,Number,Samples_Total_all_sources_All_Ages,37765
+19,2019-20,R8,South East,61355,Poole Hospital,%,Samples_GP_NHSCC_Borderline_25to64,1.0819672131147500000
+19,2019-20,R8,South East,61355,Poole Hospital,%,Samples_GP_NHSCC_Inadequate_25to64,4.6986681248291200000
+19,2019-20,R8,South East,61355,Poole Hospital,%,Samples_GP_NHSCC_Low_Grade_25to64,1.6967213114754100000
+19,2019-20,R8,South East,61355,Poole Hospital,%,Samples_GP_NHSCC_Moderate_25to64,0.4508196721311480000
+19,2019-20,R8,South East,61355,Poole Hospital,%,Samples_GP_NHSCC_Negative_25to64,96.3360655737705000000
+19,2019-20,R8,South East,61355,Poole Hospital,%,Samples_GP_NHSCC_Severe_25to64,0.4344262295081970000
+19,2019-20,R8,South East,61355,Poole Hospital,Number,Samples_Total_GP_NHSCC_25to64,25603
+19,2019-20,R8,South East,61355,Poole Hospital,Number,Samples_Total_GP_NHSCC_Adequate_25to64,24400
+19,2019-20,R8,South East,61355,Poole Hospital,Number,Samples_Total_all_sources_All_Ages,27954
+19,2019-20,R8,South East,61370,Royal Hampshire County Hospital,%,Samples_GP_NHSCC_Borderline_25to64,2.2202976143610700000
+19,2019-20,R8,South East,61370,Royal Hampshire County Hospital,%,Samples_GP_NHSCC_Inadequate_25to64,3.3482992161935900000
+19,2019-20,R8,South East,61370,Royal Hampshire County Hospital,%,Samples_GP_NHSCC_Low_Grade_25to64,1.7872608456027100000
+19,2019-20,R8,South East,61370,Royal Hampshire County Hospital,%,Samples_GP_NHSCC_Moderate_25to64,0.3936697897803320000
+19,2019-20,R8,South East,61370,Royal Hampshire County Hospital,%,Samples_GP_NHSCC_Negative_25to64,95.1263680025195000000
+19,2019-20,R8,South East,61370,Royal Hampshire County Hospital,%,Samples_GP_NHSCC_Severe_25to64,0.4724037477363990000
+19,2019-20,R8,South East,61370,Royal Hampshire County Hospital,Number,Samples_Total_GP_NHSCC_25to64,26282
+19,2019-20,R8,South East,61370,Royal Hampshire County Hospital,Number,Samples_Total_GP_NHSCC_Adequate_25to64,25402
+19,2019-20,R8,South East,61370,Royal Hampshire County Hospital,Number,Samples_Total_all_sources_All_Ages,27753
+19,2019-20,R10,South West,61390,Royal United Hospital,%,Samples_GP_NHSCC_Borderline_25to64,1.4556651970046900000
+19,2019-20,R10,South West,61390,Royal United Hospital,%,Samples_GP_NHSCC_Inadequate_25to64,1.5705724323207300000
+19,2019-20,R10,South West,61390,Royal United Hospital,%,Samples_GP_NHSCC_Low_Grade_25to64,1.1967247533067400000
+19,2019-20,R10,South West,61390,Royal United Hospital,%,Samples_GP_NHSCC_Moderate_25to64,0.3814122751767090000
+19,2019-20,R10,South West,61390,Royal United Hospital,%,Samples_GP_NHSCC_Negative_25to64,96.6547694030373000000
+19,2019-20,R10,South West,61390,Royal United Hospital,%,Samples_GP_NHSCC_Severe_25to64,0.3114283714745610000
+19,2019-20,R10,South West,61390,Royal United Hospital,Number,Samples_Total_GP_NHSCC_25to64,29034
+19,2019-20,R10,South West,61390,Royal United Hospital,Number,Samples_Total_GP_NHSCC_Adequate_25to64,28578
+19,2019-20,R10,South West,61390,Royal United Hospital,Number,Samples_Total_all_sources_All_Ages,30875
+19,2019-20,R8,South East,61440,John Radcliffe Hospital,%,Samples_GP_NHSCC_Borderline_25to64,1.9579132326486200000
+19,2019-20,R8,South East,61440,John Radcliffe Hospital,%,Samples_GP_NHSCC_Inadequate_25to64,3.8379530916844400000
+19,2019-20,R8,South East,61440,John Radcliffe Hospital,%,Samples_GP_NHSCC_Low_Grade_25to64,2.4306572396770300000
+19,2019-20,R8,South East,61440,John Radcliffe Hospital,%,Samples_GP_NHSCC_Moderate_25to64,0.3221352968246660000
+19,2019-20,R8,South East,61440,John Radcliffe Hospital,%,Samples_GP_NHSCC_Negative_25to64,94.7914487721207000000
+19,2019-20,R8,South East,61440,John Radcliffe Hospital,%,Samples_GP_NHSCC_Severe_25to64,0.4978454587290300000
+19,2019-20,R8,South East,61440,John Radcliffe Hospital,Number,Samples_Total_GP_NHSCC_25to64,24857
+19,2019-20,R8,South East,61440,John Radcliffe Hospital,Number,Samples_Total_GP_NHSCC_Adequate_25to64,23903
+19,2019-20,R8,South East,61440,John Radcliffe Hospital,Number,Samples_Total_all_sources_All_Ages,26461
+19,2019-20,R10,South West,61565,Royal Devon and Exeter Hospital,%,Samples_GP_NHSCC_Borderline_25to64,1.2455093611027600000
+19,2019-20,R10,South West,61565,Royal Devon and Exeter Hospital,%,Samples_GP_NHSCC_Inadequate_25to64,0.3988020176544770000
+19,2019-20,R10,South West,61565,Royal Devon and Exeter Hospital,%,Samples_GP_NHSCC_Low_Grade_25to64,1.9434377324449700000
+19,2019-20,R10,South West,61565,Royal Devon and Exeter Hospital,%,Samples_GP_NHSCC_Moderate_25to64,0.5665722379603400000
+19,2019-20,R10,South West,61565,Royal Devon and Exeter Hospital,%,Samples_GP_NHSCC_Negative_25to64,95.7412125911976000000
+19,2019-20,R10,South West,61565,Royal Devon and Exeter Hospital,%,Samples_GP_NHSCC_Severe_25to64,0.5032680772943800000
+19,2019-20,R10,South West,61565,Royal Devon and Exeter Hospital,Number,Samples_Total_GP_NHSCC_25to64,63440
+19,2019-20,R10,South West,61565,Royal Devon and Exeter Hospital,Number,Samples_Total_GP_NHSCC_Adequate_25to64,63187
+19,2019-20,R10,South West,61565,Royal Devon and Exeter Hospital,Number,Samples_Total_all_sources_All_Ages,69807
+19,2019-20,R10,South West,61580,Gloucestershire Royal Hospital,%,Samples_GP_NHSCC_Borderline_25to64,1.6756621061880300000
+19,2019-20,R10,South West,61580,Gloucestershire Royal Hospital,%,Samples_GP_NHSCC_Inadequate_25to64,1.3028307145954200000
+19,2019-20,R10,South West,61580,Gloucestershire Royal Hospital,%,Samples_GP_NHSCC_Low_Grade_25to64,1.7154093970963600000
+19,2019-20,R10,South West,61580,Gloucestershire Royal Hospital,%,Samples_GP_NHSCC_Moderate_25to64,0.3765532822894440000
+19,2019-20,R10,South West,61580,Gloucestershire Royal Hospital,%,Samples_GP_NHSCC_Negative_25to64,95.7365800594117000000
+19,2019-20,R10,South West,61580,Gloucestershire Royal Hospital,%,Samples_GP_NHSCC_Severe_25to64,0.4957951550144350000
+19,2019-20,R10,South West,61580,Gloucestershire Royal Hospital,Number,Samples_Total_GP_NHSCC_25to64,48433
+19,2019-20,R10,South West,61580,Gloucestershire Royal Hospital,Number,Samples_Total_GP_NHSCC_Adequate_25to64,47802
+19,2019-20,R10,South West,61580,Gloucestershire Royal Hospital,Number,Samples_Total_all_sources_All_Ages,51835
+19,2019-20,R10,South West,61590,Southmead Hospital,%,Samples_GP_NHSCC_Borderline_25to64,1.3252496668366800000
+19,2019-20,R10,South West,61590,Southmead Hospital,%,Samples_GP_NHSCC_Inadequate_25to64,0.6261853377803940000
+19,2019-20,R10,South West,61590,Southmead Hospital,%,Samples_GP_NHSCC_Low_Grade_25to64,1.9636070482552100000
+19,2019-20,R10,South West,61590,Southmead Hospital,%,Samples_GP_NHSCC_Moderate_25to64,0.6729076520623220000
+19,2019-20,R10,South West,61590,Southmead Hospital,%,Samples_GP_NHSCC_Negative_25to64,95.5158684457314000000
+19,2019-20,R10,South West,61590,Southmead Hospital,%,Samples_GP_NHSCC_Severe_25to64,0.5223671871143940000
+19,2019-20,R10,South West,61590,Southmead Hospital,Number,Samples_Total_GP_NHSCC_25to64,122328
+19,2019-20,R10,South West,61590,Southmead Hospital,Number,Samples_Total_GP_NHSCC_Adequate_25to64,121562
+19,2019-20,R10,South West,61590,Southmead Hospital,Number,Samples_Total_all_sources_All_Ages,131503
+19,2019-20,R10,South West,61600,Musgrove Park Hospital,%,Samples_GP_NHSCC_Borderline_25to64,1.3722349681832000000
+19,2019-20,R10,South West,61600,Musgrove Park Hospital,%,Samples_GP_NHSCC_Inadequate_25to64,3.0795049297251900000
+19,2019-20,R10,South West,61600,Musgrove Park Hospital,%,Samples_GP_NHSCC_Low_Grade_25to64,2.4674256525691500000
+19,2019-20,R10,South West,61600,Musgrove Park Hospital,%,Samples_GP_NHSCC_Moderate_25to64,0.3116748192718930000
+19,2019-20,R10,South West,61600,Musgrove Park Hospital,%,Samples_GP_NHSCC_Negative_25to64,95.2729319077096000000
+19,2019-20,R10,South West,61600,Musgrove Park Hospital,%,Samples_GP_NHSCC_Severe_25to64,0.5757326522661360000
+19,2019-20,R10,South West,61600,Musgrove Park Hospital,Number,Samples_Total_GP_NHSCC_25to64,23835
+19,2019-20,R10,South West,61600,Musgrove Park Hospital,Number,Samples_Total_GP_NHSCC_Adequate_25to64,23101
+19,2019-20,R10,South West,61600,Musgrove Park Hospital,Number,Samples_Total_all_sources_All_Ages,25957
+19,2019-20,R2,North West,61920,Royal Liverpool University Hospital,%,Samples_GP_NHSCC_Borderline_25to64,0.7876194733593030000
+19,2019-20,R2,North West,61920,Royal Liverpool University Hospital,%,Samples_GP_NHSCC_Inadequate_25to64,0.2526753864447090000
+19,2019-20,R2,North West,61920,Royal Liverpool University Hospital,%,Samples_GP_NHSCC_Low_Grade_25to64,2.1010281627179300000
+19,2019-20,R2,North West,61920,Royal Liverpool University Hospital,%,Samples_GP_NHSCC_Moderate_25to64,0.5385614236754160000
+19,2019-20,R2,North West,61920,Royal Liverpool University Hospital,%,Samples_GP_NHSCC_Negative_25to64,95.8681908167827000000
+19,2019-20,R2,North West,61920,Royal Liverpool University Hospital,%,Samples_GP_NHSCC_Severe_25to64,0.7046001234646740000
+19,2019-20,R2,North West,61920,Royal Liverpool University Hospital,Number,Samples_Total_GP_NHSCC_25to64,47096
+19,2019-20,R2,North West,61920,Royal Liverpool University Hospital,Number,Samples_Total_GP_NHSCC_Adequate_25to64,46977
+19,2019-20,R2,North West,61920,Royal Liverpool University Hospital,Number,Samples_Total_all_sources_All_Ages,52666
+19,2019-20,R2,North West,61930,Whiston Hospital,%,Samples_GP_NHSCC_Borderline_25to64,1.5682174594877200000
+19,2019-20,R2,North West,61930,Whiston Hospital,%,Samples_GP_NHSCC_Inadequate_25to64,1.6604122757415300000
+19,2019-20,R2,North West,61930,Whiston Hospital,%,Samples_GP_NHSCC_Low_Grade_25to64,1.8295870360690000000
+19,2019-20,R2,North West,61930,Whiston Hospital,%,Samples_GP_NHSCC_Moderate_25to64,0.3293256664924200000
+19,2019-20,R2,North West,61930,Whiston Hospital,%,Samples_GP_NHSCC_Negative_25to64,95.5723993727130000000
+19,2019-20,R2,North West,61930,Whiston Hospital,%,Samples_GP_NHSCC_Severe_25to64,0.7004704652378460000
+19,2019-20,R2,North West,61930,Whiston Hospital,Number,Samples_Total_GP_NHSCC_25to64,19453
+19,2019-20,R2,North West,61930,Whiston Hospital,Number,Samples_Total_GP_NHSCC_Adequate_25to64,19130
+19,2019-20,R2,North West,61930,Whiston Hospital,Number,Samples_Total_all_sources_All_Ages,22729
+19,2019-20,R2,North West,62010,Manchester Cytology Centre,%,Samples_GP_NHSCC_Borderline_25to64,0.7493222690305580000
+19,2019-20,R2,North West,62010,Manchester Cytology Centre,%,Samples_GP_NHSCC_Inadequate_25to64,0.5055701355890350000
+19,2019-20,R2,North West,62010,Manchester Cytology Centre,%,Samples_GP_NHSCC_Low_Grade_25to64,1.6399180359165600000
+19,2019-20,R2,North West,62010,Manchester Cytology Centre,%,Samples_GP_NHSCC_Moderate_25to64,0.3636838019116470000
+19,2019-20,R2,North West,62010,Manchester Cytology Centre,%,Samples_GP_NHSCC_Negative_25to64,96.6164360896514000000
+19,2019-20,R2,North West,62010,Manchester Cytology Centre,%,Samples_GP_NHSCC_Severe_25to64,0.6306398034898370000
+19,2019-20,R2,North West,62010,Manchester Cytology Centre,Number,Samples_Total_GP_NHSCC_25to64,315881
+19,2019-20,R2,North West,62010,Manchester Cytology Centre,Number,Samples_Total_GP_NHSCC_Adequate_25to64,314284
+19,2019-20,R2,North West,62010,Manchester Cytology Centre,Number,Samples_Total_all_sources_All_Ages,348594
+19,2019-20,R3,Yorkshire and the Humber,60310,Leeds Teaching Hospitals,%,Samples_GP_NHSCC_Borderline_25to64,1.4790159578037600000
+19,2019-20,R3,Yorkshire and the Humber,60310,Leeds Teaching Hospitals,%,Samples_GP_NHSCC_Inadequate_25to64,1.2432568558060600000
+19,2019-20,R3,Yorkshire and the Humber,60310,Leeds Teaching Hospitals,%,Samples_GP_NHSCC_Low_Grade_25to64,0.2818451462239460000
+19,2019-20,R3,Yorkshire and the Humber,60310,Leeds Teaching Hospitals,%,Samples_GP_NHSCC_Moderate_25to64,1.2038814102994300000
+19,2019-20,R3,Yorkshire and the Humber,60310,Leeds Teaching Hospitals,%,Samples_GP_NHSCC_Negative_25to64,96.4353299601390000000
+19,2019-20,R3,Yorkshire and the Humber,60310,Leeds Teaching Hospitals,%,Samples_GP_NHSCC_Severe_25to64,0.5999275255338280000
+19,2019-20,R3,Yorkshire and the Humber,60310,Leeds Teaching Hospitals,Number,Samples_Total_GP_NHSCC_25to64,75447
+19,2019-20,R3,Yorkshire and the Humber,60310,Leeds Teaching Hospitals,Number,Samples_Total_GP_NHSCC_Adequate_25to64,74509
+19,2019-20,R3,Yorkshire and the Humber,60310,Leeds Teaching Hospitals,Number,Samples_Total_all_sources_All_Ages,81571
+19,2019-20,R3,Yorkshire and the Humber,60340,York Hospital,%,Samples_GP_NHSCC_Borderline_25to64,0.6947857179169990000
+19,2019-20,R3,Yorkshire and the Humber,60340,York Hospital,%,Samples_GP_NHSCC_Inadequate_25to64,1.3210481430076400000
+19,2019-20,R3,Yorkshire and the Humber,60340,York Hospital,%,Samples_GP_NHSCC_Low_Grade_25to64,1.3489010523461700000
+19,2019-20,R3,Yorkshire and the Humber,60340,York Hospital,%,Samples_GP_NHSCC_Moderate_25to64,0.3745064479503820000
+19,2019-20,R3,Yorkshire and the Humber,60340,York Hospital,%,Samples_GP_NHSCC_Negative_25to64,96.7294233278541000000
+19,2019-20,R3,Yorkshire and the Humber,60340,York Hospital,%,Samples_GP_NHSCC_Severe_25to64,0.8523834539323180000
+19,2019-20,R3,Yorkshire and the Humber,60340,York Hospital,Number,Samples_Total_GP_NHSCC_25to64,59801
+19,2019-20,R3,Yorkshire and the Humber,60340,York Hospital,Number,Samples_Total_GP_NHSCC_Adequate_25to64,59011
+19,2019-20,R3,Yorkshire and the Humber,60340,York Hospital,Number,Samples_Total_all_sources_All_Ages,64602
+19,2019-20,R3,Yorkshire and the Humber,60470,Royal Hallamshire Hospital,%,Samples_GP_NHSCC_Borderline_25to64,1.3761177794923000000
+19,2019-20,R3,Yorkshire and the Humber,60470,Royal Hallamshire Hospital,%,Samples_GP_NHSCC_Inadequate_25to64,0.6234366947799750000
+19,2019-20,R3,Yorkshire and the Humber,60470,Royal Hallamshire Hospital,%,Samples_GP_NHSCC_Low_Grade_25to64,1.2913752324096000000
+19,2019-20,R3,Yorkshire and the Humber,60470,Royal Hallamshire Hospital,%,Samples_GP_NHSCC_Moderate_25to64,0.2529628271125560000
+19,2019-20,R3,Yorkshire and the Humber,60470,Royal Hallamshire Hospital,%,Samples_GP_NHSCC_Negative_25to64,96.3927500853750000000
+19,2019-20,R3,Yorkshire and the Humber,60470,Royal Hallamshire Hospital,%,Samples_GP_NHSCC_Severe_25to64,0.6867940756105890000
+19,2019-20,R3,Yorkshire and the Humber,60470,Royal Hallamshire Hospital,Number,Samples_Total_GP_NHSCC_25to64,79559
+19,2019-20,R3,Yorkshire and the Humber,60470,Royal Hallamshire Hospital,Number,Samples_Total_GP_NHSCC_Adequate_25to64,79063
+19,2019-20,R3,Yorkshire and the Humber,60470,Royal Hallamshire Hospital,Number,Samples_Total_all_sources_All_Ages,91557
+19,2019-20,R4,East Midlands,60370,Royal Derby Hospital,%,Samples_GP_NHSCC_Borderline_25to64,1.1305994319597400000
+19,2019-20,R4,East Midlands,60370,Royal Derby Hospital,%,Samples_GP_NHSCC_Inadequate_25to64,0.3703409519648920000
+19,2019-20,R4,East Midlands,60370,Royal Derby Hospital,%,Samples_GP_NHSCC_Low_Grade_25to64,1.6886740744431700000
+19,2019-20,R4,East Midlands,60370,Royal Derby Hospital,%,Samples_GP_NHSCC_Moderate_25to64,0.4364940953709700000
+19,2019-20,R4,East Midlands,60370,Royal Derby Hospital,%,Samples_GP_NHSCC_Negative_25to64,96.1502815287259000000
+19,2019-20,R4,East Midlands,60370,Royal Derby Hospital,%,Samples_GP_NHSCC_Severe_25to64,0.5939508695002240000
+19,2019-20,R4,East Midlands,60370,Royal Derby Hospital,Number,Samples_Total_GP_NHSCC_25to64,201436
+19,2019-20,R4,East Midlands,60370,Royal Derby Hospital,Number,Samples_Total_GP_NHSCC_Adequate_25to64,200690
+19,2019-20,R4,East Midlands,60370,Royal Derby Hospital,Number,Samples_Total_all_sources_All_Ages,216802
+19,2019-20,R4,East Midlands,60420,Leicester Royal Infirmary,%,Samples_GP_NHSCC_Borderline_25to64,0.8652396744045820000
+19,2019-20,R4,East Midlands,60420,Leicester Royal Infirmary,%,Samples_GP_NHSCC_Inadequate_25to64,1.9074375277243800000
+19,2019-20,R4,East Midlands,60420,Leicester Royal Infirmary,%,Samples_GP_NHSCC_Low_Grade_25to64,1.1516430509496500000
+19,2019-20,R4,East Midlands,60420,Leicester Royal Infirmary,%,Samples_GP_NHSCC_Moderate_25to64,0.1778715706964120000
+19,2019-20,R4,East Midlands,60420,Leicester Royal Infirmary,%,Samples_GP_NHSCC_Negative_25to64,97.3138378052457000000
+19,2019-20,R4,East Midlands,60420,Leicester Royal Infirmary,%,Samples_GP_NHSCC_Severe_25to64,0.4914078987036480000
+19,2019-20,R4,East Midlands,60420,Leicester Royal Infirmary,Number,Samples_Total_GP_NHSCC_25to64,33815
+19,2019-20,R4,East Midlands,60420,Leicester Royal Infirmary,Number,Samples_Total_GP_NHSCC_Adequate_25to64,33170
+19,2019-20,R4,East Midlands,60420,Leicester Royal Infirmary,Number,Samples_Total_all_sources_All_Ages,36209
+19,2019-20,R4,East Midlands,61450,Kettering General Hospital,%,Samples_GP_NHSCC_Borderline_25to64,0.8600847970926710000
+19,2019-20,R4,East Midlands,61450,Kettering General Hospital,%,Samples_GP_NHSCC_Inadequate_25to64,1.5973298366909000000
+19,2019-20,R4,East Midlands,61450,Kettering General Hospital,%,Samples_GP_NHSCC_Low_Grade_25to64,1.7403593781546500000
+19,2019-20,R4,East Midlands,61450,Kettering General Hospital,%,Samples_GP_NHSCC_Moderate_25to64,0.1776700989299410000
+19,2019-20,R4,East Midlands,61450,Kettering General Hospital,%,Samples_GP_NHSCC_Negative_25to64,96.7777104784979000000
+19,2019-20,R4,East Midlands,61450,Kettering General Hospital,%,Samples_GP_NHSCC_Severe_25to64,0.4441752473248540000
+19,2019-20,R4,East Midlands,61450,Kettering General Hospital,Number,Samples_Total_GP_NHSCC_25to64,25167
+19,2019-20,R4,East Midlands,61450,Kettering General Hospital,Number,Samples_Total_GP_NHSCC_Adequate_25to64,24765
+19,2019-20,R4,East Midlands,61450,Kettering General Hospital,Number,Samples_Total_all_sources_All_Ages,26824
+19,2019-20,R5,West Midlands,61720,Royal Stoke University Hospital,%,Samples_GP_NHSCC_Borderline_25to64,3.1488525581278200000
+19,2019-20,R5,West Midlands,61720,Royal Stoke University Hospital,%,Samples_GP_NHSCC_Inadequate_25to64,3.1945765357134200000
+19,2019-20,R5,West Midlands,61720,Royal Stoke University Hospital,%,Samples_GP_NHSCC_Low_Grade_25to64,2.0706854422248500000
+19,2019-20,R5,West Midlands,61720,Royal Stoke University Hospital,%,Samples_GP_NHSCC_Moderate_25to64,0.3879386351613470000
+19,2019-20,R5,West Midlands,61720,Royal Stoke University Hospital,%,Samples_GP_NHSCC_Negative_25to64,93.5687835352797000000
+19,2019-20,R5,West Midlands,61720,Royal Stoke University Hospital,%,Samples_GP_NHSCC_Severe_25to64,0.8237398292062370000
+19,2019-20,R5,West Midlands,61720,Royal Stoke University Hospital,Number,Samples_Total_GP_NHSCC_25to64,41007
+19,2019-20,R5,West Midlands,61720,Royal Stoke University Hospital,Number,Samples_Total_GP_NHSCC_Adequate_25to64,39697
+19,2019-20,R5,West Midlands,61720,Royal Stoke University Hospital,Number,Samples_Total_all_sources_All_Ages,43909
+19,2019-20,R5,West Midlands,61740,Royal Wolverhampton Hospitals,%,Samples_GP_NHSCC_Borderline_25to64,0.9904657296303150000
+19,2019-20,R5,West Midlands,61740,Royal Wolverhampton Hospitals,%,Samples_GP_NHSCC_Inadequate_25to64,1.1956741204381400000
+19,2019-20,R5,West Midlands,61740,Royal Wolverhampton Hospitals,%,Samples_GP_NHSCC_Low_Grade_25to64,1.1679960151475500000
+19,2019-20,R5,West Midlands,61740,Royal Wolverhampton Hospitals,%,Samples_GP_NHSCC_Moderate_25to64,0.3090815042818010000
+19,2019-20,R5,West Midlands,61740,Royal Wolverhampton Hospitals,%,Samples_GP_NHSCC_Negative_25to64,97.1346101038999000000
+19,2019-20,R5,West Midlands,61740,Royal Wolverhampton Hospitals,%,Samples_GP_NHSCC_Severe_25to64,0.3978466470404170000
+19,2019-20,R5,West Midlands,61740,Royal Wolverhampton Hospitals,Number,Samples_Total_GP_NHSCC_25to64,158488
+19,2019-20,R5,West Midlands,61740,Royal Wolverhampton Hospitals,Number,Samples_Total_GP_NHSCC_Adequate_25to64,156593
+19,2019-20,R5,West Midlands,61740,Royal Wolverhampton Hospitals,Number,Samples_Total_all_sources_All_Ages,169475
+19,2019-20,R5,West Midlands,61790,Birmingham Heartlands Hospital,%,Samples_GP_NHSCC_Borderline_25to64,2.4295222120015200000
+19,2019-20,R5,West Midlands,61790,Birmingham Heartlands Hospital,%,Samples_GP_NHSCC_Inadequate_25to64,7.2099211728674000000
+19,2019-20,R5,West Midlands,61790,Birmingham Heartlands Hospital,%,Samples_GP_NHSCC_Low_Grade_25to64,2.6621936042421900000
+19,2019-20,R5,West Midlands,61790,Birmingham Heartlands Hospital,%,Samples_GP_NHSCC_Moderate_25to64,0.1677398409176990000
+19,2019-20,R5,West Midlands,61790,Birmingham Heartlands Hospital,%,Samples_GP_NHSCC_Negative_25to64,94.2697905957470000000
+19,2019-20,R5,West Midlands,61790,Birmingham Heartlands Hospital,%,Samples_GP_NHSCC_Severe_25to64,0.4707537470916080000
+19,2019-20,R5,West Midlands,61790,Birmingham Heartlands Hospital,Number,Samples_Total_GP_NHSCC_25to64,19917
+19,2019-20,R5,West Midlands,61790,Birmingham Heartlands Hospital,Number,Samples_Total_GP_NHSCC_Adequate_25to64,18481
+19,2019-20,R5,West Midlands,61790,Birmingham Heartlands Hospital,Number,Samples_Total_all_sources_All_Ages,21193
+19,2019-20,R5,West Midlands,61820,"University Hospital, Coventry",%,Samples_GP_NHSCC_Borderline_25to64,1.5898023488971600000
+19,2019-20,R5,West Midlands,61820,"University Hospital, Coventry",%,Samples_GP_NHSCC_Inadequate_25to64,2.1512157522247900000
+19,2019-20,R5,West Midlands,61820,"University Hospital, Coventry",%,Samples_GP_NHSCC_Low_Grade_25to64,1.0598682325981100000
+19,2019-20,R5,West Midlands,61820,"University Hospital, Coventry",%,Samples_GP_NHSCC_Moderate_25to64,0.3043540532798620000
+19,2019-20,R5,West Midlands,61820,"University Hospital, Coventry",%,Samples_GP_NHSCC_Negative_25to64,96.5804926955027000000
+19,2019-20,R5,West Midlands,61820,"University Hospital, Coventry",%,Samples_GP_NHSCC_Severe_25to64,0.4654826697221430000
+19,2019-20,R5,West Midlands,61820,"University Hospital, Coventry",Number,Samples_Total_GP_NHSCC_25to64,28542
+19,2019-20,R5,West Midlands,61820,"University Hospital, Coventry",Number,Samples_Total_GP_NHSCC_Adequate_25to64,27928
+19,2019-20,R5,West Midlands,61820,"University Hospital, Coventry",Number,Samples_Total_all_sources_All_Ages,30378
+19,2019-20,R6,East of England,60500,Cervical Cytology Network,%,Samples_GP_NHSCC_Borderline_25to64,1.1079166958838800000
+19,2019-20,R6,East of England,60500,Cervical Cytology Network,%,Samples_GP_NHSCC_Inadequate_25to64,0.2106981806872960000
+19,2019-20,R6,East of England,60500,Cervical Cytology Network,%,Samples_GP_NHSCC_Low_Grade_25to64,3.0861167597721800000
+19,2019-20,R6,East of England,60500,Cervical Cytology Network,%,Samples_GP_NHSCC_Moderate_25to64,0.9302760442231730000
+19,2019-20,R6,East of England,60500,Cervical Cytology Network,%,Samples_GP_NHSCC_Negative_25to64,94.0700745623262000000
+19,2019-20,R6,East of England,60500,Cervical Cytology Network,%,Samples_GP_NHSCC_Severe_25to64,0.8056159377946070000
+19,2019-20,R6,East of England,60500,Cervical Cytology Network,Number,Samples_Total_GP_NHSCC_25to64,128620
+19,2019-20,R6,East of England,60500,Cervical Cytology Network,Number,Samples_Total_GP_NHSCC_Adequate_25to64,128349
+19,2019-20,R6,East of England,60500,Cervical Cytology Network,Number,Samples_Total_all_sources_All_Ages,136917
+19,2019-20,R6,East of England,60540,Norfolk and Norwich University Hospital,%,Samples_GP_NHSCC_Borderline_25to64,0.8016760208420300000
+19,2019-20,R6,East of England,60540,Norfolk and Norwich University Hospital,%,Samples_GP_NHSCC_Inadequate_25to64,0.2998234972214300000
+19,2019-20,R6,East of England,60540,Norfolk and Norwich University Hospital,%,Samples_GP_NHSCC_Low_Grade_25to64,1.2400080399523800000
+19,2019-20,R6,East of England,60540,Norfolk and Norwich University Hospital,%,Samples_GP_NHSCC_Moderate_25to64,0.2775329715354760000
+19,2019-20,R6,East of England,60540,Norfolk and Norwich University Hospital,%,Samples_GP_NHSCC_Negative_25to64,97.1860166674397000000
+19,2019-20,R6,East of England,60540,Norfolk and Norwich University Hospital,%,Samples_GP_NHSCC_Severe_25to64,0.4947663002303760000
+19,2019-20,R6,East of England,60540,Norfolk and Norwich University Hospital,Number,Samples_Total_GP_NHSCC_25to64,129743
+19,2019-20,R6,East of England,60540,Norfolk and Norwich University Hospital,Number,Samples_Total_GP_NHSCC_Adequate_25to64,129354
+19,2019-20,R6,East of England,60540,Norfolk and Norwich University Hospital,Number,Samples_Total_all_sources_All_Ages,138418
+19,2019-20,R6,East of England,60610,Bedford Hospital,%,Samples_GP_NHSCC_Borderline_25to64,1.4301618566412600000
+19,2019-20,R6,East of England,60610,Bedford Hospital,%,Samples_GP_NHSCC_Inadequate_25to64,2.5576834814536700000
+19,2019-20,R6,East of England,60610,Bedford Hospital,%,Samples_GP_NHSCC_Low_Grade_25to64,2.6462276269589800000
+19,2019-20,R6,East of England,60610,Bedford Hospital,%,Samples_GP_NHSCC_Moderate_25to64,0.2483514601353090000
+19,2019-20,R6,East of England,60610,Bedford Hospital,%,Samples_GP_NHSCC_Negative_25to64,95.2256572749850000000
+19,2019-20,R6,East of England,60610,Bedford Hospital,%,Samples_GP_NHSCC_Severe_25to64,0.4496017812794380000
+19,2019-20,R6,East of England,60610,Bedford Hospital,Number,Samples_Total_GP_NHSCC_25to64,23967
+19,2019-20,R6,East of England,60610,Bedford Hospital,Number,Samples_Total_GP_NHSCC_Adequate_25to64,23354
+19,2019-20,R6,East of England,60610,Bedford Hospital,Number,Samples_Total_all_sources_All_Ages,25514
+19,2019-20,R6,East of England,60750,Watford General Hospital,%,Samples_GP_NHSCC_Borderline_25to64,1.9415345801568600000
+19,2019-20,R6,East of England,60750,Watford General Hospital,%,Samples_GP_NHSCC_Inadequate_25to64,2.4347174657534200000
+19,2019-20,R6,East of England,60750,Watford General Hospital,%,Samples_GP_NHSCC_Low_Grade_25to64,1.5576153128942000000
+19,2019-20,R6,East of England,60750,Watford General Hospital,%,Samples_GP_NHSCC_Moderate_25to64,0.3345582186146000000
+19,2019-20,R6,East of England,60750,Watford General Hospital,%,Samples_GP_NHSCC_Negative_25to64,95.8427027916415000000
+19,2019-20,R6,East of England,60750,Watford General Hospital,%,Samples_GP_NHSCC_Severe_25to64,0.3235890966928100000
+19,2019-20,R6,East of England,60750,Watford General Hospital,Number,Samples_Total_GP_NHSCC_25to64,18688
+19,2019-20,R6,East of England,60750,Watford General Hospital,Number,Samples_Total_GP_NHSCC_Adequate_25to64,18233
+19,2019-20,R6,East of England,60750,Watford General Hospital,Number,Samples_Total_all_sources_All_Ages,19698
+19,2019-20,R6,East of England,60865,Pathology First,%,Samples_GP_NHSCC_Borderline_25to64,3.0346288450911800000
+19,2019-20,R6,East of England,60865,Pathology First,%,Samples_GP_NHSCC_Inadequate_25to64,3.1573314306100600000
+19,2019-20,R6,East of England,60865,Pathology First,%,Samples_GP_NHSCC_Low_Grade_25to64,2.1643028181985600000
+19,2019-20,R6,East of England,60865,Pathology First,%,Samples_GP_NHSCC_Moderate_25to64,0.4743046601584090000
+19,2019-20,R6,East of England,60865,Pathology First,%,Samples_GP_NHSCC_Negative_25to64,93.9215325105913000000
+19,2019-20,R6,East of England,60865,Pathology First,%,Samples_GP_NHSCC_Severe_25to64,0.4052311659605820000
+19,2019-20,R6,East of England,60865,Pathology First,Number,Samples_Total_GP_NHSCC_25to64,22424
+19,2019-20,R6,East of England,60865,Pathology First,Number,Samples_Total_GP_NHSCC_Adequate_25to64,21716
+19,2019-20,R6,East of England,60865,Pathology First,Number,Samples_Total_all_sources_All_Ages,23916
+19,2019-20,R7,London,60710,Northwick Park Hospital (TDL),%,Samples_GP_NHSCC_Borderline_25to64,1.2598526941465300000
+19,2019-20,R7,London,60710,Northwick Park Hospital (TDL),%,Samples_GP_NHSCC_Inadequate_25to64,1.2378764675855000000
+19,2019-20,R7,London,60710,Northwick Park Hospital (TDL),%,Samples_GP_NHSCC_Low_Grade_25to64,2.4271008312874200000
+19,2019-20,R7,London,60710,Northwick Park Hospital (TDL),%,Samples_GP_NHSCC_Moderate_25to64,0.2067450575009690000
+19,2019-20,R7,London,60710,Northwick Park Hospital (TDL),%,Samples_GP_NHSCC_Negative_25to64,95.7531119438343000000
+19,2019-20,R7,London,60710,Northwick Park Hospital (TDL),%,Samples_GP_NHSCC_Severe_25to64,0.3531894732308220000
+19,2019-20,R7,London,60710,Northwick Park Hospital (TDL),Number,Samples_Total_GP_NHSCC_25to64,47016
+19,2019-20,R7,London,60710,Northwick Park Hospital (TDL),Number,Samples_Total_GP_NHSCC_Adequate_25to64,46434
+19,2019-20,R7,London,60710,Northwick Park Hospital (TDL),Number,Samples_Total_all_sources_All_Ages,50806
+19,2019-20,R7,London,60745,St Mary's Hospital,%,Samples_GP_NHSCC_Borderline_25to64,4.5726141078838200000
+19,2019-20,R7,London,60745,St Mary's Hospital,%,Samples_GP_NHSCC_Inadequate_25to64,2.9842735226235800000
+19,2019-20,R7,London,60745,St Mary's Hospital,%,Samples_GP_NHSCC_Low_Grade_25to64,2.4979253112033200000
+19,2019-20,R7,London,60745,St Mary's Hospital,%,Samples_GP_NHSCC_Moderate_25to64,0.2738589211618260000
+19,2019-20,R7,London,60745,St Mary's Hospital,%,Samples_GP_NHSCC_Negative_25to64,92.5809128630705000000
+19,2019-20,R7,London,60745,St Mary's Hospital,%,Samples_GP_NHSCC_Severe_25to64,0.0746887966804979000
+19,2019-20,R7,London,60745,St Mary's Hospital,Number,Samples_Total_GP_NHSCC_25to64,37262
+19,2019-20,R7,London,60745,St Mary's Hospital,Number,Samples_Total_GP_NHSCC_Adequate_25to64,36150
+19,2019-20,R7,London,60745,St Mary's Hospital,Number,Samples_Total_all_sources_All_Ages,42333
+19,2019-20,R7,London,60800,Queen's Hospital,%,Samples_GP_NHSCC_Borderline_25to64,4.7984706069778600000
+19,2019-20,R7,London,60800,Queen's Hospital,%,Samples_GP_NHSCC_Inadequate_25to64,2.1695084317820500000
+19,2019-20,R7,London,60800,Queen's Hospital,%,Samples_GP_NHSCC_Low_Grade_25to64,1.2840528915086800000
+19,2019-20,R7,London,60800,Queen's Hospital,%,Samples_GP_NHSCC_Moderate_25to64,0.3791620200732830000
+19,2019-20,R7,London,60800,Queen's Hospital,%,Samples_GP_NHSCC_Negative_25to64,93.3184642345069000000
+19,2019-20,R7,London,60800,Queen's Hospital,%,Samples_GP_NHSCC_Severe_25to64,0.2198502469332480000
+19,2019-20,R7,London,60800,Queen's Hospital,Number,Samples_Total_GP_NHSCC_25to64,32081
+19,2019-20,R7,London,60800,Queen's Hospital,Number,Samples_Total_GP_NHSCC_Adequate_25to64,31385
+19,2019-20,R7,London,60800,Queen's Hospital,Number,Samples_Total_all_sources_All_Ages,34722
+19,2019-20,R7,London,60900,The Royal London Hospital,%,Samples_GP_NHSCC_Borderline_25to64,3.0957910293073300000
+19,2019-20,R7,London,60900,The Royal London Hospital,%,Samples_GP_NHSCC_Inadequate_25to64,1.5438397581254700000
+19,2019-20,R7,London,60900,The Royal London Hospital,%,Samples_GP_NHSCC_Low_Grade_25to64,1.9423065850334900000
+19,2019-20,R7,London,60900,The Royal London Hospital,%,Samples_GP_NHSCC_Moderate_25to64,0.3358731742893880000
+19,2019-20,R7,London,60900,The Royal London Hospital,%,Samples_GP_NHSCC_Negative_25to64,94.2901560370804000000
+19,2019-20,R7,London,60900,The Royal London Hospital,%,Samples_GP_NHSCC_Severe_25to64,0.3358731742893880000
+19,2019-20,R7,London,60900,The Royal London Hospital,Number,Samples_Total_GP_NHSCC_25to64,52920
+19,2019-20,R7,London,60900,The Royal London Hospital,Number,Samples_Total_GP_NHSCC_Adequate_25to64,52103
+19,2019-20,R7,London,60900,The Royal London Hospital,Number,Samples_Total_all_sources_All_Ages,59117
+19,2019-20,R7,London,61025,Health Service Laboratories Cervical Cytology Service,%,Samples_GP_NHSCC_Borderline_25to64,1.1544263943852900000
+19,2019-20,R7,London,61025,Health Service Laboratories Cervical Cytology Service,%,Samples_GP_NHSCC_Inadequate_25to64,0.4509818431923940000
+19,2019-20,R7,London,61025,Health Service Laboratories Cervical Cytology Service,%,Samples_GP_NHSCC_Low_Grade_25to64,2.4151124909810400000
+19,2019-20,R7,London,61025,Health Service Laboratories Cervical Cytology Service,%,Samples_GP_NHSCC_Moderate_25to64,0.3826223845027000000
+19,2019-20,R7,London,61025,Health Service Laboratories Cervical Cytology Service,%,Samples_GP_NHSCC_Negative_25to64,95.6940770054879000000
+19,2019-20,R7,London,61025,Health Service Laboratories Cervical Cytology Service,%,Samples_GP_NHSCC_Severe_25to64,0.3537617246430680000
+19,2019-20,R7,London,61025,Health Service Laboratories Cervical Cytology Service,Number,Samples_Total_GP_NHSCC_25to64,229721
+19,2019-20,R7,London,61025,Health Service Laboratories Cervical Cytology Service,Number,Samples_Total_GP_NHSCC_Adequate_25to64,228685
+19,2019-20,R7,London,61025,Health Service Laboratories Cervical Cytology Service,Number,Samples_Total_all_sources_All_Ages,250096
+19,2019-20,R7,London,61090,St Thomas' Hospital,%,Samples_GP_NHSCC_Borderline_25to64,1.9757948536407300000
+19,2019-20,R7,London,61090,St Thomas' Hospital,%,Samples_GP_NHSCC_Inadequate_25to64,2.0374103214339900000
+19,2019-20,R7,London,61090,St Thomas' Hospital,%,Samples_GP_NHSCC_Low_Grade_25to64,2.7280571719361900000
+19,2019-20,R7,London,61090,St Thomas' Hospital,%,Samples_GP_NHSCC_Moderate_25to64,0.3540057968449230000
+19,2019-20,R7,London,61090,St Thomas' Hospital,%,Samples_GP_NHSCC_Negative_25to64,94.6522999314114000000
+19,2019-20,R7,London,61090,St Thomas' Hospital,%,Samples_GP_NHSCC_Severe_25to64,0.2898422461667810000
+19,2019-20,R7,London,61090,St Thomas' Hospital,Number,Samples_Total_GP_NHSCC_25to64,46137
+19,2019-20,R7,London,61090,St Thomas' Hospital,Number,Samples_Total_GP_NHSCC_Adequate_25to64,45197
+19,2019-20,R7,London,61090,St Thomas' Hospital,Number,Samples_Total_all_sources_All_Ages,52185
+19,2019-20,R7,London,61140,Princess Royal University Hospital,%,Samples_GP_NHSCC_Borderline_25to64,2.1354522316717400000
+19,2019-20,R7,London,61140,Princess Royal University Hospital,%,Samples_GP_NHSCC_Inadequate_25to64,2.1175755734467600000
+19,2019-20,R7,London,61140,Princess Royal University Hospital,%,Samples_GP_NHSCC_Low_Grade_25to64,1.5053696691290600000
+19,2019-20,R7,London,61140,Princess Royal University Hospital,%,Samples_GP_NHSCC_Moderate_25to64,0.2607238189831770000
+19,2019-20,R7,London,61140,Princess Royal University Hospital,%,Samples_GP_NHSCC_Negative_25to64,95.7446148115960000000
+19,2019-20,R7,London,61140,Princess Royal University Hospital,%,Samples_GP_NHSCC_Severe_25to64,0.3538394686200260000
+19,2019-20,R7,London,61140,Princess Royal University Hospital,Number,Samples_Total_GP_NHSCC_25to64,32915
+19,2019-20,R7,London,61140,Princess Royal University Hospital,Number,Samples_Total_GP_NHSCC_Adequate_25to64,32218
+19,2019-20,R7,London,61140,Princess Royal University Hospital,Number,Samples_Total_all_sources_All_Ages,35410
+19,2019-20,R7,London,61280,St Helier Hospital,%,Samples_GP_NHSCC_Borderline_25to64,2.7535694418690900000
+19,2019-20,R7,London,61280,St Helier Hospital,%,Samples_GP_NHSCC_Inadequate_25to64,3.8638085476179900000
+19,2019-20,R7,London,61280,St Helier Hospital,%,Samples_GP_NHSCC_Low_Grade_25to64,1.4231411088448000000
+19,2019-20,R7,London,61280,St Helier Hospital,%,Samples_GP_NHSCC_Moderate_25to64,0.1993324680140920000
+19,2019-20,R7,London,61280,St Helier Hospital,%,Samples_GP_NHSCC_Negative_25to64,95.2901909883182000000
+19,2019-20,R7,London,61280,St Helier Hospital,%,Samples_GP_NHSCC_Severe_25to64,0.3337659929538290000
+19,2019-20,R7,London,61280,St Helier Hospital,Number,Samples_Total_GP_NHSCC_25to64,22439
+19,2019-20,R7,London,61280,St Helier Hospital,Number,Samples_Total_GP_NHSCC_Adequate_25to64,21572
+19,2019-20,R7,London,61280,St Helier Hospital,Number,Samples_Total_all_sources_All_Ages,24265
+19,2019-20,R7,London,61300,South West London Pathology,%,Samples_GP_NHSCC_Borderline_25to64,1.2900743261032500000
+19,2019-20,R7,London,61300,South West London Pathology,%,Samples_GP_NHSCC_Inadequate_25to64,2.1268582755203200000
+19,2019-20,R7,London,61300,South West London Pathology,%,Samples_GP_NHSCC_Low_Grade_25to64,2.6895113109342400000
+19,2019-20,R7,London,61300,South West London Pathology,%,Samples_GP_NHSCC_Moderate_25to64,0.3159365696579380000
+19,2019-20,R7,London,61300,South West London Pathology,%,Samples_GP_NHSCC_Negative_25to64,95.4047430990137000000
+19,2019-20,R7,London,61300,South West London Pathology,%,Samples_GP_NHSCC_Severe_25to64,0.2997346942908640000
+19,2019-20,R7,London,61300,South West London Pathology,Number,Samples_Total_GP_NHSCC_25to64,50450
+19,2019-20,R7,London,61300,South West London Pathology,Number,Samples_Total_GP_NHSCC_Adequate_25to64,49377
+19,2019-20,R7,London,61300,South West London Pathology,Number,Samples_Total_all_sources_All_Ages,56693
+19,2019-20,R8,South East,61040,Royal Sussex County Hospital,%,Samples_GP_NHSCC_Borderline_25to64,2.3269261095828000000
+19,2019-20,R8,South East,61040,Royal Sussex County Hospital,%,Samples_GP_NHSCC_Inadequate_25to64,4.1451821495154400000
+19,2019-20,R8,South East,61040,Royal Sussex County Hospital,%,Samples_GP_NHSCC_Low_Grade_25to64,2.1762366175465600000
+19,2019-20,R8,South East,61040,Royal Sussex County Hospital,%,Samples_GP_NHSCC_Moderate_25to64,0.2137688142839620000
+19,2019-20,R8,South East,61040,Royal Sussex County Hospital,%,Samples_GP_NHSCC_Negative_25to64,94.7784338806049000000
+19,2019-20,R8,South East,61040,Royal Sussex County Hospital,%,Samples_GP_NHSCC_Severe_25to64,0.5046345779818120000
+19,2019-20,R8,South East,61040,Royal Sussex County Hospital,Number,Samples_Total_GP_NHSCC_25to64,59539
+19,2019-20,R8,South East,61040,Royal Sussex County Hospital,Number,Samples_Total_GP_NHSCC_Adequate_25to64,57071
+19,2019-20,R8,South East,61040,Royal Sussex County Hospital,Number,Samples_Total_all_sources_All_Ages,63905
+19,2019-20,R8,South East,61150,Maidstone Hospital,%,Samples_GP_NHSCC_Borderline_25to64,1.2898731744811700000
+19,2019-20,R8,South East,61150,Maidstone Hospital,%,Samples_GP_NHSCC_Inadequate_25to64,3.0619135213169700000
+19,2019-20,R8,South East,61150,Maidstone Hospital,%,Samples_GP_NHSCC_Low_Grade_25to64,1.5108570330515000000
+19,2019-20,R8,South East,61150,Maidstone Hospital,%,Samples_GP_NHSCC_Moderate_25to64,0.3554957724827060000
+19,2019-20,R8,South East,61150,Maidstone Hospital,%,Samples_GP_NHSCC_Negative_25to64,96.4570522674866000000
+19,2019-20,R8,South East,61150,Maidstone Hospital,%,Samples_GP_NHSCC_Severe_25to64,0.3867217524980780000
+19,2019-20,R8,South East,61150,Maidstone Hospital,Number,Samples_Total_GP_NHSCC_25to64,42947
+19,2019-20,R8,South East,61150,Maidstone Hospital,Number,Samples_Total_GP_NHSCC_Adequate_25to64,41632
+19,2019-20,R8,South East,61150,Maidstone Hospital,Number,Samples_Total_all_sources_All_Ages,45860
+19,2019-20,R8,South East,61190,William Harvey Hospital,%,Samples_GP_NHSCC_Borderline_25to64,2.4732028714721200000
+19,2019-20,R8,South East,61190,William Harvey Hospital,%,Samples_GP_NHSCC_Inadequate_25to64,3.3502827543601200000
+19,2019-20,R8,South East,61190,William Harvey Hospital,%,Samples_GP_NHSCC_Low_Grade_25to64,1.5291572426000600000
+19,2019-20,R8,South East,61190,William Harvey Hospital,%,Samples_GP_NHSCC_Moderate_25to64,0.3786016324122330000
+19,2019-20,R8,South East,61190,William Harvey Hospital,%,Samples_GP_NHSCC_Negative_25to64,95.2601042383715000000
+19,2019-20,R8,South East,61190,William Harvey Hospital,%,Samples_GP_NHSCC_Severe_25to64,0.3589340151440650000
+19,2019-20,R8,South East,61190,William Harvey Hospital,Number,Samples_Total_GP_NHSCC_25to64,21043
+19,2019-20,R8,South East,61190,William Harvey Hospital,Number,Samples_Total_GP_NHSCC_Adequate_25to64,20338
+19,2019-20,R8,South East,61190,William Harvey Hospital,Number,Samples_Total_all_sources_All_Ages,23105
+19,2019-20,R8,South East,61290,Berkshire and Surrey Pathology Services,%,Samples_GP_NHSCC_Borderline_25to64,1.2058570198105100000
+19,2019-20,R8,South East,61290,Berkshire and Surrey Pathology Services,%,Samples_GP_NHSCC_Inadequate_25to64,0.6399333852476080000
+19,2019-20,R8,South East,61290,Berkshire and Surrey Pathology Services,%,Samples_GP_NHSCC_Low_Grade_25to64,2.5820394037448300000
+19,2019-20,R8,South East,61290,Berkshire and Surrey Pathology Services,%,Samples_GP_NHSCC_Moderate_25to64,0.4791613318745100000
+19,2019-20,R8,South East,61290,Berkshire and Surrey Pathology Services,%,Samples_GP_NHSCC_Negative_25to64,95.2204142126623000000
+19,2019-20,R8,South East,61290,Berkshire and Surrey Pathology Services,%,Samples_GP_NHSCC_Severe_25to64,0.5125280319078770000
+19,2019-20,R8,South East,61290,Berkshire and Surrey Pathology Services,Number,Samples_Total_GP_NHSCC_25to64,259402
+19,2019-20,R8,South East,61290,Berkshire and Surrey Pathology Services,Number,Samples_Total_GP_NHSCC_Adequate_25to64,257742
+19,2019-20,R8,South East,61290,Berkshire and Surrey Pathology Services,Number,Samples_Total_all_sources_All_Ages,276807
+19,2019-20,R8,South East,61520,Wycombe Hospital,%,Samples_GP_NHSCC_Borderline_25to64,3.1215871860211100000
+19,2019-20,R8,South East,61520,Wycombe Hospital,%,Samples_GP_NHSCC_Inadequate_25to64,1.5470999342930500000
+19,2019-20,R8,South East,61520,Wycombe Hospital,%,Samples_GP_NHSCC_Low_Grade_25to64,3.0669821623589400000
+19,2019-20,R8,South East,61520,Wycombe Hospital,%,Samples_GP_NHSCC_Moderate_25to64,0.5369493993447400000
+19,2019-20,R8,South East,61520,Wycombe Hospital,%,Samples_GP_NHSCC_Negative_25to64,92.7618007523359000000
+19,2019-20,R8,South East,61520,Wycombe Hospital,%,Samples_GP_NHSCC_Severe_25to64,0.5126804999393280000
+19,2019-20,R8,South East,61520,Wycombe Hospital,Number,Samples_Total_GP_NHSCC_25to64,33482
+19,2019-20,R8,South East,61520,Wycombe Hospital,Number,Samples_Total_GP_NHSCC_Adequate_25to64,32964
+19,2019-20,R8,South East,61520,Wycombe Hospital,Number,Samples_Total_all_sources_All_Ages,35526
+19,2019-20,S,South,S,South,%,Samples_GP_NHSCC_Borderline_25to64,1.5732003976083600000
+19,2019-20,S,South,S,South,%,Samples_GP_NHSCC_Inadequate_25to64,1.7975439207501200000
+19,2019-20,S,South,S,South,%,Samples_GP_NHSCC_Low_Grade_25to64,2.1602471565508000000
+19,2019-20,S,South,S,South,%,Samples_GP_NHSCC_Moderate_25to64,0.4656663186761040000
+19,2019-20,S,South,S,South,%,Samples_GP_NHSCC_Negative_25to64,95.3078717463299000000
+19,2019-20,S,South,S,South,%,Samples_GP_NHSCC_Severe_25to64,0.4930143808348780000
+19,2019-20,S,South,S,South,Number,Samples_Total_GP_NHSCC_25to64,815446
+19,2019-20,S,South,S,South,Number,Samples_Total_GP_NHSCC_Adequate_25to64,800788
+19,2019-20,S,South,S,South,Number,Samples_Total_all_sources_All_Ages,875113
+19,2019-20,R1,North East,R1,North East,%,Samples_GP_NHSCC_Borderline_25to64,2.0796464072831600000
+19,2019-20,R1,North East,R1,North East,%,Samples_GP_NHSCC_Inadequate_25to64,0.6268947927922410000
+19,2019-20,R1,North East,R1,North East,%,Samples_GP_NHSCC_Low_Grade_25to64,1.8027417522914000000
+19,2019-20,R1,North East,R1,North East,%,Samples_GP_NHSCC_Moderate_25to64,0.5881472481224190000
+19,2019-20,R1,North East,R1,North East,%,Samples_GP_NHSCC_Negative_25to64,94.8876092870916000000
+19,2019-20,R1,North East,R1,North East,%,Samples_GP_NHSCC_Severe_25to64,0.6418553052114420000
+19,2019-20,R1,North East,R1,North East,Number,Samples_Total_GP_NHSCC_25to64,228587
+19,2019-20,R1,North East,R1,North East,Number,Samples_Total_GP_NHSCC_Adequate_25to64,227154
+19,2019-20,R1,North East,R1,North East,Number,Samples_Total_all_sources_All_Ages,244669
+19,2019-20,R2,North West,R2,North West,%,Samples_GP_NHSCC_Borderline_25to64,0.7952343772591890000
+19,2019-20,R2,North West,R2,North West,%,Samples_GP_NHSCC_Inadequate_25to64,0.5331694689224170000
+19,2019-20,R2,North West,R2,North West,%,Samples_GP_NHSCC_Low_Grade_25to64,1.7064020967898800000
+19,2019-20,R2,North West,R2,North West,%,Samples_GP_NHSCC_Moderate_25to64,0.3835527128664980000
+19,2019-20,R2,North West,R2,North West,%,Samples_GP_NHSCC_Negative_25to64,96.4715253515462000000
+19,2019-20,R2,North West,R2,North West,%,Samples_GP_NHSCC_Severe_25to64,0.6432854615382590000
+19,2019-20,R2,North West,R2,North West,Number,Samples_Total_GP_NHSCC_25to64,382430
+19,2019-20,R2,North West,R2,North West,Number,Samples_Total_GP_NHSCC_Adequate_25to64,380391
+19,2019-20,R2,North West,R2,North West,Number,Samples_Total_all_sources_All_Ages,423989
+19,2019-20,R3,Yorkshire and the Humber,R3,Yorkshire and the Humber,%,Samples_GP_NHSCC_Borderline_25to64,1.2230517021586900000
+19,2019-20,R3,Yorkshire and the Humber,R3,Yorkshire and the Humber,%,Samples_GP_NHSCC_Inadequate_25to64,1.0353480100741600000
+19,2019-20,R3,Yorkshire and the Humber,R3,Yorkshire and the Humber,%,Samples_GP_NHSCC_Low_Grade_25to64,0.9535099231829450000
+19,2019-20,R3,Yorkshire and the Humber,R3,Yorkshire and the Humber,%,Samples_GP_NHSCC_Moderate_25to64,0.6199931320942880000
+19,2019-20,R3,Yorkshire and the Humber,R3,Yorkshire and the Humber,%,Samples_GP_NHSCC_Negative_25to64,96.5011313228245000000
+19,2019-20,R3,Yorkshire and the Humber,R3,Yorkshire and the Humber,%,Samples_GP_NHSCC_Severe_25to64,0.7023139197395840000
+19,2019-20,R3,Yorkshire and the Humber,R3,Yorkshire and the Humber,Number,Samples_Total_GP_NHSCC_25to64,214807
+19,2019-20,R3,Yorkshire and the Humber,R3,Yorkshire and the Humber,Number,Samples_Total_GP_NHSCC_Adequate_25to64,212583
+19,2019-20,R3,Yorkshire and the Humber,R3,Yorkshire and the Humber,Number,Samples_Total_all_sources_All_Ages,237730
+19,2019-20,R4,East Midlands,R4,East Midlands,%,Samples_GP_NHSCC_Borderline_25to64,1.0706621556307400000
+19,2019-20,R4,East Midlands,R4,East Midlands,%,Samples_GP_NHSCC_Inadequate_25to64,0.6885084748366090000
+19,2019-20,R4,East Midlands,R4,East Midlands,%,Samples_GP_NHSCC_Low_Grade_25to64,1.6247462542291000000
+19,2019-20,R4,East Midlands,R4,East Midlands,%,Samples_GP_NHSCC_Moderate_25to64,0.3785403576607060000
+19,2019-20,R4,East Midlands,R4,East Midlands,%,Samples_GP_NHSCC_Negative_25to64,96.3595940067666000000
+19,2019-20,R4,East Midlands,R4,East Midlands,%,Samples_GP_NHSCC_Severe_25to64,0.5664572257129050000
+19,2019-20,R4,East Midlands,R4,East Midlands,Number,Samples_Total_GP_NHSCC_25to64,260418
+19,2019-20,R4,East Midlands,R4,East Midlands,Number,Samples_Total_GP_NHSCC_Adequate_25to64,258625
+19,2019-20,R4,East Midlands,R4,East Midlands,Number,Samples_Total_all_sources_All_Ages,279835
+19,2019-20,R5,West Midlands,R5,West Midlands,%,Samples_GP_NHSCC_Borderline_25to64,1.5220499466417200000
+19,2019-20,R5,West Midlands,R5,West Midlands,%,Samples_GP_NHSCC_Inadequate_25to64,2.1193447171652800000
+19,2019-20,R5,West Midlands,R5,West Midlands,%,Samples_GP_NHSCC_Low_Grade_25to64,1.4169815285600700000
+19,2019-20,R5,West Midlands,R5,West Midlands,%,Samples_GP_NHSCC_Moderate_25to64,0.3106728911120360000
+19,2019-20,R5,West Midlands,R5,West Midlands,%,Samples_GP_NHSCC_Negative_25to64,96.2694531085831000000
+19,2019-20,R5,West Midlands,R5,West Midlands,%,Samples_GP_NHSCC_Severe_25to64,0.4808425251031110000
+19,2019-20,R5,West Midlands,R5,West Midlands,Number,Samples_Total_GP_NHSCC_25to64,247954
+19,2019-20,R5,West Midlands,R5,West Midlands,Number,Samples_Total_GP_NHSCC_Adequate_25to64,242699
+19,2019-20,R5,West Midlands,R5,West Midlands,Number,Samples_Total_all_sources_All_Ages,264955
+19,2019-20,R6,East of England,R6,East of England,%,Samples_GP_NHSCC_Borderline_25to64,1.1856476202937000000
+19,2019-20,R6,East of England,R6,East of England,%,Samples_GP_NHSCC_Inadequate_25to64,0.7531489416958840000
+19,2019-20,R6,East of England,R6,East of England,%,Samples_GP_NHSCC_Low_Grade_25to64,2.1610187971564400000
+19,2019-20,R6,East of England,R6,East of England,%,Samples_GP_NHSCC_Moderate_25to64,0.5529491660592010000
+19,2019-20,R6,East of England,R6,East of England,%,Samples_GP_NHSCC_Negative_25to64,95.5003956312343000000
+19,2019-20,R6,East of England,R6,East of England,%,Samples_GP_NHSCC_Severe_25to64,0.5999887852563500000
+19,2019-20,R6,East of England,R6,East of England,Number,Samples_Total_GP_NHSCC_25to64,323442
+19,2019-20,R6,East of England,R6,East of England,Number,Samples_Total_GP_NHSCC_Adequate_25to64,321006
+19,2019-20,R6,East of England,R6,East of England,Number,Samples_Total_all_sources_All_Ages,344463
+19,2019-20,R7,London,R7,London,%,Samples_GP_NHSCC_Borderline_25to64,1.9901642543742600000
+19,2019-20,R7,London,R7,London,%,Samples_GP_NHSCC_Inadequate_25to64,1.4193897350170000000
+19,2019-20,R7,London,R7,London,%,Samples_GP_NHSCC_Low_Grade_25to64,2.2685552574840600000
+19,2019-20,R7,London,R7,London,%,Samples_GP_NHSCC_Moderate_25to64,0.3327067080816250000
+19,2019-20,R7,London,R7,London,%,Samples_GP_NHSCC_Negative_25to64,95.0939109332911000000
+19,2019-20,R7,London,R7,London,%,Samples_GP_NHSCC_Severe_25to64,0.3146628467689520000
+19,2019-20,R7,London,R7,London,Number,Samples_Total_GP_NHSCC_25to64,550941
+19,2019-20,R7,London,R7,London,Number,Samples_Total_GP_NHSCC_Adequate_25to64,543121
+19,2019-20,R7,London,R7,London,Number,Samples_Total_all_sources_All_Ages,605627

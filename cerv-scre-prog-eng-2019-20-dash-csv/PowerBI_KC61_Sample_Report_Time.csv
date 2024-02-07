@@ -1,0 +1,649 @@
+CollectionYearRange,Parent_Org_Code,Parent_Org_Name,Authorisation_Time,Indicator,Unit,Value
+2014-15,ENG,England,0 to 2 Weeks,Samples_Examined,Number,3155532
+2014-15,ENG,England,0 to 2 Weeks,Samples_Examined,%,98.5429962263302
+2014-15,ENG,England,3 to 4 Weeks,Samples_Examined,Number,45163
+2014-15,ENG,England,3 to 4 Weeks,Samples_Examined,%,1.41037940308314
+2014-15,ENG,England,5 to 6 Weeks,Samples_Examined,Number,1188
+2014-15,ENG,England,5 to 6 Weeks,Samples_Examined,%,0.03709963312585
+2014-15,ENG,England,7 to 8 Weeks,Samples_Examined,Number,204
+2014-15,ENG,England,7 to 8 Weeks,Samples_Examined,%,0.00637064407211
+2014-15,ENG,England,9 to 10 Weeks,Samples_Examined,Number,28
+2014-15,ENG,England,9 to 10 Weeks,Samples_Examined,%,0.00087440212754
+2014-15,ENG,England,Over 10 weeks,Samples_Examined,Number,73
+2014-15,ENG,England,Over 10 weeks,Samples_Examined,%,0.0022796912611
+2014-15,ENG,South,0 to 2 Weeks,Samples_Examined,Number,847295
+2014-15,ENG,South,0 to 2 Weeks,Samples_Examined,%,98.0873263665799
+2014-15,ENG,South,3 to 4 Weeks,Samples_Examined,Number,16263
+2014-15,ENG,South,3 to 4 Weeks,Samples_Examined,%,1.88269043095932
+2014-15,ENG,South,5 to 6 Weeks,Samples_Examined,Number,204
+2014-15,ENG,South,5 to 6 Weeks,Samples_Examined,%,0.02361611313507
+2014-15,ENG,South,7 to 8 Weeks,Samples_Examined,Number,42
+2014-15,ENG,South,7 to 8 Weeks,Samples_Examined,%,0.00486214093957
+2014-15,ENG,South,9 to 10 Weeks,Samples_Examined,Number,6
+2014-15,ENG,South,9 to 10 Weeks,Samples_Examined,%,0.00069459156279
+2014-15,ENG,South,Over 10 weeks,Samples_Examined,Number,7
+2014-15,ENG,South,Over 10 weeks,Samples_Examined,%,0.00081035682326
+2014-15,R1,North East,0 to 2 Weeks,Samples_Examined,Number,147717
+2014-15,R1,North East,0 to 2 Weeks,Samples_Examined,%,99.9519582104095
+2014-15,R1,North East,3 to 4 Weeks,Samples_Examined,Number,51
+2014-15,R1,North East,3 to 4 Weeks,Samples_Examined,%,0.03450889111429
+2014-15,R1,North East,5 to 6 Weeks,Samples_Examined,Number,10
+2014-15,R1,North East,5 to 6 Weeks,Samples_Examined,%,0.00676644923809
+2014-15,R1,North East,7 to 8 Weeks,Samples_Examined,Number,8
+2014-15,R1,North East,7 to 8 Weeks,Samples_Examined,%,0.00541315939047
+2014-15,R1,North East,9 to 10 Weeks,Samples_Examined,Number,1
+2014-15,R1,North East,9 to 10 Weeks,Samples_Examined,%,0.0006766449238
+2014-15,R1,North East,Over 10 weeks,Samples_Examined,Number,1
+2014-15,R1,North East,Over 10 weeks,Samples_Examined,%,0.0006766449238
+2014-15,R2,North West,0 to 2 Weeks,Samples_Examined,Number,392944
+2014-15,R2,North West,0 to 2 Weeks,Samples_Examined,%,99.8414505244329
+2014-15,R2,North West,3 to 4 Weeks,Samples_Examined,Number,598
+2014-15,R2,North West,3 to 4 Weeks,Samples_Examined,%,0.15194324741848
+2014-15,R2,North West,5 to 6 Weeks,Samples_Examined,Number,18
+2014-15,R2,North West,5 to 6 Weeks,Samples_Examined,%,0.00457354256443
+2014-15,R2,North West,7 to 8 Weeks,Samples_Examined,Number,4
+2014-15,R2,North West,7 to 8 Weeks,Samples_Examined,%,0.00101634279209
+2014-15,R2,North West,9 to 10 Weeks,Samples_Examined,Number,1
+2014-15,R2,North West,9 to 10 Weeks,Samples_Examined,%,0.00025408569802
+2014-15,R2,North West,Over 10 weeks,Samples_Examined,Number,3
+2014-15,R2,North West,Over 10 weeks,Samples_Examined,%,0.00076225709407
+2014-15,R3,Yorkshire and the Humber,0 to 2 Weeks,Samples_Examined,Number,295370
+2014-15,R3,Yorkshire and the Humber,0 to 2 Weeks,Samples_Examined,%,99.9167839359168
+2014-15,R3,Yorkshire and the Humber,3 to 4 Weeks,Samples_Examined,Number,223
+2014-15,R3,Yorkshire and the Humber,3 to 4 Weeks,Samples_Examined,%,0.07543570036804
+2014-15,R3,Yorkshire and the Humber,5 to 6 Weeks,Samples_Examined,Number,11
+2014-15,R3,Yorkshire and the Humber,5 to 6 Weeks,Samples_Examined,%,0.00372104351591
+2014-15,R3,Yorkshire and the Humber,7 to 8 Weeks,Samples_Examined,Number,3
+2014-15,R3,Yorkshire and the Humber,7 to 8 Weeks,Samples_Examined,%,0.00101483004979
+2014-15,R3,Yorkshire and the Humber,9 to 10 Weeks,Samples_Examined,Number,2
+2014-15,R3,Yorkshire and the Humber,9 to 10 Weeks,Samples_Examined,%,0.00067655336652
+2014-15,R3,Yorkshire and the Humber,Over 10 weeks,Samples_Examined,Number,7
+2014-15,R3,Yorkshire and the Humber,Over 10 weeks,Samples_Examined,%,0.00236793678285
+2014-15,R4,East Midlands,0 to 2 Weeks,Samples_Examined,Number,276901
+2014-15,R4,East Midlands,0 to 2 Weeks,Samples_Examined,%,94.9113444182802
+2014-15,R4,East Midlands,3 to 4 Weeks,Samples_Examined,Number,14674
+2014-15,R4,East Midlands,3 to 4 Weeks,Samples_Examined,%,5.02970039109228
+2014-15,R4,East Midlands,5 to 6 Weeks,Samples_Examined,Number,151
+2014-15,R4,East Midlands,5 to 6 Weeks,Samples_Examined,%,0.05175717316716
+2014-15,R4,East Midlands,7 to 8 Weeks,Samples_Examined,Number,10
+2014-15,R4,East Midlands,7 to 8 Weeks,Samples_Examined,%,0.00342762736206
+2014-15,R4,East Midlands,9 to 10 Weeks,Samples_Examined,Number,1
+2014-15,R4,East Midlands,9 to 10 Weeks,Samples_Examined,%,0.0003427627362
+2014-15,R4,East Midlands,Over 10 weeks,Samples_Examined,Number,10
+2014-15,R4,East Midlands,Over 10 weeks,Samples_Examined,%,0.00342762736206
+2014-15,R5,West Midlands,0 to 2 Weeks,Samples_Examined,Number,284759
+2014-15,R5,West Midlands,0 to 2 Weeks,Samples_Examined,%,96.5229122389557
+2014-15,R5,West Midlands,3 to 4 Weeks,Samples_Examined,Number,9449
+2014-15,R5,West Midlands,3 to 4 Weeks,Samples_Examined,%,3.20286627550276
+2014-15,R5,West Midlands,5 to 6 Weeks,Samples_Examined,Number,697
+2014-15,R5,West Midlands,5 to 6 Weeks,Samples_Examined,%,0.23625757159756
+2014-15,R5,West Midlands,7 to 8 Weeks,Samples_Examined,Number,108
+2014-15,R5,West Midlands,7 to 8 Weeks,Samples_Examined,%,0.03660805987451
+2014-15,R5,West Midlands,9 to 10 Weeks,Samples_Examined,Number,2
+2014-15,R5,West Midlands,9 to 10 Weeks,Samples_Examined,%,0.00067792703471
+2014-15,R5,West Midlands,Over 10 weeks,Samples_Examined,Number,2
+2014-15,R5,West Midlands,Over 10 weeks,Samples_Examined,%,0.00067792703471
+2014-15,R6,East of England,0 to 2 Weeks,Samples_Examined,Number,348208
+2014-15,R6,East of England,0 to 2 Weeks,Samples_Examined,%,99.2113420860685
+2014-15,R6,East of England,3 to 4 Weeks,Samples_Examined,Number,2739
+2014-15,R6,East of England,3 to 4 Weeks,Samples_Examined,%,0.78039524070021
+2014-15,R6,East of England,5 to 6 Weeks,Samples_Examined,Number,15
+2014-15,R6,East of England,5 to 6 Weeks,Samples_Examined,%,0.0042737964989
+2014-15,R6,East of England,7 to 8 Weeks,Samples_Examined,Number,4
+2014-15,R6,East of England,7 to 8 Weeks,Samples_Examined,%,0.00113967906637
+2014-15,R6,East of England,9 to 10 Weeks,Samples_Examined,Number,2
+2014-15,R6,East of England,9 to 10 Weeks,Samples_Examined,%,0.00056983953318
+2014-15,R6,East of England,Over 10 weeks,Samples_Examined,Number,8
+2014-15,R6,East of England,Over 10 weeks,Samples_Examined,%,0.00227935813274
+2014-15,R7,London,0 to 2 Weeks,Samples_Examined,Number,562338
+2014-15,R7,London,0 to 2 Weeks,Samples_Examined,%,99.7656384445205
+2014-15,R7,London,3 to 4 Weeks,Samples_Examined,Number,1166
+2014-15,R7,London,3 to 4 Weeks,Samples_Examined,%,0.20686265987059
+2014-15,R7,London,5 to 6 Weeks,Samples_Examined,Number,82
+2014-15,R7,London,5 to 6 Weeks,Samples_Examined,%,0.01454780283824
+2014-15,R7,London,7 to 8 Weeks,Samples_Examined,Number,25
+2014-15,R7,London,7 to 8 Weeks,Samples_Examined,%,0.00443530574336
+2014-15,R7,London,9 to 10 Weeks,Samples_Examined,Number,13
+2014-15,R7,London,9 to 10 Weeks,Samples_Examined,%,0.00230635898655
+2014-15,R7,London,Over 10 weeks,Samples_Examined,Number,35
+2014-15,R7,London,Over 10 weeks,Samples_Examined,%,0.00620942804071
+2015-16,ENG,England,0 to 2 Weeks,Samples_Examined,Number,3147456
+2015-16,ENG,England,0 to 2 Weeks,Samples_Examined,%,96.9874461515706
+2015-16,ENG,England,3 to 4 Weeks,Samples_Examined,Number,88489
+2015-16,ENG,England,3 to 4 Weeks,Samples_Examined,%,2.72674887989104
+2015-16,ENG,England,5 to 6 Weeks,Samples_Examined,Number,6394
+2015-16,ENG,England,5 to 6 Weeks,Samples_Examined,%,0.19702824461823
+2015-16,ENG,England,7 to 8 Weeks,Samples_Examined,Number,2764
+2015-16,ENG,England,7 to 8 Weeks,Samples_Examined,%,0.08517142135201
+2015-16,ENG,England,9 to 10 Weeks,Samples_Examined,Number,66
+2015-16,ENG,England,9 to 10 Weeks,Samples_Examined,%,0.00203376042302
+2015-16,ENG,England,Over 10 weeks,Samples_Examined,Number,51
+2015-16,ENG,England,Over 10 weeks,Samples_Examined,%,0.00157154214506
+2015-16,ENG,South,0 to 2 Weeks,Samples_Examined,Number,823623
+2015-16,ENG,South,0 to 2 Weeks,Samples_Examined,%,95.3051159690625
+2015-16,ENG,South,3 to 4 Weeks,Samples_Examined,Number,40430
+2015-16,ENG,South,3 to 4 Weeks,Samples_Examined,%,4.67833685876815
+2015-16,ENG,South,5 to 6 Weeks,Samples_Examined,Number,124
+2015-16,ENG,South,5 to 6 Weeks,Samples_Examined,%,0.01434859684608
+2015-16,ENG,South,7 to 8 Weeks,Samples_Examined,Number,7
+2015-16,ENG,South,7 to 8 Weeks,Samples_Examined,%,0.00081000143485
+2015-16,ENG,South,9 to 10 Weeks,Samples_Examined,Number,3
+2015-16,ENG,South,9 to 10 Weeks,Samples_Examined,%,0.00034714347208
+2015-16,ENG,South,Over 10 weeks,Samples_Examined,Number,9
+2015-16,ENG,South,Over 10 weeks,Samples_Examined,%,0.00104143041624
+2015-16,R1,North East,0 to 2 Weeks,Samples_Examined,Number,148196
+2015-16,R1,North East,0 to 2 Weeks,Samples_Examined,%,99.9399804430657
+2015-16,R1,North East,3 to 4 Weeks,Samples_Examined,Number,80
+2015-16,R1,North East,3 to 4 Weeks,Samples_Examined,%,0.05395016353643
+2015-16,R1,North East,5 to 6 Weeks,Samples_Examined,Number,8
+2015-16,R1,North East,5 to 6 Weeks,Samples_Examined,%,0.00539501635364
+2015-16,R1,North East,7 to 8 Weeks,Samples_Examined,Number,1
+2015-16,R1,North East,7 to 8 Weeks,Samples_Examined,%,0.0006743770442
+2015-16,R1,North East,9 to 10 Weeks,Samples_Examined,Number,0
+2015-16,R1,North East,9 to 10 Weeks,Samples_Examined,%,0
+2015-16,R1,North East,Over 10 weeks,Samples_Examined,Number,0
+2015-16,R1,North East,Over 10 weeks,Samples_Examined,%,0
+2015-16,R2,North West,0 to 2 Weeks,Samples_Examined,Number,364768
+2015-16,R2,North West,0 to 2 Weeks,Samples_Examined,%,92.6806834783713
+2015-16,R2,North West,3 to 4 Weeks,Samples_Examined,Number,28157
+2015-16,R2,North West,3 to 4 Weeks,Samples_Examined,%,7.15416375531982
+2015-16,R2,North West,5 to 6 Weeks,Samples_Examined,Number,643
+2015-16,R2,North West,5 to 6 Weeks,Samples_Examined,%,0.16337419805627
+2015-16,R2,North West,7 to 8 Weeks,Samples_Examined,Number,6
+2015-16,R2,North West,7 to 8 Weeks,Samples_Examined,%,0.00152448707362
+2015-16,R2,North West,9 to 10 Weeks,Samples_Examined,Number,0
+2015-16,R2,North West,9 to 10 Weeks,Samples_Examined,%,0
+2015-16,R2,North West,Over 10 weeks,Samples_Examined,Number,1
+2015-16,R2,North West,Over 10 weeks,Samples_Examined,%,0.00025408117893
+2015-16,R3,Yorkshire and the Humber,0 to 2 Weeks,Samples_Examined,Number,298297
+2015-16,R3,Yorkshire and the Humber,0 to 2 Weeks,Samples_Examined,%,99.9219508927076
+2015-16,R3,Yorkshire and the Humber,3 to 4 Weeks,Samples_Examined,Number,208
+2015-16,R3,Yorkshire and the Humber,3 to 4 Weeks,Samples_Examined,%,0.06967473955716
+2015-16,R3,Yorkshire and the Humber,5 to 6 Weeks,Samples_Examined,Number,9
+2015-16,R3,Yorkshire and the Humber,5 to 6 Weeks,Samples_Examined,%,0.00301477238468
+2015-16,R3,Yorkshire and the Humber,7 to 8 Weeks,Samples_Examined,Number,2
+2015-16,R3,Yorkshire and the Humber,7 to 8 Weeks,Samples_Examined,%,0.00066994941881
+2015-16,R3,Yorkshire and the Humber,9 to 10 Weeks,Samples_Examined,Number,3
+2015-16,R3,Yorkshire and the Humber,9 to 10 Weeks,Samples_Examined,%,0.00100492412822
+2015-16,R3,Yorkshire and the Humber,Over 10 weeks,Samples_Examined,Number,11
+2015-16,R3,Yorkshire and the Humber,Over 10 weeks,Samples_Examined,%,0.0036847218035
+2015-16,R4,East Midlands,0 to 2 Weeks,Samples_Examined,Number,276371
+2015-16,R4,East Midlands,0 to 2 Weeks,Samples_Examined,%,94.5333210194525
+2015-16,R4,East Midlands,3 to 4 Weeks,Samples_Examined,Number,7636
+2015-16,R4,East Midlands,3 to 4 Weeks,Samples_Examined,%,2.61191094327747
+2015-16,R4,East Midlands,5 to 6 Weeks,Samples_Examined,Number,5546
+2015-16,R4,East Midlands,5 to 6 Weeks,Samples_Examined,%,1.89702175110226
+2015-16,R4,East Midlands,7 to 8 Weeks,Samples_Examined,Number,2735
+2015-16,R4,East Midlands,7 to 8 Weeks,Samples_Examined,%,0.93551289023885
+2015-16,R4,East Midlands,9 to 10 Weeks,Samples_Examined,Number,49
+2015-16,R4,East Midlands,9 to 10 Weeks,Samples_Examined,%,0.01676056000793
+2015-16,R4,East Midlands,Over 10 weeks,Samples_Examined,Number,16
+2015-16,R4,East Midlands,Over 10 weeks,Samples_Examined,%,0.00547283592095
+2015-16,R5,West Midlands,0 to 2 Weeks,Samples_Examined,Number,281837
+2015-16,R5,West Midlands,0 to 2 Weeks,Samples_Examined,%,98.6219928265243
+2015-16,R5,West Midlands,3 to 4 Weeks,Samples_Examined,Number,3929
+2015-16,R5,West Midlands,3 to 4 Weeks,Samples_Examined,%,1.37485784270842
+2015-16,R5,West Midlands,5 to 6 Weeks,Samples_Examined,Number,3
+2015-16,R5,West Midlands,5 to 6 Weeks,Samples_Examined,%,0.0010497769224
+2015-16,R5,West Midlands,7 to 8 Weeks,Samples_Examined,Number,2
+2015-16,R5,West Midlands,7 to 8 Weeks,Samples_Examined,%,0.0006998512816
+2015-16,R5,West Midlands,9 to 10 Weeks,Samples_Examined,Number,0
+2015-16,R5,West Midlands,9 to 10 Weeks,Samples_Examined,%,0
+2015-16,R5,West Midlands,Over 10 weeks,Samples_Examined,Number,4
+2015-16,R5,West Midlands,Over 10 weeks,Samples_Examined,%,0.0013997025632
+2015-16,R6,East of England,0 to 2 Weeks,Samples_Examined,Number,335582
+2015-16,R6,East of England,0 to 2 Weeks,Samples_Examined,%,97.793125555507
+2015-16,R6,East of England,3 to 4 Weeks,Samples_Examined,Number,7549
+2015-16,R6,East of England,3 to 4 Weeks,Samples_Examined,%,2.19988052046451
+2015-16,R6,East of England,5 to 6 Weeks,Samples_Examined,Number,14
+2015-16,R6,East of England,5 to 6 Weeks,Samples_Examined,%,0.00407978901662
+2015-16,R6,East of England,7 to 8 Weeks,Samples_Examined,Number,3
+2015-16,R6,East of England,7 to 8 Weeks,Samples_Examined,%,0.00087424050356
+2015-16,R6,East of England,9 to 10 Weeks,Samples_Examined,Number,5
+2015-16,R6,East of England,9 to 10 Weeks,Samples_Examined,%,0.00145706750593
+2015-16,R6,East of England,Over 10 weeks,Samples_Examined,Number,2
+2015-16,R6,East of England,Over 10 weeks,Samples_Examined,%,0.00058282700237
+2015-16,R7,London,0 to 2 Weeks,Samples_Examined,Number,618782
+2015-16,R7,London,0 to 2 Weeks,Samples_Examined,%,99.9081296389285
+2015-16,R7,London,3 to 4 Weeks,Samples_Examined,Number,500
+2015-16,R7,London,3 to 4 Weeks,Samples_Examined,%,0.08072966702241
+2015-16,R7,London,5 to 6 Weeks,Samples_Examined,Number,47
+2015-16,R7,London,5 to 6 Weeks,Samples_Examined,%,0.0075885887001
+2015-16,R7,London,7 to 8 Weeks,Samples_Examined,Number,8
+2015-16,R7,London,7 to 8 Weeks,Samples_Examined,%,0.00129167467235
+2015-16,R7,London,9 to 10 Weeks,Samples_Examined,Number,6
+2015-16,R7,London,9 to 10 Weeks,Samples_Examined,%,0.00096875600426
+2015-16,R7,London,Over 10 weeks,Samples_Examined,Number,8
+2015-16,R7,London,Over 10 weeks,Samples_Examined,%,0.00129167467235
+2016-17,ENG,England,0 to 2 Weeks,Samples_Examined,Number,2825358
+2016-17,ENG,England,0 to 2 Weeks,Samples_Examined,%,85.0277441220922
+2016-17,ENG,England,3 to 4 Weeks,Samples_Examined,Number,338701
+2016-17,ENG,England,3 to 4 Weeks,Samples_Examined,%,10.193038178488
+2016-17,ENG,England,5 to 6 Weeks,Samples_Examined,Number,138756
+2016-17,ENG,England,5 to 6 Weeks,Samples_Examined,%,4.17579282462788
+2016-17,ENG,England,7 to 8 Weeks,Samples_Examined,Number,19588
+2016-17,ENG,England,7 to 8 Weeks,Samples_Examined,%,0.58949112001507
+2016-17,ENG,England,9 to 10 Weeks,Samples_Examined,Number,127
+2016-17,ENG,England,9 to 10 Weeks,Samples_Examined,%,0.00382200185021
+2016-17,ENG,England,Over 10 weeks,Samples_Examined,Number,336
+2016-17,ENG,England,Over 10 weeks,Samples_Examined,%,0.01011175292653
+2016-17,ENG,South,0 to 2 Weeks,Samples_Examined,Number,761671
+2016-17,ENG,South,0 to 2 Weeks,Samples_Examined,%,86.4858082705699
+2016-17,ENG,South,3 to 4 Weeks,Samples_Examined,Number,111224
+2016-17,ENG,South,3 to 4 Weeks,Samples_Examined,%,12.6292028173396
+2016-17,ENG,South,5 to 6 Weeks,Samples_Examined,Number,7721
+2016-17,ENG,South,5 to 6 Weeks,Samples_Examined,%,0.87669994742752
+2016-17,ENG,South,7 to 8 Weeks,Samples_Examined,Number,53
+2016-17,ENG,South,7 to 8 Weeks,Samples_Examined,%,0.00601801544018
+2016-17,ENG,South,9 to 10 Weeks,Samples_Examined,Number,9
+2016-17,ENG,South,9 to 10 Weeks,Samples_Examined,%,0.00102192715021
+2016-17,ENG,South,Over 10 weeks,Samples_Examined,Number,11
+2016-17,ENG,South,Over 10 weeks,Samples_Examined,%,0.00124902207249
+2016-17,R1,North East,0 to 2 Weeks,Samples_Examined,Number,144320
+2016-17,R1,North East,0 to 2 Weeks,Samples_Examined,%,90.259797115589
+2016-17,R1,North East,3 to 4 Weeks,Samples_Examined,Number,11513
+2016-17,R1,North East,3 to 4 Weeks,Samples_Examined,%,7.20039526186098
+2016-17,R1,North East,5 to 6 Weeks,Samples_Examined,Number,3892
+2016-17,R1,North East,5 to 6 Weeks,Samples_Examined,%,2.43411259959723
+2016-17,R1,North East,7 to 8 Weeks,Samples_Examined,Number,161
+2016-17,R1,North East,7 to 8 Weeks,Samples_Examined,%,0.10069170825672
+2016-17,R1,North East,9 to 10 Weeks,Samples_Examined,Number,4
+2016-17,R1,North East,9 to 10 Weeks,Samples_Examined,%,0.00250165734799
+2016-17,R1,North East,Over 10 weeks,Samples_Examined,Number,4
+2016-17,R1,North East,Over 10 weeks,Samples_Examined,%,0.00250165734799
+2016-17,R2,North West,0 to 2 Weeks,Samples_Examined,Number,227869
+2016-17,R2,North West,0 to 2 Weeks,Samples_Examined,%,56.9397765578108
+2016-17,R2,North West,3 to 4 Weeks,Samples_Examined,Number,73031
+2016-17,R2,North West,3 to 4 Weeks,Samples_Examined,%,18.2489448840934
+2016-17,R2,North West,5 to 6 Weeks,Samples_Examined,Number,87214
+2016-17,R2,North West,5 to 6 Weeks,Samples_Examined,%,21.792984884793
+2016-17,R2,North West,7 to 8 Weeks,Samples_Examined,Number,12070
+2016-17,R2,North West,7 to 8 Weeks,Samples_Examined,%,3.01604475840407
+2016-17,R2,North West,9 to 10 Weeks,Samples_Examined,Number,9
+2016-17,R2,North West,9 to 10 Weeks,Samples_Examined,%,0.00224891489856
+2016-17,R2,North West,Over 10 weeks,Samples_Examined,Number,0
+2016-17,R2,North West,Over 10 weeks,Samples_Examined,%,0
+2016-17,R3,Yorkshire and the Humber,0 to 2 Weeks,Samples_Examined,Number,328898
+2016-17,R3,Yorkshire and the Humber,0 to 2 Weeks,Samples_Examined,%,96.1080250250572
+2016-17,R3,Yorkshire and the Humber,3 to 4 Weeks,Samples_Examined,Number,12038
+2016-17,R3,Yorkshire and the Humber,3 to 4 Weeks,Samples_Examined,%,3.51765108103922
+2016-17,R3,Yorkshire and the Humber,5 to 6 Weeks,Samples_Examined,Number,1241
+2016-17,R3,Yorkshire and the Humber,5 to 6 Weeks,Samples_Examined,%,0.36263540385193
+2016-17,R3,Yorkshire and the Humber,7 to 8 Weeks,Samples_Examined,Number,27
+2016-17,R3,Yorkshire and the Humber,7 to 8 Weeks,Samples_Examined,%,0.00788973078485
+2016-17,R3,Yorkshire and the Humber,9 to 10 Weeks,Samples_Examined,Number,7
+2016-17,R3,Yorkshire and the Humber,9 to 10 Weeks,Samples_Examined,%,0.00204548575903
+2016-17,R3,Yorkshire and the Humber,Over 10 weeks,Samples_Examined,Number,6
+2016-17,R3,Yorkshire and the Humber,Over 10 weeks,Samples_Examined,%,0.00175327350774
+2016-17,R4,East Midlands,0 to 2 Weeks,Samples_Examined,Number,211207
+2016-17,R4,East Midlands,0 to 2 Weeks,Samples_Examined,%,76.4077258963682
+2016-17,R4,East Midlands,3 to 4 Weeks,Samples_Examined,Number,64742
+2016-17,R4,East Midlands,3 to 4 Weeks,Samples_Examined,%,23.4215200726428
+2016-17,R4,East Midlands,5 to 6 Weeks,Samples_Examined,Number,465
+2016-17,R4,East Midlands,5 to 6 Weeks,Samples_Examined,%,0.16822166188531
+2016-17,R4,East Midlands,7 to 8 Weeks,Samples_Examined,Number,3
+2016-17,R4,East Midlands,7 to 8 Weeks,Samples_Examined,%,0.00108530104442
+2016-17,R4,East Midlands,9 to 10 Weeks,Samples_Examined,Number,1
+2016-17,R4,East Midlands,9 to 10 Weeks,Samples_Examined,%,0.0003617670148
+2016-17,R4,East Midlands,Over 10 weeks,Samples_Examined,Number,3
+2016-17,R4,East Midlands,Over 10 weeks,Samples_Examined,%,0.00108530104442
+2016-17,R5,West Midlands,0 to 2 Weeks,Samples_Examined,Number,294423
+2016-17,R5,West Midlands,0 to 2 Weeks,Samples_Examined,%,98.4501334189354
+2016-17,R5,West Midlands,3 to 4 Weeks,Samples_Examined,Number,4630
+2016-17,R5,West Midlands,3 to 4 Weeks,Samples_Examined,%,1.54819466458011
+2016-17,R5,West Midlands,5 to 6 Weeks,Samples_Examined,Number,3
+2016-17,R5,West Midlands,5 to 6 Weeks,Samples_Examined,%,0.00100314989065
+2016-17,R5,West Midlands,7 to 8 Weeks,Samples_Examined,Number,2
+2016-17,R5,West Midlands,7 to 8 Weeks,Samples_Examined,%,0.00066876659377
+2016-17,R5,West Midlands,9 to 10 Weeks,Samples_Examined,Number,0
+2016-17,R5,West Midlands,9 to 10 Weeks,Samples_Examined,%,0
+2016-17,R5,West Midlands,Over 10 weeks,Samples_Examined,Number,0
+2016-17,R5,West Midlands,Over 10 weeks,Samples_Examined,%,0
+2016-17,R6,East of England,0 to 2 Weeks,Samples_Examined,Number,255120
+2016-17,R6,East of England,0 to 2 Weeks,Samples_Examined,%,75.0840987818552
+2016-17,R6,East of England,3 to 4 Weeks,Samples_Examined,Number,39127
+2016-17,R6,East of England,3 to 4 Weeks,Samples_Examined,%,11.5154262035028
+2016-17,R6,East of England,5 to 6 Weeks,Samples_Examined,Number,37917
+2016-17,R6,East of England,5 to 6 Weeks,Samples_Examined,%,11.1593123765741
+2016-17,R6,East of England,7 to 8 Weeks,Samples_Examined,Number,7253
+2016-17,R6,East of England,7 to 8 Weeks,Samples_Examined,%,2.13462279893695
+2016-17,R6,East of England,9 to 10 Weeks,Samples_Examined,Number,82
+2016-17,R6,East of England,9 to 10 Weeks,Samples_Examined,%,0.02413333372574
+2016-17,R6,East of England,Over 10 weeks,Samples_Examined,Number,280
+2016-17,R6,East of England,Over 10 weeks,Samples_Examined,%,0.08240650540498
+2016-17,R7,London,0 to 2 Weeks,Samples_Examined,Number,601850
+2016-17,R7,London,0 to 2 Weeks,Samples_Examined,%,96.3553548986175
+2016-17,R7,London,3 to 4 Weeks,Samples_Examined,Number,22396
+2016-17,R7,London,3 to 4 Weeks,Samples_Examined,%,3.58556871032556
+2016-17,R7,London,5 to 6 Weeks,Samples_Examined,Number,303
+2016-17,R7,London,5 to 6 Weeks,Samples_Examined,%,0.04850988208736
+2016-17,R7,London,7 to 8 Weeks,Samples_Examined,Number,19
+2016-17,R7,London,7 to 8 Weeks,Samples_Examined,%,0.00304187379425
+2016-17,R7,London,9 to 10 Weeks,Samples_Examined,Number,15
+2016-17,R7,London,9 to 10 Weeks,Samples_Examined,%,0.00240147931125
+2016-17,R7,London,Over 10 weeks,Samples_Examined,Number,32
+2016-17,R7,London,Over 10 weeks,Samples_Examined,%,0.00512315586401
+2017-18,ENG,England,0 to 2 Weeks,Samples_Examined,Number,2411067
+2017-18,ENG,England,0 to 2 Weeks,Samples_Examined,%,72.6174911429302
+2017-18,ENG,England,3 to 4 Weeks,Samples_Examined,Number,555796
+2017-18,ENG,England,3 to 4 Weeks,Samples_Examined,%,16.739688738337
+2017-18,ENG,England,5 to 6 Weeks,Samples_Examined,Number,228018
+2017-18,ENG,England,5 to 6 Weeks,Samples_Examined,%,6.86753835352923
+2017-18,ENG,England,7 to 8 Weeks,Samples_Examined,Number,108174
+2017-18,ENG,England,7 to 8 Weeks,Samples_Examined,%,3.25802828660312
+2017-18,ENG,England,9 to 10 Weeks,Samples_Examined,Number,16587
+2017-18,ENG,England,9 to 10 Weeks,Samples_Examined,%,0.49957397516858
+2017-18,ENG,England,Over 10 weeks,Samples_Examined,Number,587
+2017-18,ENG,England,Over 10 weeks,Samples_Examined,%,0.01767950343184
+2017-18,ENG,South,0 to 2 Weeks,Samples_Examined,Number,658017
+2017-18,ENG,South,0 to 2 Weeks,Samples_Examined,%,74.1932537749634
+2017-18,ENG,South,3 to 4 Weeks,Samples_Examined,Number,211611
+2017-18,ENG,South,3 to 4 Weeks,Samples_Examined,%,23.8597310169399
+2017-18,ENG,South,5 to 6 Weeks,Samples_Examined,Number,13788
+2017-18,ENG,South,5 to 6 Weeks,Samples_Examined,%,1.5546354927748
+2017-18,ENG,South,7 to 8 Weeks,Samples_Examined,Number,3468
+2017-18,ENG,South,7 to 8 Weeks,Samples_Examined,%,0.39102668182064
+2017-18,ENG,South,9 to 10 Weeks,Samples_Examined,Number,4
+2017-18,ENG,South,9 to 10 Weeks,Samples_Examined,%,0.00045101116703
+2017-18,ENG,South,Over 10 weeks,Samples_Examined,Number,8
+2017-18,ENG,South,Over 10 weeks,Samples_Examined,%,0.00090202233407
+2017-18,R1,North East,0 to 2 Weeks,Samples_Examined,Number,99411
+2017-18,R1,North East,0 to 2 Weeks,Samples_Examined,%,66.3204242970079
+2017-18,R1,North East,3 to 4 Weeks,Samples_Examined,Number,44642
+2017-18,R1,North East,3 to 4 Weeks,Samples_Examined,%,29.7821808599352
+2017-18,R1,North East,5 to 6 Weeks,Samples_Examined,Number,5462
+2017-18,R1,North East,5 to 6 Weeks,Samples_Examined,%,3.64388405216985
+2017-18,R1,North East,7 to 8 Weeks,Samples_Examined,Number,333
+2017-18,R1,North East,7 to 8 Weeks,Samples_Examined,%,0.22215550885619
+2017-18,R1,North East,9 to 10 Weeks,Samples_Examined,Number,16
+2017-18,R1,North East,9 to 10 Weeks,Samples_Examined,%,0.01067413856366
+2017-18,R1,North East,Over 10 weeks,Samples_Examined,Number,31
+2017-18,R1,North East,Over 10 weeks,Samples_Examined,%,0.02068114346709
+2017-18,R2,North West,0 to 2 Weeks,Samples_Examined,Number,332443
+2017-18,R2,North West,0 to 2 Weeks,Samples_Examined,%,83.368776362843
+2017-18,R2,North West,3 to 4 Weeks,Samples_Examined,Number,18546
+2017-18,R2,North West,3 to 4 Weeks,Samples_Examined,%,4.65089451853486
+2017-18,R2,North West,5 to 6 Weeks,Samples_Examined,Number,21580
+2017-18,R2,North West,5 to 6 Weeks,Samples_Examined,%,5.41174936428245
+2017-18,R2,North West,7 to 8 Weeks,Samples_Examined,Number,26167
+2017-18,R2,North West,7 to 8 Weeks,Samples_Examined,%,6.56205957438271
+2017-18,R2,North West,9 to 10 Weeks,Samples_Examined,Number,24
+2017-18,R2,North West,9 to 10 Weeks,Samples_Examined,%,0.00601862765258
+2017-18,R2,North West,Over 10 weeks,Samples_Examined,Number,2
+2017-18,R2,North West,Over 10 weeks,Samples_Examined,%,0.00050155230438
+2017-18,R3,Yorkshire and the Humber,0 to 2 Weeks,Samples_Examined,Number,284815
+2017-18,R3,Yorkshire and the Humber,0 to 2 Weeks,Samples_Examined,%,84.3256670495861
+2017-18,R3,Yorkshire and the Humber,3 to 4 Weeks,Samples_Examined,Number,52521
+2017-18,R3,Yorkshire and the Humber,3 to 4 Weeks,Samples_Examined,%,15.5499828278402
+2017-18,R3,Yorkshire and the Humber,5 to 6 Weeks,Samples_Examined,Number,398
+2017-18,R3,Yorkshire and the Humber,5 to 6 Weeks,Samples_Examined,%,0.11783654472459
+2017-18,R3,Yorkshire and the Humber,7 to 8 Weeks,Samples_Examined,Number,12
+2017-18,R3,Yorkshire and the Humber,7 to 8 Weeks,Samples_Examined,%,0.00355286064496
+2017-18,R3,Yorkshire and the Humber,9 to 10 Weeks,Samples_Examined,Number,3
+2017-18,R3,Yorkshire and the Humber,9 to 10 Weeks,Samples_Examined,%,0.00088821516124
+2017-18,R3,Yorkshire and the Humber,Over 10 weeks,Samples_Examined,Number,7
+2017-18,R3,Yorkshire and the Humber,Over 10 weeks,Samples_Examined,%,0.00207250204289
+2017-18,R4,East Midlands,0 to 2 Weeks,Samples_Examined,Number,86422
+2017-18,R4,East Midlands,0 to 2 Weeks,Samples_Examined,%,31.346277307663
+2017-18,R4,East Midlands,3 to 4 Weeks,Samples_Examined,Number,31039
+2017-18,R4,East Midlands,3 to 4 Weeks,Samples_Examined,%,11.2582108878821
+2017-18,R4,East Midlands,5 to 6 Weeks,Samples_Examined,Number,128543
+2017-18,R4,East Midlands,5 to 6 Weeks,Samples_Examined,%,46.6240601231043
+2017-18,R4,East Midlands,7 to 8 Weeks,Samples_Examined,Number,17039
+2017-18,R4,East Midlands,7 to 8 Weeks,Samples_Examined,%,6.18024599112807
+2017-18,R4,East Midlands,9 to 10 Weeks,Samples_Examined,Number,12175
+2017-18,R4,East Midlands,9 to 10 Weeks,Samples_Examined,%,4.41601590128435
+2017-18,R4,East Midlands,Over 10 weeks,Samples_Examined,Number,483
+2017-18,R4,East Midlands,Over 10 weeks,Samples_Examined,%,0.17518978893801
+2017-18,R5,West Midlands,0 to 2 Weeks,Samples_Examined,Number,261259
+2017-18,R5,West Midlands,0 to 2 Weeks,Samples_Examined,%,88.4789926780864
+2017-18,R5,West Midlands,3 to 4 Weeks,Samples_Examined,Number,32525
+2017-18,R5,West Midlands,3 to 4 Weeks,Samples_Examined,%,11.0150434505787
+2017-18,R5,West Midlands,5 to 6 Weeks,Samples_Examined,Number,1486
+2017-18,R5,West Midlands,5 to 6 Weeks,Samples_Examined,%,0.50325456010945
+2017-18,R5,West Midlands,7 to 8 Weeks,Samples_Examined,Number,7
+2017-18,R5,West Midlands,7 to 8 Weeks,Samples_Examined,%,0.00237064732218
+2017-18,R5,West Midlands,9 to 10 Weeks,Samples_Examined,Number,1
+2017-18,R5,West Midlands,9 to 10 Weeks,Samples_Examined,%,0.00033866390316
+2017-18,R5,West Midlands,Over 10 weeks,Samples_Examined,Number,0
+2017-18,R5,West Midlands,Over 10 weeks,Samples_Examined,%,0
+2017-18,R6,East of England,0 to 2 Weeks,Samples_Examined,Number,166408
+2017-18,R6,East of England,0 to 2 Weeks,Samples_Examined,%,48.8315041962556
+2017-18,R6,East of England,3 to 4 Weeks,Samples_Examined,Number,61376
+2017-18,R6,East of England,3 to 4 Weeks,Samples_Examined,%,18.0104466224543
+2017-18,R6,East of England,5 to 6 Weeks,Samples_Examined,Number,47551
+2017-18,R6,East of England,5 to 6 Weeks,Samples_Examined,%,13.9535770878572
+2017-18,R6,East of England,7 to 8 Weeks,Samples_Examined,Number,61095
+2017-18,R6,East of England,7 to 8 Weeks,Samples_Examined,%,17.927988731733
+2017-18,R6,East of England,9 to 10 Weeks,Samples_Examined,Number,4337
+2017-18,R6,East of England,9 to 10 Weeks,Samples_Examined,%,1.27266858383707
+2017-18,R6,East of England,Over 10 weeks,Samples_Examined,Number,13
+2017-18,R6,East of England,Over 10 weeks,Samples_Examined,%,0.00381477786255
+2017-18,R7,London,0 to 2 Weeks,Samples_Examined,Number,522292
+2017-18,R7,London,0 to 2 Weeks,Samples_Examined,%,82.2298598308145
+2017-18,R7,London,3 to 4 Weeks,Samples_Examined,Number,103536
+2017-18,R7,London,3 to 4 Weeks,Samples_Examined,%,16.3007489439685
+2017-18,R7,London,5 to 6 Weeks,Samples_Examined,Number,9210
+2017-18,R7,London,5 to 6 Weeks,Samples_Examined,%,1.4500260563857
+2017-18,R7,London,7 to 8 Weeks,Samples_Examined,Number,53
+2017-18,R7,London,7 to 8 Weeks,Samples_Examined,%,0.00834434104109
+2017-18,R7,London,9 to 10 Weeks,Samples_Examined,Number,27
+2017-18,R7,London,9 to 10 Weeks,Samples_Examined,%,0.00425089071904
+2017-18,R7,London,Over 10 weeks,Samples_Examined,Number,43
+2017-18,R7,London,Over 10 weeks,Samples_Examined,%,0.00676993707107
+2018-19,ENG,England,0 to 2 Weeks,Samples_Examined,Number,2210996
+2018-19,ENG,England,0 to 2 Weeks,Samples_Examined,%,61.8809376140503
+2018-19,ENG,England,3 to 4 Weeks,Samples_Examined,Number,786660
+2018-19,ENG,England,3 to 4 Weeks,Samples_Examined,%,22.016891203543
+2018-19,ENG,England,5 to 6 Weeks,Samples_Examined,Number,322452
+2018-19,ENG,England,5 to 6 Weeks,Samples_Examined,%,9.02472555152779
+2018-19,ENG,England,7 to 8 Weeks,Samples_Examined,Number,94277
+2018-19,ENG,England,7 to 8 Weeks,Samples_Examined,%,2.63860683395167
+2018-19,ENG,England,9 to 10 Weeks,Samples_Examined,Number,63669
+2018-19,ENG,England,9 to 10 Weeks,Samples_Examined,%,1.7819559225566
+2018-19,ENG,England,Over 10 weeks,Samples_Examined,Number,94930
+2018-19,ENG,England,Over 10 weeks,Samples_Examined,%,2.65688287437055
+2018-19,ENG,South,0 to 2 Weeks,Samples_Examined,Number,583633
+2018-19,ENG,South,0 to 2 Weeks,Samples_Examined,%,61.1972850745157
+2018-19,ENG,South,3 to 4 Weeks,Samples_Examined,Number,238934
+2018-19,ENG,South,3 to 4 Weeks,Samples_Examined,%,25.0536075101893
+2018-19,ENG,South,5 to 6 Weeks,Samples_Examined,Number,83354
+2018-19,ENG,South,5 to 6 Weeks,Samples_Examined,%,8.74014749011996
+2018-19,ENG,South,7 to 8 Weeks,Samples_Examined,Number,27172
+2018-19,ENG,South,7 to 8 Weeks,Samples_Examined,%,2.84914086428413
+2018-19,ENG,South,9 to 10 Weeks,Samples_Examined,Number,14029
+2018-19,ENG,South,9 to 10 Weeks,Samples_Examined,%,1.47102153632569
+2018-19,ENG,South,Over 10 weeks,Samples_Examined,Number,6569
+2018-19,ENG,South,Over 10 weeks,Samples_Examined,%,0.68879752456508
+2018-19,R1,North East,0 to 2 Weeks,Samples_Examined,Number,118704
+2018-19,R1,North East,0 to 2 Weeks,Samples_Examined,%,73.577923647656
+2018-19,R1,North East,3 to 4 Weeks,Samples_Examined,Number,40905
+2018-19,R1,North East,3 to 4 Weeks,Samples_Examined,%,25.3547055432619
+2018-19,R1,North East,5 to 6 Weeks,Samples_Examined,Number,1694
+2018-19,R1,North East,5 to 6 Weeks,Samples_Examined,%,1.05001518617004
+2018-19,R1,North East,7 to 8 Weeks,Samples_Examined,Number,13
+2018-19,R1,North East,7 to 8 Weeks,Samples_Examined,%,0.00805796778052
+2018-19,R1,North East,9 to 10 Weeks,Samples_Examined,Number,8
+2018-19,R1,North East,9 to 10 Weeks,Samples_Examined,%,0.0049587494034
+2018-19,R1,North East,Over 10 weeks,Samples_Examined,Number,7
+2018-19,R1,North East,Over 10 weeks,Samples_Examined,%,0.00433890572797
+2018-19,R2,North West,0 to 2 Weeks,Samples_Examined,Number,339682
+2018-19,R2,North West,0 to 2 Weeks,Samples_Examined,%,78.0748933509856
+2018-19,R2,North West,3 to 4 Weeks,Samples_Examined,Number,86735
+2018-19,R2,North West,3 to 4 Weeks,Samples_Examined,%,19.9357807443365
+2018-19,R2,North West,5 to 6 Weeks,Samples_Examined,Number,5681
+2018-19,R2,North West,5 to 6 Weeks,Samples_Examined,%,1.30576088555457
+2018-19,R2,North West,7 to 8 Weeks,Samples_Examined,Number,411
+2018-19,R2,North West,7 to 8 Weeks,Samples_Examined,%,0.09446712268314
+2018-19,R2,North West,9 to 10 Weeks,Samples_Examined,Number,944
+2018-19,R2,North West,9 to 10 Weeks,Samples_Examined,%,0.21697558105325
+2018-19,R2,North West,Over 10 weeks,Samples_Examined,Number,1619
+2018-19,R2,North West,Over 10 weeks,Samples_Examined,%,0.37212231538687
+2018-19,R3,Yorkshire and the Humber,0 to 2 Weeks,Samples_Examined,Number,117809
+2018-19,R3,Yorkshire and the Humber,0 to 2 Weeks,Samples_Examined,%,31.900536418802
+2018-19,R3,Yorkshire and the Humber,3 to 4 Weeks,Samples_Examined,Number,161374
+2018-19,R3,Yorkshire and the Humber,3 to 4 Weeks,Samples_Examined,%,43.6971467718744
+2018-19,R3,Yorkshire and the Humber,5 to 6 Weeks,Samples_Examined,Number,85951
+2018-19,R3,Yorkshire and the Humber,5 to 6 Weeks,Samples_Examined,%,23.273968930493
+2018-19,R3,Yorkshire and the Humber,7 to 8 Weeks,Samples_Examined,Number,4144
+2018-19,R3,Yorkshire and the Humber,7 to 8 Weeks,Samples_Examined,%,1.12211989677795
+2018-19,R3,Yorkshire and the Humber,9 to 10 Weeks,Samples_Examined,Number,9
+2018-19,R3,Yorkshire and the Humber,9 to 10 Weeks,Samples_Examined,%,0.00243703645535
+2018-19,R3,Yorkshire and the Humber,Over 10 weeks,Samples_Examined,Number,14
+2018-19,R3,Yorkshire and the Humber,Over 10 weeks,Samples_Examined,%,0.00379094559722
+2018-19,R4,East Midlands,0 to 2 Weeks,Samples_Examined,Number,124360
+2018-19,R4,East Midlands,0 to 2 Weeks,Samples_Examined,%,41.9626196606143
+2018-19,R4,East Midlands,3 to 4 Weeks,Samples_Examined,Number,76272
+2018-19,R4,East Midlands,3 to 4 Weeks,Samples_Examined,%,25.7363535441812
+2018-19,R4,East Midlands,5 to 6 Weeks,Samples_Examined,Number,34801
+2018-19,R4,East Midlands,5 to 6 Weeks,Samples_Examined,%,11.7428524188568
+2018-19,R4,East Midlands,7 to 8 Weeks,Samples_Examined,Number,11393
+2018-19,R4,East Midlands,7 to 8 Weeks,Samples_Examined,%,3.84432394494515
+2018-19,R4,East Midlands,9 to 10 Weeks,Samples_Examined,Number,10775
+2018-19,R4,East Midlands,9 to 10 Weeks,Samples_Examined,%,3.63579307529044
+2018-19,R4,East Midlands,Over 10 weeks,Samples_Examined,Number,38758
+2018-19,R4,East Midlands,Over 10 weeks,Samples_Examined,%,13.078057356112
+2018-19,R5,West Midlands,0 to 2 Weeks,Samples_Examined,Number,202556
+2018-19,R5,West Midlands,0 to 2 Weeks,Samples_Examined,%,63.0964470167525
+2018-19,R5,West Midlands,3 to 4 Weeks,Samples_Examined,Number,48545
+2018-19,R5,West Midlands,3 to 4 Weeks,Samples_Examined,%,15.1218281385308
+2018-19,R5,West Midlands,5 to 6 Weeks,Samples_Examined,Number,43760
+2018-19,R5,West Midlands,5 to 6 Weeks,Samples_Examined,%,13.6312946614915
+2018-19,R5,West Midlands,7 to 8 Weeks,Samples_Examined,Number,16907
+2018-19,R5,West Midlands,7 to 8 Weeks,Samples_Examined,%,5.26655161887199
+2018-19,R5,West Midlands,9 to 10 Weeks,Samples_Examined,Number,7179
+2018-19,R5,West Midlands,9 to 10 Weeks,Samples_Examined,%,2.23626746743254
+2018-19,R5,West Midlands,Over 10 weeks,Samples_Examined,Number,2079
+2018-19,R5,West Midlands,Over 10 weeks,Samples_Examined,%,0.64761109692049
+2018-19,R6,East of England,0 to 2 Weeks,Samples_Examined,Number,206748
+2018-19,R6,East of England,0 to 2 Weeks,Samples_Examined,%,58.0000112213924
+2018-19,R6,East of England,3 to 4 Weeks,Samples_Examined,Number,34219
+2018-19,R6,East of England,3 to 4 Weeks,Samples_Examined,%,9.59962071693476
+2018-19,R6,East of England,5 to 6 Weeks,Samples_Examined,Number,36637
+2018-19,R6,East of England,5 to 6 Weeks,Samples_Examined,%,10.2779538912983
+2018-19,R6,East of England,7 to 8 Weeks,Samples_Examined,Number,21284
+2018-19,R6,East of England,7 to 8 Weeks,Samples_Examined,%,5.9709029293445
+2018-19,R6,East of England,9 to 10 Weeks,Samples_Examined,Number,27207
+2018-19,R6,East of England,9 to 10 Weeks,Samples_Examined,%,7.63251061824261
+2018-19,R6,East of England,Over 10 weeks,Samples_Examined,Number,30367
+2018-19,R6,East of England,Over 10 weeks,Samples_Examined,%,8.51900062278728
+2018-19,R7,London,0 to 2 Weeks,Samples_Examined,Number,517504
+2018-19,R7,London,0 to 2 Weeks,Samples_Examined,%,76.1324149456705
+2018-19,R7,London,3 to 4 Weeks,Samples_Examined,Number,99676
+2018-19,R7,London,3 to 4 Weeks,Samples_Examined,%,14.6637989119401
+2018-19,R7,London,5 to 6 Weeks,Samples_Examined,Number,30574
+2018-19,R7,London,5 to 6 Weeks,Samples_Examined,%,4.49788302032241
+2018-19,R7,London,7 to 8 Weeks,Samples_Examined,Number,12953
+2018-19,R7,London,7 to 8 Weeks,Samples_Examined,%,1.9055759391063
+2018-19,R7,London,9 to 10 Weeks,Samples_Examined,Number,3518
+2018-19,R7,London,9 to 10 Weeks,Samples_Examined,%,0.51754930547178
+2018-19,R7,London,Over 10 weeks,Samples_Examined,Number,15517
+2018-19,R7,London,Over 10 weeks,Samples_Examined,%,2.28277787748881
+2019-20,ENG,England,0 to 2 Weeks,Samples_Examined,Number,2019973
+2019-20,ENG,England,0 to 2 Weeks,Samples_Examined,%,61.6522097424002
+2019-20,ENG,England,3 to 4 Weeks,Samples_Examined,Number,587326
+2019-20,ENG,England,3 to 4 Weeks,Samples_Examined,%,17.9259553168111
+2019-20,ENG,England,5 to 6 Weeks,Samples_Examined,Number,342601
+2019-20,ENG,England,5 to 6 Weeks,Samples_Examined,%,10.4566292272005
+2019-20,ENG,England,7 to 8 Weeks,Samples_Examined,Number,166928
+2019-20,ENG,England,7 to 8 Weeks,Samples_Examined,%,5.09486021242827
+2019-20,ENG,England,9 to 10 Weeks,Samples_Examined,Number,89209
+2019-20,ENG,England,9 to 10 Weeks,Samples_Examined,%,2.72277499694787
+2019-20,ENG,England,Over 10 weeks,Samples_Examined,Number,70363
+2019-20,ENG,England,Over 10 weeks,Samples_Examined,%,2.14757050421194
+2019-20,ENG,South,0 to 2 Weeks,Samples_Examined,Number,491928
+2019-20,ENG,South,0 to 2 Weeks,Samples_Examined,%,56.2130833389516
+2019-20,ENG,South,3 to 4 Weeks,Samples_Examined,Number,151247
+2019-20,ENG,South,3 to 4 Weeks,Samples_Examined,%,17.2831394345644
+2019-20,ENG,South,5 to 6 Weeks,Samples_Examined,Number,129088
+2019-20,ENG,South,5 to 6 Weeks,Samples_Examined,%,14.7510092982277
+2019-20,ENG,South,7 to 8 Weeks,Samples_Examined,Number,54997
+2019-20,ENG,South,7 to 8 Weeks,Samples_Examined,%,6.28455982256005
+2019-20,ENG,South,9 to 10 Weeks,Samples_Examined,Number,28881
+2019-20,ENG,South,9 to 10 Weeks,Samples_Examined,%,3.30025950934336
+2019-20,ENG,South,Over 10 weeks,Samples_Examined,Number,18972
+2019-20,ENG,South,Over 10 weeks,Samples_Examined,%,2.1679485963527
+2019-20,R1,North East,0 to 2 Weeks,Samples_Examined,Number,170883
+2019-20,R1,North East,0 to 2 Weeks,Samples_Examined,%,69.8365278515672
+2019-20,R1,North East,3 to 4 Weeks,Samples_Examined,Number,38482
+2019-20,R1,North East,3 to 4 Weeks,Samples_Examined,%,15.7268380399689
+2019-20,R1,North East,5 to 6 Weeks,Samples_Examined,Number,21667
+2019-20,R1,North East,5 to 6 Weeks,Samples_Examined,%,8.85487760022886
+2019-20,R1,North East,7 to 8 Weeks,Samples_Examined,Number,13139
+2019-20,R1,North East,7 to 8 Weeks,Samples_Examined,%,5.36965139564346
+2019-20,R1,North East,9 to 10 Weeks,Samples_Examined,Number,271
+2019-20,R1,North East,9 to 10 Weeks,Samples_Examined,%,0.11075238056316
+2019-20,R1,North East,Over 10 weeks,Samples_Examined,Number,248
+2019-20,R1,North East,Over 10 weeks,Samples_Examined,%,0.10135273202828
+2019-20,R2,North West,0 to 2 Weeks,Samples_Examined,Number,317459
+2019-20,R2,North West,0 to 2 Weeks,Samples_Examined,%,74.8743481552587
+2019-20,R2,North West,3 to 4 Weeks,Samples_Examined,Number,86288
+2019-20,R2,North West,3 to 4 Weeks,Samples_Examined,%,20.3514713825122
+2019-20,R2,North West,5 to 6 Weeks,Samples_Examined,Number,19891
+2019-20,R2,North West,5 to 6 Weeks,Samples_Examined,%,4.69139529563267
+2019-20,R2,North West,7 to 8 Weeks,Samples_Examined,Number,345
+2019-20,R2,North West,7 to 8 Weeks,Samples_Examined,%,0.08137003554337
+2019-20,R2,North West,9 to 10 Weeks,Samples_Examined,Number,6
+2019-20,R2,North West,9 to 10 Weeks,Samples_Examined,%,0.00141513105292
+2019-20,R2,North West,Over 10 weeks,Samples_Examined,Number,0
+2019-20,R2,North West,Over 10 weeks,Samples_Examined,%,0
+2019-20,R3,Yorkshire and the Humber,0 to 2 Weeks,Samples_Examined,Number,129741
+2019-20,R3,Yorkshire and the Humber,0 to 2 Weeks,Samples_Examined,%,54.5749379548227
+2019-20,R3,Yorkshire and the Humber,3 to 4 Weeks,Samples_Examined,Number,28374
+2019-20,R3,Yorkshire and the Humber,3 to 4 Weeks,Samples_Examined,%,11.9353888865519
+2019-20,R3,Yorkshire and the Humber,5 to 6 Weeks,Samples_Examined,Number,46279
+2019-20,R3,Yorkshire and the Humber,5 to 6 Weeks,Samples_Examined,%,19.4670424431077
+2019-20,R3,Yorkshire and the Humber,7 to 8 Weeks,Samples_Examined,Number,31769
+2019-20,R3,Yorkshire and the Humber,7 to 8 Weeks,Samples_Examined,%,13.3634795776721
+2019-20,R3,Yorkshire and the Humber,9 to 10 Weeks,Samples_Examined,Number,1561
+2019-20,R3,Yorkshire and the Humber,9 to 10 Weeks,Samples_Examined,%,0.65662726622639
+2019-20,R3,Yorkshire and the Humber,Over 10 weeks,Samples_Examined,Number,6
+2019-20,R3,Yorkshire and the Humber,Over 10 weeks,Samples_Examined,%,0.00252387161906
+2019-20,R4,East Midlands,0 to 2 Weeks,Samples_Examined,Number,98810
+2019-20,R4,East Midlands,0 to 2 Weeks,Samples_Examined,%,35.3100934479246
+2019-20,R4,East Midlands,3 to 4 Weeks,Samples_Examined,Number,98048
+2019-20,R4,East Midlands,3 to 4 Weeks,Samples_Examined,%,35.0377901263244
+2019-20,R4,East Midlands,5 to 6 Weeks,Samples_Examined,Number,47240
+2019-20,R4,East Midlands,5 to 6 Weeks,Samples_Examined,%,16.8813765254524
+2019-20,R4,East Midlands,7 to 8 Weeks,Samples_Examined,Number,11034
+2019-20,R4,East Midlands,7 to 8 Weeks,Samples_Examined,%,3.94303786159701
+2019-20,R4,East Midlands,9 to 10 Weeks,Samples_Examined,Number,15239
+2019-20,R4,East Midlands,9 to 10 Weeks,Samples_Examined,%,5.44570907856415
+2019-20,R4,East Midlands,Over 10 weeks,Samples_Examined,Number,9464
+2019-20,R4,East Midlands,Over 10 weeks,Samples_Examined,%,3.38199296013722
+2019-20,R5,West Midlands,0 to 2 Weeks,Samples_Examined,Number,55522
+2019-20,R5,West Midlands,0 to 2 Weeks,Samples_Examined,%,20.9552565529995
+2019-20,R5,West Midlands,3 to 4 Weeks,Samples_Examined,Number,76831
+2019-20,R5,West Midlands,3 to 4 Weeks,Samples_Examined,%,28.9977543356419
+2019-20,R5,West Midlands,5 to 6 Weeks,Samples_Examined,Number,49590
+2019-20,R5,West Midlands,5 to 6 Weeks,Samples_Examined,%,18.7163858013624
+2019-20,R5,West Midlands,7 to 8 Weeks,Samples_Examined,Number,39552
+2019-20,R5,West Midlands,7 to 8 Weeks,Samples_Examined,%,14.9278179313468
+2019-20,R5,West Midlands,9 to 10 Weeks,Samples_Examined,Number,31344
+2019-20,R5,West Midlands,9 to 10 Weeks,Samples_Examined,%,11.8299333849144
+2019-20,R5,West Midlands,Over 10 weeks,Samples_Examined,Number,12116
+2019-20,R5,West Midlands,Over 10 weeks,Samples_Examined,%,4.57285199373478
+2019-20,R6,East of England,0 to 2 Weeks,Samples_Examined,Number,264539
+2019-20,R6,East of England,0 to 2 Weeks,Samples_Examined,%,76.7975080052139
+2019-20,R6,East of England,3 to 4 Weeks,Samples_Examined,Number,41153
+2019-20,R6,East of England,3 to 4 Weeks,Samples_Examined,%,11.9470015647544
+2019-20,R6,East of England,5 to 6 Weeks,Samples_Examined,Number,6517
+2019-20,R6,East of England,5 to 6 Weeks,Samples_Examined,%,1.89193033794631
+2019-20,R6,East of England,7 to 8 Weeks,Samples_Examined,Number,5942
+2019-20,R6,East of England,7 to 8 Weeks,Samples_Examined,%,1.72500384656697
+2019-20,R6,East of England,9 to 10 Weeks,Samples_Examined,Number,5686
+2019-20,R6,East of England,9 to 10 Weeks,Samples_Examined,%,1.65068526953548
+2019-20,R6,East of England,Over 10 weeks,Samples_Examined,Number,20626
+2019-20,R6,East of England,Over 10 weeks,Samples_Examined,%,5.9878709759829
+2019-20,R7,London,0 to 2 Weeks,Samples_Examined,Number,491091
+2019-20,R7,London,0 to 2 Weeks,Samples_Examined,%,81.0882972136222
+2019-20,R7,London,3 to 4 Weeks,Samples_Examined,Number,66903
+2019-20,R7,London,3 to 4 Weeks,Samples_Examined,%,11.0469349845201
+2019-20,R7,London,5 to 6 Weeks,Samples_Examined,Number,22329
+2019-20,R7,London,5 to 6 Weeks,Samples_Examined,%,3.68693498452012
+2019-20,R7,London,7 to 8 Weeks,Samples_Examined,Number,10150
+2019-20,R7,London,7 to 8 Weeks,Samples_Examined,%,1.67595459236326
+2019-20,R7,London,9 to 10 Weeks,Samples_Examined,Number,6221
+2019-20,R7,London,9 to 10 Weeks,Samples_Examined,%,1.02720330237358
+2019-20,R7,London,Over 10 weeks,Samples_Examined,Number,8931
+2019-20,R7,London,Over 10 weeks,Samples_Examined,%,1.47467492260061

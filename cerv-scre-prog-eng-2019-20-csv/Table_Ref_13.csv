@@ -1,0 +1,1921 @@
+﻿Table_ref,Collection_Year,Parent_Org_Code,Parent_Org_ONS_Code,Parent_Org_Name,Org_Code,Org_ONS_Code,Org_Name,Unit,Indicator,Value
+13,2018-19,A,E12000001,North East,00CH,E08000037,Gateshead,%,Coverage_3andhalfyears__25-49,74.10202323301350000000
+13,2018-19,A,E12000001,North East,00CH,E08000037,Gateshead,%,Coverage_5andhalfyears__50-64,75.50018875047190000000
+13,2018-19,A,E12000001,North East,00CH,E08000037,Gateshead,%,Coverage_in_period__25-64,74.59867438029190000000
+13,2018-19,A,E12000001,North East,00CH,E08000037,Gateshead,Number,Eligible__25-49,33659
+13,2018-19,A,E12000001,North East,00CH,E08000037,Gateshead,Number,Eligible__25-64,52202
+13,2018-19,A,E12000001,North East,00CH,E08000037,Gateshead,Number,Eligible__50-64,18543
+13,2018-19,A,E12000001,North East,00CJ,E08000021,Newcastle upon Tyne,%,Coverage_3andhalfyears__25-49,64.57237255570920000000
+13,2018-19,A,E12000001,North East,00CJ,E08000021,Newcastle upon Tyne,%,Coverage_5andhalfyears__50-64,75.88970684322860000000
+13,2018-19,A,E12000001,North East,00CJ,E08000021,Newcastle upon Tyne,%,Coverage_in_period__25-64,67.87585189706030000000
+13,2018-19,A,E12000001,North East,00CJ,E08000021,Newcastle upon Tyne,Number,Eligible__25-49,55691
+13,2018-19,A,E12000001,North East,00CJ,E08000021,Newcastle upon Tyne,Number,Eligible__25-64,78648
+13,2018-19,A,E12000001,North East,00CJ,E08000021,Newcastle upon Tyne,Number,Eligible__50-64,22957
+13,2018-19,A,E12000001,North East,00CK,E08000022,North Tyneside,%,Coverage_3andhalfyears__25-49,77.39946756340200000000
+13,2018-19,A,E12000001,North East,00CK,E08000022,North Tyneside,%,Coverage_5andhalfyears__50-64,76.44865464073370000000
+13,2018-19,A,E12000001,North East,00CK,E08000022,North Tyneside,%,Coverage_in_period__25-64,77.05966036988350000000
+13,2018-19,A,E12000001,North East,00CK,E08000022,North Tyneside,Number,Eligible__25-49,35685
+13,2018-19,A,E12000001,North East,00CK,E08000022,North Tyneside,Number,Eligible__25-64,55531
+13,2018-19,A,E12000001,North East,00CK,E08000022,North Tyneside,Number,Eligible__50-64,19846
+13,2018-19,A,E12000001,North East,00CL,E08000023,South Tyneside,%,Coverage_3andhalfyears__25-49,75.54405412014020000000
+13,2018-19,A,E12000001,North East,00CL,E08000023,South Tyneside,%,Coverage_5andhalfyears__50-64,75.13881177123820000000
+13,2018-19,A,E12000001,North East,00CL,E08000023,South Tyneside,%,Coverage_in_period__25-64,75.39413546962460000000
+13,2018-19,A,E12000001,North East,00CL,E08000023,South Tyneside,Number,Eligible__25-49,24538
+13,2018-19,A,E12000001,North East,00CL,E08000023,South Tyneside,Number,Eligible__25-64,38946
+13,2018-19,A,E12000001,North East,00CL,E08000023,South Tyneside,Number,Eligible__50-64,14408
+13,2018-19,A,E12000001,North East,00CM,E08000024,Sunderland,%,Coverage_3andhalfyears__25-49,76.12338977209080000000
+13,2018-19,A,E12000001,North East,00CM,E08000024,Sunderland,%,Coverage_5andhalfyears__50-64,77.30095364825900000000
+13,2018-19,A,E12000001,North East,00CM,E08000024,Sunderland,%,Coverage_in_period__25-64,76.55697098372260000000
+13,2018-19,A,E12000001,North East,00CM,E08000024,Sunderland,Number,Eligible__25-49,46422
+13,2018-19,A,E12000001,North East,00CM,E08000024,Sunderland,Number,Eligible__25-64,73476
+13,2018-19,A,E12000001,North East,00CM,E08000024,Sunderland,Number,Eligible__50-64,27054
+13,2018-19,A,E12000001,North East,00EB,E06000001,Hartlepool,%,Coverage_3andhalfyears__25-49,73.86135969012960000000
+13,2018-19,A,E12000001,North East,00EB,E06000001,Hartlepool,%,Coverage_5andhalfyears__50-64,72.65375854214120000000
+13,2018-19,A,E12000001,North East,00EB,E06000001,Hartlepool,%,Coverage_in_period__25-64,73.41500378883560000000
+13,2018-19,A,E12000001,North East,00EB,E06000001,Hartlepool,Number,Eligible__25-49,14974
+13,2018-19,A,E12000001,North East,00EB,E06000001,Hartlepool,Number,Eligible__25-64,23754
+13,2018-19,A,E12000001,North East,00EB,E06000001,Hartlepool,Number,Eligible__50-64,8780
+13,2018-19,A,E12000001,North East,00EC,E06000002,Middlesbrough,%,Coverage_3andhalfyears__25-49,66.62937062937060000000
+13,2018-19,A,E12000001,North East,00EC,E06000002,Middlesbrough,%,Coverage_5andhalfyears__50-64,72.31221216452280000000
+13,2018-19,A,E12000001,North East,00EC,E06000002,Middlesbrough,%,Coverage_in_period__25-64,68.53185890108720000000
+13,2018-19,A,E12000001,North East,00EC,E06000002,Middlesbrough,Number,Eligible__25-49,25025
+13,2018-19,A,E12000001,North East,00EC,E06000002,Middlesbrough,Number,Eligible__25-64,37619
+13,2018-19,A,E12000001,North East,00EC,E06000002,Middlesbrough,Number,Eligible__50-64,12594
+13,2018-19,A,E12000001,North East,00EE,E06000003,Redcar and Cleveland,%,Coverage_3andhalfyears__25-49,76.09414697282010000000
+13,2018-19,A,E12000001,North East,00EE,E06000003,Redcar and Cleveland,%,Coverage_5andhalfyears__50-64,76.59936395237040000000
+13,2018-19,A,E12000001,North East,00EE,E06000003,Redcar and Cleveland,%,Coverage_in_period__25-64,76.29282764237100000000
+13,2018-19,A,E12000001,North East,00EE,E06000003,Redcar and Cleveland,Number,Eligible__25-49,20861
+13,2018-19,A,E12000001,North East,00EE,E06000003,Redcar and Cleveland,Number,Eligible__25-64,34382
+13,2018-19,A,E12000001,North East,00EE,E06000003,Redcar and Cleveland,Number,Eligible__50-64,13521
+13,2018-19,A,E12000001,North East,00EF,E06000004,Stockton-on-Tees,%,Coverage_3andhalfyears__25-49,75.32703936813530000000
+13,2018-19,A,E12000001,North East,00EF,E06000004,Stockton-on-Tees,%,Coverage_5andhalfyears__50-64,75.10035682426410000000
+13,2018-19,A,E12000001,North East,00EF,E06000004,Stockton-on-Tees,%,Coverage_in_period__25-64,75.24628585048070000000
+13,2018-19,A,E12000001,North East,00EF,E06000004,Stockton-on-Tees,Number,Eligible__25-49,32412
+13,2018-19,A,E12000001,North East,00EF,E06000004,Stockton-on-Tees,Number,Eligible__25-64,50348
+13,2018-19,A,E12000001,North East,00EF,E06000004,Stockton-on-Tees,Number,Eligible__50-64,17936
+13,2018-19,A,E12000001,North East,00EH,E06000005,Darlington,%,Coverage_3andhalfyears__25-49,75.59339525283800000000
+13,2018-19,A,E12000001,North East,00EH,E06000005,Darlington,%,Coverage_5andhalfyears__50-64,76.66060973147590000000
+13,2018-19,A,E12000001,North East,00EH,E06000005,Darlington,%,Coverage_in_period__25-64,75.97996197162500000000
+13,2018-19,A,E12000001,North East,00EH,E06000005,Darlington,Number,Eligible__25-49,17442
+13,2018-19,A,E12000001,North East,00EH,E06000005,Darlington,Number,Eligible__25-64,27348
+13,2018-19,A,E12000001,North East,00EH,E06000005,Darlington,Number,Eligible__50-64,9906
+13,2018-19,A,E12000001,North East,00EJ,E06000047,County Durham,%,Coverage_3andhalfyears__25-49,76.66466559670680000000
+13,2018-19,A,E12000001,North East,00EJ,E06000047,County Durham,%,Coverage_5andhalfyears__50-64,77.27553193606810000000
+13,2018-19,A,E12000001,North East,00EJ,E06000047,County Durham,%,Coverage_in_period__25-64,76.89740945216280000000
+13,2018-19,A,E12000001,North East,00EJ,E06000047,County Durham,Number,Eligible__25-49,81623
+13,2018-19,A,E12000001,North East,00EJ,E06000047,County Durham,Number,Eligible__25-64,131864
+13,2018-19,A,E12000001,North East,00EJ,E06000047,County Durham,Number,Eligible__50-64,50241
+13,2018-19,A,E12000001,North East,00EM,E06000057,Northumberland,%,Coverage_3andhalfyears__25-49,78.04835241981480000000
+13,2018-19,A,E12000001,North East,00EM,E06000057,Northumberland,%,Coverage_5andhalfyears__50-64,78.42052466790290000000
+13,2018-19,A,E12000001,North East,00EM,E06000057,Northumberland,%,Coverage_in_period__25-64,78.20436040214580000000
+13,2018-19,A,E12000001,North East,00EM,E06000057,Northumberland,Number,Eligible__25-49,45582
+13,2018-19,A,E12000001,North East,00EM,E06000057,Northumberland,Number,Eligible__25-64,78479
+13,2018-19,A,E12000001,North East,00EM,E06000057,Northumberland,Number,Eligible__50-64,32897
+13,2018-19,A,A,North East,A,A,North East,%,Coverage_3andhalfyears__25-49,74.15248182819640000000
+13,2018-19,A,A,North East,A,A,North East,%,Coverage_5andhalfyears__50-64,76.34699597479520000000
+13,2018-19,A,A,North East,A,A,North East,%,Coverage_in_period__25-64,74.95198484610980000000
+13,2018-19,A,A,North East,A,A,North East,Number,Eligible__25-49,433914
+13,2018-19,A,A,North East,A,A,North East,Number,Eligible__25-64,682597
+13,2018-19,A,A,North East,A,A,North East,Number,Eligible__50-64,248683
+13,2018-19,B,E12000002,North West,16,E10000006,Cumbria,%,Coverage_3andhalfyears__25-49,77.70170419880960000000
+13,2018-19,B,E12000002,North West,16,E10000006,Cumbria,%,Coverage_5andhalfyears__50-64,78.43996840442340000000
+13,2018-19,B,E12000002,North West,16,E10000006,Cumbria,%,Coverage_in_period__25-64,78.00223474465230000000
+13,2018-19,B,E12000002,North West,16,E10000006,Cumbria,Number,Eligible__25-49,73759
+13,2018-19,B,E12000002,North West,16,E10000006,Cumbria,Number,Eligible__25-64,124399
+13,2018-19,B,E12000002,North West,16,E10000006,Cumbria,Number,Eligible__50-64,50640
+13,2018-19,B,E12000002,North West,30,E10000017,Lancashire,%,Coverage_3andhalfyears__25-49,72.20224673451560000000
+13,2018-19,B,E12000002,North West,30,E10000017,Lancashire,%,Coverage_5andhalfyears__50-64,76.73817130686140000000
+13,2018-19,B,E12000002,North West,30,E10000017,Lancashire,%,Coverage_in_period__25-64,73.84439930147190000000
+13,2018-19,B,E12000002,North West,30,E10000017,Lancashire,Number,Eligible__25-49,196908
+13,2018-19,B,E12000002,North West,30,E10000017,Lancashire,Number,Eligible__25-64,308649
+13,2018-19,B,E12000002,North West,30,E10000017,Lancashire,Number,Eligible__50-64,111741
+13,2018-19,B,E12000002,North West,00BL,E08000001,Bolton,%,Coverage_3andhalfyears__25-49,70.01659847139660000000
+13,2018-19,B,E12000002,North West,00BL,E08000001,Bolton,%,Coverage_5andhalfyears__50-64,76.67290314876000000000
+13,2018-19,B,E12000002,North West,00BL,E08000001,Bolton,%,Coverage_in_period__25-64,72.19008747871520000000
+13,2018-19,B,E12000002,North West,00BL,E08000001,Bolton,Number,Eligible__25-49,51812
+13,2018-19,B,E12000002,North West,00BL,E08000001,Bolton,Number,Eligible__25-64,76933
+13,2018-19,B,E12000002,North West,00BL,E08000001,Bolton,Number,Eligible__50-64,25121
+13,2018-19,B,E12000002,North West,00BM,E08000002,Bury,%,Coverage_3andhalfyears__25-49,71.57283807312830000000
+13,2018-19,B,E12000002,North West,00BM,E08000002,Bury,%,Coverage_5andhalfyears__50-64,76.07872389258660000000
+13,2018-19,B,E12000002,North West,00BM,E08000002,Bury,%,Coverage_in_period__25-64,73.08626271970400000000
+13,2018-19,B,E12000002,North West,00BM,E08000002,Bury,Number,Eligible__25-49,34460
+13,2018-19,B,E12000002,North West,00BM,E08000002,Bury,Number,Eligible__25-64,51888
+13,2018-19,B,E12000002,North West,00BM,E08000002,Bury,Number,Eligible__50-64,17428
+13,2018-19,B,E12000002,North West,00BN,E08000003,Manchester,%,Coverage_3andhalfyears__25-49,61.25520201854700000000
+13,2018-19,B,E12000002,North West,00BN,E08000003,Manchester,%,Coverage_5andhalfyears__50-64,70.83508653819180000000
+13,2018-19,B,E12000002,North West,00BN,E08000003,Manchester,%,Coverage_in_period__25-64,63.42055707374600000000
+13,2018-19,B,E12000002,North West,00BN,E08000003,Manchester,Number,Eligible__25-49,122068
+13,2018-19,B,E12000002,North West,00BN,E08000003,Manchester,Number,Eligible__25-64,157717
+13,2018-19,B,E12000002,North West,00BN,E08000003,Manchester,Number,Eligible__50-64,35649
+13,2018-19,B,E12000002,North West,00BP,E08000004,Oldham,%,Coverage_3andhalfyears__25-49,69.63974918341560000000
+13,2018-19,B,E12000002,North West,00BP,E08000004,Oldham,%,Coverage_5andhalfyears__50-64,75.69227566104520000000
+13,2018-19,B,E12000002,North West,00BP,E08000004,Oldham,%,Coverage_in_period__25-64,71.54116588995180000000
+13,2018-19,B,E12000002,North West,00BP,E08000004,Oldham,Number,Eligible__25-49,41943
+13,2018-19,B,E12000002,North West,00BP,E08000004,Oldham,Number,Eligible__25-64,61155
+13,2018-19,B,E12000002,North West,00BP,E08000004,Oldham,Number,Eligible__50-64,19212
+13,2018-19,B,E12000002,North West,00BQ,E08000005,Rochdale,%,Coverage_3andhalfyears__25-49,71.97145450877550000000
+13,2018-19,B,E12000002,North West,00BQ,E08000005,Rochdale,%,Coverage_5andhalfyears__50-64,77.37214791502750000000
+13,2018-19,B,E12000002,North West,00BQ,E08000005,Rochdale,%,Coverage_in_period__25-64,73.72490250506630000000
+13,2018-19,B,E12000002,North West,00BQ,E08000005,Rochdale,Number,Eligible__25-49,39656
+13,2018-19,B,E12000002,North West,00BQ,E08000005,Rochdale,Number,Eligible__25-64,58721
+13,2018-19,B,E12000002,North West,00BQ,E08000005,Rochdale,Number,Eligible__50-64,19065
+13,2018-19,B,E12000002,North West,00BR,E08000006,Salford,%,Coverage_3andhalfyears__25-49,66.48996446749260000000
+13,2018-19,B,E12000002,North West,00BR,E08000006,Salford,%,Coverage_5andhalfyears__50-64,72.89522301398790000000
+13,2018-19,B,E12000002,North West,00BR,E08000006,Salford,%,Coverage_in_period__25-64,68.19884523306580000000
+13,2018-19,B,E12000002,North West,00BR,E08000006,Salford,Number,Eligible__25-49,52065
+13,2018-19,B,E12000002,North West,00BR,E08000006,Salford,Number,Eligible__25-64,71010
+13,2018-19,B,E12000002,North West,00BR,E08000006,Salford,Number,Eligible__50-64,18945
+13,2018-19,B,E12000002,North West,00BS,E08000007,Stockport,%,Coverage_3andhalfyears__25-49,76.65614527316660000000
+13,2018-19,B,E12000002,North West,00BS,E08000007,Stockport,%,Coverage_5andhalfyears__50-64,78.26166918012290000000
+13,2018-19,B,E12000002,North West,00BS,E08000007,Stockport,%,Coverage_in_period__25-64,77.21211040491140000000
+13,2018-19,B,E12000002,North West,00BS,E08000007,Stockport,Number,Eligible__25-49,51324
+13,2018-19,B,E12000002,North West,00BS,E08000007,Stockport,Number,Eligible__25-64,78511
+13,2018-19,B,E12000002,North West,00BS,E08000007,Stockport,Number,Eligible__50-64,27187
+13,2018-19,B,E12000002,North West,00BT,E08000008,Tameside,%,Coverage_3andhalfyears__25-49,72.35589406266230000000
+13,2018-19,B,E12000002,North West,00BT,E08000008,Tameside,%,Coverage_5andhalfyears__50-64,74.88181997242470000000
+13,2018-19,B,E12000002,North West,00BT,E08000008,Tameside,%,Coverage_in_period__25-64,73.20032264967820000000
+13,2018-19,B,E12000002,North West,00BT,E08000008,Tameside,Number,Eligible__25-49,40439
+13,2018-19,B,E12000002,North West,00BT,E08000008,Tameside,Number,Eligible__25-64,60747
+13,2018-19,B,E12000002,North West,00BT,E08000008,Tameside,Number,Eligible__50-64,20308
+13,2018-19,B,E12000002,North West,00BU,E08000009,Trafford,%,Coverage_3andhalfyears__25-49,74.66902030008830000000
+13,2018-19,B,E12000002,North West,00BU,E08000009,Trafford,%,Coverage_5andhalfyears__50-64,78.65773766195950000000
+13,2018-19,B,E12000002,North West,00BU,E08000009,Trafford,%,Coverage_in_period__25-64,75.93758681359390000000
+13,2018-19,B,E12000002,North West,00BU,E08000009,Trafford,Number,Eligible__25-49,44187
+13,2018-19,B,E12000002,North West,00BU,E08000009,Trafford,Number,Eligible__25-64,64794
+13,2018-19,B,E12000002,North West,00BU,E08000009,Trafford,Number,Eligible__50-64,20607
+13,2018-19,B,E12000002,North West,00BW,E08000010,Wigan,%,Coverage_3andhalfyears__25-49,75.56328078524690000000
+13,2018-19,B,E12000002,North West,00BW,E08000010,Wigan,%,Coverage_5andhalfyears__50-64,75.87719298245610000000
+13,2018-19,B,E12000002,North West,00BW,E08000010,Wigan,%,Coverage_in_period__25-64,75.67027742378200000000
+13,2018-19,B,E12000002,North West,00BW,E08000010,Wigan,Number,Eligible__25-49,53792
+13,2018-19,B,E12000002,North West,00BW,E08000010,Wigan,Number,Eligible__25-64,81608
+13,2018-19,B,E12000002,North West,00BW,E08000010,Wigan,Number,Eligible__50-64,27816
+13,2018-19,B,E12000002,North West,00BX,E08000011,Knowsley,%,Coverage_3andhalfyears__25-49,73.57461024498890000000
+13,2018-19,B,E12000002,North West,00BX,E08000011,Knowsley,%,Coverage_5andhalfyears__50-64,72.99829642248720000000
+13,2018-19,B,E12000002,North West,00BX,E08000011,Knowsley,%,Coverage_in_period__25-64,73.36619117577370000000
+13,2018-19,B,E12000002,North West,00BX,E08000011,Knowsley,Number,Eligible__25-49,26940
+13,2018-19,B,E12000002,North West,00BX,E08000011,Knowsley,Number,Eligible__25-64,42202
+13,2018-19,B,E12000002,North West,00BX,E08000011,Knowsley,Number,Eligible__50-64,15262
+13,2018-19,B,E12000002,North West,00BY,E08000012,Liverpool,%,Coverage_3andhalfyears__25-49,65.54687500000000000000
+13,2018-19,B,E12000002,North West,00BY,E08000012,Liverpool,%,Coverage_5andhalfyears__50-64,69.73345412931530000000
+13,2018-19,B,E12000002,North West,00BY,E08000012,Liverpool,%,Coverage_in_period__25-64,66.86893934831050000000
+13,2018-19,B,E12000002,North West,00BY,E08000012,Liverpool,Number,Eligible__25-49,90880
+13,2018-19,B,E12000002,North West,00BY,E08000012,Liverpool,Number,Eligible__25-64,132824
+13,2018-19,B,E12000002,North West,00BY,E08000012,Liverpool,Number,Eligible__50-64,41944
+13,2018-19,B,E12000002,North West,00BZ,E08000013,St. Helens,%,Coverage_3andhalfyears__25-49,74.05660377358490000000
+13,2018-19,B,E12000002,North West,00BZ,E08000013,St. Helens,%,Coverage_5andhalfyears__50-64,75.45747461851780000000
+13,2018-19,B,E12000002,North West,00BZ,E08000013,St. Helens,%,Coverage_in_period__25-64,74.55613605324200000000
+13,2018-19,B,E12000002,North West,00BZ,E08000013,St. Helens,Number,Eligible__25-49,29680
+13,2018-19,B,E12000002,North West,00BZ,E08000013,St. Helens,Number,Eligible__25-64,46129
+13,2018-19,B,E12000002,North West,00BZ,E08000013,St. Helens,Number,Eligible__50-64,16449
+13,2018-19,B,E12000002,North West,00CA,E08000014,Sefton,%,Coverage_3andhalfyears__25-49,73.00816749108480000000
+13,2018-19,B,E12000002,North West,00CA,E08000014,Sefton,%,Coverage_5andhalfyears__50-64,73.39175112612610000000
+13,2018-19,B,E12000002,North West,00CA,E08000014,Sefton,%,Coverage_in_period__25-64,73.15980579012530000000
+13,2018-19,B,E12000002,North West,00CA,E08000014,Sefton,Number,Eligible__25-49,43465
+13,2018-19,B,E12000002,North West,00CA,E08000014,Sefton,Number,Eligible__25-64,71881
+13,2018-19,B,E12000002,North West,00CA,E08000014,Sefton,Number,Eligible__50-64,28416
+13,2018-19,B,E12000002,North West,00CB,E08000015,Wirral,%,Coverage_3andhalfyears__25-49,73.03476837137630000000
+13,2018-19,B,E12000002,North West,00CB,E08000015,Wirral,%,Coverage_5andhalfyears__50-64,73.59777665487620000000
+13,2018-19,B,E12000002,North West,00CB,E08000015,Wirral,%,Coverage_in_period__25-64,73.24806470524890000000
+13,2018-19,B,E12000002,North West,00CB,E08000015,Wirral,Number,Eligible__25-49,51915
+13,2018-19,B,E12000002,North West,00CB,E08000015,Wirral,Number,Eligible__25-64,83579
+13,2018-19,B,E12000002,North West,00CB,E08000015,Wirral,Number,Eligible__50-64,31664
+13,2018-19,B,E12000002,North West,00EQ,E06000049,Cheshire East,%,Coverage_3andhalfyears__25-49,75.21334304914580000000
+13,2018-19,B,E12000002,North West,00EQ,E06000049,Cheshire East,%,Coverage_5andhalfyears__50-64,77.92517631020110000000
+13,2018-19,B,E12000002,North West,00EQ,E06000049,Cheshire East,%,Coverage_in_period__25-64,76.24877374922420000000
+13,2018-19,B,E12000002,North West,00EQ,E06000049,Cheshire East,Number,Eligible__25-49,61755
+13,2018-19,B,E12000002,North West,00EQ,E06000049,Cheshire East,Number,Eligible__25-64,99898
+13,2018-19,B,E12000002,North West,00EQ,E06000049,Cheshire East,Number,Eligible__50-64,38143
+13,2018-19,B,E12000002,North West,00ET,E06000006,Halton,%,Coverage_3andhalfyears__25-49,72.84930388644510000000
+13,2018-19,B,E12000002,North West,00ET,E06000006,Halton,%,Coverage_5andhalfyears__50-64,73.81482397559570000000
+13,2018-19,B,E12000002,North West,00ET,E06000006,Halton,%,Coverage_in_period__25-64,73.19192510239910000000
+13,2018-19,B,E12000002,North West,00ET,E06000006,Halton,Number,Eligible__25-49,22051
+13,2018-19,B,E12000002,North West,00ET,E06000006,Halton,Number,Eligible__25-64,34180
+13,2018-19,B,E12000002,North West,00ET,E06000006,Halton,Number,Eligible__50-64,12129
+13,2018-19,B,E12000002,North West,00EU,E06000007,Warrington,%,Coverage_3andhalfyears__25-49,75.08027554408980000000
+13,2018-19,B,E12000002,North West,00EU,E06000007,Warrington,%,Coverage_5andhalfyears__50-64,76.79769894535000000000
+13,2018-19,B,E12000002,North West,00EU,E06000007,Warrington,%,Coverage_in_period__25-64,75.68528460198390000000
+13,2018-19,B,E12000002,North West,00EU,E06000007,Warrington,Number,Eligible__25-49,36437
+13,2018-19,B,E12000002,North West,00EU,E06000007,Warrington,Number,Eligible__25-64,56254
+13,2018-19,B,E12000002,North West,00EU,E06000007,Warrington,Number,Eligible__50-64,19817
+13,2018-19,B,E12000002,North West,00EW,E06000050,Cheshire West and Chester,%,Coverage_3andhalfyears__25-49,74.65593125611290000000
+13,2018-19,B,E12000002,North West,00EW,E06000050,Cheshire West and Chester,%,Coverage_5andhalfyears__50-64,77.60038269501000000000
+13,2018-19,B,E12000002,North West,00EW,E06000050,Cheshire West and Chester,%,Coverage_in_period__25-64,75.74170644851880000000
+13,2018-19,B,E12000002,North West,00EW,E06000050,Cheshire West and Chester,Number,Eligible__25-49,57256
+13,2018-19,B,E12000002,North West,00EW,E06000050,Cheshire West and Chester,Number,Eligible__25-64,90703
+13,2018-19,B,E12000002,North West,00EW,E06000050,Cheshire West and Chester,Number,Eligible__50-64,33447
+13,2018-19,B,E12000002,North West,00EX,E06000008,Blackburn with Darwen,%,Coverage_3andhalfyears__25-49,66.95465930954370000000
+13,2018-19,B,E12000002,North West,00EX,E06000008,Blackburn with Darwen,%,Coverage_5andhalfyears__50-64,75.30327868852460000000
+13,2018-19,B,E12000002,North West,00EX,E06000008,Blackburn with Darwen,%,Coverage_in_period__25-64,69.51719626638490000000
+13,2018-19,B,E12000002,North West,00EX,E06000008,Blackburn with Darwen,Number,Eligible__25-49,27547
+13,2018-19,B,E12000002,North West,00EX,E06000008,Blackburn with Darwen,Number,Eligible__25-64,39747
+13,2018-19,B,E12000002,North West,00EX,E06000008,Blackburn with Darwen,Number,Eligible__50-64,12200
+13,2018-19,B,E12000002,North West,00EY,E06000009,Blackpool,%,Coverage_3andhalfyears__25-49,68.73524451939290000000
+13,2018-19,B,E12000002,North West,00EY,E06000009,Blackpool,%,Coverage_5andhalfyears__50-64,70.60146557353260000000
+13,2018-19,B,E12000002,North West,00EY,E06000009,Blackpool,%,Coverage_in_period__25-64,69.42111297762850000000
+13,2018-19,B,E12000002,North West,00EY,E06000009,Blackpool,Number,Eligible__25-49,23720
+13,2018-19,B,E12000002,North West,00EY,E06000009,Blackpool,Number,Eligible__25-64,37503
+13,2018-19,B,E12000002,North West,00EY,E06000009,Blackpool,Number,Eligible__50-64,13783
+13,2018-19,B,B,North West,B,B,North West,%,Coverage_3andhalfyears__25-49,71.28327652016120000000
+13,2018-19,B,B,North West,B,B,North West,%,Coverage_5andhalfyears__50-64,75.47844431962960000000
+13,2018-19,B,B,North West,B,B,North West,%,Coverage_in_period__25-64,72.71055062785080000000
+13,2018-19,B,B,North West,B,B,North West,Number,Eligible__25-49,1274059
+13,2018-19,B,B,North West,B,B,North West,Number,Eligible__25-64,1931032
+13,2018-19,B,B,North West,B,B,North West,Number,Eligible__50-64,656973
+13,2018-19,D,E12000003,Yorkshire and The Humber,36,E10000023,North Yorkshire,%,Coverage_3andhalfyears__25-49,77.67985266036180000000
+13,2018-19,D,E12000003,Yorkshire and The Humber,36,E10000023,North Yorkshire,%,Coverage_5andhalfyears__50-64,79.41991762329100000000
+13,2018-19,D,E12000003,Yorkshire and The Humber,36,E10000023,North Yorkshire,%,Coverage_in_period__25-64,78.40912074352180000000
+13,2018-19,D,E12000003,Yorkshire and The Humber,36,E10000023,North Yorkshire,Number,Eligible__25-49,88503
+13,2018-19,D,E12000003,Yorkshire and The Humber,36,E10000023,North Yorkshire,Number,Eligible__25-64,152356
+13,2018-19,D,E12000003,Yorkshire and The Humber,36,E10000023,North Yorkshire,Number,Eligible__50-64,63853
+13,2018-19,D,E12000003,Yorkshire and The Humber,00CC,E08000016,Barnsley,%,Coverage_3andhalfyears__25-49,75.56240749876660000000
+13,2018-19,D,E12000003,Yorkshire and The Humber,00CC,E08000016,Barnsley,%,Coverage_5andhalfyears__50-64,79.13856863171630000000
+13,2018-19,D,E12000003,Yorkshire and The Humber,00CC,E08000016,Barnsley,%,Coverage_in_period__25-64,76.85635576544670000000
+13,2018-19,D,E12000003,Yorkshire and The Humber,00CC,E08000016,Barnsley,Number,Eligible__25-49,40540
+13,2018-19,D,E12000003,Yorkshire and The Humber,00CC,E08000016,Barnsley,Number,Eligible__25-64,63525
+13,2018-19,D,E12000003,Yorkshire and The Humber,00CC,E08000016,Barnsley,Number,Eligible__50-64,22985
+13,2018-19,D,E12000003,Yorkshire and The Humber,00CE,E08000017,Doncaster,%,Coverage_3andhalfyears__25-49,73.25507989741570000000
+13,2018-19,D,E12000003,Yorkshire and The Humber,00CE,E08000017,Doncaster,%,Coverage_5andhalfyears__50-64,76.63183509876900000000
+13,2018-19,D,E12000003,Yorkshire and The Humber,00CE,E08000017,Doncaster,%,Coverage_in_period__25-64,74.45507032581330000000
+13,2018-19,D,E12000003,Yorkshire and The Humber,00CE,E08000017,Doncaster,Number,Eligible__25-49,50690
+13,2018-19,D,E12000003,Yorkshire and The Humber,00CE,E08000017,Doncaster,Number,Eligible__25-64,78634
+13,2018-19,D,E12000003,Yorkshire and The Humber,00CE,E08000017,Doncaster,Number,Eligible__50-64,27944
+13,2018-19,D,E12000003,Yorkshire and The Humber,00CF,E08000018,Rotherham,%,Coverage_3andhalfyears__25-49,75.86818584976460000000
+13,2018-19,D,E12000003,Yorkshire and The Humber,00CF,E08000018,Rotherham,%,Coverage_5andhalfyears__50-64,78.23558939178450000000
+13,2018-19,D,E12000003,Yorkshire and The Humber,00CF,E08000018,Rotherham,%,Coverage_in_period__25-64,76.70197563239390000000
+13,2018-19,D,E12000003,Yorkshire and The Humber,00CF,E08000018,Rotherham,Number,Eligible__25-49,43971
+13,2018-19,D,E12000003,Yorkshire and The Humber,00CF,E08000018,Rotherham,Number,Eligible__25-64,67877
+13,2018-19,D,E12000003,Yorkshire and The Humber,00CF,E08000018,Rotherham,Number,Eligible__50-64,23906
+13,2018-19,D,E12000003,Yorkshire and The Humber,00CG,E08000019,Sheffield,%,Coverage_3andhalfyears__25-49,71.75343918644910000000
+13,2018-19,D,E12000003,Yorkshire and The Humber,00CG,E08000019,Sheffield,%,Coverage_5andhalfyears__50-64,76.67864235824430000000
+13,2018-19,D,E12000003,Yorkshire and The Humber,00CG,E08000019,Sheffield,%,Coverage_in_period__25-64,73.31895817965160000000
+13,2018-19,D,E12000003,Yorkshire and The Humber,00CG,E08000019,Sheffield,Number,Eligible__25-49,96171
+13,2018-19,D,E12000003,Yorkshire and The Humber,00CG,E08000019,Sheffield,Number,Eligible__25-64,140984
+13,2018-19,D,E12000003,Yorkshire and The Humber,00CG,E08000019,Sheffield,Number,Eligible__50-64,44813
+13,2018-19,D,E12000003,Yorkshire and The Humber,00CX,E08000032,Bradford,%,Coverage_3andhalfyears__25-49,66.95224207072550000000
+13,2018-19,D,E12000003,Yorkshire and The Humber,00CX,E08000032,Bradford,%,Coverage_5andhalfyears__50-64,76.84213015512680000000
+13,2018-19,D,E12000003,Yorkshire and The Humber,00CX,E08000032,Bradford,%,Coverage_in_period__25-64,69.91760968830650000000
+13,2018-19,D,E12000003,Yorkshire and The Humber,00CX,E08000032,Bradford,Number,Eligible__25-49,98748
+13,2018-19,D,E12000003,Yorkshire and The Humber,00CX,E08000032,Bradford,Number,Eligible__25-64,141036
+13,2018-19,D,E12000003,Yorkshire and The Humber,00CX,E08000032,Bradford,Number,Eligible__50-64,42288
+13,2018-19,D,E12000003,Yorkshire and The Humber,00CY,E08000033,Calderdale,%,Coverage_3andhalfyears__25-49,74.91231976841280000000
+13,2018-19,D,E12000003,Yorkshire and The Humber,00CY,E08000033,Calderdale,%,Coverage_5andhalfyears__50-64,79.31767564284270000000
+13,2018-19,D,E12000003,Yorkshire and The Humber,00CY,E08000033,Calderdale,%,Coverage_in_period__25-64,76.47534212133180000000
+13,2018-19,D,E12000003,Yorkshire and The Humber,00CY,E08000033,Calderdale,Number,Eligible__25-49,35926
+13,2018-19,D,E12000003,Yorkshire and The Humber,00CY,E08000033,Calderdale,Number,Eligible__25-64,55682
+13,2018-19,D,E12000003,Yorkshire and The Humber,00CY,E08000033,Calderdale,Number,Eligible__50-64,19756
+13,2018-19,D,E12000003,Yorkshire and The Humber,00CZ,E08000034,Kirklees,%,Coverage_3andhalfyears__25-49,72.46883327307540000000
+13,2018-19,D,E12000003,Yorkshire and The Humber,00CZ,E08000034,Kirklees,%,Coverage_5andhalfyears__50-64,79.80295566502460000000
+13,2018-19,D,E12000003,Yorkshire and The Humber,00CZ,E08000034,Kirklees,%,Coverage_in_period__25-64,74.91408627969040000000
+13,2018-19,D,E12000003,Yorkshire and The Humber,00CZ,E08000034,Kirklees,Number,Eligible__25-49,74679
+13,2018-19,D,E12000003,Yorkshire and The Humber,00CZ,E08000034,Kirklees,Number,Eligible__25-64,112031
+13,2018-19,D,E12000003,Yorkshire and The Humber,00CZ,E08000034,Kirklees,Number,Eligible__50-64,37352
+13,2018-19,D,E12000003,Yorkshire and The Humber,00DA,E08000035,Leeds,%,Coverage_3andhalfyears__25-49,70.91498175490540000000
+13,2018-19,D,E12000003,Yorkshire and The Humber,00DA,E08000035,Leeds,%,Coverage_5andhalfyears__50-64,77.29102837618900000000
+13,2018-19,D,E12000003,Yorkshire and The Humber,00DA,E08000035,Leeds,%,Coverage_in_period__25-64,72.75218968824390000000
+13,2018-19,D,E12000003,Yorkshire and The Humber,00DA,E08000035,Leeds,Number,Eligible__25-49,154014
+13,2018-19,D,E12000003,Yorkshire and The Humber,00DA,E08000035,Leeds,Number,Eligible__25-64,216355
+13,2018-19,D,E12000003,Yorkshire and The Humber,00DA,E08000035,Leeds,Number,Eligible__50-64,62341
+13,2018-19,D,E12000003,Yorkshire and The Humber,00DB,E08000036,Wakefield,%,Coverage_3andhalfyears__25-49,74.10488065075340000000
+13,2018-19,D,E12000003,Yorkshire and The Humber,00DB,E08000036,Wakefield,%,Coverage_5andhalfyears__50-64,76.85214326178640000000
+13,2018-19,D,E12000003,Yorkshire and The Humber,00DB,E08000036,Wakefield,%,Coverage_in_period__25-64,75.05612100342180000000
+13,2018-19,D,E12000003,Yorkshire and The Humber,00DB,E08000036,Wakefield,Number,Eligible__25-49,59992
+13,2018-19,D,E12000003,Yorkshire and The Humber,00DB,E08000036,Wakefield,Number,Eligible__25-64,91766
+13,2018-19,D,E12000003,Yorkshire and The Humber,00DB,E08000036,Wakefield,Number,Eligible__50-64,31774
+13,2018-19,D,E12000003,Yorkshire and The Humber,00FA,E06000010,Kingston upon Hull,%,Coverage_3andhalfyears__25-49,71.46069777217320000000
+13,2018-19,D,E12000003,Yorkshire and The Humber,00FA,E06000010,Kingston upon Hull,%,Coverage_5andhalfyears__50-64,74.95126263771140000000
+13,2018-19,D,E12000003,Yorkshire and The Humber,00FA,E06000010,Kingston upon Hull,%,Coverage_in_period__25-64,72.56630814078720000000
+13,2018-19,D,E12000003,Yorkshire and The Humber,00FA,E06000010,Kingston upon Hull,Number,Eligible__25-49,47580
+13,2018-19,D,E12000003,Yorkshire and The Humber,00FA,E06000010,Kingston upon Hull,Number,Eligible__25-64,69637
+13,2018-19,D,E12000003,Yorkshire and The Humber,00FA,E06000010,Kingston upon Hull,Number,Eligible__50-64,22057
+13,2018-19,D,E12000003,Yorkshire and The Humber,00FB,E06000011,East Riding of Yorkshire,%,Coverage_3andhalfyears__25-49,78.67344820427650000000
+13,2018-19,D,E12000003,Yorkshire and The Humber,00FB,E06000011,East Riding of Yorkshire,%,Coverage_5andhalfyears__50-64,78.94177156981090000000
+13,2018-19,D,E12000003,Yorkshire and The Humber,00FB,E06000011,East Riding of Yorkshire,%,Coverage_in_period__25-64,78.78597946097100000000
+13,2018-19,D,E12000003,Yorkshire and The Humber,00FB,E06000011,East Riding of Yorkshire,Number,Eligible__25-49,48170
+13,2018-19,D,E12000003,Yorkshire and The Humber,00FB,E06000011,East Riding of Yorkshire,Number,Eligible__25-64,82964
+13,2018-19,D,E12000003,Yorkshire and The Humber,00FB,E06000011,East Riding of Yorkshire,Number,Eligible__50-64,34794
+13,2018-19,D,E12000003,Yorkshire and The Humber,00FC,E06000012,North East Lincolnshire,%,Coverage_3andhalfyears__25-49,74.71043244759730000000
+13,2018-19,D,E12000003,Yorkshire and The Humber,00FC,E06000012,North East Lincolnshire,%,Coverage_5andhalfyears__50-64,78.05082379223680000000
+13,2018-19,D,E12000003,Yorkshire and The Humber,00FC,E06000012,North East Lincolnshire,%,Coverage_in_period__25-64,75.92870782940800000000
+13,2018-19,D,E12000003,Yorkshire and The Humber,00FC,E06000012,North East Lincolnshire,Number,Eligible__25-49,24951
+13,2018-19,D,E12000003,Yorkshire and The Humber,00FC,E06000012,North East Lincolnshire,Number,Eligible__25-64,39275
+13,2018-19,D,E12000003,Yorkshire and The Humber,00FC,E06000012,North East Lincolnshire,Number,Eligible__50-64,14324
+13,2018-19,D,E12000003,Yorkshire and The Humber,00FD,E06000013,North Lincolnshire,%,Coverage_3andhalfyears__25-49,73.89818927229240000000
+13,2018-19,D,E12000003,Yorkshire and The Humber,00FD,E06000013,North Lincolnshire,%,Coverage_5andhalfyears__50-64,77.85447761194030000000
+13,2018-19,D,E12000003,Yorkshire and The Humber,00FD,E06000013,North Lincolnshire,%,Coverage_in_period__25-64,75.39777950639980000000
+13,2018-19,D,E12000003,Yorkshire and The Humber,00FD,E06000013,North Lincolnshire,Number,Eligible__25-49,26343
+13,2018-19,D,E12000003,Yorkshire and The Humber,00FD,E06000013,North Lincolnshire,Number,Eligible__25-64,42423
+13,2018-19,D,E12000003,Yorkshire and The Humber,00FD,E06000013,North Lincolnshire,Number,Eligible__50-64,16080
+13,2018-19,D,E12000003,Yorkshire and The Humber,00FF,E06000014,York,%,Coverage_3andhalfyears__25-49,69.19090605148780000000
+13,2018-19,D,E12000003,Yorkshire and The Humber,00FF,E06000014,York,%,Coverage_5andhalfyears__50-64,75.94821194319280000000
+13,2018-19,D,E12000003,Yorkshire and The Humber,00FF,E06000014,York,%,Coverage_in_period__25-64,71.40851661207300000000
+13,2018-19,D,E12000003,Yorkshire and The Humber,00FF,E06000014,York,Number,Eligible__25-49,35892
+13,2018-19,D,E12000003,Yorkshire and The Humber,00FF,E06000014,York,Number,Eligible__25-64,53425
+13,2018-19,D,E12000003,Yorkshire and The Humber,00FF,E06000014,York,Number,Eligible__50-64,17533
+13,2018-19,D,D,Yorkshire and the Humber,D,D,Yorkshire and the Humber,%,Coverage_3andhalfyears__25-49,72.83144563093170000000
+13,2018-19,D,D,Yorkshire and the Humber,D,D,Yorkshire and the Humber,%,Coverage_5andhalfyears__50-64,77.82710668327110000000
+13,2018-19,D,D,Yorkshire and the Humber,D,D,Yorkshire and the Humber,%,Coverage_in_period__25-64,74.54093482105440000000
+13,2018-19,D,D,Yorkshire and the Humber,D,D,Yorkshire and the Humber,Number,Eligible__25-49,926170
+13,2018-19,D,D,Yorkshire and the Humber,D,D,Yorkshire and the Humber,Number,Eligible__25-64,1407970
+13,2018-19,D,D,Yorkshire and the Humber,D,D,Yorkshire and the Humber,Number,Eligible__50-64,481800
+13,2018-19,E,E12000004,East Midlands,17,E10000007,Derbyshire,%,Coverage_3andhalfyears__25-49,79.36378665841400000000
+13,2018-19,E,E12000004,East Midlands,17,E10000007,Derbyshire,%,Coverage_5andhalfyears__50-64,79.74813239261260000000
+13,2018-19,E,E12000004,East Midlands,17,E10000007,Derbyshire,%,Coverage_in_period__25-64,79.51203894083330000000
+13,2018-19,E,E12000004,East Midlands,17,E10000007,Derbyshire,Number,Eligible__25-49,122789
+13,2018-19,E,E12000004,East Midlands,17,E10000007,Derbyshire,Number,Eligible__25-64,199893
+13,2018-19,E,E12000004,East Midlands,17,E10000007,Derbyshire,Number,Eligible__50-64,77104
+13,2018-19,E,E12000004,East Midlands,31,E10000018,Leicestershire,%,Coverage_3andhalfyears__25-49,76.56557664469840000000
+13,2018-19,E,E12000004,East Midlands,31,E10000018,Leicestershire,%,Coverage_5andhalfyears__50-64,79.53992094861660000000
+13,2018-19,E,E12000004,East Midlands,31,E10000018,Leicestershire,%,Coverage_in_period__25-64,77.64384912105740000000
+13,2018-19,E,E12000004,East Midlands,31,E10000018,Leicestershire,Number,Eligible__25-49,111221
+13,2018-19,E,E12000004,East Midlands,31,E10000018,Leicestershire,Number,Eligible__25-64,174471
+13,2018-19,E,E12000004,East Midlands,31,E10000018,Leicestershire,Number,Eligible__50-64,63250
+13,2018-19,E,E12000004,East Midlands,32,E10000019,Lincolnshire,%,Coverage_3andhalfyears__25-49,73.91032596900910000000
+13,2018-19,E,E12000004,East Midlands,32,E10000019,Lincolnshire,%,Coverage_5andhalfyears__50-64,78.26153781665250000000
+13,2018-19,E,E12000004,East Midlands,32,E10000019,Lincolnshire,%,Coverage_in_period__25-64,75.57773446702790000000
+13,2018-19,E,E12000004,East Midlands,32,E10000019,Lincolnshire,Number,Eligible__25-49,115195
+13,2018-19,E,E12000004,East Midlands,32,E10000019,Lincolnshire,Number,Eligible__25-64,186764
+13,2018-19,E,E12000004,East Midlands,32,E10000019,Lincolnshire,Number,Eligible__50-64,71569
+13,2018-19,E,E12000004,East Midlands,34,E10000021,Northamptonshire,%,Coverage_3andhalfyears__25-49,71.32512250803390000000
+13,2018-19,E,E12000004,East Midlands,34,E10000021,Northamptonshire,%,Coverage_5andhalfyears__50-64,75.94176443744390000000
+13,2018-19,E,E12000004,East Midlands,34,E10000021,Northamptonshire,%,Coverage_in_period__25-64,72.85142086794860000000
+13,2018-19,E,E12000004,East Midlands,34,E10000021,Northamptonshire,Number,Eligible__25-49,137542
+13,2018-19,E,E12000004,East Midlands,34,E10000021,Northamptonshire,Number,Eligible__25-64,205473
+13,2018-19,E,E12000004,East Midlands,34,E10000021,Northamptonshire,Number,Eligible__50-64,67931
+13,2018-19,E,E12000004,East Midlands,37,E10000024,Nottinghamshire,%,Coverage_3andhalfyears__25-49,77.68244857482010000000
+13,2018-19,E,E12000004,East Midlands,37,E10000024,Nottinghamshire,%,Coverage_5andhalfyears__50-64,80.30519295149610000000
+13,2018-19,E,E12000004,East Midlands,37,E10000024,Nottinghamshire,%,Coverage_in_period__25-64,78.64415811811280000000
+13,2018-19,E,E12000004,East Midlands,37,E10000024,Nottinghamshire,Number,Eligible__25-49,133106
+13,2018-19,E,E12000004,East Midlands,37,E10000024,Nottinghamshire,Number,Eligible__25-64,210172
+13,2018-19,E,E12000004,East Midlands,37,E10000024,Nottinghamshire,Number,Eligible__50-64,77066
+13,2018-19,E,E12000004,East Midlands,00FK,E06000015,Derby,%,Coverage_3andhalfyears__25-49,70.80561241896960000000
+13,2018-19,E,E12000004,East Midlands,00FK,E06000015,Derby,%,Coverage_5andhalfyears__50-64,76.91274523912310000000
+13,2018-19,E,E12000004,East Midlands,00FK,E06000015,Derby,%,Coverage_in_period__25-64,72.68500066427530000000
+13,2018-19,E,E12000004,East Midlands,00FK,E06000015,Derby,Number,Eligible__25-49,46896
+13,2018-19,E,E12000004,East Midlands,00FK,E06000015,Derby,Number,Eligible__25-64,67743
+13,2018-19,E,E12000004,East Midlands,00FK,E06000015,Derby,Number,Eligible__50-64,20847
+13,2018-19,E,E12000004,East Midlands,00FN,E06000016,Leicester,%,Coverage_3andhalfyears__25-49,59.91679566563470000000
+13,2018-19,E,E12000004,East Midlands,00FN,E06000016,Leicester,%,Coverage_5andhalfyears__50-64,73.86363636363640000000
+13,2018-19,E,E12000004,East Midlands,00FN,E06000016,Leicester,%,Coverage_in_period__25-64,63.64529325988330000000
+13,2018-19,E,E12000004,East Midlands,00FN,E06000016,Leicester,Number,Eligible__25-49,72352
+13,2018-19,E,E12000004,East Midlands,00FN,E06000016,Leicester,Number,Eligible__25-64,98752
+13,2018-19,E,E12000004,East Midlands,00FN,E06000016,Leicester,Number,Eligible__50-64,26400
+13,2018-19,E,E12000004,East Midlands,00FP,E06000017,Rutland,%,Coverage_3andhalfyears__25-49,77.31641676278350000000
+13,2018-19,E,E12000004,East Midlands,00FP,E06000017,Rutland,%,Coverage_5andhalfyears__50-64,80.80021482277120000000
+13,2018-19,E,E12000004,East Midlands,00FP,E06000017,Rutland,%,Coverage_in_period__25-64,78.76988572708940000000
+13,2018-19,E,E12000004,East Midlands,00FP,E06000017,Rutland,Number,Eligible__25-49,5202
+13,2018-19,E,E12000004,East Midlands,00FP,E06000017,Rutland,Number,Eligible__25-64,8926
+13,2018-19,E,E12000004,East Midlands,00FP,E06000017,Rutland,Number,Eligible__50-64,3724
+13,2018-19,E,E12000004,East Midlands,00FY,E06000018,Nottingham,%,Coverage_3andhalfyears__25-49,67.49084858569050000000
+13,2018-19,E,E12000004,East Midlands,00FY,E06000018,Nottingham,%,Coverage_5andhalfyears__50-64,76.24683009298390000000
+13,2018-19,E,E12000004,East Midlands,00FY,E06000018,Nottingham,%,Coverage_in_period__25-64,69.87417803989000000000
+13,2018-19,E,E12000004,East Midlands,00FY,E06000018,Nottingham,Number,Eligible__25-49,60100
+13,2018-19,E,E12000004,East Midlands,00FY,E06000018,Nottingham,Number,Eligible__25-64,82577
+13,2018-19,E,E12000004,East Midlands,00FY,E06000018,Nottingham,Number,Eligible__50-64,22477
+13,2018-19,E,E,East Midlands,E,E,East Midlands,%,Coverage_3andhalfyears__25-49,73.39480335105660000000
+13,2018-19,E,E,East Midlands,E,E,East Midlands,%,Coverage_5andhalfyears__50-64,78.29717822886460000000
+13,2018-19,E,E,East Midlands,E,E,East Midlands,%,Coverage_in_period__25-64,75.10348072638570000000
+13,2018-19,E,E,East Midlands,E,E,East Midlands,Number,Eligible__25-49,804403
+13,2018-19,E,E,East Midlands,E,E,East Midlands,Number,Eligible__25-64,1234771
+13,2018-19,E,E,East Midlands,E,E,East Midlands,Number,Eligible__50-64,430368
+13,2018-19,ENG,ENG,England,ENG,ENG,England,%,Coverage_3andhalfyears__25-49,69.79433519948920000000
+13,2018-19,ENG,ENG,England,ENG,ENG,England,%,Coverage_5andhalfyears__50-64,76.22063021988460000000
+13,2018-19,ENG,ENG,England,ENG,ENG,England,%,Coverage_in_period__25-64,71.89920768534290000000
+13,2018-19,ENG,ENG,England,ENG,ENG,England,Number,Eligible__25-49,10215117
+13,2018-19,ENG,ENG,England,ENG,ENG,England,Number,Eligible__25-64,15190682
+13,2018-19,ENG,ENG,England,ENG,ENG,England,Number,Eligible__50-64,4975565
+13,2018-19,F,E12000005,West Midlands,41,E10000028,Staffordshire,%,Coverage_3andhalfyears__25-49,75.17460694861350000000
+13,2018-19,F,E12000005,West Midlands,41,E10000028,Staffordshire,%,Coverage_5andhalfyears__50-64,77.00539337385500000000
+13,2018-19,F,E12000005,West Midlands,41,E10000028,Staffordshire,%,Coverage_in_period__25-64,75.86651568024770000000
+13,2018-19,F,E12000005,West Midlands,41,E10000028,Staffordshire,Number,Eligible__25-49,134588
+13,2018-19,F,E12000005,West Midlands,41,E10000028,Staffordshire,Number,Eligible__25-64,216355
+13,2018-19,F,E12000005,West Midlands,41,E10000028,Staffordshire,Number,Eligible__50-64,81767
+13,2018-19,F,E12000005,West Midlands,44,E10000031,Warwickshire,%,Coverage_3andhalfyears__25-49,72.83945572671920000000
+13,2018-19,F,E12000005,West Midlands,44,E10000031,Warwickshire,%,Coverage_5andhalfyears__50-64,76.58040040566430000000
+13,2018-19,F,E12000005,West Midlands,44,E10000031,Warwickshire,%,Coverage_in_period__25-64,74.15739258161420000000
+13,2018-19,F,E12000005,West Midlands,44,E10000031,Warwickshire,Number,Eligible__25-49,97892
+13,2018-19,F,E12000005,West Midlands,44,E10000031,Warwickshire,Number,Eligible__25-64,151138
+13,2018-19,F,E12000005,West Midlands,44,E10000031,Warwickshire,Number,Eligible__50-64,53246
+13,2018-19,F,E12000005,West Midlands,47,E10000034,Worcestershire,%,Coverage_3andhalfyears__25-49,74.93413624388410000000
+13,2018-19,F,E12000005,West Midlands,47,E10000034,Worcestershire,%,Coverage_5andhalfyears__50-64,78.29297950717070000000
+13,2018-19,F,E12000005,West Midlands,47,E10000034,Worcestershire,%,Coverage_in_period__25-64,76.19546458765620000000
+13,2018-19,F,E12000005,West Midlands,47,E10000034,Worcestershire,Number,Eligible__25-49,92995
+13,2018-19,F,E12000005,West Midlands,47,E10000034,Worcestershire,Number,Eligible__25-64,148917
+13,2018-19,F,E12000005,West Midlands,47,E10000034,Worcestershire,Number,Eligible__50-64,55922
+13,2018-19,F,E12000005,West Midlands,00CN,E08000025,Birmingham,%,Coverage_3andhalfyears__25-49,61.90962073144650000000
+13,2018-19,F,E12000005,West Midlands,00CN,E08000025,Birmingham,%,Coverage_5andhalfyears__50-64,73.43208793238810000000
+13,2018-19,F,E12000005,West Midlands,00CN,E08000025,Birmingham,%,Coverage_in_period__25-64,65.11811833695550000000
+13,2018-19,F,E12000005,West Midlands,00CN,E08000025,Birmingham,Number,Eligible__25-49,224432
+13,2018-19,F,E12000005,West Midlands,00CN,E08000025,Birmingham,Number,Eligible__25-64,311044
+13,2018-19,F,E12000005,West Midlands,00CN,E08000025,Birmingham,Number,Eligible__50-64,86612
+13,2018-19,F,E12000005,West Midlands,00CQ,E08000026,Coventry,%,Coverage_3andhalfyears__25-49,65.71913254779700000000
+13,2018-19,F,E12000005,West Midlands,00CQ,E08000026,Coventry,%,Coverage_5andhalfyears__50-64,76.13397129186600000000
+13,2018-19,F,E12000005,West Midlands,00CQ,E08000026,Coventry,%,Coverage_in_period__25-64,68.69088446667690000000
+13,2018-19,F,E12000005,West Midlands,00CQ,E08000026,Coventry,Number,Eligible__25-49,65433
+13,2018-19,F,E12000005,West Midlands,00CQ,E08000026,Coventry,Number,Eligible__25-64,91558
+13,2018-19,F,E12000005,West Midlands,00CQ,E08000026,Coventry,Number,Eligible__50-64,26125
+13,2018-19,F,E12000005,West Midlands,00CR,E08000027,Dudley,%,Coverage_3andhalfyears__25-49,72.14159223898980000000
+13,2018-19,F,E12000005,West Midlands,00CR,E08000027,Dudley,%,Coverage_5andhalfyears__50-64,73.21282716005540000000
+13,2018-19,F,E12000005,West Midlands,00CR,E08000027,Dudley,%,Coverage_in_period__25-64,72.51813109310830000000
+13,2018-19,F,E12000005,West Midlands,00CR,E08000027,Dudley,Number,Eligible__25-49,51952
+13,2018-19,F,E12000005,West Midlands,00CR,E08000027,Dudley,Number,Eligible__25-64,80111
+13,2018-19,F,E12000005,West Midlands,00CR,E08000027,Dudley,Number,Eligible__50-64,28159
+13,2018-19,F,E12000005,West Midlands,00CS,E08000028,Sandwell,%,Coverage_3andhalfyears__25-49,66.04399441340780000000
+13,2018-19,F,E12000005,West Midlands,00CS,E08000028,Sandwell,%,Coverage_5andhalfyears__50-64,72.74997285853870000000
+13,2018-19,F,E12000005,West Midlands,00CS,E08000028,Sandwell,%,Coverage_in_period__25-64,68.08839266998380000000
+13,2018-19,F,E12000005,West Midlands,00CS,E08000028,Sandwell,Number,Eligible__25-49,63008
+13,2018-19,F,E12000005,West Midlands,00CS,E08000028,Sandwell,Number,Eligible__25-64,90641
+13,2018-19,F,E12000005,West Midlands,00CS,E08000028,Sandwell,Number,Eligible__50-64,27633
+13,2018-19,F,E12000005,West Midlands,00CT,E08000029,Solihull,%,Coverage_3andhalfyears__25-49,72.48835197946600000000
+13,2018-19,F,E12000005,West Midlands,00CT,E08000029,Solihull,%,Coverage_5andhalfyears__50-64,77.36875643350820000000
+13,2018-19,F,E12000005,West Midlands,00CT,E08000029,Solihull,%,Coverage_in_period__25-64,74.25858758267550000000
+13,2018-19,F,E12000005,West Midlands,00CT,E08000029,Solihull,Number,Eligible__25-49,35843
+13,2018-19,F,E12000005,West Midlands,00CT,E08000029,Solihull,Number,Eligible__25-64,56244
+13,2018-19,F,E12000005,West Midlands,00CT,E08000029,Solihull,Number,Eligible__50-64,20401
+13,2018-19,F,E12000005,West Midlands,00CU,E08000030,Walsall,%,Coverage_3andhalfyears__25-49,71.15893564204090000000
+13,2018-19,F,E12000005,West Midlands,00CU,E08000030,Walsall,%,Coverage_5andhalfyears__50-64,75.95633076037360000000
+13,2018-19,F,E12000005,West Midlands,00CU,E08000030,Walsall,%,Coverage_in_period__25-64,72.71719858156030000000
+13,2018-19,F,E12000005,West Midlands,00CU,E08000030,Walsall,Number,Eligible__25-49,48743
+13,2018-19,F,E12000005,West Midlands,00CU,E08000030,Walsall,Number,Eligible__25-64,72192
+13,2018-19,F,E12000005,West Midlands,00CU,E08000030,Walsall,Number,Eligible__50-64,23449
+13,2018-19,F,E12000005,West Midlands,00CW,E08000031,Wolverhampton,%,Coverage_3andhalfyears__25-49,66.72579214706120000000
+13,2018-19,F,E12000005,West Midlands,00CW,E08000031,Wolverhampton,%,Coverage_5andhalfyears__50-64,72.67410228509250000000
+13,2018-19,F,E12000005,West Midlands,00CW,E08000031,Wolverhampton,%,Coverage_in_period__25-64,68.55639895071720000000
+13,2018-19,F,E12000005,West Midlands,00CW,E08000031,Wolverhampton,Number,Eligible__25-49,49612
+13,2018-19,F,E12000005,West Midlands,00CW,E08000031,Wolverhampton,Number,Eligible__25-64,71668
+13,2018-19,F,E12000005,West Midlands,00CW,E08000031,Wolverhampton,Number,Eligible__50-64,22056
+13,2018-19,F,E12000005,West Midlands,00GA,E06000019,Herefordshire,%,Coverage_3andhalfyears__25-49,72.99660761402190000000
+13,2018-19,F,E12000005,West Midlands,00GA,E06000019,Herefordshire,%,Coverage_5andhalfyears__50-64,76.83139218460870000000
+13,2018-19,F,E12000005,West Midlands,00GA,E06000019,Herefordshire,%,Coverage_in_period__25-64,74.56574024585780000000
+13,2018-19,F,E12000005,West Midlands,00GA,E06000019,Herefordshire,Number,Eligible__25-49,26530
+13,2018-19,F,E12000005,West Midlands,00GA,E06000019,Herefordshire,Number,Eligible__25-64,44904
+13,2018-19,F,E12000005,West Midlands,00GA,E06000019,Herefordshire,Number,Eligible__50-64,18374
+13,2018-19,F,E12000005,West Midlands,00GF,E06000020,Telford and Wrekin,%,Coverage_3andhalfyears__25-49,72.62729786887910000000
+13,2018-19,F,E12000005,West Midlands,00GF,E06000020,Telford and Wrekin,%,Coverage_5andhalfyears__50-64,75.94294159223800000000
+13,2018-19,F,E12000005,West Midlands,00GF,E06000020,Telford and Wrekin,%,Coverage_in_period__25-64,73.74184630005620000000
+13,2018-19,F,E12000005,West Midlands,00GF,E06000020,Telford and Wrekin,Number,Eligible__25-49,30735
+13,2018-19,F,E12000005,West Midlands,00GF,E06000020,Telford and Wrekin,Number,Eligible__25-64,46298
+13,2018-19,F,E12000005,West Midlands,00GF,E06000020,Telford and Wrekin,Number,Eligible__50-64,15563
+13,2018-19,F,E12000005,West Midlands,00GG,E06000051,Shropshire,%,Coverage_3andhalfyears__25-49,77.03057174029110000000
+13,2018-19,F,E12000005,West Midlands,00GG,E06000051,Shropshire,%,Coverage_5andhalfyears__50-64,78.15175287262780000000
+13,2018-19,F,E12000005,West Midlands,00GG,E06000051,Shropshire,%,Coverage_in_period__25-64,77.49728997289970000000
+13,2018-19,F,E12000005,West Midlands,00GG,E06000051,Shropshire,Number,Eligible__25-49,43079
+13,2018-19,F,E12000005,West Midlands,00GG,E06000051,Shropshire,Number,Eligible__25-64,73800
+13,2018-19,F,E12000005,West Midlands,00GG,E06000051,Shropshire,Number,Eligible__50-64,30721
+13,2018-19,F,E12000005,West Midlands,00GL,E06000021,Stoke-on-Trent,%,Coverage_3andhalfyears__25-49,68.75138023938870000000
+13,2018-19,F,E12000005,West Midlands,00GL,E06000021,Stoke-on-Trent,%,Coverage_5andhalfyears__50-64,74.83028970264840000000
+13,2018-19,F,E12000005,West Midlands,00GL,E06000021,Stoke-on-Trent,%,Coverage_in_period__25-64,70.67220543806650000000
+13,2018-19,F,E12000005,West Midlands,00GL,E06000021,Stoke-on-Trent,Number,Eligible__25-49,45282
+13,2018-19,F,E12000005,West Midlands,00GL,E06000021,Stoke-on-Trent,Number,Eligible__25-64,66200
+13,2018-19,F,E12000005,West Midlands,00GL,E06000021,Stoke-on-Trent,Number,Eligible__50-64,20918
+13,2018-19,F,F,West Midlands,F,F,West Midlands,%,Coverage_3andhalfyears__25-49,69.59333705564860000000
+13,2018-19,F,F,West Midlands,F,F,West Midlands,%,Coverage_5andhalfyears__50-64,75.73324774046570000000
+13,2018-19,F,F,West Midlands,F,F,West Midlands,%,Coverage_in_period__25-64,71.65580808246830000000
+13,2018-19,F,F,West Midlands,F,F,West Midlands,Number,Eligible__25-49,1010124
+13,2018-19,F,F,West Midlands,F,F,West Midlands,Number,Eligible__25-64,1521070
+13,2018-19,F,F,West Midlands,F,F,West Midlands,Number,Eligible__50-64,510946
+13,2018-19,G,E12000006,East of England,12,E10000003,Cambridgeshire,%,Coverage_3andhalfyears__25-49,68.20466441502730000000
+13,2018-19,G,E12000006,East of England,12,E10000003,Cambridgeshire,%,Coverage_5andhalfyears__50-64,76.71785616998090000000
+13,2018-19,G,E12000006,East of England,12,E10000003,Cambridgeshire,%,Coverage_in_period__25-64,70.92692806045230000000
+13,2018-19,G,E12000006,East of England,12,E10000003,Cambridgeshire,Number,Eligible__25-49,124946
+13,2018-19,G,E12000006,East of England,12,E10000003,Cambridgeshire,Number,Eligible__25-64,183682
+13,2018-19,G,E12000006,East of England,12,E10000003,Cambridgeshire,Number,Eligible__50-64,58736
+13,2018-19,G,E12000006,East of England,22,E10000012,Essex,%,Coverage_3andhalfyears__25-49,73.99713755035420000000
+13,2018-19,G,E12000006,East of England,22,E10000012,Essex,%,Coverage_5andhalfyears__50-64,77.03880764904390000000
+13,2018-19,G,E12000006,East of England,22,E10000012,Essex,%,Coverage_in_period__25-64,75.06786222275480000000
+13,2018-19,G,E12000006,East of England,22,E10000012,Essex,Number,Eligible__25-49,248738
+13,2018-19,G,E12000006,East of England,22,E10000012,Essex,Number,Eligible__25-64,383866
+13,2018-19,G,E12000006,East of England,22,E10000012,Essex,Number,Eligible__50-64,135128
+13,2018-19,G,E12000006,East of England,26,E10000015,Hertfordshire,%,Coverage_3andhalfyears__25-49,72.77246567272400000000
+13,2018-19,G,E12000006,East of England,26,E10000015,Hertfordshire,%,Coverage_5andhalfyears__50-64,77.86183205400050000000
+13,2018-19,G,E12000006,East of England,26,E10000015,Hertfordshire,%,Coverage_in_period__25-64,74.44480617277560000000
+13,2018-19,G,E12000006,East of England,26,E10000015,Hertfordshire,Number,Eligible__25-49,220670
+13,2018-19,G,E12000006,East of England,26,E10000015,Hertfordshire,Number,Eligible__25-64,328669
+13,2018-19,G,E12000006,East of England,26,E10000015,Hertfordshire,Number,Eligible__50-64,107999
+13,2018-19,G,E12000006,East of England,33,E10000020,Norfolk,%,Coverage_3andhalfyears__25-49,73.79313312107390000000
+13,2018-19,G,E12000006,East of England,33,E10000020,Norfolk,%,Coverage_5andhalfyears__50-64,76.87240732106780000000
+13,2018-19,G,E12000006,East of England,33,E10000020,Norfolk,%,Coverage_in_period__25-64,74.94766944119480000000
+13,2018-19,G,E12000006,East of England,33,E10000020,Norfolk,Number,Eligible__25-49,139452
+13,2018-19,G,E12000006,East of England,33,E10000020,Norfolk,Number,Eligible__25-64,223101
+13,2018-19,G,E12000006,East of England,33,E10000020,Norfolk,Number,Eligible__50-64,83649
+13,2018-19,G,E12000007,East of England,42,E10000029,Suffolk,%,Coverage_3andhalfyears__25-49,73.96391157554870000000
+13,2018-19,G,E12000007,East of England,42,E10000029,Suffolk,%,Coverage_5andhalfyears__50-64,76.79445115984570000000
+13,2018-19,G,E12000007,East of England,42,E10000029,Suffolk,%,Coverage_in_period__25-64,75.02882913122800000000
+13,2018-19,G,E12000007,East of England,42,E10000029,Suffolk,Number,Eligible__25-49,115217
+13,2018-19,G,E12000007,East of England,42,E10000029,Suffolk,Number,Eligible__25-64,184709
+13,2018-19,G,E12000007,East of England,42,E10000029,Suffolk,Number,Eligible__50-64,69492
+13,2018-19,G,E12000006,East of England,00JA,E06000031,Peterborough,%,Coverage_3andhalfyears__25-49,66.84551299465730000000
+13,2018-19,G,E12000006,East of England,00JA,E06000031,Peterborough,%,Coverage_5andhalfyears__50-64,74.31938236489230000000
+13,2018-19,G,E12000006,East of England,00JA,E06000031,Peterborough,%,Coverage_in_period__25-64,68.94249092004760000000
+13,2018-19,G,E12000006,East of England,00JA,E06000031,Peterborough,Number,Eligible__25-49,44172
+13,2018-19,G,E12000006,East of England,00JA,E06000031,Peterborough,Number,Eligible__25-64,61399
+13,2018-19,G,E12000006,East of England,00JA,E06000031,Peterborough,Number,Eligible__50-64,17227
+13,2018-19,G,E12000006,East of England,00KA,E06000032,Luton,%,Coverage_3andhalfyears__25-49,59.44991055456170000000
+13,2018-19,G,E12000006,East of England,00KA,E06000032,Luton,%,Coverage_5andhalfyears__50-64,74.72534179687500000000
+13,2018-19,G,E12000006,East of England,00KA,E06000032,Luton,%,Coverage_in_period__25-64,63.54575805184600000000
+13,2018-19,G,E12000006,East of England,00KA,E06000032,Luton,Number,Eligible__25-49,44720
+13,2018-19,G,E12000006,East of England,00KA,E06000032,Luton,Number,Eligible__25-64,61104
+13,2018-19,G,E12000006,East of England,00KA,E06000032,Luton,Number,Eligible__50-64,16384
+13,2018-19,G,E12000006,East of England,00KB,E06000055,Bedford,%,Coverage_3andhalfyears__25-49,69.19039575289580000000
+13,2018-19,G,E12000006,East of England,00KB,E06000055,Bedford,%,Coverage_5andhalfyears__50-64,75.55910543130990000000
+13,2018-19,G,E12000006,East of England,00KB,E06000055,Bedford,%,Coverage_in_period__25-64,71.23273636326380000000
+13,2018-19,G,E12000006,East of England,00KB,E06000055,Bedford,Number,Eligible__25-49,33152
+13,2018-19,G,E12000006,East of England,00KB,E06000055,Bedford,Number,Eligible__25-64,48802
+13,2018-19,G,E12000006,East of England,00KB,E06000055,Bedford,Number,Eligible__50-64,15650
+13,2018-19,G,E12000006,East of England,00KC,E06000056,Central Bedfordshire,%,Coverage_3andhalfyears__25-49,76.27537474982640000000
+13,2018-19,G,E12000006,East of England,00KC,E06000056,Central Bedfordshire,%,Coverage_5andhalfyears__50-64,78.16226857986600000000
+13,2018-19,G,E12000006,East of England,00KC,E06000056,Central Bedfordshire,%,Coverage_in_period__25-64,76.93654731423870000000
+13,2018-19,G,E12000006,East of England,00KC,E06000056,Central Bedfordshire,Number,Eligible__25-49,48966
+13,2018-19,G,E12000006,East of England,00KC,E06000056,Central Bedfordshire,Number,Eligible__25-64,75379
+13,2018-19,G,E12000006,East of England,00KC,E06000056,Central Bedfordshire,Number,Eligible__50-64,26413
+13,2018-19,G,E12000006,East of England,00KF,E06000033,Southend-on-Sea,%,Coverage_3andhalfyears__25-49,69.49499968942170000000
+13,2018-19,G,E12000006,East of England,00KF,E06000033,Southend-on-Sea,%,Coverage_5andhalfyears__50-64,73.96149322107350000000
+13,2018-19,G,E12000006,East of England,00KF,E06000033,Southend-on-Sea,%,Coverage_in_period__25-64,70.98715641868830000000
+13,2018-19,G,E12000006,East of England,00KF,E06000033,Southend-on-Sea,Number,Eligible__25-49,32198
+13,2018-19,G,E12000006,East of England,00KF,E06000033,Southend-on-Sea,Number,Eligible__25-64,48351
+13,2018-19,G,E12000006,East of England,00KF,E06000033,Southend-on-Sea,Number,Eligible__50-64,16153
+13,2018-19,G,E12000006,East of England,00KG,E06000034,Thurrock,%,Coverage_3andhalfyears__25-49,70.94690026144180000000
+13,2018-19,G,E12000006,East of England,00KG,E06000034,Thurrock,%,Coverage_5andhalfyears__50-64,76.26381724392040000000
+13,2018-19,G,E12000006,East of England,00KG,E06000034,Thurrock,%,Coverage_in_period__25-64,72.48703225393300000000
+13,2018-19,G,E12000006,East of England,00KG,E06000034,Thurrock,Number,Eligible__25-49,33277
+13,2018-19,G,E12000006,East of England,00KG,E06000034,Thurrock,Number,Eligible__25-64,46847
+13,2018-19,G,E12000006,East of England,00KG,E06000034,Thurrock,Number,Eligible__50-64,13570
+13,2018-19,G,E12000006,East of England,00MG,E06000042,Milton Keynes,%,Coverage_3andhalfyears__25-49,69.78857863064280000000
+13,2018-19,G,E12000006,East of England,00MG,E06000042,Milton Keynes,%,Coverage_5andhalfyears__50-64,75.68362375455380000000
+13,2018-19,G,E12000006,East of England,00MG,E06000042,Milton Keynes,%,Coverage_in_period__25-64,71.48617220284140000000
+13,2018-19,G,E12000006,East of England,00MG,E06000042,Milton Keynes,Number,Eligible__25-49,56333
+13,2018-19,G,E12000006,East of England,00MG,E06000042,Milton Keynes,Number,Eligible__25-64,79116
+13,2018-19,G,E12000006,East of England,00MG,E06000042,Milton Keynes,Number,Eligible__50-64,22783
+13,2018-19,G,G,East of England,G,G,East of England,%,Coverage_3andhalfyears__25-49,71.78661477386080000000
+13,2018-19,G,G,East of England,G,G,East of England,%,Coverage_5andhalfyears__50-64,76.81555049521250000000
+13,2018-19,G,G,East of England,G,G,East of England,%,Coverage_in_period__25-64,73.48676106143390000000
+13,2018-19,G,G,East of England,G,G,East of England,Number,Eligible__25-49,1141841
+13,2018-19,G,G,East of England,G,G,East of England,Number,Eligible__25-64,1725025
+13,2018-19,G,G,East of England,G,G,East of England,Number,Eligible__50-64,583184
+13,2018-19,H,E12000007,London,00AB,E09000002,Barking and Dagenham,%,Coverage_3andhalfyears__25-49,65.07239099506230000000
+13,2018-19,H,E12000007,London,00AB,E09000002,Barking and Dagenham,%,Coverage_5andhalfyears__50-64,74.03290065544270000000
+13,2018-19,H,E12000007,London,00AB,E09000002,Barking and Dagenham,%,Coverage_in_period__25-64,67.27327251491520000000
+13,2018-19,H,E12000007,London,00AB,E09000002,Barking and Dagenham,Number,Eligible__25-49,47796
+13,2018-19,H,E12000007,London,00AB,E09000002,Barking and Dagenham,Number,Eligible__25-64,63358
+13,2018-19,H,E12000007,London,00AB,E09000002,Barking and Dagenham,Number,Eligible__50-64,15562
+13,2018-19,H,E12000007,London,00AC,E09000003,Barnet,%,Coverage_3andhalfyears__25-49,60.14125996610670000000
+13,2018-19,H,E12000007,London,00AC,E09000003,Barnet,%,Coverage_5andhalfyears__50-64,72.13798332069750000000
+13,2018-19,H,E12000007,London,00AC,E09000003,Barnet,%,Coverage_in_period__25-64,63.50753168544470000000
+13,2018-19,H,E12000007,London,00AC,E09000003,Barnet,Number,Eligible__25-49,87923
+13,2018-19,H,E12000007,London,00AC,E09000003,Barnet,Number,Eligible__25-64,122217
+13,2018-19,H,E12000007,London,00AC,E09000003,Barnet,Number,Eligible__50-64,34294
+13,2018-19,H,E12000007,London,00AD,E09000004,Bexley,%,Coverage_3andhalfyears__25-49,73.26618193138100000000
+13,2018-19,H,E12000007,London,00AD,E09000004,Bexley,%,Coverage_5andhalfyears__50-64,77.05647153960200000000
+13,2018-19,H,E12000007,London,00AD,E09000004,Bexley,%,Coverage_in_period__25-64,74.52106139933370000000
+13,2018-19,H,E12000007,London,00AD,E09000004,Bexley,Number,Eligible__25-49,44973
+13,2018-19,H,E12000007,London,00AD,E09000004,Bexley,Number,Eligible__25-64,67232
+13,2018-19,H,E12000007,London,00AD,E09000004,Bexley,Number,Eligible__50-64,22259
+13,2018-19,H,E12000007,London,00AE,E09000005,Brent,%,Coverage_3andhalfyears__25-49,57.65854574473080000000
+13,2018-19,H,E12000007,London,00AE,E09000005,Brent,%,Coverage_5andhalfyears__50-64,74.21898594006910000000
+13,2018-19,H,E12000007,London,00AE,E09000005,Brent,%,Coverage_in_period__25-64,61.94951875005430000000
+13,2018-19,H,E12000007,London,00AE,E09000005,Brent,Number,Eligible__25-49,85212
+13,2018-19,H,E12000007,London,00AE,E09000005,Brent,Number,Eligible__25-64,115013
+13,2018-19,H,E12000007,London,00AE,E09000005,Brent,Number,Eligible__50-64,29801
+13,2018-19,H,E12000007,London,00AF,E09000006,Bromley,%,Coverage_3andhalfyears__25-49,72.29276622167030000000
+13,2018-19,H,E12000007,London,00AF,E09000006,Bromley,%,Coverage_5andhalfyears__50-64,76.22451937010920000000
+13,2018-19,H,E12000007,London,00AF,E09000006,Bromley,%,Coverage_in_period__25-64,73.57158568391060000000
+13,2018-19,H,E12000007,London,00AF,E09000006,Bromley,Number,Eligible__25-49,64420
+13,2018-19,H,E12000007,London,00AF,E09000006,Bromley,Number,Eligible__25-64,95473
+13,2018-19,H,E12000007,London,00AF,E09000006,Bromley,Number,Eligible__50-64,31053
+13,2018-19,H,E12000007,London,00AG,E09000007,Camden,%,Coverage_3andhalfyears__25-49,50.90618416530950000000
+13,2018-19,H,E12000007,London,00AG,E09000007,Camden,%,Coverage_5andhalfyears__50-64,67.65950245388390000000
+13,2018-19,H,E12000007,London,00AG,E09000007,Camden,%,Coverage_in_period__25-64,54.41433566433570000000
+13,2018-19,H,E12000007,London,00AG,E09000007,Camden,Number,Eligible__25-49,66929
+13,2018-19,H,E12000007,London,00AG,E09000007,Camden,Number,Eligible__25-64,84656
+13,2018-19,H,E12000007,London,00AG,E09000007,Camden,Number,Eligible__50-64,17727
+13,2018-19,H,E12000007,London,00AH,E09000008,Croydon,%,Coverage_3andhalfyears__25-49,67.39769111677290000000
+13,2018-19,H,E12000007,London,00AH,E09000008,Croydon,%,Coverage_5andhalfyears__50-64,76.75068477990210000000
+13,2018-19,H,E12000007,London,00AH,E09000008,Croydon,%,Coverage_in_period__25-64,70.25826323895270000000
+13,2018-19,H,E12000007,London,00AH,E09000008,Croydon,Number,Eligible__25-49,82031
+13,2018-19,H,E12000007,London,00AH,E09000008,Croydon,Number,Eligible__25-64,118174
+13,2018-19,H,E12000007,London,00AH,E09000008,Croydon,Number,Eligible__50-64,36143
+13,2018-19,H,E12000007,London,00AJ,E09000009,Ealing,%,Coverage_3andhalfyears__25-49,59.07315101710900000000
+13,2018-19,H,E12000007,London,00AJ,E09000009,Ealing,%,Coverage_5andhalfyears__50-64,73.58580407593170000000
+13,2018-19,H,E12000007,London,00AJ,E09000009,Ealing,%,Coverage_in_period__25-64,62.86470168687490000000
+13,2018-19,H,E12000007,London,00AJ,E09000009,Ealing,Number,Eligible__25-49,89076
+13,2018-19,H,E12000007,London,00AJ,E09000009,Ealing,Number,Eligible__25-64,120578
+13,2018-19,H,E12000007,London,00AJ,E09000009,Ealing,Number,Eligible__50-64,31502
+13,2018-19,H,E12000007,London,00AK,E09000010,Enfield,%,Coverage_3andhalfyears__25-49,65.76097854421500000000
+13,2018-19,H,E12000007,London,00AK,E09000010,Enfield,%,Coverage_5andhalfyears__50-64,76.88494994255700000000
+13,2018-19,H,E12000007,London,00AK,E09000010,Enfield,%,Coverage_in_period__25-64,69.14033285801180000000
+13,2018-19,H,E12000007,London,00AK,E09000010,Enfield,Number,Eligible__25-49,69818
+13,2018-19,H,E12000007,London,00AK,E09000010,Enfield,Number,Eligible__25-64,100283
+13,2018-19,H,E12000007,London,00AK,E09000010,Enfield,Number,Eligible__50-64,30465
+13,2018-19,H,E12000007,London,00AL,E09000011,Greenwich,%,Coverage_3andhalfyears__25-49,65.76549752873220000000
+13,2018-19,H,E12000007,London,00AL,E09000011,Greenwich,%,Coverage_5andhalfyears__50-64,74.25198637911460000000
+13,2018-19,H,E12000007,London,00AL,E09000011,Greenwich,%,Coverage_in_period__25-64,67.86102671614520000000
+13,2018-19,H,E12000007,London,00AL,E09000011,Greenwich,Number,Eligible__25-49,67172
+13,2018-19,H,E12000007,London,00AL,E09000011,Greenwich,Number,Eligible__25-64,89197
+13,2018-19,H,E12000007,London,00AL,E09000011,Greenwich,Number,Eligible__50-64,22025
+13,2018-19,H,E12000007,London,00AM,E09000012,Hackney,%,Coverage_3andhalfyears__25-49,60.23372848580930000000
+13,2018-19,H,E12000007,London,00AM,E09000012,Hackney,%,Coverage_5andhalfyears__50-64,73.27228501931610000000
+13,2018-19,H,E12000007,London,00AM,E09000012,Hackney,%,Coverage_in_period__25-64,62.85667683687370000000
+13,2018-19,H,E12000007,London,00AM,E09000012,Hackney,Number,Eligible__25-49,83259
+13,2018-19,H,E12000007,London,00AM,E09000012,Hackney,Number,Eligible__25-64,104226
+13,2018-19,H,E12000007,London,00AM,E09000012,Hackney,Number,Eligible__50-64,20967
+13,2018-19,H,E12000007,London,00AN,E09000013,Hammersmith and Fulham,%,Coverage_3andhalfyears__25-49,52.07272117962470000000
+13,2018-19,H,E12000007,London,00AN,E09000013,Hammersmith and Fulham,%,Coverage_5andhalfyears__50-64,66.52016546018610000000
+13,2018-19,H,E12000007,London,00AN,E09000013,Hammersmith and Fulham,%,Coverage_in_period__25-64,55.04710453480950000000
+13,2018-19,H,E12000007,London,00AN,E09000013,Hammersmith and Fulham,Number,Eligible__25-49,59680
+13,2018-19,H,E12000007,London,00AN,E09000013,Hammersmith and Fulham,Number,Eligible__25-64,75152
+13,2018-19,H,E12000007,London,00AN,E09000013,Hammersmith and Fulham,Number,Eligible__50-64,15472
+13,2018-19,H,E12000007,London,00AP,E09000014,Haringey,%,Coverage_3andhalfyears__25-49,61.39799858595750000000
+13,2018-19,H,E12000007,London,00AP,E09000014,Haringey,%,Coverage_5andhalfyears__50-64,74.95655052553170000000
+13,2018-19,H,E12000007,London,00AP,E09000014,Haringey,%,Coverage_in_period__25-64,64.75121272284420000000
+13,2018-19,H,E12000007,London,00AP,E09000014,Haringey,Number,Eligible__25-49,73548
+13,2018-19,H,E12000007,London,00AP,E09000014,Haringey,Number,Eligible__25-64,97714
+13,2018-19,H,E12000007,London,00AP,E09000014,Haringey,Number,Eligible__50-64,24166
+13,2018-19,H,E12000007,London,00AQ,E09000015,Harrow,%,Coverage_3andhalfyears__25-49,58.86238400373340000000
+13,2018-19,H,E12000007,London,00AQ,E09000015,Harrow,%,Coverage_5andhalfyears__50-64,73.34820062092790000000
+13,2018-19,H,E12000007,London,00AQ,E09000015,Harrow,%,Coverage_in_period__25-64,63.07805858848080000000
+13,2018-19,H,E12000007,London,00AQ,E09000015,Harrow,Number,Eligible__25-49,55713
+13,2018-19,H,E12000007,London,00AQ,E09000015,Harrow,Number,Eligible__25-64,78582
+13,2018-19,H,E12000007,London,00AQ,E09000015,Harrow,Number,Eligible__50-64,22869
+13,2018-19,H,E12000007,London,00AR,E09000016,Havering,%,Coverage_3andhalfyears__25-49,71.42705073343130000000
+13,2018-19,H,E12000007,London,00AR,E09000016,Havering,%,Coverage_5andhalfyears__50-64,77.77443220922230000000
+13,2018-19,H,E12000007,London,00AR,E09000016,Havering,%,Coverage_in_period__25-64,73.52853216365940000000
+13,2018-19,H,E12000007,London,00AR,E09000016,Havering,Number,Eligible__25-49,46971
+13,2018-19,H,E12000007,London,00AR,E09000016,Havering,Number,Eligible__25-64,70219
+13,2018-19,H,E12000007,London,00AR,E09000016,Havering,Number,Eligible__50-64,23248
+13,2018-19,H,E12000007,London,00AS,E09000017,Hillingdon,%,Coverage_3andhalfyears__25-49,64.13271467615840000000
+13,2018-19,H,E12000007,London,00AS,E09000017,Hillingdon,%,Coverage_5andhalfyears__50-64,75.79815855554230000000
+13,2018-19,H,E12000007,London,00AS,E09000017,Hillingdon,%,Coverage_in_period__25-64,67.45776576044350000000
+13,2018-19,H,E12000007,London,00AS,E09000017,Hillingdon,Number,Eligible__25-49,62932
+13,2018-19,H,E12000007,London,00AS,E09000017,Hillingdon,Number,Eligible__25-64,88021
+13,2018-19,H,E12000007,London,00AS,E09000017,Hillingdon,Number,Eligible__50-64,25089
+13,2018-19,H,E12000007,London,00AT,E09000018,Hounslow,%,Coverage_3andhalfyears__25-49,59.70897707179920000000
+13,2018-19,H,E12000007,London,00AT,E09000018,Hounslow,%,Coverage_5andhalfyears__50-64,72.73340358271870000000
+13,2018-19,H,E12000007,London,00AT,E09000018,Hounslow,%,Coverage_in_period__25-64,63.04153230590040000000
+13,2018-19,H,E12000007,London,00AT,E09000018,Hounslow,Number,Eligible__25-49,68998
+13,2018-19,H,E12000007,London,00AT,E09000018,Hounslow,Number,Eligible__25-64,92723
+13,2018-19,H,E12000007,London,00AT,E09000018,Hounslow,Number,Eligible__50-64,23725
+13,2018-19,H,E12000007,London,00AU,E09000019,Islington,%,Coverage_3andhalfyears__25-49,57.31602705629230000000
+13,2018-19,H,E12000007,London,00AU,E09000019,Islington,%,Coverage_5andhalfyears__50-64,72.64460870585470000000
+13,2018-19,H,E12000007,London,00AU,E09000019,Islington,%,Coverage_in_period__25-64,60.27995508014110000000
+13,2018-19,H,E12000007,London,00AU,E09000019,Islington,Number,Eligible__25-49,71111
+13,2018-19,H,E12000007,London,00AU,E09000019,Islington,Number,Eligible__25-64,88157
+13,2018-19,H,E12000007,London,00AU,E09000019,Islington,Number,Eligible__50-64,17046
+13,2018-19,H,E12000007,London,00AW,E09000020,Kensington and Chelsea,%,Coverage_3andhalfyears__25-49,46.81564519287250000000
+13,2018-19,H,E12000007,London,00AW,E09000020,Kensington and Chelsea,%,Coverage_5andhalfyears__50-64,60.12819629195670000000
+13,2018-19,H,E12000007,London,00AW,E09000020,Kensington and Chelsea,%,Coverage_in_period__25-64,50.30434389957550000000
+13,2018-19,H,E12000007,London,00AW,E09000020,Kensington and Chelsea,Number,Eligible__25-49,40856
+13,2018-19,H,E12000007,London,00AW,E09000020,Kensington and Chelsea,Number,Eligible__25-64,55365
+13,2018-19,H,E12000007,London,00AW,E09000020,Kensington and Chelsea,Number,Eligible__50-64,14509
+13,2018-19,H,E12000007,London,00AX,E09000021,Kingston upon Thames,%,Coverage_3andhalfyears__25-49,63.52565118613620000000
+13,2018-19,H,E12000007,London,00AX,E09000021,Kingston upon Thames,%,Coverage_5andhalfyears__50-64,73.00881930676150000000
+13,2018-19,H,E12000007,London,00AX,E09000021,Kingston upon Thames,%,Coverage_in_period__25-64,66.16870867552070000000
+13,2018-19,H,E12000007,London,00AX,E09000021,Kingston upon Thames,Number,Eligible__25-49,37854
+13,2018-19,H,E12000007,London,00AX,E09000021,Kingston upon Thames,Number,Eligible__25-64,52481
+13,2018-19,H,E12000007,London,00AX,E09000021,Kingston upon Thames,Number,Eligible__50-64,14627
+13,2018-19,H,E12000007,London,00AY,E09000022,Lambeth,%,Coverage_3andhalfyears__25-49,63.85380006181390000000
+13,2018-19,H,E12000007,London,00AY,E09000022,Lambeth,%,Coverage_5andhalfyears__50-64,73.61857825567500000000
+13,2018-19,H,E12000007,London,00AY,E09000022,Lambeth,%,Coverage_in_period__25-64,65.91179132076960000000
+13,2018-19,H,E12000007,London,00AY,E09000022,Lambeth,Number,Eligible__25-49,100301
+13,2018-19,H,E12000007,London,00AY,E09000022,Lambeth,Number,Eligible__25-64,127085
+13,2018-19,H,E12000007,London,00AY,E09000022,Lambeth,Number,Eligible__50-64,26784
+13,2018-19,H,E12000007,London,00AZ,E09000023,Lewisham,%,Coverage_3andhalfyears__25-49,66.74745703714210000000
+13,2018-19,H,E12000007,London,00AZ,E09000023,Lewisham,%,Coverage_5andhalfyears__50-64,75.68483914467350000000
+13,2018-19,H,E12000007,London,00AZ,E09000023,Lewisham,%,Coverage_in_period__25-64,68.98823438496170000000
+13,2018-19,H,E12000007,London,00AZ,E09000023,Lewisham,Number,Eligible__25-49,77567
+13,2018-19,H,E12000007,London,00AZ,E09000023,Lewisham,Number,Eligible__25-64,103522
+13,2018-19,H,E12000007,London,00AZ,E09000023,Lewisham,Number,Eligible__50-64,25955
+13,2018-19,H,E12000007,London,00BA,E09000024,Merton,%,Coverage_3andhalfyears__25-49,63.82400869092880000000
+13,2018-19,H,E12000007,London,00BA,E09000024,Merton,%,Coverage_5andhalfyears__50-64,72.83200000000000000000
+13,2018-19,H,E12000007,London,00BA,E09000024,Merton,%,Coverage_in_period__25-64,66.16531972996580000000
+13,2018-19,H,E12000007,London,00BA,E09000024,Merton,Number,Eligible__25-49,53389
+13,2018-19,H,E12000007,London,00BA,E09000024,Merton,Number,Eligible__25-64,72139
+13,2018-19,H,E12000007,London,00BA,E09000024,Merton,Number,Eligible__50-64,18750
+13,2018-19,H,E12000007,London,00BB,E09000025,Newham,%,Coverage_3andhalfyears__25-49,57.59634922221110000000
+13,2018-19,H,E12000007,London,00BB,E09000025,Newham,%,Coverage_5andhalfyears__50-64,74.66335197845450000000
+13,2018-19,H,E12000007,London,00BB,E09000025,Newham,%,Coverage_in_period__25-64,61.20334857002750000000
+13,2018-19,H,E12000007,London,00BB,E09000025,Newham,Number,Eligible__25-49,90063
+13,2018-19,H,E12000007,London,00BB,E09000025,Newham,Number,Eligible__25-64,114198
+13,2018-19,H,E12000007,London,00BB,E09000025,Newham,Number,Eligible__50-64,24135
+13,2018-19,H,E12000007,London,00BC,E09000026,Redbridge,%,Coverage_3andhalfyears__25-49,60.43367570889300000000
+13,2018-19,H,E12000007,London,00BC,E09000026,Redbridge,%,Coverage_5andhalfyears__50-64,75.30986613782850000000
+13,2018-19,H,E12000007,London,00BC,E09000026,Redbridge,%,Coverage_in_period__25-64,64.32414910858990000000
+13,2018-19,H,E12000007,London,00BC,E09000026,Redbridge,Number,Eligible__25-49,68346
+13,2018-19,H,E12000007,London,00BC,E09000026,Redbridge,Number,Eligible__25-64,92550
+13,2018-19,H,E12000007,London,00BC,E09000026,Redbridge,Number,Eligible__50-64,24204
+13,2018-19,H,E12000007,London,00BD,E09000027,Richmond upon Thames,%,Coverage_3andhalfyears__25-49,67.54234358797100000000
+13,2018-19,H,E12000007,London,00BD,E09000027,Richmond upon Thames,%,Coverage_5andhalfyears__50-64,74.33837915765630000000
+13,2018-19,H,E12000007,London,00BD,E09000027,Richmond upon Thames,%,Coverage_in_period__25-64,69.64356782399670000000
+13,2018-19,H,E12000007,London,00BD,E09000027,Richmond upon Thames,Number,Eligible__25-49,43395
+13,2018-19,H,E12000007,London,00BD,E09000027,Richmond upon Thames,Number,Eligible__25-64,62817
+13,2018-19,H,E12000007,London,00BD,E09000027,Richmond upon Thames,Number,Eligible__50-64,19422
+13,2018-19,H,E12000007,London,00BE,E09000028,Southwark,%,Coverage_3andhalfyears__25-49,62.52357258082840000000
+13,2018-19,H,E12000007,London,00BE,E09000028,Southwark,%,Coverage_5andhalfyears__50-64,73.79533325542440000000
+13,2018-19,H,E12000007,London,00BE,E09000028,Southwark,%,Coverage_in_period__25-64,65.06855941669530000000
+13,2018-19,H,E12000007,London,00BE,E09000028,Southwark,Number,Eligible__25-49,88026
+13,2018-19,H,E12000007,London,00BE,E09000028,Southwark,Number,Eligible__25-64,113697
+13,2018-19,H,E12000007,London,00BE,E09000028,Southwark,Number,Eligible__50-64,25671
+13,2018-19,H,E12000007,London,00BF,E09000029,Sutton,%,Coverage_3andhalfyears__25-49,71.92816863912490000000
+13,2018-19,H,E12000007,London,00BF,E09000029,Sutton,%,Coverage_5andhalfyears__50-64,76.07639836289220000000
+13,2018-19,H,E12000007,London,00BF,E09000029,Sutton,%,Coverage_in_period__25-64,73.20266917041110000000
+13,2018-19,H,E12000007,London,00BF,E09000029,Sutton,Number,Eligible__25-49,41319
+13,2018-19,H,E12000007,London,00BF,E09000029,Sutton,Number,Eligible__25-64,59644
+13,2018-19,H,E12000007,London,00BF,E09000029,Sutton,Number,Eligible__50-64,18325
+13,2018-19,H,E12000007,London,00BG,E09000030,Tower Hamlets,%,Coverage_3andhalfyears__25-49,55.11703834873550000000
+13,2018-19,H,E12000007,London,00BG,E09000030,Tower Hamlets,%,Coverage_5andhalfyears__50-64,72.95921876074550000000
+13,2018-19,H,E12000007,London,00BG,E09000030,Tower Hamlets,%,Coverage_in_period__25-64,57.59037522879810000000
+13,2018-19,H,E12000007,London,00BG,E09000030,Tower Hamlets,Number,Eligible__25-49,90355
+13,2018-19,H,E12000007,London,00BG,E09000030,Tower Hamlets,Number,Eligible__25-64,104896
+13,2018-19,H,E12000007,London,00BG,E09000030,Tower Hamlets,Number,Eligible__50-64,14541
+13,2018-19,H,E12000007,London,00BH,E09000031,Waltham Forest,%,Coverage_3andhalfyears__25-49,63.08674209457500000000
+13,2018-19,H,E12000007,London,00BH,E09000031,Waltham Forest,%,Coverage_5andhalfyears__50-64,76.65662650602410000000
+13,2018-19,H,E12000007,London,00BH,E09000031,Waltham Forest,%,Coverage_in_period__25-64,66.43428471524100000000
+13,2018-19,H,E12000007,London,00BH,E09000031,Waltham Forest,Number,Eligible__25-49,68940
+13,2018-19,H,E12000007,London,00BH,E09000031,Waltham Forest,Number,Eligible__25-64,91516
+13,2018-19,H,E12000007,London,00BH,E09000031,Waltham Forest,Number,Eligible__50-64,22576
+13,2018-19,H,E12000007,London,00BJ,E09000032,Wandsworth,%,Coverage_3andhalfyears__25-49,64.36428924269480000000
+13,2018-19,H,E12000007,London,00BJ,E09000032,Wandsworth,%,Coverage_5andhalfyears__50-64,71.63051734323570000000
+13,2018-19,H,E12000007,London,00BJ,E09000032,Wandsworth,%,Coverage_in_period__25-64,65.69948668641350000000
+13,2018-19,H,E12000007,London,00BJ,E09000032,Wandsworth,Number,Eligible__25-49,105268
+13,2018-19,H,E12000007,London,00BJ,E09000032,Wandsworth,Number,Eligible__25-64,128966
+13,2018-19,H,E12000007,London,00BJ,E09000032,Wandsworth,Number,Eligible__50-64,23698
+13,2018-19,H,E12000007,London,00BK,E09000033,Westminster,%,Coverage_3andhalfyears__25-49,48.08886765408500000000
+13,2018-19,H,E12000007,London,00BK,E09000033,Westminster,%,Coverage_5andhalfyears__50-64,62.70103427735960000000
+13,2018-19,H,E12000007,London,00BK,E09000033,Westminster,%,Coverage_in_period__25-64,51.40972470064120000000
+13,2018-19,H,E12000007,London,00BK,E09000033,Westminster,Number,Eligible__25-49,62790
+13,2018-19,H,E12000007,London,00BK,E09000033,Westminster,Number,Eligible__25-64,81257
+13,2018-19,H,E12000007,London,00BK,E09000033,Westminster,Number,Eligible__50-64,18467
+13,2018-19,H,H,London,H,H,London,%,Coverage_3andhalfyears__25-49,61.53373973318230000000
+13,2018-19,H,H,London,H,H,London,%,Coverage_5andhalfyears__50-64,73.68384536585960000000
+13,2018-19,H,H,London,H,H,London,%,Coverage_in_period__25-64,64.58080016157710000000
+13,2018-19,H,H,London,H,H,London,Number,Eligible__25-49,2196031
+13,2018-19,H,H,London,H,H,London,Number,Eligible__25-64,2931108
+13,2018-19,H,H,London,H,H,London,Number,Eligible__50-64,735077
+13,2018-19,J,E12000008,South East,11,E10000002,Buckinghamshire,%,Coverage_3andhalfyears__25-49,72.28086031223440000000
+13,2018-19,J,E12000008,South East,11,E10000002,Buckinghamshire,%,Coverage_5andhalfyears__50-64,78.45303867403320000000
+13,2018-19,J,E12000008,South East,11,E10000002,Buckinghamshire,%,Coverage_in_period__25-64,74.48383704195730000000
+13,2018-19,J,E12000008,South East,11,E10000002,Buckinghamshire,Number,Eligible__25-49,92943
+13,2018-19,J,E12000008,South East,11,E10000002,Buckinghamshire,Number,Eligible__25-64,144528
+13,2018-19,J,E12000008,South East,11,E10000002,Buckinghamshire,Number,Eligible__50-64,51585
+13,2018-19,J,E12000008,South East,21,E10000011,East Sussex,%,Coverage_3andhalfyears__25-49,73.39684911887420000000
+13,2018-19,J,E12000008,South East,21,E10000011,East Sussex,%,Coverage_5andhalfyears__50-64,75.42292891889930000000
+13,2018-19,J,E12000008,South East,21,E10000011,East Sussex,%,Coverage_in_period__25-64,74.22130632926350000000
+13,2018-19,J,E12000008,South East,21,E10000011,East Sussex,Number,Eligible__25-49,80295
+13,2018-19,J,E12000008,South East,21,E10000011,East Sussex,Number,Eligible__25-64,135387
+13,2018-19,J,E12000008,South East,21,E10000011,East Sussex,Number,Eligible__50-64,55092
+13,2018-19,J,E12000008,South East,29,E10000016,Kent,%,Coverage_3andhalfyears__25-49,73.62581456943350000000
+13,2018-19,J,E12000008,South East,29,E10000016,Kent,%,Coverage_5andhalfyears__50-64,76.68115146965410000000
+13,2018-19,J,E12000008,South East,29,E10000016,Kent,%,Coverage_in_period__25-64,74.69459692854650000000
+13,2018-19,J,E12000008,South East,29,E10000016,Kent,Number,Eligible__25-49,257498
+13,2018-19,J,E12000008,South East,29,E10000016,Kent,Number,Eligible__25-64,396034
+13,2018-19,J,E12000008,South East,29,E10000016,Kent,Number,Eligible__50-64,138536
+13,2018-19,J,E12000008,South East,43,E10000030,Surrey,%,Coverage_3andhalfyears__25-49,71.09796217841000000000
+13,2018-19,J,E12000008,South East,43,E10000030,Surrey,%,Coverage_5andhalfyears__50-64,75.64581901897970000000
+13,2018-19,J,E12000008,South East,43,E10000030,Surrey,%,Coverage_in_period__25-64,72.67429992391490000000
+13,2018-19,J,E12000008,South East,43,E10000030,Surrey,Number,Eligible__25-49,211255
+13,2018-19,J,E12000008,South East,43,E10000030,Surrey,Number,Eligible__25-64,323322
+13,2018-19,J,E12000008,South East,43,E10000030,Surrey,Number,Eligible__50-64,112067
+13,2018-19,J,E12000008,South East,45,E10000032,West Sussex,%,Coverage_3andhalfyears__25-49,73.52333094041640000000
+13,2018-19,J,E12000008,South East,45,E10000032,West Sussex,%,Coverage_5andhalfyears__50-64,75.93756111871700000000
+13,2018-19,J,E12000008,South East,45,E10000032,West Sussex,%,Coverage_in_period__25-64,74.41657470557380000000
+13,2018-19,J,E12000008,South East,45,E10000032,West Sussex,Number,Eligible__25-49,139300
+13,2018-19,J,E12000008,South East,45,E10000032,West Sussex,Number,Eligible__25-64,221108
+13,2018-19,J,E12000008,South East,45,E10000032,West Sussex,Number,Eligible__50-64,81808
+13,2018-19,J,E12000008,South East,00LC,E06000035,Medway,%,Coverage_3andhalfyears__25-49,72.38130275716880000000
+13,2018-19,J,E12000008,South East,00LC,E06000035,Medway,%,Coverage_5andhalfyears__50-64,75.20006810829220000000
+13,2018-19,J,E12000008,South East,00LC,E06000035,Medway,%,Coverage_in_period__25-64,73.29568207238430000000
+13,2018-19,J,E12000008,South East,00LC,E06000035,Medway,Number,Eligible__25-49,48927
+13,2018-19,J,E12000008,South East,00LC,E06000035,Medway,Number,Eligible__25-64,72419
+13,2018-19,J,E12000008,South East,00LC,E06000035,Medway,Number,Eligible__50-64,23492
+13,2018-19,J,E12000008,South East,00MA,E06000036,Bracknell Forest,%,Coverage_3andhalfyears__25-49,75.50484832310290000000
+13,2018-19,J,E12000008,South East,00MA,E06000036,Bracknell Forest,%,Coverage_5andhalfyears__50-64,78.76623376623380000000
+13,2018-19,J,E12000008,South East,00MA,E06000036,Bracknell Forest,%,Coverage_in_period__25-64,76.56184234261320000000
+13,2018-19,J,E12000008,South East,00MA,E06000036,Bracknell Forest,Number,Eligible__25-49,22482
+13,2018-19,J,E12000008,South East,00MA,E06000036,Bracknell Forest,Number,Eligible__25-64,33262
+13,2018-19,J,E12000008,South East,00MA,E06000036,Bracknell Forest,Number,Eligible__50-64,10780
+13,2018-19,J,E12000008,South East,00MB,E06000037,West Berkshire,%,Coverage_3andhalfyears__25-49,75.43652840197450000000
+13,2018-19,J,E12000008,South East,00MB,E06000037,West Berkshire,%,Coverage_5andhalfyears__50-64,78.40783753973920000000
+13,2018-19,J,E12000008,South East,00MB,E06000037,West Berkshire,%,Coverage_in_period__25-64,76.51260602927700000000
+13,2018-19,J,E12000008,South East,00MB,E06000037,West Berkshire,Number,Eligible__25-49,27146
+13,2018-19,J,E12000008,South East,00MB,E06000037,West Berkshire,Number,Eligible__25-64,42559
+13,2018-19,J,E12000008,South East,00MB,E06000037,West Berkshire,Number,Eligible__50-64,15413
+13,2018-19,J,E12000008,South East,00MC,E06000038,Reading,%,Coverage_3andhalfyears__25-49,61.76049496344020000000
+13,2018-19,J,E12000008,South East,00MC,E06000038,Reading,%,Coverage_5andhalfyears__50-64,73.87649531199480000000
+13,2018-19,J,E12000008,South East,00MC,E06000038,Reading,%,Coverage_in_period__25-64,64.67194965621720000000
+13,2018-19,J,E12000008,South East,00MC,E06000038,Reading,Number,Eligible__25-49,39114
+13,2018-19,J,E12000008,South East,00MC,E06000038,Reading,Number,Eligible__25-64,51486
+13,2018-19,J,E12000008,South East,00MC,E06000038,Reading,Number,Eligible__50-64,12372
+13,2018-19,J,E12000008,South East,00MD,E06000039,Slough,%,Coverage_3andhalfyears__25-49,62.71230502599650000000
+13,2018-19,J,E12000008,South East,00MD,E06000039,Slough,%,Coverage_5andhalfyears__50-64,76.35730007336760000000
+13,2018-19,J,E12000008,South East,00MD,E06000039,Slough,%,Coverage_in_period__25-64,65.98058167120640000000
+13,2018-19,J,E12000008,South East,00MD,E06000039,Slough,Number,Eligible__25-49,34620
+13,2018-19,J,E12000008,South East,00MD,E06000039,Slough,Number,Eligible__25-64,45524
+13,2018-19,J,E12000008,South East,00MD,E06000039,Slough,Number,Eligible__50-64,10904
+13,2018-19,J,E12000008,South East,00ME,E06000040,Windsor and Maidenhead,%,Coverage_3andhalfyears__25-49,70.44140459737700000000
+13,2018-19,J,E12000008,South East,00ME,E06000040,Windsor and Maidenhead,%,Coverage_5andhalfyears__50-64,77.20811482197070000000
+13,2018-19,J,E12000008,South East,00ME,E06000040,Windsor and Maidenhead,%,Coverage_in_period__25-64,72.72960612282990000000
+13,2018-19,J,E12000008,South East,00ME,E06000040,Windsor and Maidenhead,Number,Eligible__25-49,28364
+13,2018-19,J,E12000008,South East,00ME,E06000040,Windsor and Maidenhead,Number,Eligible__25-64,42856
+13,2018-19,J,E12000008,South East,00ME,E06000040,Windsor and Maidenhead,Number,Eligible__50-64,14492
+13,2018-19,J,E12000008,South East,00MF,E06000041,Wokingham,%,Coverage_3andhalfyears__25-49,73.70133006988500000000
+13,2018-19,J,E12000008,South East,00MF,E06000041,Wokingham,%,Coverage_5andhalfyears__50-64,79.61033950617280000000
+13,2018-19,J,E12000008,South East,00MF,E06000041,Wokingham,%,Coverage_in_period__25-64,75.67323992017680000000
+13,2018-19,J,E12000008,South East,00MF,E06000041,Wokingham,Number,Eligible__25-49,31051
+13,2018-19,J,E12000008,South East,00MF,E06000041,Wokingham,Number,Eligible__25-64,46603
+13,2018-19,J,E12000008,South East,00MF,E06000041,Wokingham,Number,Eligible__50-64,15552
+13,2018-19,J,E12000008,South East,00ML,E06000043,Brighton and Hove,%,Coverage_3andhalfyears__25-49,65.42068397198190000000
+13,2018-19,J,E12000008,South East,00ML,E06000043,Brighton and Hove,%,Coverage_5andhalfyears__50-64,74.45529058033690000000
+13,2018-19,J,E12000008,South East,00ML,E06000043,Brighton and Hove,%,Coverage_in_period__25-64,68.00268380535350000000
+13,2018-19,J,E12000008,South East,00ML,E06000043,Brighton and Hove,Number,Eligible__25-49,60675
+13,2018-19,J,E12000008,South East,00ML,E06000043,Brighton and Hove,Number,Eligible__25-64,84954
+13,2018-19,J,E12000008,South East,00ML,E06000043,Brighton and Hove,Number,Eligible__50-64,24279
+13,2018-19,J,J,South East,J,J,South East,%,Coverage_3andhalfyears__25-49,71.68021831661500000000
+13,2018-19,J,J,South East,J,J,South East,%,Coverage_5andhalfyears__50-64,76.36412110768190000000
+13,2018-19,J,J,South East,J,J,South East,%,Coverage_in_period__25-64,73.29775700866200000000
+13,2018-19,J,J,South East,J,J,South East,Number,Eligible__25-49,1073670
+13,2018-19,J,J,South East,J,J,South East,Number,Eligible__25-64,1640042
+13,2018-19,J,J,South East,J,J,South East,Number,Eligible__50-64,566372
+13,2018-19,K,E12000009,South West,18,E10000008,Devon,%,Coverage_3andhalfyears__25-49,76.70311703380740000000
+13,2018-19,K,E12000009,South West,18,E10000008,Devon,%,Coverage_5andhalfyears__50-64,78.21363601424580000000
+13,2018-19,K,E12000009,South West,18,E10000008,Devon,%,Coverage_in_period__25-64,77.31779793556460000000
+13,2018-19,K,E12000009,South West,18,E10000008,Devon,Number,Eligible__25-49,113762
+13,2018-19,K,E12000009,South West,18,E10000008,Devon,Number,Eligible__25-64,191820
+13,2018-19,K,E12000009,South West,18,E10000008,Devon,Number,Eligible__50-64,78058
+13,2018-19,K,E12000009,South West,23,E10000013,Gloucestershire,%,Coverage_3andhalfyears__25-49,75.82592344392320000000
+13,2018-19,K,E12000009,South West,23,E10000013,Gloucestershire,%,Coverage_5andhalfyears__50-64,77.98861799568970000000
+13,2018-19,K,E12000009,South West,23,E10000013,Gloucestershire,%,Coverage_in_period__25-64,76.63188409434590000000
+13,2018-19,K,E12000009,South West,23,E10000013,Gloucestershire,Number,Eligible__25-49,99979
+13,2018-19,K,E12000009,South West,23,E10000013,Gloucestershire,Number,Eligible__25-64,159371
+13,2018-19,K,E12000009,South West,23,E10000013,Gloucestershire,Number,Eligible__50-64,59392
+13,2018-19,K,E12000009,South West,24,E10000014,Hampshire,%,Coverage_3andhalfyears__25-49,75.46347177559780000000
+13,2018-19,K,E12000009,South West,24,E10000014,Hampshire,%,Coverage_5andhalfyears__50-64,77.96941421607770000000
+13,2018-19,K,E12000009,South West,24,E10000014,Hampshire,%,Coverage_in_period__25-64,76.39803517847320000000
+13,2018-19,K,E12000009,South West,24,E10000014,Hampshire,Number,Eligible__25-49,221103
+13,2018-19,K,E12000009,South West,24,E10000014,Hampshire,Number,Eligible__25-64,352602
+13,2018-19,K,E12000009,South West,24,E10000014,Hampshire,Number,Eligible__50-64,131499
+13,2018-19,K,E12000009,South West,38,E10000025,Oxfordshire,%,Coverage_3andhalfyears__25-49,68.31109953898700000000
+13,2018-19,K,E12000009,South West,38,E10000025,Oxfordshire,%,Coverage_5andhalfyears__50-64,76.48155400642280000000
+13,2018-19,K,E12000009,South West,38,E10000025,Oxfordshire,%,Coverage_in_period__25-64,70.99379169517070000000
+13,2018-19,K,E12000009,South West,38,E10000025,Oxfordshire,Number,Eligible__25-49,130582
+13,2018-19,K,E12000009,South West,38,E10000025,Oxfordshire,Number,Eligible__25-64,194417
+13,2018-19,K,E12000009,South West,38,E10000025,Oxfordshire,Number,Eligible__50-64,63835
+13,2018-19,K,E12000009,South West,40,E10000027,Somerset,%,Coverage_3andhalfyears__25-49,73.93278075891150000000
+13,2018-19,K,E12000009,South West,40,E10000027,Somerset,%,Coverage_5andhalfyears__50-64,76.37490882567470000000
+13,2018-19,K,E12000009,South West,40,E10000027,Somerset,%,Coverage_in_period__25-64,74.90096003701350000000
+13,2018-19,K,E12000009,South West,40,E10000027,Somerset,Number,Eligible__25-49,83488
+13,2018-19,K,E12000009,South West,40,E10000027,Somerset,Number,Eligible__25-64,138328
+13,2018-19,K,E12000009,South West,40,E10000027,Somerset,Number,Eligible__50-64,54840
+13,2018-19,K,E12000009,South West,00HA,E06000022,Bath and North East Somerset,%,Coverage_3andhalfyears__25-49,73.88222998791600000000
+13,2018-19,K,E12000009,South West,00HA,E06000022,Bath and North East Somerset,%,Coverage_5andhalfyears__50-64,78.08382519525430000000
+13,2018-19,K,E12000009,South West,00HA,E06000022,Bath and North East Somerset,%,Coverage_in_period__25-64,75.36926063470630000000
+13,2018-19,K,E12000009,South West,00HA,E06000022,Bath and North East Somerset,Number,Eligible__25-49,30619
+13,2018-19,K,E12000009,South West,00HA,E06000022,Bath and North East Somerset,Number,Eligible__25-64,47392
+13,2018-19,K,E12000009,South West,00HA,E06000022,Bath and North East Somerset,Number,Eligible__50-64,16773
+13,2018-19,K,E12000009,South West,00HB,E06000023,Bristol,%,Coverage_3andhalfyears__25-49,69.30912267813000000000
+13,2018-19,K,E12000009,South West,00HB,E06000023,Bristol,%,Coverage_5andhalfyears__50-64,73.63834422657950000000
+13,2018-19,K,E12000009,South West,00HB,E06000023,Bristol,%,Coverage_in_period__25-64,70.38976712308360000000
+13,2018-19,K,E12000009,South West,00HB,E06000023,Bristol,Number,Eligible__25-49,100727
+13,2018-19,K,E12000009,South West,00HB,E06000023,Bristol,Number,Eligible__25-64,134234
+13,2018-19,K,E12000009,South West,00HB,E06000023,Bristol,Number,Eligible__50-64,33507
+13,2018-19,K,E12000009,South West,00HC,E06000024,North Somerset,%,Coverage_3andhalfyears__25-49,77.09484144381120000000
+13,2018-19,K,E12000009,South West,00HC,E06000024,North Somerset,%,Coverage_5andhalfyears__50-64,77.67303398660380000000
+13,2018-19,K,E12000009,South West,00HC,E06000024,North Somerset,%,Coverage_in_period__25-64,77.30917785543500000000
+13,2018-19,K,E12000009,South West,00HC,E06000024,North Somerset,Number,Eligible__25-49,34215
+13,2018-19,K,E12000009,South West,00HC,E06000024,North Somerset,Number,Eligible__25-64,54370
+13,2018-19,K,E12000009,South West,00HC,E06000024,North Somerset,Number,Eligible__50-64,20155
+13,2018-19,K,E12000009,South West,00HD,E06000025,South Gloucestershire,%,Coverage_3andhalfyears__25-49,77.54686226568870000000
+13,2018-19,K,E12000009,South West,00HD,E06000025,South Gloucestershire,%,Coverage_5andhalfyears__50-64,80.13786470022440000000
+13,2018-19,K,E12000009,South West,00HD,E06000025,South Gloucestershire,%,Coverage_in_period__25-64,78.42014264102010000000
+13,2018-19,K,E12000009,South West,00HD,E06000025,South Gloucestershire,Number,Eligible__25-49,49080
+13,2018-19,K,E12000009,South West,00HD,E06000025,South Gloucestershire,Number,Eligible__25-64,74032
+13,2018-19,K,E12000009,South West,00HD,E06000025,South Gloucestershire,Number,Eligible__50-64,24952
+13,2018-19,K,E12000009,South West,00HE,E06000052,Cornwall,%,Coverage_3andhalfyears__25-49,74.99011348520620000000
+13,2018-19,K,E12000009,South West,00HE,E06000052,Cornwall,%,Coverage_5andhalfyears__50-64,76.14008835684770000000
+13,2018-19,K,E12000009,South West,00HE,E06000052,Cornwall,%,Coverage_in_period__25-64,75.45259809575670000000
+13,2018-19,K,E12000009,South West,00HE,E06000052,Cornwall,Number,Eligible__25-49,83447
+13,2018-19,K,E12000009,South West,00HE,E06000052,Cornwall,Number,Eligible__25-64,139583
+13,2018-19,K,E12000009,South West,00HE,E06000052,Cornwall,Number,Eligible__50-64,56136
+13,2018-19,K,E12000009,South West,00HG,E06000026,Plymouth,%,Coverage_3andhalfyears__25-49,73.10652639249440000000
+13,2018-19,K,E12000009,South West,00HG,E06000026,Plymouth,%,Coverage_5andhalfyears__50-64,75.91782818620750000000
+13,2018-19,K,E12000009,South West,00HG,E06000026,Plymouth,%,Coverage_in_period__25-64,74.04354162871200000000
+13,2018-19,K,E12000009,South West,00HG,E06000026,Plymouth,Number,Eligible__25-49,43914
+13,2018-19,K,E12000009,South West,00HG,E06000026,Plymouth,Number,Eligible__25-64,65868
+13,2018-19,K,E12000009,South West,00HG,E06000026,Plymouth,Number,Eligible__50-64,21954
+13,2018-19,K,E12000009,South West,00HH,E06000027,Torbay,%,Coverage_3andhalfyears__25-49,73.39403642185310000000
+13,2018-19,K,E12000009,South West,00HH,E06000027,Torbay,%,Coverage_5andhalfyears__50-64,75.03963759909400000000
+13,2018-19,K,E12000009,South West,00HH,E06000027,Torbay,%,Coverage_in_period__25-64,74.04989016940990000000
+13,2018-19,K,E12000009,South West,00HH,E06000027,Torbay,Number,Eligible__25-49,19988
+13,2018-19,K,E12000009,South West,00HH,E06000027,Torbay,Number,Eligible__25-64,33233
+13,2018-19,K,E12000009,South West,00HH,E06000027,Torbay,Number,Eligible__50-64,13245
+13,2018-19,K,E12000009,South West,00HQ,E06000058,"Bournemouth, Christchurch and Poole",%,Coverage_3andhalfyears__25-49,71.01137322202510000000
+13,2018-19,K,E12000009,South West,00HQ,E06000058,"Bournemouth, Christchurch and Poole",%,Coverage_5andhalfyears__50-64,75.69547422741560000000
+13,2018-19,K,E12000009,South West,00HQ,E06000058,"Bournemouth, Christchurch and Poole",%,Coverage_in_period__25-64,72.55259768140830000000
+13,2018-19,K,E12000009,South West,00HQ,E06000058,"Bournemouth, Christchurch and Poole",Number,Eligible__25-49,68758
+13,2018-19,K,E12000009,South West,00HQ,E06000058,"Bournemouth, Christchurch and Poole",Number,Eligible__25-64,102476
+13,2018-19,K,E12000009,South West,00HQ,E06000058,"Bournemouth, Christchurch and Poole",Number,Eligible__50-64,33718
+13,2018-19,K,E12000009,South West,00HR,E06000059,Dorset,%,Coverage_3andhalfyears__25-49,77.16632360657060000000
+13,2018-19,K,E12000009,South West,00HR,E06000059,Dorset,%,Coverage_5andhalfyears__50-64,78.63929865084780000000
+13,2018-19,K,E12000009,South West,00HR,E06000059,Dorset,%,Coverage_in_period__25-64,77.80655318760550000000
+13,2018-19,K,E12000009,South West,00HR,E06000059,Dorset,Number,Eligible__25-49,49554
+13,2018-19,K,E12000009,South West,00HR,E06000059,Dorset,Number,Eligible__25-64,87652
+13,2018-19,K,E12000009,South West,00HR,E06000059,Dorset,Number,Eligible__50-64,38098
+13,2018-19,K,E12000009,South West,00HX,E06000030,Swindon,%,Coverage_3andhalfyears__25-49,69.37270242247150000000
+13,2018-19,K,E12000009,South West,00HX,E06000030,Swindon,%,Coverage_5andhalfyears__50-64,74.61319534282020000000
+13,2018-19,K,E12000009,South West,00HX,E06000030,Swindon,%,Coverage_in_period__25-64,71.01245122326390000000
+13,2018-19,K,E12000009,South West,00HX,E06000030,Swindon,Number,Eligible__25-49,42436
+13,2018-19,K,E12000009,South West,00HX,E06000030,Swindon,Number,Eligible__25-64,61761
+13,2018-19,K,E12000009,South West,00HX,E06000030,Swindon,Number,Eligible__50-64,19325
+13,2018-19,K,E12000009,South West,00HY,E06000054,Wiltshire,%,Coverage_3andhalfyears__25-49,75.92256584038210000000
+13,2018-19,K,E12000009,South West,00HY,E06000054,Wiltshire,%,Coverage_5andhalfyears__50-64,77.35708522127740000000
+13,2018-19,K,E12000009,South West,00HY,E06000054,Wiltshire,%,Coverage_in_period__25-64,76.48494975139310000000
+13,2018-19,K,E12000009,South West,00HY,E06000054,Wiltshire,Number,Eligible__25-49,74954
+13,2018-19,K,E12000009,South West,00HY,E06000054,Wiltshire,Number,Eligible__25-64,123287
+13,2018-19,K,E12000009,South West,00HY,E06000054,Wiltshire,Number,Eligible__50-64,48333
+13,2018-19,K,E12000009,South West,00MR,E06000044,Portsmouth,%,Coverage_3andhalfyears__25-49,64.09667154906810000000
+13,2018-19,K,E12000009,South West,00MR,E06000044,Portsmouth,%,Coverage_5andhalfyears__50-64,72.89600194730120000000
+13,2018-19,K,E12000009,South West,00MR,E06000044,Portsmouth,%,Coverage_in_period__25-64,66.67737502454000000000
+13,2018-19,K,E12000009,South West,00MR,E06000044,Portsmouth,Number,Eligible__25-49,39598
+13,2018-19,K,E12000009,South West,00MR,E06000044,Portsmouth,Number,Eligible__25-64,56031
+13,2018-19,K,E12000009,South West,00MR,E06000044,Portsmouth,Number,Eligible__50-64,16433
+13,2018-19,K,E12000009,South West,00MS,E06000045,Southampton,%,Coverage_3andhalfyears__25-49,63.38036673979990000000
+13,2018-19,K,E12000009,South West,00MS,E06000045,Southampton,%,Coverage_5andhalfyears__50-64,71.58246442767440000000
+13,2018-19,K,E12000009,South West,00MS,E06000045,Southampton,%,Coverage_in_period__25-64,65.50417661097850000000
+13,2018-19,K,E12000009,South West,00MS,E06000045,Southampton,Number,Eligible__25-49,49681
+13,2018-19,K,E12000009,South West,00MS,E06000045,Southampton,Number,Eligible__25-64,67040
+13,2018-19,K,E12000009,South West,00MS,E06000045,Southampton,Number,Eligible__50-64,17359
+13,2018-19,K,E12000009,South West,00MW,E06000046,Isle of Wight,%,Coverage_3andhalfyears__25-49,72.35541535226080000000
+13,2018-19,K,E12000009,South West,00MW,E06000046,Isle of Wight,%,Coverage_5andhalfyears__50-64,72.80412371134020000000
+13,2018-19,K,E12000009,South West,00MW,E06000046,Isle of Wight,%,Coverage_in_period__25-64,72.54989574024430000000
+13,2018-19,K,E12000009,South West,00MW,E06000046,Isle of Wight,Number,Eligible__25-49,19020
+13,2018-19,K,E12000009,South West,00MW,E06000046,Isle of Wight,Number,Eligible__25-64,33570
+13,2018-19,K,E12000009,South West,00MW,E06000046,Isle of Wight,Number,Eligible__50-64,14550
+13,2018-19,K,K,South West,K,K,South West,%,Coverage_3andhalfyears__25-49,73.15007325236820000000
+13,2018-19,K,K,South West,K,K,South West,%,Coverage_5andhalfyears__50-64,76.84258727147250000000
+13,2018-19,K,K,South West,K,K,South West,%,Coverage_in_period__25-64,74.47940948491470000000
+13,2018-19,K,K,South West,K,K,South West,Number,Eligible__25-49,1354905
+13,2018-19,K,K,South West,K,K,South West,Number,Eligible__25-64,2117067
+13,2018-19,K,K,South West,K,K,South West,Number,Eligible__50-64,762162
+13,2018-19,S,S,South,S,S,South,%,Coverage_3andhalfyears__25-49,72.50025220551150000000
+13,2018-19,S,S,South,S,S,South,%,Coverage_5andhalfyears__50-64,76.63861067913960000000
+13,2018-19,S,S,South,S,S,South,%,Coverage_in_period__25-64,73.96359807500930000000
+13,2018-19,S,S,South,S,S,South,Number,Eligible__25-49,2428575
+13,2018-19,S,S,South,S,S,South,Number,Eligible__25-64,3757109
+13,2018-19,S,S,South,S,S,South,Number,Eligible__50-64,1328534
+13,2019-20,A,E12000001,North East,00CH,E08000037,Gateshead,%,Coverage_3andhalfyears__25-49,75.71870721980840000000
+13,2019-20,A,E12000001,North East,00CH,E08000037,Gateshead,%,Coverage_5andhalfyears__50-64,76.08521544129430000000
+13,2019-20,A,E12000001,North East,00CH,E08000037,Gateshead,%,Coverage_in_period__25-64,75.84987865701020000000
+13,2019-20,A,E12000001,North East,00CH,E08000037,Gateshead,Number,Eligible__25-49,33602
+13,2019-20,A,E12000001,North East,00CH,E08000037,Gateshead,Number,Eligible__25-64,52331
+13,2019-20,A,E12000001,North East,00CH,E08000037,Gateshead,Number,Eligible__50-64,18729
+13,2019-20,A,E12000001,North East,00CJ,E08000021,Newcastle upon Tyne,%,Coverage_3andhalfyears__25-49,64.98123711703460000000
+13,2019-20,A,E12000001,North East,00CJ,E08000021,Newcastle upon Tyne,%,Coverage_5andhalfyears__50-64,75.74662191238490000000
+13,2019-20,A,E12000001,North East,00CJ,E08000021,Newcastle upon Tyne,%,Coverage_in_period__25-64,68.10835135439190000000
+13,2019-20,A,E12000001,North East,00CJ,E08000021,Newcastle upon Tyne,Number,Eligible__25-49,56761
+13,2019-20,A,E12000001,North East,00CJ,E08000021,Newcastle upon Tyne,Number,Eligible__25-64,79999
+13,2019-20,A,E12000001,North East,00CJ,E08000021,Newcastle upon Tyne,Number,Eligible__50-64,23238
+13,2019-20,A,E12000001,North East,00CK,E08000022,North Tyneside,%,Coverage_3andhalfyears__25-49,77.92498183241100000000
+13,2019-20,A,E12000001,North East,00CK,E08000022,North Tyneside,%,Coverage_5andhalfyears__50-64,76.20889748549320000000
+13,2019-20,A,E12000001,North East,00CK,E08000022,North Tyneside,%,Coverage_in_period__25-64,77.30644786471460000000
+13,2019-20,A,E12000001,North East,00CK,E08000022,North Tyneside,Number,Eligible__25-49,35778
+13,2019-20,A,E12000001,North East,00CK,E08000022,North Tyneside,Number,Eligible__25-64,55941
+13,2019-20,A,E12000001,North East,00CK,E08000022,North Tyneside,Number,Eligible__50-64,20163
+13,2019-20,A,E12000001,North East,00CL,E08000023,South Tyneside,%,Coverage_3andhalfyears__25-49,77.20665854648800000000
+13,2019-20,A,E12000001,North East,00CL,E08000023,South Tyneside,%,Coverage_5andhalfyears__50-64,75.95422462824640000000
+13,2019-20,A,E12000001,North East,00CL,E08000023,South Tyneside,%,Coverage_in_period__25-64,76.74068786171380000000
+13,2019-20,A,E12000001,North East,00CL,E08000023,South Tyneside,Number,Eligible__25-49,24630
+13,2019-20,A,E12000001,North East,00CL,E08000023,South Tyneside,Number,Eligible__25-64,39223
+13,2019-20,A,E12000001,North East,00CL,E08000023,South Tyneside,Number,Eligible__50-64,14593
+13,2019-20,A,E12000001,North East,00CM,E08000024,Sunderland,%,Coverage_3andhalfyears__25-49,76.89877498388140000000
+13,2019-20,A,E12000001,North East,00CM,E08000024,Sunderland,%,Coverage_5andhalfyears__50-64,77.50458043239280000000
+13,2019-20,A,E12000001,North East,00CM,E08000024,Sunderland,%,Coverage_in_period__25-64,77.12273096721760000000
+13,2019-20,A,E12000001,North East,00CM,E08000024,Sunderland,Number,Eligible__25-49,46530
+13,2019-20,A,E12000001,North East,00CM,E08000024,Sunderland,Number,Eligible__25-64,73820
+13,2019-20,A,E12000001,North East,00CM,E08000024,Sunderland,Number,Eligible__50-64,27290
+13,2019-20,A,E12000001,North East,00EB,E06000001,Hartlepool,%,Coverage_3andhalfyears__25-49,75.41577253218880000000
+13,2019-20,A,E12000001,North East,00EB,E06000001,Hartlepool,%,Coverage_5andhalfyears__50-64,72.33400402414490000000
+13,2019-20,A,E12000001,North East,00EB,E06000001,Hartlepool,%,Coverage_in_period__25-64,74.26020622013580000000
+13,2019-20,A,E12000001,North East,00EB,E06000001,Hartlepool,Number,Eligible__25-49,14912
+13,2019-20,A,E12000001,North East,00EB,E06000001,Hartlepool,Number,Eligible__25-64,23858
+13,2019-20,A,E12000001,North East,00EB,E06000001,Hartlepool,Number,Eligible__50-64,8946
+13,2019-20,A,E12000001,North East,00EC,E06000002,Middlesbrough,%,Coverage_3andhalfyears__25-49,67.28164867517170000000
+13,2019-20,A,E12000001,North East,00EC,E06000002,Middlesbrough,%,Coverage_5andhalfyears__50-64,71.92913385826770000000
+13,2019-20,A,E12000001,North East,00EC,E06000002,Middlesbrough,%,Coverage_in_period__25-64,68.82776686313030000000
+13,2019-20,A,E12000001,North East,00EC,E06000002,Middlesbrough,Number,Eligible__25-49,25475
+13,2019-20,A,E12000001,North East,00EC,E06000002,Middlesbrough,Number,Eligible__25-64,38175
+13,2019-20,A,E12000001,North East,00EC,E06000002,Middlesbrough,Number,Eligible__50-64,12700
+13,2019-20,A,E12000001,North East,00EE,E06000003,Redcar and Cleveland,%,Coverage_3andhalfyears__25-49,77.52132221847440000000
+13,2019-20,A,E12000001,North East,00EE,E06000003,Redcar and Cleveland,%,Coverage_5andhalfyears__50-64,76.31998839570640000000
+13,2019-20,A,E12000001,North East,00EE,E06000003,Redcar and Cleveland,%,Coverage_in_period__25-64,77.04177643959350000000
+13,2019-20,A,E12000001,North East,00EE,E06000003,Redcar and Cleveland,Number,Eligible__25-49,20753
+13,2019-20,A,E12000001,North East,00EE,E06000003,Redcar and Cleveland,Number,Eligible__25-64,34541
+13,2019-20,A,E12000001,North East,00EE,E06000003,Redcar and Cleveland,Number,Eligible__50-64,13788
+13,2019-20,A,E12000001,North East,00EF,E06000004,Stockton-on-Tees,%,Coverage_3andhalfyears__25-49,75.90625578953870000000
+13,2019-20,A,E12000001,North East,00EF,E06000004,Stockton-on-Tees,%,Coverage_5andhalfyears__50-64,75.42409981394330000000
+13,2019-20,A,E12000001,North East,00EF,E06000004,Stockton-on-Tees,%,Coverage_in_period__25-64,75.73233320173710000000
+13,2019-20,A,E12000001,North East,00EF,E06000004,Stockton-on-Tees,Number,Eligible__25-49,32386
+13,2019-20,A,E12000001,North East,00EF,E06000004,Stockton-on-Tees,Number,Eligible__25-64,50660
+13,2019-20,A,E12000001,North East,00EF,E06000004,Stockton-on-Tees,Number,Eligible__50-64,18274
+13,2019-20,A,E12000001,North East,00EH,E06000005,Darlington,%,Coverage_3andhalfyears__25-49,77.27923081325470000000
+13,2019-20,A,E12000001,North East,00EH,E06000005,Darlington,%,Coverage_5andhalfyears__50-64,77.98274323118120000000
+13,2019-20,A,E12000001,North East,00EH,E06000005,Darlington,%,Coverage_in_period__25-64,77.53665263463490000000
+13,2019-20,A,E12000001,North East,00EH,E06000005,Darlington,Number,Eligible__25-49,17473
+13,2019-20,A,E12000001,North East,00EH,E06000005,Darlington,Number,Eligible__25-64,27556
+13,2019-20,A,E12000001,North East,00EH,E06000005,Darlington,Number,Eligible__50-64,10083
+13,2019-20,A,E12000001,North East,00EJ,E06000047,County Durham,%,Coverage_3andhalfyears__25-49,76.90675887777120000000
+13,2019-20,A,E12000001,North East,00EJ,E06000047,County Durham,%,Coverage_5andhalfyears__50-64,77.39154343172490000000
+13,2019-20,A,E12000001,North East,00EJ,E06000047,County Durham,%,Coverage_in_period__25-64,77.09309962180400000000
+13,2019-20,A,E12000001,North East,00EJ,E06000047,County Durham,Number,Eligible__25-49,81552
+13,2019-20,A,E12000001,North East,00EJ,E06000047,County Durham,Number,Eligible__25-64,132471
+13,2019-20,A,E12000001,North East,00EJ,E06000047,County Durham,Number,Eligible__50-64,50919
+13,2019-20,A,E12000001,North East,00EM,E06000057,Northumberland,%,Coverage_3andhalfyears__25-49,78.44278497693830000000
+13,2019-20,A,E12000001,North East,00EM,E06000057,Northumberland,%,Coverage_5andhalfyears__50-64,78.57335531245320000000
+13,2019-20,A,E12000001,North East,00EM,E06000057,Northumberland,%,Coverage_in_period__25-64,78.49800367577160000000
+13,2019-20,A,E12000001,North East,00EM,E06000057,Northumberland,Number,Eligible__25-49,45530
+13,2019-20,A,E12000001,North East,00EM,E06000057,Northumberland,Number,Eligible__25-64,78895
+13,2019-20,A,E12000001,North East,00EM,E06000057,Northumberland,Number,Eligible__50-64,33365
+13,2019-20,A,A,North East,A,A,North East,%,Coverage_3andhalfyears__25-49,74.87631551143590000000
+13,2019-20,A,A,North East,A,A,North East,%,Coverage_5andhalfyears__50-64,76.50145980768620000000
+13,2019-20,A,A,North East,A,A,North East,%,Coverage_in_period__25-64,75.47223878860170000000
+13,2019-20,A,A,North East,A,A,North East,Number,Eligible__25-49,435382
+13,2019-20,A,A,North East,A,A,North East,Number,Eligible__25-64,687470
+13,2019-20,A,A,North East,A,A,North East,Number,Eligible__50-64,252088
+13,2019-20,B,E12000002,North West,16,E10000006,Cumbria,%,Coverage_3andhalfyears__25-49,78.85866230312950000000
+13,2019-20,B,E12000002,North West,16,E10000006,Cumbria,%,Coverage_5andhalfyears__50-64,78.91951616655040000000
+13,2019-20,B,E12000002,North West,16,E10000006,Cumbria,%,Coverage_in_period__25-64,78.88379241612830000000
+13,2019-20,B,E12000002,North West,16,E10000006,Cumbria,Number,Eligible__25-49,73335
+13,2019-20,B,E12000002,North West,16,E10000006,Cumbria,Number,Eligible__25-64,124923
+13,2019-20,B,E12000002,North West,16,E10000006,Cumbria,Number,Eligible__50-64,51588
+13,2019-20,B,E12000002,North West,30,E10000017,Lancashire,%,Coverage_3andhalfyears__25-49,73.13947335265210000000
+13,2019-20,B,E12000002,North West,30,E10000017,Lancashire,%,Coverage_5andhalfyears__50-64,77.03637093817110000000
+13,2019-20,B,E12000002,North West,30,E10000017,Lancashire,%,Coverage_in_period__25-64,74.56568903430710000000
+13,2019-20,B,E12000002,North West,30,E10000017,Lancashire,Number,Eligible__25-49,198425
+13,2019-20,B,E12000002,North West,30,E10000017,Lancashire,Number,Eligible__25-64,312967
+13,2019-20,B,E12000002,North West,30,E10000017,Lancashire,Number,Eligible__50-64,114542
+13,2019-20,B,E12000002,North West,00BL,E08000001,Bolton,%,Coverage_3andhalfyears__25-49,70.69599173079130000000
+13,2019-20,B,E12000002,North West,00BL,E08000001,Bolton,%,Coverage_5andhalfyears__50-64,76.07297392117880000000
+13,2019-20,B,E12000002,North West,00BL,E08000001,Bolton,%,Coverage_in_period__25-64,72.46678220681690000000
+13,2019-20,B,E12000002,North West,00BL,E08000001,Bolton,Number,Eligible__25-49,52242
+13,2019-20,B,E12000002,North West,00BL,E08000001,Bolton,Number,Eligible__25-64,77895
+13,2019-20,B,E12000002,North West,00BL,E08000001,Bolton,Number,Eligible__50-64,25653
+13,2019-20,B,E12000002,North West,00BM,E08000002,Bury,%,Coverage_3andhalfyears__25-49,72.58354606637270000000
+13,2019-20,B,E12000002,North West,00BM,E08000002,Bury,%,Coverage_5andhalfyears__50-64,76.00246761258480000000
+13,2019-20,B,E12000002,North West,00BM,E08000002,Bury,%,Coverage_in_period__25-64,73.74911572949930000000
+13,2019-20,B,E12000002,North West,00BM,E08000002,Bury,Number,Eligible__25-49,34472
+13,2019-20,B,E12000002,North West,00BM,E08000002,Bury,Number,Eligible__25-64,52303
+13,2019-20,B,E12000002,North West,00BM,E08000002,Bury,Number,Eligible__50-64,17831
+13,2019-20,B,E12000002,North West,00BN,E08000003,Manchester,%,Coverage_3andhalfyears__25-49,61.25534454007320000000
+13,2019-20,B,E12000002,North West,00BN,E08000003,Manchester,%,Coverage_5andhalfyears__50-64,70.69916337126410000000
+13,2019-20,B,E12000002,North West,00BN,E08000003,Manchester,%,Coverage_in_period__25-64,63.39979475150270000000
+13,2019-20,B,E12000002,North West,00BN,E08000003,Manchester,Number,Eligible__25-49,126531
+13,2019-20,B,E12000002,North West,00BN,E08000003,Manchester,Number,Eligible__25-64,163704
+13,2019-20,B,E12000002,North West,00BN,E08000003,Manchester,Number,Eligible__50-64,37173
+13,2019-20,B,E12000002,North West,00BP,E08000004,Oldham,%,Coverage_3andhalfyears__25-49,70.47982654600300000000
+13,2019-20,B,E12000002,North West,00BP,E08000004,Oldham,%,Coverage_5andhalfyears__50-64,76.19071824327760000000
+13,2019-20,B,E12000002,North West,00BP,E08000004,Oldham,%,Coverage_in_period__25-64,72.28886563078660000000
+13,2019-20,B,E12000002,North West,00BP,E08000004,Oldham,Number,Eligible__25-49,42432
+13,2019-20,B,E12000002,North West,00BP,E08000004,Oldham,Number,Eligible__25-64,62105
+13,2019-20,B,E12000002,North West,00BP,E08000004,Oldham,Number,Eligible__50-64,19673
+13,2019-20,B,E12000002,North West,00BQ,E08000005,Rochdale,%,Coverage_3andhalfyears__25-49,73.27736535299690000000
+13,2019-20,B,E12000002,North West,00BQ,E08000005,Rochdale,%,Coverage_5andhalfyears__50-64,77.36947894655470000000
+13,2019-20,B,E12000002,North West,00BQ,E08000005,Rochdale,%,Coverage_in_period__25-64,74.61079855571420000000
+13,2019-20,B,E12000002,North West,00BQ,E08000005,Rochdale,Number,Eligible__25-49,40142
+13,2019-20,B,E12000002,North West,00BQ,E08000005,Rochdale,Number,Eligible__25-64,59545
+13,2019-20,B,E12000002,North West,00BQ,E08000005,Rochdale,Number,Eligible__50-64,19403
+13,2019-20,B,E12000002,North West,00BR,E08000006,Salford,%,Coverage_3andhalfyears__25-49,67.99032378116860000000
+13,2019-20,B,E12000002,North West,00BR,E08000006,Salford,%,Coverage_5andhalfyears__50-64,72.45564412445360000000
+13,2019-20,B,E12000002,North West,00BR,E08000006,Salford,%,Coverage_in_period__25-64,69.17674386827900000000
+13,2019-20,B,E12000002,North West,00BR,E08000006,Salford,Number,Eligible__25-49,53740
+13,2019-20,B,E12000002,North West,00BR,E08000006,Salford,Number,Eligible__25-64,73185
+13,2019-20,B,E12000002,North West,00BR,E08000006,Salford,Number,Eligible__50-64,19445
+13,2019-20,B,E12000002,North West,00BS,E08000007,Stockport,%,Coverage_3andhalfyears__25-49,78.00992527082090000000
+13,2019-20,B,E12000002,North West,00BS,E08000007,Stockport,%,Coverage_5andhalfyears__50-64,78.61571371596390000000
+13,2019-20,B,E12000002,North West,00BS,E08000007,Stockport,%,Coverage_in_period__25-64,78.22044148775330000000
+13,2019-20,B,E12000002,North West,00BS,E08000007,Stockport,Number,Eligible__25-49,51787
+13,2019-20,B,E12000002,North West,00BS,E08000007,Stockport,Number,Eligible__25-64,79368
+13,2019-20,B,E12000002,North West,00BS,E08000007,Stockport,Number,Eligible__50-64,27581
+13,2019-20,B,E12000002,North West,00BT,E08000008,Tameside,%,Coverage_3andhalfyears__25-49,73.51839612249390000000
+13,2019-20,B,E12000002,North West,00BT,E08000008,Tameside,%,Coverage_5andhalfyears__50-64,74.83379901724640000000
+13,2019-20,B,E12000002,North West,00BT,E08000008,Tameside,%,Coverage_in_period__25-64,73.96159651998900000000
+13,2019-20,B,E12000002,North West,00BT,E08000008,Tameside,Number,Eligible__25-49,40851
+13,2019-20,B,E12000002,North West,00BT,E08000008,Tameside,Number,Eligible__25-64,61609
+13,2019-20,B,E12000002,North West,00BT,E08000008,Tameside,Number,Eligible__50-64,20758
+13,2019-20,B,E12000002,North West,00BU,E08000009,Trafford,%,Coverage_3andhalfyears__25-49,75.55981941309260000000
+13,2019-20,B,E12000002,North West,00BU,E08000009,Trafford,%,Coverage_5andhalfyears__50-64,78.71160409556310000000
+13,2019-20,B,E12000002,North West,00BU,E08000009,Trafford,%,Coverage_in_period__25-64,76.57654902440520000000
+13,2019-20,B,E12000002,North West,00BU,E08000009,Trafford,Number,Eligible__25-49,44300
+13,2019-20,B,E12000002,North West,00BU,E08000009,Trafford,Number,Eligible__25-64,65396
+13,2019-20,B,E12000002,North West,00BU,E08000009,Trafford,Number,Eligible__50-64,21096
+13,2019-20,B,E12000002,North West,00BW,E08000010,Wigan,%,Coverage_3andhalfyears__25-49,76.80977286588180000000
+13,2019-20,B,E12000002,North West,00BW,E08000010,Wigan,%,Coverage_5andhalfyears__50-64,75.93890574327860000000
+13,2019-20,B,E12000002,North West,00BW,E08000010,Wigan,%,Coverage_in_period__25-64,76.50810523518470000000
+13,2019-20,B,E12000002,North West,00BW,E08000010,Wigan,Number,Eligible__25-49,54109
+13,2019-20,B,E12000002,North West,00BW,E08000010,Wigan,Number,Eligible__25-64,82786
+13,2019-20,B,E12000002,North West,00BW,E08000010,Wigan,Number,Eligible__50-64,28677
+13,2019-20,B,E12000002,North West,00BX,E08000011,Knowsley,%,Coverage_3andhalfyears__25-49,74.76792020095380000000
+13,2019-20,B,E12000002,North West,00BX,E08000011,Knowsley,%,Coverage_5andhalfyears__50-64,73.38138756596730000000
+13,2019-20,B,E12000002,North West,00BX,E08000011,Knowsley,%,Coverage_in_period__25-64,74.26697979398700000000
+13,2019-20,B,E12000002,North West,00BX,E08000011,Knowsley,Number,Eligible__25-49,27469
+13,2019-20,B,E12000002,North West,00BX,E08000011,Knowsley,Number,Eligible__25-64,43007
+13,2019-20,B,E12000002,North West,00BX,E08000011,Knowsley,Number,Eligible__50-64,15538
+13,2019-20,B,E12000002,North West,00BY,E08000012,Liverpool,%,Coverage_3andhalfyears__25-49,65.85105119372850000000
+13,2019-20,B,E12000002,North West,00BY,E08000012,Liverpool,%,Coverage_5andhalfyears__50-64,69.38895141624460000000
+13,2019-20,B,E12000002,North West,00BY,E08000012,Liverpool,%,Coverage_in_period__25-64,66.96658952956220000000
+13,2019-20,B,E12000002,North West,00BY,E08000012,Liverpool,Number,Eligible__25-49,92609
+13,2019-20,B,E12000002,North West,00BY,E08000012,Liverpool,Number,Eligible__25-64,135257
+13,2019-20,B,E12000002,North West,00BY,E08000012,Liverpool,Number,Eligible__50-64,42648
+13,2019-20,B,E12000002,North West,00BZ,E08000013,St. Helens,%,Coverage_3andhalfyears__25-49,74.98991528842280000000
+13,2019-20,B,E12000002,North West,00BZ,E08000013,St. Helens,%,Coverage_5andhalfyears__50-64,75.70376529279010000000
+13,2019-20,B,E12000002,North West,00BZ,E08000013,St. Helens,%,Coverage_in_period__25-64,75.24792856222900000000
+13,2019-20,B,E12000002,North West,00BZ,E08000013,St. Helens,Number,Eligible__25-49,29748
+13,2019-20,B,E12000002,North West,00BZ,E08000013,St. Helens,Number,Eligible__25-64,46586
+13,2019-20,B,E12000002,North West,00BZ,E08000013,St. Helens,Number,Eligible__50-64,16838
+13,2019-20,B,E12000002,North West,00CA,E08000014,Sefton,%,Coverage_3andhalfyears__25-49,74.28171149031950000000
+13,2019-20,B,E12000002,North West,00CA,E08000014,Sefton,%,Coverage_5andhalfyears__50-64,73.45842633928570000000
+13,2019-20,B,E12000002,North West,00CA,E08000014,Sefton,%,Coverage_in_period__25-64,73.95482807804690000000
+13,2019-20,B,E12000002,North West,00CA,E08000014,Sefton,Number,Eligible__25-49,43541
+13,2019-20,B,E12000002,North West,00CA,E08000014,Sefton,Number,Eligible__25-64,72213
+13,2019-20,B,E12000002,North West,00CA,E08000014,Sefton,Number,Eligible__50-64,28672
+13,2019-20,B,E12000002,North West,00CB,E08000015,Wirral,%,Coverage_3andhalfyears__25-49,74.89592167142090000000
+13,2019-20,B,E12000002,North West,00CB,E08000015,Wirral,%,Coverage_5andhalfyears__50-64,73.73642830400600000000
+13,2019-20,B,E12000002,North West,00CB,E08000015,Wirral,%,Coverage_in_period__25-64,74.45315478459780000000
+13,2019-20,B,E12000002,North West,00CB,E08000015,Wirral,Number,Eligible__25-49,51884
+13,2019-20,B,E12000002,North West,00CB,E08000015,Wirral,Number,Eligible__25-64,83936
+13,2019-20,B,E12000002,North West,00CB,E08000015,Wirral,Number,Eligible__50-64,32052
+13,2019-20,B,E12000002,North West,00EQ,E06000049,Cheshire East,%,Coverage_3andhalfyears__25-49,76.03357514283880000000
+13,2019-20,B,E12000002,North West,00EQ,E06000049,Cheshire East,%,Coverage_5andhalfyears__50-64,77.96014067995310000000
+13,2019-20,B,E12000002,North West,00EQ,E06000049,Cheshire East,%,Coverage_in_period__25-64,76.77801193547750000000
+13,2019-20,B,E12000002,North West,00EQ,E06000049,Cheshire East,Number,Eligible__25-49,62308
+13,2019-20,B,E12000002,North West,00EQ,E06000049,Cheshire East,Number,Eligible__25-64,101546
+13,2019-20,B,E12000002,North West,00EQ,E06000049,Cheshire East,Number,Eligible__50-64,39238
+13,2019-20,B,E12000002,North West,00ET,E06000006,Halton,%,Coverage_3andhalfyears__25-49,73.77925519967660000000
+13,2019-20,B,E12000002,North West,00ET,E06000006,Halton,%,Coverage_5andhalfyears__50-64,73.75869120654400000000
+13,2019-20,B,E12000002,North West,00ET,E06000006,Halton,%,Coverage_in_period__25-64,73.77196543524910000000
+13,2019-20,B,E12000002,North West,00ET,E06000006,Halton,Number,Eligible__25-49,22261
+13,2019-20,B,E12000002,North West,00ET,E06000006,Halton,Number,Eligible__25-64,34486
+13,2019-20,B,E12000002,North West,00ET,E06000006,Halton,Number,Eligible__50-64,12225
+13,2019-20,B,E12000002,North West,00EU,E06000007,Warrington,%,Coverage_3andhalfyears__25-49,76.09600176352260000000
+13,2019-20,B,E12000002,North West,00EU,E06000007,Warrington,%,Coverage_5andhalfyears__50-64,77.46665358964300000000
+13,2019-20,B,E12000002,North West,00EU,E06000007,Warrington,%,Coverage_in_period__25-64,76.58910078859620000000
+13,2019-20,B,E12000002,North West,00EU,E06000007,Warrington,Number,Eligible__25-49,36291
+13,2019-20,B,E12000002,North West,00EU,E06000007,Warrington,Number,Eligible__25-64,56683
+13,2019-20,B,E12000002,North West,00EU,E06000007,Warrington,Number,Eligible__50-64,20392
+13,2019-20,B,E12000002,North West,00EW,E06000050,Cheshire West and Chester,%,Coverage_3andhalfyears__25-49,75.90273682750010000000
+13,2019-20,B,E12000002,North West,00EW,E06000050,Cheshire West and Chester,%,Coverage_5andhalfyears__50-64,77.66851889564480000000
+13,2019-20,B,E12000002,North West,00EW,E06000050,Cheshire West and Chester,%,Coverage_in_period__25-64,76.56224533037780000000
+13,2019-20,B,E12000002,North West,00EW,E06000050,Cheshire West and Chester,Number,Eligible__25-49,57658
+13,2019-20,B,E12000002,North West,00EW,E06000050,Cheshire West and Chester,Number,Eligible__25-64,92031
+13,2019-20,B,E12000002,North West,00EW,E06000050,Cheshire West and Chester,Number,Eligible__50-64,34373
+13,2019-20,B,E12000002,North West,00EX,E06000008,Blackburn with Darwen,%,Coverage_3andhalfyears__25-49,67.76823724655460000000
+13,2019-20,B,E12000002,North West,00EX,E06000008,Blackburn with Darwen,%,Coverage_5andhalfyears__50-64,75.16245487364620000000
+13,2019-20,B,E12000002,North West,00EX,E06000008,Blackburn with Darwen,%,Coverage_in_period__25-64,70.06196650324760000000
+13,2019-20,B,E12000002,North West,00EX,E06000008,Blackburn with Darwen,Number,Eligible__25-49,27718
+13,2019-20,B,E12000002,North West,00EX,E06000008,Blackburn with Darwen,Number,Eligible__25-64,40183
+13,2019-20,B,E12000002,North West,00EX,E06000008,Blackburn with Darwen,Number,Eligible__50-64,12465
+13,2019-20,B,E12000002,North West,00EY,E06000009,Blackpool,%,Coverage_3andhalfyears__25-49,70.13299556681440000000
+13,2019-20,B,E12000002,North West,00EY,E06000009,Blackpool,%,Coverage_5andhalfyears__50-64,70.87927824717170000000
+13,2019-20,B,E12000002,North West,00EY,E06000009,Blackpool,%,Coverage_in_period__25-64,70.40981647233810000000
+13,2019-20,B,E12000002,North West,00EY,E06000009,Blackpool,Number,Eligible__25-49,23685
+13,2019-20,B,E12000002,North West,00EY,E06000009,Blackpool,Number,Eligible__25-64,37651
+13,2019-20,B,E12000002,North West,00EY,E06000009,Blackpool,Number,Eligible__50-64,13966
+13,2019-20,B,B,North West,B,B,North West,%,Coverage_3andhalfyears__25-49,72.18039389905390000000
+13,2019-20,B,B,North West,B,B,North West,%,Coverage_5andhalfyears__50-64,75.58433942071400000000
+13,2019-20,B,B,North West,B,B,North West,%,Coverage_in_period__25-64,73.34753861582710000000
+13,2019-20,B,B,North West,B,B,North West,Number,Eligible__25-49,1287538
+13,2019-20,B,B,North West,B,B,North West,Number,Eligible__25-64,1959365
+13,2019-20,B,B,North West,B,B,North West,Number,Eligible__50-64,671827
+13,2019-20,D,E12000003,Yorkshire and The Humber,36,E10000023,North Yorkshire,%,Coverage_3andhalfyears__25-49,78.46179985274960000000
+13,2019-20,D,E12000003,Yorkshire and The Humber,36,E10000023,North Yorkshire,%,Coverage_5andhalfyears__50-64,79.43467240187420000000
+13,2019-20,D,E12000003,Yorkshire and The Humber,36,E10000023,North Yorkshire,%,Coverage_in_period__25-64,78.87469031164430000000
+13,2019-20,D,E12000003,Yorkshire and The Humber,36,E10000023,North Yorkshire,Number,Eligible__25-49,88285
+13,2019-20,D,E12000003,Yorkshire and The Humber,36,E10000023,North Yorkshire,Number,Eligible__25-64,153380
+13,2019-20,D,E12000003,Yorkshire and The Humber,36,E10000023,North Yorkshire,Number,Eligible__50-64,65095
+13,2019-20,D,E12000003,Yorkshire and The Humber,00CC,E08000016,Barnsley,%,Coverage_3andhalfyears__25-49,75.97326281768770000000
+13,2019-20,D,E12000003,Yorkshire and The Humber,00CC,E08000016,Barnsley,%,Coverage_5andhalfyears__50-64,78.40067696213240000000
+13,2019-20,D,E12000003,Yorkshire and The Humber,00CC,E08000016,Barnsley,%,Coverage_in_period__25-64,76.86306745040870000000
+13,2019-20,D,E12000003,Yorkshire and The Humber,00CC,E08000016,Barnsley,Number,Eligible__25-49,40842
+13,2019-20,D,E12000003,Yorkshire and The Humber,00CC,E08000016,Barnsley,Number,Eligible__25-64,64477
+13,2019-20,D,E12000003,Yorkshire and The Humber,00CC,E08000016,Barnsley,Number,Eligible__50-64,23635
+13,2019-20,D,E12000003,Yorkshire and The Humber,00CE,E08000017,Doncaster,%,Coverage_3andhalfyears__25-49,73.43850423605020000000
+13,2019-20,D,E12000003,Yorkshire and The Humber,00CE,E08000017,Doncaster,%,Coverage_5andhalfyears__50-64,76.21051155289080000000
+13,2019-20,D,E12000003,Yorkshire and The Humber,00CE,E08000017,Doncaster,%,Coverage_in_period__25-64,74.42841759947910000000
+13,2019-20,D,E12000003,Yorkshire and The Humber,00CE,E08000017,Doncaster,Number,Eligible__25-49,51345
+13,2019-20,D,E12000003,Yorkshire and The Humber,00CE,E08000017,Doncaster,Number,Eligible__25-64,79866
+13,2019-20,D,E12000003,Yorkshire and The Humber,00CE,E08000017,Doncaster,Number,Eligible__50-64,28521
+13,2019-20,D,E12000003,Yorkshire and The Humber,00CF,E08000018,Rotherham,%,Coverage_3andhalfyears__25-49,76.39202794329160000000
+13,2019-20,D,E12000003,Yorkshire and The Humber,00CF,E08000018,Rotherham,%,Coverage_5andhalfyears__50-64,78.28334632585240000000
+13,2019-20,D,E12000003,Yorkshire and The Humber,00CF,E08000018,Rotherham,%,Coverage_in_period__25-64,77.06817648439330000000
+13,2019-20,D,E12000003,Yorkshire and The Humber,00CF,E08000018,Rotherham,Number,Eligible__25-49,43803
+13,2019-20,D,E12000003,Yorkshire and The Humber,00CF,E08000018,Rotherham,Number,Eligible__25-64,68176
+13,2019-20,D,E12000003,Yorkshire and The Humber,00CF,E08000018,Rotherham,Number,Eligible__50-64,24373
+13,2019-20,D,E12000003,Yorkshire and The Humber,00CG,E08000019,Sheffield,%,Coverage_3andhalfyears__25-49,71.21140822881930000000
+13,2019-20,D,E12000003,Yorkshire and The Humber,00CG,E08000019,Sheffield,%,Coverage_5andhalfyears__50-64,76.98381623596970000000
+13,2019-20,D,E12000003,Yorkshire and The Humber,00CG,E08000019,Sheffield,%,Coverage_in_period__25-64,73.05776268733560000000
+13,2019-20,D,E12000003,Yorkshire and The Humber,00CG,E08000019,Sheffield,Number,Eligible__25-49,97754
+13,2019-20,D,E12000003,Yorkshire and The Humber,00CG,E08000019,Sheffield,Number,Eligible__25-64,143726
+13,2019-20,D,E12000003,Yorkshire and The Humber,00CG,E08000019,Sheffield,Number,Eligible__50-64,45972
+13,2019-20,D,E12000003,Yorkshire and The Humber,00CX,E08000032,Bradford,%,Coverage_3andhalfyears__25-49,66.99535962877030000000
+13,2019-20,D,E12000003,Yorkshire and The Humber,00CX,E08000032,Bradford,%,Coverage_5andhalfyears__50-64,76.07647777854660000000
+13,2019-20,D,E12000003,Yorkshire and The Humber,00CX,E08000032,Bradford,%,Coverage_in_period__25-64,69.74210155492460000000
+13,2019-20,D,E12000003,Yorkshire and The Humber,00CX,E08000032,Bradford,Number,Eligible__25-49,99992
+13,2019-20,D,E12000003,Yorkshire and The Humber,00CX,E08000032,Bradford,Number,Eligible__25-64,143351
+13,2019-20,D,E12000003,Yorkshire and The Humber,00CX,E08000032,Bradford,Number,Eligible__50-64,43359
+13,2019-20,D,E12000003,Yorkshire and The Humber,00CY,E08000033,Calderdale,%,Coverage_3andhalfyears__25-49,74.52711223203030000000
+13,2019-20,D,E12000003,Yorkshire and The Humber,00CY,E08000033,Calderdale,%,Coverage_5andhalfyears__50-64,78.78250591016550000000
+13,2019-20,D,E12000003,Yorkshire and The Humber,00CY,E08000033,Calderdale,%,Coverage_in_period__25-64,76.07029952312060000000
+13,2019-20,D,E12000003,Yorkshire and The Humber,00CY,E08000033,Calderdale,Number,Eligible__25-49,35685
+13,2019-20,D,E12000003,Yorkshire and The Humber,00CY,E08000033,Calderdale,Number,Eligible__25-64,55989
+13,2019-20,D,E12000003,Yorkshire and The Humber,00CY,E08000033,Calderdale,Number,Eligible__50-64,20304
+13,2019-20,D,E12000003,Yorkshire and The Humber,00CZ,E08000034,Kirklees,%,Coverage_3andhalfyears__25-49,72.97492864512840000000
+13,2019-20,D,E12000003,Yorkshire and The Humber,00CZ,E08000034,Kirklees,%,Coverage_5andhalfyears__50-64,79.59785103275610000000
+13,2019-20,D,E12000003,Yorkshire and The Humber,00CZ,E08000034,Kirklees,%,Coverage_in_period__25-64,75.22284480087810000000
+13,2019-20,D,E12000003,Yorkshire and The Humber,00CZ,E08000034,Kirklees,Number,Eligible__25-49,74627
+13,2019-20,D,E12000003,Yorkshire and The Humber,00CZ,E08000034,Kirklees,Number,Eligible__25-64,112971
+13,2019-20,D,E12000003,Yorkshire and The Humber,00CZ,E08000034,Kirklees,Number,Eligible__50-64,38344
+13,2019-20,D,E12000003,Yorkshire and The Humber,00DA,E08000035,Leeds,%,Coverage_3andhalfyears__25-49,70.91161653341190000000
+13,2019-20,D,E12000003,Yorkshire and The Humber,00DA,E08000035,Leeds,%,Coverage_5andhalfyears__50-64,77.12997463756770000000
+13,2019-20,D,E12000003,Yorkshire and The Humber,00DA,E08000035,Leeds,%,Coverage_in_period__25-64,72.71628553643720000000
+13,2019-20,D,E12000003,Yorkshire and The Humber,00DA,E08000035,Leeds,Number,Eligible__25-49,156217
+13,2019-20,D,E12000003,Yorkshire and The Humber,00DA,E08000035,Leeds,Number,Eligible__25-64,220091
+13,2019-20,D,E12000003,Yorkshire and The Humber,00DA,E08000035,Leeds,Number,Eligible__50-64,63874
+13,2019-20,D,E12000003,Yorkshire and The Humber,00DB,E08000036,Wakefield,%,Coverage_3andhalfyears__25-49,74.77343633932550000000
+13,2019-20,D,E12000003,Yorkshire and The Humber,00DB,E08000036,Wakefield,%,Coverage_5andhalfyears__50-64,77.38201520795490000000
+13,2019-20,D,E12000003,Yorkshire and The Humber,00DB,E08000036,Wakefield,%,Coverage_in_period__25-64,75.68395263372810000000
+13,2019-20,D,E12000003,Yorkshire and The Humber,00DB,E08000036,Wakefield,Number,Eligible__25-49,60579
+13,2019-20,D,E12000003,Yorkshire and The Humber,00DB,E08000036,Wakefield,Number,Eligible__25-64,93062
+13,2019-20,D,E12000003,Yorkshire and The Humber,00DB,E08000036,Wakefield,Number,Eligible__50-64,32483
+13,2019-20,D,E12000003,Yorkshire and The Humber,00FA,E06000010,Kingston upon Hull,%,Coverage_3andhalfyears__25-49,71.8278055146983
+13,2019-20,D,E12000003,Yorkshire and The Humber,00FA,E06000010,Kingston upon Hull,%,Coverage_5andhalfyears__50-64,74.7946061796749
+13,2019-20,D,E12000003,Yorkshire and The Humber,00FA,E06000010,Kingston upon Hull,%,Coverage_in_period__25-64,72.7680529808822
+13,2019-20,D,E12000003,Yorkshire and The Humber,00FA,E06000010,Kingston upon Hull,Number,Eligible__25-49,48271
+13,2019-20,D,E12000003,Yorkshire and The Humber,00FA,E06000010,Kingston upon Hull,Number,Eligible__25-64,70667
+13,2019-20,D,E12000003,Yorkshire and The Humber,00FA,E06000010,Kingston upon Hull,Number,Eligible__50-64,22396
+13,2019-20,D,E12000003,Yorkshire and The Humber,00FB,E06000011,East Riding of Yorkshire,%,Coverage_3andhalfyears__25-49,78.96507330038620000000
+13,2019-20,D,E12000003,Yorkshire and The Humber,00FB,E06000011,East Riding of Yorkshire,%,Coverage_5andhalfyears__50-64,79.38763427218130000000
+13,2019-20,D,E12000003,Yorkshire and The Humber,00FB,E06000011,East Riding of Yorkshire,%,Coverage_in_period__25-64,79.14429550264870000000
+13,2019-20,D,E12000003,Yorkshire and The Humber,00FB,E06000011,East Riding of Yorkshire,Number,Eligible__25-49,48158
+13,2019-20,D,E12000003,Yorkshire and The Humber,00FB,E06000011,East Riding of Yorkshire,Number,Eligible__25-64,83627
+13,2019-20,D,E12000003,Yorkshire and The Humber,00FB,E06000011,East Riding of Yorkshire,Number,Eligible__50-64,35469
+13,2019-20,D,E12000003,Yorkshire and The Humber,00FC,E06000012,North East Lincolnshire,%,Coverage_3andhalfyears__25-49,75.78446656273730000000
+13,2019-20,D,E12000003,Yorkshire and The Humber,00FC,E06000012,North East Lincolnshire,%,Coverage_5andhalfyears__50-64,77.43086529884030000000
+13,2019-20,D,E12000003,Yorkshire and The Humber,00FC,E06000012,North East Lincolnshire,%,Coverage_in_period__25-64,76.39050265218490000000
+13,2019-20,D,E12000003,Yorkshire and The Humber,00FC,E06000012,North East Lincolnshire,Number,Eligible__25-49,25017
+13,2019-20,D,E12000003,Yorkshire and The Humber,00FC,E06000012,North East Lincolnshire,Number,Eligible__25-64,39590
+13,2019-20,D,E12000003,Yorkshire and The Humber,00FC,E06000012,North East Lincolnshire,Number,Eligible__50-64,14573
+13,2019-20,D,E12000003,Yorkshire and The Humber,00FD,E06000013,North Lincolnshire,%,Coverage_3andhalfyears__25-49,74.05597848729310000000
+13,2019-20,D,E12000003,Yorkshire and The Humber,00FD,E06000013,North Lincolnshire,%,Coverage_5andhalfyears__50-64,77.53362955748980000000
+13,2019-20,D,E12000003,Yorkshire and The Humber,00FD,E06000013,North Lincolnshire,%,Coverage_in_period__25-64,75.38989540530440000000
+13,2019-20,D,E12000003,Yorkshire and The Humber,00FD,E06000013,North Lincolnshire,Number,Eligible__25-49,26403
+13,2019-20,D,E12000003,Yorkshire and The Humber,00FD,E06000013,North Lincolnshire,Number,Eligible__25-64,42832
+13,2019-20,D,E12000003,Yorkshire and The Humber,00FD,E06000013,North Lincolnshire,Number,Eligible__50-64,16429
+13,2019-20,D,E12000003,Yorkshire and The Humber,00FF,E06000014,York,%,Coverage_3andhalfyears__25-49,68.55549756914880000000
+13,2019-20,D,E12000003,Yorkshire and The Humber,00FF,E06000014,York,%,Coverage_5andhalfyears__50-64,75.64635791366910000000
+13,2019-20,D,E12000003,Yorkshire and The Humber,00FF,E06000014,York,%,Coverage_in_period__25-64,70.88322662779760000000
+13,2019-20,D,E12000003,Yorkshire and The Humber,00FF,E06000014,York,Number,Eligible__25-49,36407
+13,2019-20,D,E12000003,Yorkshire and The Humber,00FF,E06000014,York,Number,Eligible__25-64,54199
+13,2019-20,D,E12000003,Yorkshire and The Humber,00FF,E06000014,York,Number,Eligible__50-64,17792
+13,2019-20,D,D,Yorkshire and the Humber,D,D,Yorkshire and the Humber,%,Coverage_3andhalfyears__25-49,72.99967323237460000000
+13,2019-20,D,D,Yorkshire and the Humber,D,D,Yorkshire and the Humber,%,Coverage_5andhalfyears__50-64,77.69493259496690000000
+13,2019-20,D,D,Yorkshire and the Humber,D,D,Yorkshire and the Humber,%,Coverage_in_period__25-64,74.62167006544160000000
+13,2019-20,D,D,Yorkshire and the Humber,D,D,Yorkshire and the Humber,Number,Eligible__25-49,933385
+13,2019-20,D,D,Yorkshire and the Humber,D,D,Yorkshire and the Humber,Number,Eligible__25-64,1426004
+13,2019-20,D,D,Yorkshire and the Humber,D,D,Yorkshire and the Humber,Number,Eligible__50-64,492619
+13,2019-20,E,E12000004,East Midlands,17,E10000007,Derbyshire,%,Coverage_3andhalfyears__25-49,80.12836678082470000000
+13,2019-20,E,E12000004,East Midlands,17,E10000007,Derbyshire,%,Coverage_5andhalfyears__50-64,79.77260641665190000000
+13,2019-20,E,E12000004,East Midlands,17,E10000007,Derbyshire,%,Coverage_in_period__25-64,79.98920316377020000000
+13,2019-20,E,E12000004,East Midlands,17,E10000007,Derbyshire,Number,Eligible__25-49,122929
+13,2019-20,E,E12000004,East Midlands,17,E10000007,Derbyshire,Number,Eligible__25-64,201911
+13,2019-20,E,E12000004,East Midlands,17,E10000007,Derbyshire,Number,Eligible__50-64,78982
+13,2019-20,E,E12000004,East Midlands,31,E10000018,Leicestershire,%,Coverage_3andhalfyears__25-49,76.85549132947980000000
+13,2019-20,E,E12000004,East Midlands,31,E10000018,Leicestershire,%,Coverage_5andhalfyears__50-64,79.37311038440180000000
+13,2019-20,E,E12000004,East Midlands,31,E10000018,Leicestershire,%,Coverage_in_period__25-64,77.77614819661770000000
+13,2019-20,E,E12000004,East Midlands,31,E10000018,Leicestershire,Number,Eligible__25-49,112450
+13,2019-20,E,E12000004,East Midlands,31,E10000018,Leicestershire,Number,Eligible__25-64,177278
+13,2019-20,E,E12000004,East Midlands,31,E10000018,Leicestershire,Number,Eligible__50-64,64828
+13,2019-20,E,E12000004,East Midlands,32,E10000019,Lincolnshire,%,Coverage_3andhalfyears__25-49,74.90686996448060000000
+13,2019-20,E,E12000004,East Midlands,32,E10000019,Lincolnshire,%,Coverage_5andhalfyears__50-64,78.27314385467240000000
+13,2019-20,E,E12000004,East Midlands,32,E10000019,Lincolnshire,%,Coverage_in_period__25-64,76.21454379774730000000
+13,2019-20,E,E12000004,East Midlands,32,E10000019,Lincolnshire,Number,Eligible__25-49,115430
+13,2019-20,E,E12000004,East Midlands,32,E10000019,Lincolnshire,Number,Eligible__25-64,188754
+13,2019-20,E,E12000004,East Midlands,32,E10000019,Lincolnshire,Number,Eligible__50-64,73324
+13,2019-20,E,E12000004,East Midlands,34,E10000021,Northamptonshire,%,Coverage_3andhalfyears__25-49,71.54565905801770000000
+13,2019-20,E,E12000004,East Midlands,34,E10000021,Northamptonshire,%,Coverage_5andhalfyears__50-64,75.70933661637130000000
+13,2019-20,E,E12000004,East Midlands,34,E10000021,Northamptonshire,%,Coverage_in_period__25-64,72.93441307918560000000
+13,2019-20,E,E12000004,East Midlands,34,E10000021,Northamptonshire,Number,Eligible__25-49,139578
+13,2019-20,E,E12000004,East Midlands,34,E10000021,Northamptonshire,Number,Eligible__25-64,209432
+13,2019-20,E,E12000004,East Midlands,34,E10000021,Northamptonshire,Number,Eligible__50-64,69854
+13,2019-20,E,E12000004,East Midlands,37,E10000024,Nottinghamshire,%,Coverage_3andhalfyears__25-49,78.37811635381940000000
+13,2019-20,E,E12000004,East Midlands,37,E10000024,Nottinghamshire,%,Coverage_5andhalfyears__50-64,80.39886547193570000000
+13,2019-20,E,E12000004,East Midlands,37,E10000024,Nottinghamshire,%,Coverage_in_period__25-64,79.12502233045310000000
+13,2019-20,E,E12000004,East Midlands,37,E10000024,Nottinghamshire,Number,Eligible__25-49,134091
+13,2019-20,E,E12000004,East Midlands,37,E10000024,Nottinghamshire,Number,Eligible__25-64,212714
+13,2019-20,E,E12000004,East Midlands,37,E10000024,Nottinghamshire,Number,Eligible__50-64,78623
+13,2019-20,E,E12000004,East Midlands,00FK,E06000015,Derby,%,Coverage_3andhalfyears__25-49,70.84805279969540000000
+13,2019-20,E,E12000004,East Midlands,00FK,E06000015,Derby,%,Coverage_5andhalfyears__50-64,76.44089188052170000000
+13,2019-20,E,E12000004,East Midlands,00FK,E06000015,Derby,%,Coverage_in_period__25-64,72.59051058748140000000
+13,2019-20,E,E12000004,East Midlands,00FK,E06000015,Derby,Number,Eligible__25-49,47273
+13,2019-20,E,E12000004,East Midlands,00FK,E06000015,Derby,Number,Eligible__25-64,68666
+13,2019-20,E,E12000004,East Midlands,00FK,E06000015,Derby,Number,Eligible__50-64,21393
+13,2019-20,E,E12000004,East Midlands,00FN,E06000016,Leicester,%,Coverage_3andhalfyears__25-49,60.70676873165040000000
+13,2019-20,E,E12000004,East Midlands,00FN,E06000016,Leicester,%,Coverage_5andhalfyears__50-64,72.58497152305710000000
+13,2019-20,E,E12000004,East Midlands,00FN,E06000016,Leicester,%,Coverage_in_period__25-64,63.88201320132010000000
+13,2019-20,E,E12000004,East Midlands,00FN,E06000016,Leicester,Number,Eligible__25-49,74593
+13,2019-20,E,E12000004,East Midlands,00FN,E06000016,Leicester,Number,Eligible__25-64,101808
+13,2019-20,E,E12000004,East Midlands,00FN,E06000016,Leicester,Number,Eligible__50-64,27215
+13,2019-20,E,E12000004,East Midlands,00FP,E06000017,Rutland,%,Coverage_3andhalfyears__25-49,79.26924579914030000000
+13,2019-20,E,E12000004,East Midlands,00FP,E06000017,Rutland,%,Coverage_5andhalfyears__50-64,81.35156048491100000000
+13,2019-20,E,E12000004,East Midlands,00FP,E06000017,Rutland,%,Coverage_in_period__25-64,80.16675931072820000000
+13,2019-20,E,E12000004,East Midlands,00FP,E06000017,Rutland,Number,Eligible__25-49,5118
+13,2019-20,E,E12000004,East Midlands,00FP,E06000017,Rutland,Number,Eligible__25-64,8995
+13,2019-20,E,E12000004,East Midlands,00FP,E06000017,Rutland,Number,Eligible__50-64,3877
+13,2019-20,E,E12000004,East Midlands,00FY,E06000018,Nottingham,%,Coverage_3andhalfyears__25-49,66.60196059400180000000
+13,2019-20,E,E12000004,East Midlands,00FY,E06000018,Nottingham,%,Coverage_5andhalfyears__50-64,76.36536879033310000000
+13,2019-20,E,E12000004,East Midlands,00FY,E06000018,Nottingham,%,Coverage_in_period__25-64,69.25695172365060000000
+13,2019-20,E,E12000004,East Midlands,00FY,E06000018,Nottingham,Number,Eligible__25-49,61818
+13,2019-20,E,E12000004,East Midlands,00FY,E06000018,Nottingham,Number,Eligible__25-64,84907
+13,2019-20,E,E12000004,East Midlands,00FY,E06000018,Nottingham,Number,Eligible__50-64,23089
+13,2019-20,E,E,East Midlands,E,E,East Midlands,%,Coverage_3andhalfyears__25-49,73.81885697422780000000
+13,2019-20,E,E,East Midlands,E,E,East Midlands,%,Coverage_5andhalfyears__50-64,78.16358217074470000000
+13,2019-20,E,E,East Midlands,E,E,East Midlands,%,Coverage_in_period__25-64,75.34686101246350000000
+13,2019-20,E,E,East Midlands,E,E,East Midlands,Number,Eligible__25-49,813280
+13,2019-20,E,E,East Midlands,E,E,East Midlands,Number,Eligible__25-64,1254465
+13,2019-20,E,E,East Midlands,E,E,East Midlands,Number,Eligible__50-64,441185
+13,2019-20,ENG,ENG,England,ENG,ENG,England,%,Coverage_3andhalfyears__25-49,70.23109171966830000000
+13,2019-20,ENG,ENG,England,ENG,ENG,England,%,Coverage_5andhalfyears__50-64,76.13151849529090000000
+13,2019-20,ENG,ENG,England,ENG,ENG,England,%,Coverage_in_period__25-64,72.17636968411120000000
+13,2019-20,ENG,ENG,England,ENG,ENG,England,Number,Eligible__25-49,10367918
+13,2019-20,ENG,ENG,England,ENG,ENG,England,Number,Eligible__25-64,15467216
+13,2019-20,ENG,ENG,England,ENG,ENG,England,Number,Eligible__50-64,5099298
+13,2019-20,F,E12000005,West Midlands,41,E10000028,Staffordshire,%,Coverage_3andhalfyears__25-49,75.49845091092370000000
+13,2019-20,F,E12000005,West Midlands,41,E10000028,Staffordshire,%,Coverage_5andhalfyears__50-64,77.14781567923400000000
+13,2019-20,F,E12000005,West Midlands,41,E10000028,Staffordshire,%,Coverage_in_period__25-64,76.12922716370360000000
+13,2019-20,F,E12000005,West Midlands,41,E10000028,Staffordshire,Number,Eligible__25-49,134918
+13,2019-20,F,E12000005,West Midlands,41,E10000028,Staffordshire,Number,Eligible__25-64,218468
+13,2019-20,F,E12000005,West Midlands,41,E10000028,Staffordshire,Number,Eligible__50-64,83550
+13,2019-20,F,E12000005,West Midlands,44,E10000031,Warwickshire,%,Coverage_3andhalfyears__25-49,73.51630330895300000000
+13,2019-20,F,E12000005,West Midlands,44,E10000031,Warwickshire,%,Coverage_5andhalfyears__50-64,76.79810149689670000000
+13,2019-20,F,E12000005,West Midlands,44,E10000031,Warwickshire,%,Coverage_in_period__25-64,74.68234561575330000000
+13,2019-20,F,E12000005,West Midlands,44,E10000031,Warwickshire,Number,Eligible__25-49,99397
+13,2019-20,F,E12000005,West Midlands,44,E10000031,Warwickshire,Number,Eligible__25-64,154177
+13,2019-20,F,E12000005,West Midlands,44,E10000031,Warwickshire,Number,Eligible__50-64,54780
+13,2019-20,F,E12000005,West Midlands,47,E10000034,Worcestershire,%,Coverage_3andhalfyears__25-49,75.45668449197860000000
+13,2019-20,F,E12000005,West Midlands,47,E10000034,Worcestershire,%,Coverage_5andhalfyears__50-64,78.58442694663170000000
+13,2019-20,F,E12000005,West Midlands,47,E10000034,Worcestershire,%,Coverage_in_period__25-64,76.64321274477270000000
+13,2019-20,F,E12000005,West Midlands,47,E10000034,Worcestershire,Number,Eligible__25-49,93500
+13,2019-20,F,E12000005,West Midlands,47,E10000034,Worcestershire,Number,Eligible__25-64,150650
+13,2019-20,F,E12000005,West Midlands,47,E10000034,Worcestershire,Number,Eligible__50-64,57150
+13,2019-20,F,E12000005,West Midlands,00CN,E08000025,Birmingham,%,Coverage_3andhalfyears__25-49,62.32200860328330000000
+13,2019-20,F,E12000005,West Midlands,00CN,E08000025,Birmingham,%,Coverage_5andhalfyears__50-64,73.01639196410450000000
+13,2019-20,F,E12000005,West Midlands,00CN,E08000025,Birmingham,%,Coverage_in_period__25-64,65.31899836346290000000
+13,2019-20,F,E12000005,West Midlands,00CN,E08000025,Birmingham,Number,Eligible__25-49,227820
+13,2019-20,F,E12000005,West Midlands,00CN,E08000025,Birmingham,Number,Eligible__25-64,316522
+13,2019-20,F,E12000005,West Midlands,00CN,E08000025,Birmingham,Number,Eligible__50-64,88702
+13,2019-20,F,E12000005,West Midlands,00CQ,E08000026,Coventry,%,Coverage_3andhalfyears__25-49,65.05580122130970000000
+13,2019-20,F,E12000005,West Midlands,00CQ,E08000026,Coventry,%,Coverage_5andhalfyears__50-64,74.92916790933490000000
+13,2019-20,F,E12000005,West Midlands,00CQ,E08000026,Coventry,%,Coverage_in_period__25-64,67.89411638623940000000
+13,2019-20,F,E12000005,West Midlands,00CQ,E08000026,Coventry,Number,Eligible__25-49,66486
+13,2019-20,F,E12000005,West Midlands,00CQ,E08000026,Coventry,Number,Eligible__25-64,93310
+13,2019-20,F,E12000005,West Midlands,00CQ,E08000026,Coventry,Number,Eligible__50-64,26824
+13,2019-20,F,E12000005,West Midlands,00CR,E08000027,Dudley,%,Coverage_3andhalfyears__25-49,73.54585807344210000000
+13,2019-20,F,E12000005,West Midlands,00CR,E08000027,Dudley,%,Coverage_5andhalfyears__50-64,73.98518209329020000000
+13,2019-20,F,E12000005,West Midlands,00CR,E08000027,Dudley,%,Coverage_in_period__25-64,73.70219086520610000000
+13,2019-20,F,E12000005,West Midlands,00CR,E08000027,Dudley,Number,Eligible__25-49,52041
+13,2019-20,F,E12000005,West Midlands,00CR,E08000027,Dudley,Number,Eligible__25-64,80790
+13,2019-20,F,E12000005,West Midlands,00CR,E08000027,Dudley,Number,Eligible__50-64,28749
+13,2019-20,F,E12000005,West Midlands,00CS,E08000028,Sandwell,%,Coverage_3andhalfyears__25-49,67.06656407518490000000
+13,2019-20,F,E12000005,West Midlands,00CS,E08000028,Sandwell,%,Coverage_5andhalfyears__50-64,72.03684821208820000000
+13,2019-20,F,E12000005,West Midlands,00CS,E08000028,Sandwell,%,Coverage_in_period__25-64,68.60101602188350000000
+13,2019-20,F,E12000005,West Midlands,00CS,E08000028,Sandwell,Number,Eligible__25-49,63683
+13,2019-20,F,E12000005,West Midlands,00CS,E08000028,Sandwell,Number,Eligible__25-64,92124
+13,2019-20,F,E12000005,West Midlands,00CS,E08000028,Sandwell,Number,Eligible__50-64,28441
+13,2019-20,F,E12000005,West Midlands,00CT,E08000029,Solihull,%,Coverage_3andhalfyears__25-49,73.91485346358790000000
+13,2019-20,F,E12000005,West Midlands,00CT,E08000029,Solihull,%,Coverage_5andhalfyears__50-64,77.38628158844770000000
+13,2019-20,F,E12000005,West Midlands,00CT,E08000029,Solihull,%,Coverage_in_period__25-64,75.18439628918970000000
+13,2019-20,F,E12000005,West Midlands,00CT,E08000029,Solihull,Number,Eligible__25-49,36032
+13,2019-20,F,E12000005,West Midlands,00CT,E08000029,Solihull,Number,Eligible__25-64,56807
+13,2019-20,F,E12000005,West Midlands,00CT,E08000029,Solihull,Number,Eligible__50-64,20775
+13,2019-20,F,E12000005,West Midlands,00CU,E08000030,Walsall,%,Coverage_3andhalfyears__25-49,72.01756525981950000000
+13,2019-20,F,E12000005,West Midlands,00CU,E08000030,Walsall,%,Coverage_5andhalfyears__50-64,75.74774325055120000000
+13,2019-20,F,E12000005,West Midlands,00CU,E08000030,Walsall,%,Coverage_in_period__25-64,73.24211015062750000000
+13,2019-20,F,E12000005,West Midlands,00CU,E08000030,Walsall,Number,Eligible__25-49,49188
+13,2019-20,F,E12000005,West Midlands,00CU,E08000030,Walsall,Number,Eligible__25-64,73227
+13,2019-20,F,E12000005,West Midlands,00CU,E08000030,Walsall,Number,Eligible__50-64,24039
+13,2019-20,F,E12000005,West Midlands,00CW,E08000031,Wolverhampton,%,Coverage_3andhalfyears__25-49,67.44806176868580000000
+13,2019-20,F,E12000005,West Midlands,00CW,E08000031,Wolverhampton,%,Coverage_5andhalfyears__50-64,72.80168999207820000000
+13,2019-20,F,E12000005,West Midlands,00CW,E08000031,Wolverhampton,%,Coverage_in_period__25-64,69.11502726998660000000
+13,2019-20,F,E12000005,West Midlands,00CW,E08000031,Wolverhampton,Number,Eligible__25-49,50252
+13,2019-20,F,E12000005,West Midlands,00CW,E08000031,Wolverhampton,Number,Eligible__25-64,72974
+13,2019-20,F,E12000005,West Midlands,00CW,E08000031,Wolverhampton,Number,Eligible__50-64,22722
+13,2019-20,F,E12000005,West Midlands,00GA,E06000019,Herefordshire,%,Coverage_3andhalfyears__25-49,73.1608244320746
+13,2019-20,F,E12000005,West Midlands,00GA,E06000019,Herefordshire,%,Coverage_5andhalfyears__50-64,76.3790438629217
+13,2019-20,F,E12000005,West Midlands,00GA,E06000019,Herefordshire,%,Coverage_in_period__25-64,74.4922934444665
+13,2019-20,F,E12000005,West Midlands,00GA,E06000019,Herefordshire,Number,Eligible__25-49,26588
+13,2019-20,F,E12000005,West Midlands,00GA,E06000019,Herefordshire,Number,Eligible__25-64,45351
+13,2019-20,F,E12000005,West Midlands,00GA,E06000019,Herefordshire,Number,Eligible__50-64,18763
+13,2019-20,F,E12000005,West Midlands,00GF,E06000020,Telford and Wrekin,%,Coverage_3andhalfyears__25-49,73.09045547594680000000
+13,2019-20,F,E12000005,West Midlands,00GF,E06000020,Telford and Wrekin,%,Coverage_5andhalfyears__50-64,75.54577028032750000000
+13,2019-20,F,E12000005,West Midlands,00GF,E06000020,Telford and Wrekin,%,Coverage_in_period__25-64,73.92588841056810000000
+13,2019-20,F,E12000005,West Midlands,00GF,E06000020,Telford and Wrekin,Number,Eligible__25-49,31264
+13,2019-20,F,E12000005,West Midlands,00GF,E06000020,Telford and Wrekin,Number,Eligible__25-64,47388
+13,2019-20,F,E12000005,West Midlands,00GF,E06000020,Telford and Wrekin,Number,Eligible__50-64,16124
+13,2019-20,F,E12000005,West Midlands,00GG,E06000051,Shropshire,%,Coverage_3andhalfyears__25-49,77.54795470302750000000
+13,2019-20,F,E12000005,West Midlands,00GG,E06000051,Shropshire,%,Coverage_5andhalfyears__50-64,78.05351404664190000000
+13,2019-20,F,E12000005,West Midlands,00GG,E06000051,Shropshire,%,Coverage_in_period__25-64,77.76067254789090000000
+13,2019-20,F,E12000005,West Midlands,00GG,E06000051,Shropshire,Number,Eligible__25-49,43270
+13,2019-20,F,E12000005,West Midlands,00GG,E06000051,Shropshire,Number,Eligible__25-64,74701
+13,2019-20,F,E12000005,West Midlands,00GG,E06000051,Shropshire,Number,Eligible__50-64,31431
+13,2019-20,F,E12000005,West Midlands,00GL,E06000021,Stoke-on-Trent,%,Coverage_3andhalfyears__25-49,69.35494483802340000000
+13,2019-20,F,E12000005,West Midlands,00GL,E06000021,Stoke-on-Trent,%,Coverage_5andhalfyears__50-64,74.83928487635490000000
+13,2019-20,F,E12000005,West Midlands,00GL,E06000021,Stoke-on-Trent,%,Coverage_in_period__25-64,71.10187731675240000000
+13,2019-20,F,E12000005,West Midlands,00GL,E06000021,Stoke-on-Trent,Number,Eligible__25-49,45593
+13,2019-20,F,E12000005,West Midlands,00GL,E06000021,Stoke-on-Trent,Number,Eligible__25-64,66904
+13,2019-20,F,E12000005,West Midlands,00GL,E06000021,Stoke-on-Trent,Number,Eligible__50-64,21311
+13,2019-20,F,F,West Midlands,F,F,West Midlands,%,Coverage_3andhalfyears__25-49,70.10907500941150000000
+13,2019-20,F,F,West Midlands,F,F,West Midlands,%,Coverage_5andhalfyears__50-64,75.64262526248610000000
+13,2019-20,F,F,West Midlands,F,F,West Midlands,%,Coverage_in_period__25-64,71.98548911391980000000
+13,2019-20,F,F,West Midlands,F,F,West Midlands,Number,Eligible__25-49,1020032
+13,2019-20,F,F,West Midlands,F,F,West Midlands,Number,Eligible__25-64,1543393
+13,2019-20,F,F,West Midlands,F,F,West Midlands,Number,Eligible__50-64,523361
+13,2019-20,G,E12000006,East of England,12,E10000003,Cambridgeshire,%,Coverage_3andhalfyears__25-49,67.99808376461720000000
+13,2019-20,G,E12000006,East of England,12,E10000003,Cambridgeshire,%,Coverage_5andhalfyears__50-64,76.43192644105490000000
+13,2019-20,G,E12000006,East of England,12,E10000003,Cambridgeshire,%,Coverage_in_period__25-64,70.70698993517570000000
+13,2019-20,G,E12000006,East of England,12,E10000003,Cambridgeshire,Number,Eligible__25-49,127333
+13,2019-20,G,E12000006,East of England,12,E10000003,Cambridgeshire,Number,Eligible__25-64,187584
+13,2019-20,G,E12000006,East of England,12,E10000003,Cambridgeshire,Number,Eligible__50-64,60251
+13,2019-20,G,E12000006,East of England,22,E10000012,Essex,%,Coverage_3andhalfyears__25-49,75.07834123373520000000
+13,2019-20,G,E12000006,East of England,22,E10000012,Essex,%,Coverage_5andhalfyears__50-64,77.27785817655570000000
+13,2019-20,G,E12000006,East of England,22,E10000012,Essex,%,Coverage_in_period__25-64,75.85843187977330000000
+13,2019-20,G,E12000006,East of England,22,E10000012,Essex,Number,Eligible__25-49,251464
+13,2019-20,G,E12000006,East of England,22,E10000012,Essex,Number,Eligible__25-64,389664
+13,2019-20,G,E12000006,East of England,22,E10000012,Essex,Number,Eligible__50-64,138200
+13,2019-20,G,E12000006,East of England,26,E10000015,Hertfordshire,%,Coverage_3andhalfyears__25-49,73.71192026364440000000
+13,2019-20,G,E12000006,East of England,26,E10000015,Hertfordshire,%,Coverage_5andhalfyears__50-64,78.03711220643660000000
+13,2019-20,G,E12000006,East of England,26,E10000015,Hertfordshire,%,Coverage_in_period__25-64,75.13984194121550000000
+13,2019-20,G,E12000006,East of England,26,E10000015,Hertfordshire,Number,Eligible__25-49,223938
+13,2019-20,G,E12000006,East of England,26,E10000015,Hertfordshire,Number,Eligible__25-64,334306
+13,2019-20,G,E12000006,East of England,26,E10000015,Hertfordshire,Number,Eligible__50-64,110368
+13,2019-20,G,E12000006,East of England,33,E10000020,Norfolk,%,Coverage_3andhalfyears__25-49,74.06655065875920000000
+13,2019-20,G,E12000006,East of England,33,E10000020,Norfolk,%,Coverage_5andhalfyears__50-64,76.94674528522630000000
+13,2019-20,G,E12000006,East of England,33,E10000020,Norfolk,%,Coverage_in_period__25-64,75.15457128841080000000
+13,2019-20,G,E12000006,East of England,33,E10000020,Norfolk,Number,Eligible__25-49,140795
+13,2019-20,G,E12000006,East of England,33,E10000020,Norfolk,Number,Eligible__25-64,226271
+13,2019-20,G,E12000006,East of England,33,E10000020,Norfolk,Number,Eligible__50-64,85476
+13,2019-20,G,E12000007,East of England,42,E10000029,Suffolk,%,Coverage_3andhalfyears__25-49,74.90703914277580000000
+13,2019-20,G,E12000007,East of England,42,E10000029,Suffolk,%,Coverage_5andhalfyears__50-64,77.26012672550350000000
+13,2019-20,G,E12000007,East of England,42,E10000029,Suffolk,%,Coverage_in_period__25-64,75.79857780540480000000
+13,2019-20,G,E12000007,East of England,42,E10000029,Suffolk,Number,Eligible__25-49,115909
+13,2019-20,G,E12000007,East of England,42,E10000029,Suffolk,Number,Eligible__25-64,186613
+13,2019-20,G,E12000007,East of England,42,E10000029,Suffolk,Number,Eligible__50-64,70704
+13,2019-20,G,E12000006,East of England,00JA,E06000031,Peterborough,%,Coverage_3andhalfyears__25-49,65.93212770707750000000
+13,2019-20,G,E12000006,East of England,00JA,E06000031,Peterborough,%,Coverage_5andhalfyears__50-64,73.63988546403910000000
+13,2019-20,G,E12000006,East of England,00JA,E06000031,Peterborough,%,Coverage_in_period__25-64,68.12510982252680000000
+13,2019-20,G,E12000006,East of England,00JA,E06000031,Peterborough,Number,Eligible__25-49,44790
+13,2019-20,G,E12000006,East of England,00JA,E06000031,Peterborough,Number,Eligible__25-64,62601
+13,2019-20,G,E12000006,East of England,00JA,E06000031,Peterborough,Number,Eligible__50-64,17811
+13,2019-20,G,E12000006,East of England,00KA,E06000032,Luton,%,Coverage_3andhalfyears__25-49,59.65520266713460000000
+13,2019-20,G,E12000006,East of England,00KA,E06000032,Luton,%,Coverage_5andhalfyears__50-64,73.64165973130420000000
+13,2019-20,G,E12000006,East of England,00KA,E06000032,Luton,%,Coverage_in_period__25-64,63.42487262473160000000
+13,2019-20,G,E12000006,East of England,00KA,E06000032,Luton,Number,Eligible__25-49,45592
+13,2019-20,G,E12000006,East of England,00KA,E06000032,Luton,Number,Eligible__25-64,62414
+13,2019-20,G,E12000006,East of England,00KA,E06000032,Luton,Number,Eligible__50-64,16822
+13,2019-20,G,E12000006,East of England,00KB,E06000055,Bedford,%,Coverage_3andhalfyears__25-49,69.87347035760960000000
+13,2019-20,G,E12000006,East of England,00KB,E06000055,Bedford,%,Coverage_5andhalfyears__50-64,75.28935905413810000000
+13,2019-20,G,E12000006,East of England,00KB,E06000055,Bedford,%,Coverage_in_period__25-64,71.62330612409020000000
+13,2019-20,G,E12000006,East of England,00KB,E06000055,Bedford,Number,Eligible__25-49,33668
+13,2019-20,G,E12000006,East of England,00KB,E06000055,Bedford,Number,Eligible__25-64,49738
+13,2019-20,G,E12000006,East of England,00KB,E06000055,Bedford,Number,Eligible__50-64,16070
+13,2019-20,G,E12000006,East of England,00KC,E06000056,Central Bedfordshire,%,Coverage_3andhalfyears__25-49,77.11561621838620000000
+13,2019-20,G,E12000006,East of England,00KC,E06000056,Central Bedfordshire,%,Coverage_5andhalfyears__50-64,78.00236931734040000000
+13,2019-20,G,E12000006,East of England,00KC,E06000056,Central Bedfordshire,%,Coverage_in_period__25-64,77.42737401082880000000
+13,2019-20,G,E12000006,East of England,00KC,E06000056,Central Bedfordshire,Number,Eligible__25-49,49820
+13,2019-20,G,E12000006,East of England,00KC,E06000056,Central Bedfordshire,Number,Eligible__25-64,76832
+13,2019-20,G,E12000006,East of England,00KC,E06000056,Central Bedfordshire,Number,Eligible__50-64,27012
+13,2019-20,G,E12000006,East of England,00KF,E06000033,Southend-on-Sea,%,Coverage_3andhalfyears__25-49,71.93334982069990000000
+13,2019-20,G,E12000006,East of England,00KF,E06000033,Southend-on-Sea,%,Coverage_5andhalfyears__50-64,73.84047892604460000000
+13,2019-20,G,E12000006,East of England,00KF,E06000033,Southend-on-Sea,%,Coverage_in_period__25-64,72.57850056254470000000
+13,2019-20,G,E12000006,East of England,00KF,E06000033,Southend-on-Sea,Number,Eligible__25-49,32348
+13,2019-20,G,E12000006,East of England,00KF,E06000033,Southend-on-Sea,Number,Eligible__25-64,48885
+13,2019-20,G,E12000006,East of England,00KF,E06000033,Southend-on-Sea,Number,Eligible__50-64,16537
+13,2019-20,G,E12000006,East of England,00KG,E06000034,Thurrock,%,Coverage_3andhalfyears__25-49,73.31065227592680000000
+13,2019-20,G,E12000006,East of England,00KG,E06000034,Thurrock,%,Coverage_5andhalfyears__50-64,76.51487988526350000000
+13,2019-20,G,E12000006,East of England,00KG,E06000034,Thurrock,%,Coverage_in_period__25-64,74.24075269041030000000
+13,2019-20,G,E12000006,East of England,00KG,E06000034,Thurrock,Number,Eligible__25-49,34096
+13,2019-20,G,E12000006,East of England,00KG,E06000034,Thurrock,Number,Eligible__25-64,48041
+13,2019-20,G,E12000006,East of England,00KG,E06000034,Thurrock,Number,Eligible__50-64,13945
+13,2019-20,G,E12000006,East of England,00MG,E06000042,Milton Keynes,%,Coverage_3andhalfyears__25-49,69.81688690278770000000
+13,2019-20,G,E12000006,East of England,00MG,E06000042,Milton Keynes,%,Coverage_5andhalfyears__50-64,74.96363480790620000000
+13,2019-20,G,E12000006,East of England,00MG,E06000042,Milton Keynes,%,Coverage_in_period__25-64,71.30831504692480000000
+13,2019-20,G,E12000006,East of England,00MG,E06000042,Milton Keynes,Number,Eligible__25-49,57287
+13,2019-20,G,E12000006,East of England,00MG,E06000042,Milton Keynes,Number,Eligible__25-64,80661
+13,2019-20,G,E12000006,East of England,00MG,E06000042,Milton Keynes,Number,Eligible__50-64,23374
+13,2019-20,G,G,East of England,G,G,East of England,%,Coverage_3andhalfyears__25-49,72.46836755859780000000
+13,2019-20,G,G,East of England,G,G,East of England,%,Coverage_5andhalfyears__50-64,76.84764570796390000000
+13,2019-20,G,G,East of England,G,G,East of England,%,Coverage_in_period__25-64,73.95817770199760000000
+13,2019-20,G,G,East of England,G,G,East of England,Number,Eligible__25-49,1157040
+13,2019-20,G,G,East of England,G,G,East of England,Number,Eligible__25-64,1753610
+13,2019-20,G,G,East of England,G,G,East of England,Number,Eligible__50-64,596570
+13,2019-20,H,E12000007,London,00AB,E09000002,Barking and Dagenham,%,Coverage_3andhalfyears__25-49,65.61188775405780000000
+13,2019-20,H,E12000007,London,00AB,E09000002,Barking and Dagenham,%,Coverage_5andhalfyears__50-64,72.90346397588140000000
+13,2019-20,H,E12000007,London,00AB,E09000002,Barking and Dagenham,%,Coverage_in_period__25-64,67.43203808938720000000
+13,2019-20,H,E12000007,London,00AB,E09000002,Barking and Dagenham,Number,Eligible__25-49,48857
+13,2019-20,H,E12000007,London,00AB,E09000002,Barking and Dagenham,Number,Eligible__25-64,65110
+13,2019-20,H,E12000007,London,00AB,E09000002,Barking and Dagenham,Number,Eligible__50-64,16253
+13,2019-20,H,E12000007,London,00AC,E09000003,Barnet,%,Coverage_3andhalfyears__25-49,61.11689866122880000000
+13,2019-20,H,E12000007,London,00AC,E09000003,Barnet,%,Coverage_5andhalfyears__50-64,71.96351416226600000000
+13,2019-20,H,E12000007,London,00AC,E09000003,Barnet,%,Coverage_in_period__25-64,64.17388951234850000000
+13,2019-20,H,E12000007,London,00AC,E09000003,Barnet,Number,Eligible__25-49,90232
+13,2019-20,H,E12000007,London,00AC,E09000003,Barnet,Number,Eligible__25-64,125643
+13,2019-20,H,E12000007,London,00AC,E09000003,Barnet,Number,Eligible__50-64,35411
+13,2019-20,H,E12000007,London,00AD,E09000004,Bexley,%,Coverage_3andhalfyears__25-49,74.43799934332930000000
+13,2019-20,H,E12000007,London,00AD,E09000004,Bexley,%,Coverage_5andhalfyears__50-64,76.89578131160470000000
+13,2019-20,H,E12000007,London,00AD,E09000004,Bexley,%,Coverage_in_period__25-64,75.25688930406350000000
+13,2019-20,H,E12000007,London,00AD,E09000004,Bexley,Number,Eligible__25-49,45685
+13,2019-20,H,E12000007,London,00AD,E09000004,Bexley,Number,Eligible__25-64,68512
+13,2019-20,H,E12000007,London,00AD,E09000004,Bexley,Number,Eligible__50-64,22827
+13,2019-20,H,E12000007,London,00AE,E09000005,Brent,%,Coverage_3andhalfyears__25-49,57.15411948859160000000
+13,2019-20,H,E12000007,London,00AE,E09000005,Brent,%,Coverage_5andhalfyears__50-64,73.48399730345730000000
+13,2019-20,H,E12000007,London,00AE,E09000005,Brent,%,Coverage_in_period__25-64,61.44058513237950000000
+13,2019-20,H,E12000007,London,00AE,E09000005,Brent,Number,Eligible__25-49,87523
+13,2019-20,H,E12000007,London,00AE,E09000005,Brent,Number,Eligible__25-64,118674
+13,2019-20,H,E12000007,London,00AE,E09000005,Brent,Number,Eligible__50-64,31151
+13,2019-20,H,E12000007,London,00AF,E09000006,Bromley,%,Coverage_3andhalfyears__25-49,73.04688099439880000000
+13,2019-20,H,E12000007,London,00AF,E09000006,Bromley,%,Coverage_5andhalfyears__50-64,76.40868230651170000000
+13,2019-20,H,E12000007,London,00AF,E09000006,Bromley,%,Coverage_in_period__25-64,74.15235034812340000000
+13,2019-20,H,E12000007,London,00AF,E09000006,Bromley,Number,Eligible__25-49,65165
+13,2019-20,H,E12000007,London,00AF,E09000006,Bromley,Number,Eligible__25-64,97092
+13,2019-20,H,E12000007,London,00AF,E09000006,Bromley,Number,Eligible__50-64,31927
+13,2019-20,H,E12000007,London,00AG,E09000007,Camden,%,Coverage_3andhalfyears__25-49,50.44284687275340000000
+13,2019-20,H,E12000007,London,00AG,E09000007,Camden,%,Coverage_5andhalfyears__50-64,66.83968640173020000000
+13,2019-20,H,E12000007,London,00AG,E09000007,Camden,%,Coverage_in_period__25-64,53.88721676415470000000
+13,2019-20,H,E12000007,London,00AG,E09000007,Camden,Number,Eligible__25-49,69550
+13,2019-20,H,E12000007,London,00AG,E09000007,Camden,Number,Eligible__25-64,88045
+13,2019-20,H,E12000007,London,00AG,E09000007,Camden,Number,Eligible__50-64,18495
+13,2019-20,H,E12000007,London,00AH,E09000008,Croydon,%,Coverage_3andhalfyears__25-49,67.31684731637240000000
+13,2019-20,H,E12000007,London,00AH,E09000008,Croydon,%,Coverage_5andhalfyears__50-64,76.49127516778520000000
+13,2019-20,H,E12000007,London,00AH,E09000008,Croydon,%,Coverage_in_period__25-64,70.12997703382370000000
+13,2019-20,H,E12000007,London,00AH,E09000008,Croydon,Number,Eligible__25-49,84233
+13,2019-20,H,E12000007,London,00AH,E09000008,Croydon,Number,Eligible__25-64,121483
+13,2019-20,H,E12000007,London,00AH,E09000008,Croydon,Number,Eligible__50-64,37250
+13,2019-20,H,E12000007,London,00AJ,E09000009,Ealing,%,Coverage_3andhalfyears__25-49,60.92668224605240000000
+13,2019-20,H,E12000007,London,00AJ,E09000009,Ealing,%,Coverage_5andhalfyears__50-64,73.39913483214530000000
+13,2019-20,H,E12000007,London,00AJ,E09000009,Ealing,%,Coverage_in_period__25-64,64.21784565916400000000
+13,2019-20,H,E12000007,London,00AJ,E09000009,Ealing,Number,Eligible__25-49,91574
+13,2019-20,H,E12000007,London,00AJ,E09000009,Ealing,Number,Eligible__25-64,124400
+13,2019-20,H,E12000007,London,00AJ,E09000009,Ealing,Number,Eligible__50-64,32826
+13,2019-20,H,E12000007,London,00AK,E09000010,Enfield,%,Coverage_3andhalfyears__25-49,66.48481670941320000000
+13,2019-20,H,E12000007,London,00AK,E09000010,Enfield,%,Coverage_5andhalfyears__50-64,76.23396874900550000000
+13,2019-20,H,E12000007,London,00AK,E09000010,Enfield,%,Coverage_in_period__25-64,69.48840127850660000000
+13,2019-20,H,E12000007,London,00AK,E09000010,Enfield,Number,Eligible__25-49,70571
+13,2019-20,H,E12000007,London,00AK,E09000010,Enfield,Number,Eligible__25-64,101994
+13,2019-20,H,E12000007,London,00AK,E09000010,Enfield,Number,Eligible__50-64,31423
+13,2019-20,H,E12000007,London,00AL,E09000011,Greenwich,%,Coverage_3andhalfyears__25-49,66.01205832053100000000
+13,2019-20,H,E12000007,London,00AL,E09000011,Greenwich,%,Coverage_5andhalfyears__50-64,73.48042208075350000000
+13,2019-20,H,E12000007,London,00AL,E09000011,Greenwich,%,Coverage_in_period__25-64,67.87516860288040000000
+13,2019-20,H,E12000007,London,00AL,E09000011,Greenwich,Number,Eligible__25-49,68998
+13,2019-20,H,E12000007,London,00AL,E09000011,Greenwich,Number,Eligible__25-64,91932
+13,2019-20,H,E12000007,London,00AL,E09000011,Greenwich,Number,Eligible__50-64,22934
+13,2019-20,H,E12000007,London,00AM,E09000012,Hackney,%,Coverage_3andhalfyears__25-49,61.68038965557230000000
+13,2019-20,H,E12000007,London,00AM,E09000012,Hackney,%,Coverage_5andhalfyears__50-64,72.98424042514200000000
+13,2019-20,H,E12000007,London,00AM,E09000012,Hackney,%,Coverage_in_period__25-64,63.96379722001150000000
+13,2019-20,H,E12000007,London,00AM,E09000012,Hackney,Number,Eligible__25-49,86230
+13,2019-20,H,E12000007,London,00AM,E09000012,Hackney,Number,Eligible__25-64,108058
+13,2019-20,H,E12000007,London,00AM,E09000012,Hackney,Number,Eligible__50-64,21828
+13,2019-20,H,E12000007,London,00AN,E09000013,Hammersmith and Fulham,%,Coverage_3andhalfyears__25-49,51.59100072574790000000
+13,2019-20,H,E12000007,London,00AN,E09000013,Hammersmith and Fulham,%,Coverage_5andhalfyears__50-64,66.32596854152640000000
+13,2019-20,H,E12000007,London,00AN,E09000013,Hammersmith and Fulham,%,Coverage_in_period__25-64,54.66404574696210000000
+13,2019-20,H,E12000007,London,00AN,E09000013,Hammersmith and Fulham,Number,Eligible__25-49,62005
+13,2019-20,H,E12000007,London,00AN,E09000013,Hammersmith and Fulham,Number,Eligible__25-64,78344
+13,2019-20,H,E12000007,London,00AN,E09000013,Hammersmith and Fulham,Number,Eligible__50-64,16339
+13,2019-20,H,E12000007,London,00AP,E09000014,Haringey,%,Coverage_3andhalfyears__25-49,61.78737134019520000000
+13,2019-20,H,E12000007,London,00AP,E09000014,Haringey,%,Coverage_5andhalfyears__50-64,73.75711499422840000000
+13,2019-20,H,E12000007,London,00AP,E09000014,Haringey,%,Coverage_in_period__25-64,64.79071579094550000000
+13,2019-20,H,E12000007,London,00AP,E09000014,Haringey,Number,Eligible__25-49,75004
+13,2019-20,H,E12000007,London,00AP,E09000014,Haringey,Number,Eligible__25-64,100127
+13,2019-20,H,E12000007,London,00AP,E09000014,Haringey,Number,Eligible__50-64,25123
+13,2019-20,H,E12000007,London,00AQ,E09000015,Harrow,%,Coverage_3andhalfyears__25-49,59.47363819183350000000
+13,2019-20,H,E12000007,London,00AQ,E09000015,Harrow,%,Coverage_5andhalfyears__50-64,72.88055805195360000000
+13,2019-20,H,E12000007,London,00AQ,E09000015,Harrow,%,Coverage_in_period__25-64,63.36279670275100000000
+13,2019-20,H,E12000007,London,00AQ,E09000015,Harrow,Number,Eligible__25-49,57185
+13,2019-20,H,E12000007,London,00AQ,E09000015,Harrow,Number,Eligible__25-64,80552
+13,2019-20,H,E12000007,London,00AQ,E09000015,Harrow,Number,Eligible__50-64,23367
+13,2019-20,H,E12000007,London,00AR,E09000016,Havering,%,Coverage_3andhalfyears__25-49,72.91034309518330000000
+13,2019-20,H,E12000007,London,00AR,E09000016,Havering,%,Coverage_5andhalfyears__50-64,77.63279737351630000000
+13,2019-20,H,E12000007,London,00AR,E09000016,Havering,%,Coverage_in_period__25-64,74.47888269093650000000
+13,2019-20,H,E12000007,London,00AR,E09000016,Havering,Number,Eligible__25-49,47771
+13,2019-20,H,E12000007,London,00AR,E09000016,Havering,Number,Eligible__25-64,71529
+13,2019-20,H,E12000007,London,00AR,E09000016,Havering,Number,Eligible__50-64,23758
+13,2019-20,H,E12000007,London,00AS,E09000017,Hillingdon,%,Coverage_3andhalfyears__25-49,64.94451828269400000000
+13,2019-20,H,E12000007,London,00AS,E09000017,Hillingdon,%,Coverage_5andhalfyears__50-64,75.78651469059260000000
+13,2019-20,H,E12000007,London,00AS,E09000017,Hillingdon,%,Coverage_in_period__25-64,68.04962779156330000000
+13,2019-20,H,E12000007,London,00AS,E09000017,Hillingdon,Number,Eligible__25-49,64706
+13,2019-20,H,E12000007,London,00AS,E09000017,Hillingdon,Number,Eligible__25-64,90675
+13,2019-20,H,E12000007,London,00AS,E09000017,Hillingdon,Number,Eligible__50-64,25969
+13,2019-20,H,E12000007,London,00AT,E09000018,Hounslow,%,Coverage_3andhalfyears__25-49,61.12417785164010000000
+13,2019-20,H,E12000007,London,00AT,E09000018,Hounslow,%,Coverage_5andhalfyears__50-64,72.56306070724540000000
+13,2019-20,H,E12000007,London,00AT,E09000018,Hounslow,%,Coverage_in_period__25-64,64.09034007928230000000
+13,2019-20,H,E12000007,London,00AT,E09000018,Hounslow,Number,Eligible__25-49,71003
+13,2019-20,H,E12000007,London,00AT,E09000018,Hounslow,Number,Eligible__25-64,95860
+13,2019-20,H,E12000007,London,00AT,E09000018,Hounslow,Number,Eligible__50-64,24857
+13,2019-20,H,E12000007,London,00AU,E09000019,Islington,%,Coverage_3andhalfyears__25-49,56.38633465333240000000
+13,2019-20,H,E12000007,London,00AU,E09000019,Islington,%,Coverage_5andhalfyears__50-64,72.33439201451910000000
+13,2019-20,H,E12000007,London,00AU,E09000019,Islington,%,Coverage_in_period__25-64,59.43860106157800000000
+13,2019-20,H,E12000007,London,00AU,E09000019,Islington,Number,Eligible__25-49,74495
+13,2019-20,H,E12000007,London,00AU,E09000019,Islington,Number,Eligible__25-64,92127
+13,2019-20,H,E12000007,London,00AU,E09000019,Islington,Number,Eligible__50-64,17632
+13,2019-20,H,E12000007,London,00AW,E09000020,Kensington and Chelsea,%,Coverage_3andhalfyears__25-49,46.41397773707200000000
+13,2019-20,H,E12000007,London,00AW,E09000020,Kensington and Chelsea,%,Coverage_5andhalfyears__50-64,59.18731417244800000000
+13,2019-20,H,E12000007,London,00AW,E09000020,Kensington and Chelsea,%,Coverage_in_period__25-64,49.76350122147720000000
+13,2019-20,H,E12000007,London,00AW,E09000020,Kensington and Chelsea,Number,Eligible__25-49,42582
+13,2019-20,H,E12000007,London,00AW,E09000020,Kensington and Chelsea,Number,Eligible__25-64,57717
+13,2019-20,H,E12000007,London,00AW,E09000020,Kensington and Chelsea,Number,Eligible__50-64,15135
+13,2019-20,H,E12000007,London,00AX,E09000021,Kingston upon Thames,%,Coverage_3andhalfyears__25-49,63.03160809044070000000
+13,2019-20,H,E12000007,London,00AX,E09000021,Kingston upon Thames,%,Coverage_5andhalfyears__50-64,72.50943271331170000000
+13,2019-20,H,E12000007,London,00AX,E09000021,Kingston upon Thames,%,Coverage_in_period__25-64,65.67743366102450000000
+13,2019-20,H,E12000007,London,00AX,E09000021,Kingston upon Thames,Number,Eligible__25-49,39009
+13,2019-20,H,E12000007,London,00AX,E09000021,Kingston upon Thames,Number,Eligible__25-64,54116
+13,2019-20,H,E12000007,London,00AX,E09000021,Kingston upon Thames,Number,Eligible__50-64,15107
+13,2019-20,H,E12000007,London,00AY,E09000022,Lambeth,%,Coverage_3andhalfyears__25-49,63.26185156166870000000
+13,2019-20,H,E12000007,London,00AY,E09000022,Lambeth,%,Coverage_5andhalfyears__50-64,73.08216720487980000000
+13,2019-20,H,E12000007,London,00AY,E09000022,Lambeth,%,Coverage_in_period__25-64,65.34707778107930000000
+13,2019-20,H,E12000007,London,00AY,E09000022,Lambeth,Number,Eligible__25-49,103383
+13,2019-20,H,E12000007,London,00AY,E09000022,Lambeth,Number,Eligible__25-64,131253
+13,2019-20,H,E12000007,London,00AY,E09000022,Lambeth,Number,Eligible__50-64,27870
+13,2019-20,H,E12000007,London,00AZ,E09000023,Lewisham,%,Coverage_3andhalfyears__25-49,66.90795498739190000000
+13,2019-20,H,E12000007,London,00AZ,E09000023,Lewisham,%,Coverage_5andhalfyears__50-64,74.81142942072600000000
+13,2019-20,H,E12000007,London,00AZ,E09000023,Lewisham,%,Coverage_in_period__25-64,68.90287364945980000000
+13,2019-20,H,E12000007,London,00AZ,E09000023,Lewisham,Number,Eligible__25-49,79711
+13,2019-20,H,E12000007,London,00AZ,E09000023,Lewisham,Number,Eligible__25-64,106624
+13,2019-20,H,E12000007,London,00AZ,E09000023,Lewisham,Number,Eligible__50-64,26913
+13,2019-20,H,E12000007,London,00BA,E09000024,Merton,%,Coverage_3andhalfyears__25-49,63.41659216552030000000
+13,2019-20,H,E12000007,London,00BA,E09000024,Merton,%,Coverage_5andhalfyears__50-64,72.36186070418920000000
+13,2019-20,H,E12000007,London,00BA,E09000024,Merton,%,Coverage_in_period__25-64,65.75999138209630000000
+13,2019-20,H,E12000007,London,00BA,E09000024,Merton,Number,Eligible__25-49,54809
+13,2019-20,H,E12000007,London,00BA,E09000024,Merton,Number,Eligible__25-64,74264
+13,2019-20,H,E12000007,London,00BA,E09000024,Merton,Number,Eligible__50-64,19455
+13,2019-20,H,E12000007,London,00BB,E09000025,Newham,%,Coverage_3andhalfyears__25-49,59.35953234340330000000
+13,2019-20,H,E12000007,London,00BB,E09000025,Newham,%,Coverage_5andhalfyears__50-64,74.67804377024570000000
+13,2019-20,H,E12000007,London,00BB,E09000025,Newham,%,Coverage_in_period__25-64,62.61653983772620000000
+13,2019-20,H,E12000007,London,00BB,E09000025,Newham,Number,Eligible__25-49,93744
+13,2019-20,H,E12000007,London,00BB,E09000025,Newham,Number,Eligible__25-64,119058
+13,2019-20,H,E12000007,London,00BB,E09000025,Newham,Number,Eligible__50-64,25314
+13,2019-20,H,E12000007,London,00BC,E09000026,Redbridge,%,Coverage_3andhalfyears__25-49,61.48743116386570000000
+13,2019-20,H,E12000007,London,00BC,E09000026,Redbridge,%,Coverage_5andhalfyears__50-64,74.59461618340120000000
+13,2019-20,H,E12000007,London,00BC,E09000026,Redbridge,%,Coverage_in_period__25-64,64.93713997393100000000
+13,2019-20,H,E12000007,London,00BC,E09000026,Redbridge,Number,Eligible__25-49,70094
+13,2019-20,H,E12000007,London,00BC,E09000026,Redbridge,Number,Eligible__25-64,95132
+13,2019-20,H,E12000007,London,00BC,E09000026,Redbridge,Number,Eligible__50-64,25038
+13,2019-20,H,E12000007,London,00BD,E09000027,Richmond upon Thames,%,Coverage_3andhalfyears__25-49,67.60175642163220000000
+13,2019-20,H,E12000007,London,00BD,E09000027,Richmond upon Thames,%,Coverage_5andhalfyears__50-64,73.73828047077600000000
+13,2019-20,H,E12000007,London,00BD,E09000027,Richmond upon Thames,%,Coverage_in_period__25-64,69.52425591750650000000
+13,2019-20,H,E12000007,London,00BD,E09000027,Richmond upon Thames,Number,Eligible__25-49,43953
+13,2019-20,H,E12000007,London,00BD,E09000027,Richmond upon Thames,Number,Eligible__25-64,64005
+13,2019-20,H,E12000007,London,00BD,E09000027,Richmond upon Thames,Number,Eligible__50-64,20052
+13,2019-20,H,E12000007,London,00BE,E09000028,Southwark,%,Coverage_3andhalfyears__25-49,62.50693771833410000000
+13,2019-20,H,E12000007,London,00BE,E09000028,Southwark,%,Coverage_5andhalfyears__50-64,73.22394182360620000000
+13,2019-20,H,E12000007,London,00BE,E09000028,Southwark,%,Coverage_in_period__25-64,64.92788785550610000000
+13,2019-20,H,E12000007,London,00BE,E09000028,Southwark,Number,Eligible__25-49,91889
+13,2019-20,H,E12000007,London,00BE,E09000028,Southwark,Number,Eligible__25-64,118704
+13,2019-20,H,E12000007,London,00BE,E09000028,Southwark,Number,Eligible__50-64,26815
+13,2019-20,H,E12000007,London,00BF,E09000029,Sutton,%,Coverage_3andhalfyears__25-49,72.34098018769550000000
+13,2019-20,H,E12000007,London,00BF,E09000029,Sutton,%,Coverage_5andhalfyears__50-64,75.53134962805530000000
+13,2019-20,H,E12000007,London,00BF,E09000029,Sutton,%,Coverage_in_period__25-64,73.32502950045890000000
+13,2019-20,H,E12000007,London,00BF,E09000029,Sutton,Number,Eligible__25-49,42196
+13,2019-20,H,E12000007,London,00BF,E09000029,Sutton,Number,Eligible__25-64,61016
+13,2019-20,H,E12000007,London,00BF,E09000029,Sutton,Number,Eligible__50-64,18820
+13,2019-20,H,E12000007,London,00BG,E09000030,Tower Hamlets,%,Coverage_3andhalfyears__25-49,54.74410760389770000000
+13,2019-20,H,E12000007,London,00BG,E09000030,Tower Hamlets,%,Coverage_5andhalfyears__50-64,72.72548247341470000000
+13,2019-20,H,E12000007,London,00BG,E09000030,Tower Hamlets,%,Coverage_in_period__25-64,57.20549914637430000000
+13,2019-20,H,E12000007,London,00BG,E09000030,Tower Hamlets,Number,Eligible__25-49,96056
+13,2019-20,H,E12000007,London,00BG,E09000030,Tower Hamlets,Number,Eligible__25-64,111290
+13,2019-20,H,E12000007,London,00BG,E09000030,Tower Hamlets,Number,Eligible__50-64,15234
+13,2019-20,H,E12000007,London,00BH,E09000031,Waltham Forest,%,Coverage_3andhalfyears__25-49,64.81279791793380000000
+13,2019-20,H,E12000007,London,00BH,E09000031,Waltham Forest,%,Coverage_5andhalfyears__50-64,76.01742323952680000000
+13,2019-20,H,E12000007,London,00BH,E09000031,Waltham Forest,%,Coverage_in_period__25-64,67.60062051085890000000
+13,2019-20,H,E12000007,London,00BH,E09000031,Waltham Forest,Number,Eligible__25-49,70699
+13,2019-20,H,E12000007,London,00BH,E09000031,Waltham Forest,Number,Eligible__25-64,94116
+13,2019-20,H,E12000007,London,00BH,E09000031,Waltham Forest,Number,Eligible__50-64,23417
+13,2019-20,H,E12000007,London,00BJ,E09000032,Wandsworth,%,Coverage_3andhalfyears__25-49,63.65103674697140000000
+13,2019-20,H,E12000007,London,00BJ,E09000032,Wandsworth,%,Coverage_5andhalfyears__50-64,71.08651911468810000000
+13,2019-20,H,E12000007,London,00BJ,E09000032,Wandsworth,%,Coverage_in_period__25-64,65.03103224216350000000
+13,2019-20,H,E12000007,London,00BJ,E09000032,Wandsworth,Number,Eligible__25-49,109043
+13,2019-20,H,E12000007,London,00BJ,E09000032,Wandsworth,Number,Eligible__25-64,133893
+13,2019-20,H,E12000007,London,00BJ,E09000032,Wandsworth,Number,Eligible__50-64,24850
+13,2019-20,H,E12000007,London,00BK,E09000033,Westminster,%,Coverage_3andhalfyears__25-49,47.11149756685430000000
+13,2019-20,H,E12000007,London,00BK,E09000033,Westminster,%,Coverage_5andhalfyears__50-64,61.80124223602480000000
+13,2019-20,H,E12000007,London,00BK,E09000033,Westminster,%,Coverage_in_period__25-64,50.45538628303470000000
+13,2019-20,H,E12000007,London,00BK,E09000033,Westminster,Number,Eligible__25-49,65553
+13,2019-20,H,E12000007,London,00BK,E09000033,Westminster,Number,Eligible__25-64,84873
+13,2019-20,H,E12000007,London,00BK,E09000033,Westminster,Number,Eligible__50-64,19320
+13,2019-20,H,H,London,H,H,London,%,Coverage_3andhalfyears__25-49,61.83446225946630000000
+13,2019-20,H,H,London,H,H,London,%,Coverage_5andhalfyears__50-64,73.20803450852880000000
+13,2019-20,H,H,London,H,H,London,%,Coverage_in_period__25-64,64.70098981633180000000
+13,2019-20,H,H,London,H,H,London,Number,Eligible__25-49,2263508
+13,2019-20,H,H,London,H,H,London,Number,Eligible__25-64,3026218
+13,2019-20,H,H,London,H,H,London,Number,Eligible__50-64,762710
+13,2019-20,J,E12000008,South East,11,E10000002,Buckinghamshire,%,Coverage_3andhalfyears__25-49,72.49763451377300000000
+13,2019-20,J,E12000008,South East,11,E10000002,Buckinghamshire,%,Coverage_5andhalfyears__50-64,78.18681839734470000000
+13,2019-20,J,E12000008,South East,11,E10000002,Buckinghamshire,%,Coverage_in_period__25-64,74.54116877631380000000
+13,2019-20,J,E12000008,South East,11,E10000002,Buckinghamshire,Number,Eligible__25-49,94061
+13,2019-20,J,E12000008,South East,11,E10000002,Buckinghamshire,Number,Eligible__25-64,146786
+13,2019-20,J,E12000008,South East,11,E10000002,Buckinghamshire,Number,Eligible__50-64,52725
+13,2019-20,J,E12000008,South East,21,E10000011,East Sussex,%,Coverage_3andhalfyears__25-49,74.31165240781560000000
+13,2019-20,J,E12000008,South East,21,E10000011,East Sussex,%,Coverage_5andhalfyears__50-64,75.24184496980280000000
+13,2019-20,J,E12000008,South East,21,E10000011,East Sussex,%,Coverage_in_period__25-64,74.69435323091360000000
+13,2019-20,J,E12000008,South East,21,E10000011,East Sussex,Number,Eligible__25-49,80301
+13,2019-20,J,E12000008,South East,21,E10000011,East Sussex,Number,Eligible__25-64,136432
+13,2019-20,J,E12000008,South East,21,E10000011,East Sussex,Number,Eligible__50-64,56131
+13,2019-20,J,E12000008,South East,29,E10000016,Kent,%,Coverage_3andhalfyears__25-49,73.79289949918580000000
+13,2019-20,J,E12000008,South East,29,E10000016,Kent,%,Coverage_5andhalfyears__50-64,76.32957958486030000000
+13,2019-20,J,E12000008,South East,29,E10000016,Kent,%,Coverage_in_period__25-64,74.68879255735380000000
+13,2019-20,J,E12000008,South East,29,E10000016,Kent,Number,Eligible__25-49,260376
+13,2019-20,J,E12000008,South East,29,E10000016,Kent,Number,Eligible__25-64,402545
+13,2019-20,J,E12000008,South East,29,E10000016,Kent,Number,Eligible__50-64,142169
+13,2019-20,J,E12000008,South East,43,E10000030,Surrey,%,Coverage_3andhalfyears__25-49,71.51556283641470000000
+13,2019-20,J,E12000008,South East,43,E10000030,Surrey,%,Coverage_5andhalfyears__50-64,75.70941319120350000000
+13,2019-20,J,E12000008,South East,43,E10000030,Surrey,%,Coverage_in_period__25-64,72.98004489973710000000
+13,2019-20,J,E12000008,South East,43,E10000030,Surrey,Number,Eligible__25-49,213650
+13,2019-20,J,E12000008,South East,43,E10000030,Surrey,Number,Eligible__25-64,328287
+13,2019-20,J,E12000008,South East,43,E10000030,Surrey,Number,Eligible__50-64,114637
+13,2019-20,J,E12000008,South East,45,E10000032,West Sussex,%,Coverage_3andhalfyears__25-49,73.98146243910050000000
+13,2019-20,J,E12000008,South East,45,E10000032,West Sussex,%,Coverage_5andhalfyears__50-64,76.05984440454820000000
+13,2019-20,J,E12000008,South East,45,E10000032,West Sussex,%,Coverage_in_period__25-64,74.75474369993010000000
+13,2019-20,J,E12000008,South East,45,E10000032,West Sussex,Number,Eligible__25-49,141011
+13,2019-20,J,E12000008,South East,45,E10000032,West Sussex,Number,Eligible__25-64,224561
+13,2019-20,J,E12000008,South East,45,E10000032,West Sussex,Number,Eligible__50-64,83550
+13,2019-20,J,E12000008,South East,00LC,E06000035,Medway,%,Coverage_3andhalfyears__25-49,72.18748739461900000000
+13,2019-20,J,E12000008,South East,00LC,E06000035,Medway,%,Coverage_5andhalfyears__50-64,74.41287087338070000000
+13,2019-20,J,E12000008,South East,00LC,E06000035,Medway,%,Coverage_in_period__25-64,72.91190553923170000000
+13,2019-20,J,E12000008,South East,00LC,E06000035,Medway,Number,Eligible__25-49,49582
+13,2019-20,J,E12000008,South East,00LC,E06000035,Medway,Number,Eligible__25-64,73512
+13,2019-20,J,E12000008,South East,00LC,E06000035,Medway,Number,Eligible__50-64,23930
+13,2019-20,J,E12000008,South East,00MA,E06000036,Bracknell Forest,%,Coverage_3andhalfyears__25-49,75.65551241219840000000
+13,2019-20,J,E12000008,South East,00MA,E06000036,Bracknell Forest,%,Coverage_5andhalfyears__50-64,78.71685820287760000000
+13,2019-20,J,E12000008,South East,00MA,E06000036,Bracknell Forest,%,Coverage_in_period__25-64,76.65135994348290000000
+13,2019-20,J,E12000008,South East,00MA,E06000036,Bracknell Forest,Number,Eligible__25-49,22921
+13,2019-20,J,E12000008,South East,00MA,E06000036,Bracknell Forest,Number,Eligible__25-64,33972
+13,2019-20,J,E12000008,South East,00MA,E06000036,Bracknell Forest,Number,Eligible__50-64,11051
+13,2019-20,J,E12000008,South East,00MB,E06000037,West Berkshire,%,Coverage_3andhalfyears__25-49,75.64904022946240000000
+13,2019-20,J,E12000008,South East,00MB,E06000037,West Berkshire,%,Coverage_5andhalfyears__50-64,78.69312743283770000000
+13,2019-20,J,E12000008,South East,00MB,E06000037,West Berkshire,%,Coverage_in_period__25-64,76.76192698005370000000
+13,2019-20,J,E12000008,South East,00MB,E06000037,West Berkshire,Number,Eligible__25-49,27194
+13,2019-20,J,E12000008,South East,00MB,E06000037,West Berkshire,Number,Eligible__25-64,42865
+13,2019-20,J,E12000008,South East,00MB,E06000037,West Berkshire,Number,Eligible__50-64,15671
+13,2019-20,J,E12000008,South East,00MC,E06000038,Reading,%,Coverage_3andhalfyears__25-49,60.42566850201230000000
+13,2019-20,J,E12000008,South East,00MC,E06000038,Reading,%,Coverage_5andhalfyears__50-64,72.96368606013280000000
+13,2019-20,J,E12000008,South East,00MC,E06000038,Reading,%,Coverage_in_period__25-64,63.43751172475890000000
+13,2019-20,J,E12000008,South East,00MC,E06000038,Reading,Number,Eligible__25-49,40501
+13,2019-20,J,E12000008,South East,00MC,E06000038,Reading,Number,Eligible__25-64,53306
+13,2019-20,J,E12000008,South East,00MC,E06000038,Reading,Number,Eligible__50-64,12805
+13,2019-20,J,E12000008,South East,00MD,E06000039,Slough,%,Coverage_3andhalfyears__25-49,63.68317388857620000000
+13,2019-20,J,E12000008,South East,00MD,E06000039,Slough,%,Coverage_5andhalfyears__50-64,75.28268551236750000000
+13,2019-20,J,E12000008,South East,00MD,E06000039,Slough,%,Coverage_in_period__25-64,66.48527528809220000000
+13,2019-20,J,E12000008,South East,00MD,E06000039,Slough,Number,Eligible__25-49,35540
+13,2019-20,J,E12000008,South East,00MD,E06000039,Slough,Number,Eligible__25-64,46860
+13,2019-20,J,E12000008,South East,00MD,E06000039,Slough,Number,Eligible__50-64,11320
+13,2019-20,J,E12000008,South East,00ME,E06000040,Windsor and Maidenhead,%,Coverage_3andhalfyears__25-49,70.26780066071550000000
+13,2019-20,J,E12000008,South East,00ME,E06000040,Windsor and Maidenhead,%,Coverage_5andhalfyears__50-64,76.69414840136740000000
+13,2019-20,J,E12000008,South East,00ME,E06000040,Windsor and Maidenhead,%,Coverage_in_period__25-64,72.47826989140710000000
+13,2019-20,J,E12000008,South East,00ME,E06000040,Windsor and Maidenhead,Number,Eligible__25-49,28454
+13,2019-20,J,E12000008,South East,00ME,E06000040,Windsor and Maidenhead,Number,Eligible__25-64,43373
+13,2019-20,J,E12000008,South East,00ME,E06000040,Windsor and Maidenhead,Number,Eligible__50-64,14919
+13,2019-20,J,E12000008,South East,00MF,E06000041,Wokingham,%,Coverage_3andhalfyears__25-49,73.49424060763940000000
+13,2019-20,J,E12000008,South East,00MF,E06000041,Wokingham,%,Coverage_5andhalfyears__50-64,79.43878507593280000000
+13,2019-20,J,E12000008,South East,00MF,E06000041,Wokingham,%,Coverage_in_period__25-64,75.48159291295810000000
+13,2019-20,J,E12000008,South East,00MF,E06000041,Wokingham,Number,Eligible__25-49,31861
+13,2019-20,J,E12000008,South East,00MF,E06000041,Wokingham,Number,Eligible__25-64,47862
+13,2019-20,J,E12000008,South East,00MF,E06000041,Wokingham,Number,Eligible__50-64,16001
+13,2019-20,J,E12000008,South East,00ML,E06000043,Brighton and Hove,%,Coverage_3andhalfyears__25-49,64.89644443003920000000
+13,2019-20,J,E12000008,South East,00ML,E06000043,Brighton and Hove,%,Coverage_5andhalfyears__50-64,74.36532013412100000000
+13,2019-20,J,E12000008,South East,00ML,E06000043,Brighton and Hove,%,Coverage_in_period__25-64,67.63065077572100000000
+13,2019-20,J,E12000008,South East,00ML,E06000043,Brighton and Hove,Number,Eligible__25-49,61706
+13,2019-20,J,E12000008,South East,00ML,E06000043,Brighton and Hove,Number,Eligible__25-64,86758
+13,2019-20,J,E12000008,South East,00ML,E06000043,Brighton and Hove,Number,Eligible__50-64,25052
+13,2019-20,J,J,South East,J,J,South East,%,Coverage_3andhalfyears__25-49,71.87409741730270000000
+13,2019-20,J,J,South East,J,J,South East,%,Coverage_5andhalfyears__50-64,76.17753607570170000000
+13,2019-20,J,J,South East,J,J,South East,%,Coverage_in_period__25-64,73.37118705983200000000
+13,2019-20,J,J,South East,J,J,South East,Number,Eligible__25-49,1087158
+13,2019-20,J,J,South East,J,J,South East,Number,Eligible__25-64,1667119
+13,2019-20,J,J,South East,J,J,South East,Number,Eligible__50-64,579961
+13,2019-20,K,E12000009,South West,18,E10000008,Devon,%,Coverage_3andhalfyears__25-49,77.24652572184880000000
+13,2019-20,K,E12000009,South West,18,E10000008,Devon,%,Coverage_5andhalfyears__50-64,78.35526068252790000000
+13,2019-20,K,E12000009,South West,18,E10000008,Devon,%,Coverage_in_period__25-64,77.70085878598190000000
+13,2019-20,K,E12000009,South West,18,E10000008,Devon,Number,Eligible__25-49,114844
+13,2019-20,K,E12000009,South West,18,E10000008,Devon,Number,Eligible__25-64,194577
+13,2019-20,K,E12000009,South West,18,E10000008,Devon,Number,Eligible__50-64,79733
+13,2019-20,K,E12000009,South West,23,E10000013,Gloucestershire,%,Coverage_3andhalfyears__25-49,76.78809065088290000000
+13,2019-20,K,E12000009,South West,23,E10000013,Gloucestershire,%,Coverage_5andhalfyears__50-64,78.09650768572460000000
+13,2019-20,K,E12000009,South West,23,E10000013,Gloucestershire,%,Coverage_in_period__25-64,77.28049747299570000000
+13,2019-20,K,E12000009,South West,23,E10000013,Gloucestershire,Number,Eligible__25-49,100694
+13,2019-20,K,E12000009,South West,23,E10000013,Gloucestershire,Number,Eligible__25-64,161456
+13,2019-20,K,E12000009,South West,23,E10000013,Gloucestershire,Number,Eligible__50-64,60762
+13,2019-20,K,E12000009,South West,24,E10000014,Hampshire,%,Coverage_3andhalfyears__25-49,76.17479917291980000000
+13,2019-20,K,E12000009,South West,24,E10000014,Hampshire,%,Coverage_5andhalfyears__50-64,78.11514577726750000000
+13,2019-20,K,E12000009,South West,24,E10000014,Hampshire,%,Coverage_in_period__25-64,76.90368976409710000000
+13,2019-20,K,E12000009,South West,24,E10000014,Hampshire,Number,Eligible__25-49,222953
+13,2019-20,K,E12000009,South West,24,E10000014,Hampshire,Number,Eligible__25-64,357096
+13,2019-20,K,E12000009,South West,24,E10000014,Hampshire,Number,Eligible__50-64,134143
+13,2019-20,K,E12000009,South West,38,E10000025,Oxfordshire,%,Coverage_3andhalfyears__25-49,67.83702914907500000000
+13,2019-20,K,E12000009,South West,38,E10000025,Oxfordshire,%,Coverage_5andhalfyears__50-64,76.43476009927980000000
+13,2019-20,K,E12000009,South West,38,E10000025,Oxfordshire,%,Coverage_in_period__25-64,70.67409633105890000000
+13,2019-20,K,E12000009,South West,38,E10000025,Oxfordshire,Number,Eligible__25-49,133349
+13,2019-20,K,E12000009,South West,38,E10000025,Oxfordshire,Number,Eligible__25-64,199022
+13,2019-20,K,E12000009,South West,38,E10000025,Oxfordshire,Number,Eligible__50-64,65673
+13,2019-20,K,E12000009,South West,40,E10000027,Somerset,%,Coverage_3andhalfyears__25-49,75.08316739599600000000
+13,2019-20,K,E12000009,South West,40,E10000027,Somerset,%,Coverage_5andhalfyears__50-64,76.89595303298790000000
+13,2019-20,K,E12000009,South West,40,E10000027,Somerset,%,Coverage_in_period__25-64,75.80795213831800000000
+13,2019-20,K,E12000009,South West,40,E10000027,Somerset,Number,Eligible__25-49,83867
+13,2019-20,K,E12000009,South West,40,E10000027,Somerset,Number,Eligible__25-64,139736
+13,2019-20,K,E12000009,South West,40,E10000027,Somerset,Number,Eligible__50-64,55869
+13,2019-20,K,E12000009,South West,00HA,E06000022,Bath and North East Somerset,%,Coverage_3andhalfyears__25-49,73.60723350253810000000
+13,2019-20,K,E12000009,South West,00HA,E06000022,Bath and North East Somerset,%,Coverage_5andhalfyears__50-64,78.35087515264290000000
+13,2019-20,K,E12000009,South West,00HA,E06000022,Bath and North East Somerset,%,Coverage_in_period__25-64,75.28172917051540000000
+13,2019-20,K,E12000009,South West,00HA,E06000022,Bath and North East Somerset,Number,Eligible__25-49,31520
+13,2019-20,K,E12000009,South West,00HA,E06000022,Bath and North East Somerset,Number,Eligible__25-64,48717
+13,2019-20,K,E12000009,South West,00HA,E06000022,Bath and North East Somerset,Number,Eligible__50-64,17197
+13,2019-20,K,E12000009,South West,00HB,E06000023,Bristol,%,Coverage_3andhalfyears__25-49,69.6665249816454
+13,2019-20,K,E12000009,South West,00HB,E06000023,Bristol,%,Coverage_5andhalfyears__50-64,73.7641139647809
+13,2019-20,K,E12000009,South West,00HB,E06000023,Bristol,%,Coverage_in_period__25-64,70.683795442332
+13,2019-20,K,E12000009,South West,00HB,E06000023,Bristol,Number,Eligible__25-49,103516
+13,2019-20,K,E12000009,South West,00HB,E06000023,Bristol,Number,Eligible__25-64,137702
+13,2019-20,K,E12000009,South West,00HB,E06000023,Bristol,Number,Eligible__50-64,34186
+13,2019-20,K,E12000009,South West,00HC,E06000024,North Somerset,%,Coverage_3andhalfyears__25-49,77.16185608920380000000
+13,2019-20,K,E12000009,South West,00HC,E06000024,North Somerset,%,Coverage_5andhalfyears__50-64,77.72587943365930000000
+13,2019-20,K,E12000009,South West,00HC,E06000024,North Somerset,%,Coverage_in_period__25-64,77.37266098088780000000
+13,2019-20,K,E12000009,South West,00HC,E06000024,North Somerset,Number,Eligible__25-49,34438
+13,2019-20,K,E12000009,South West,00HC,E06000024,North Somerset,Number,Eligible__25-64,54991
+13,2019-20,K,E12000009,South West,00HC,E06000024,North Somerset,Number,Eligible__50-64,20553
+13,2019-20,K,E12000009,South West,00HD,E06000025,South Gloucestershire,%,Coverage_3andhalfyears__25-49,77.60039960039960000000
+13,2019-20,K,E12000009,South West,00HD,E06000025,South Gloucestershire,%,Coverage_5andhalfyears__50-64,80.46242322287860000000
+13,2019-20,K,E12000009,South West,00HD,E06000025,South Gloucestershire,%,Coverage_in_period__25-64,78.56793323722740000000
+13,2019-20,K,E12000009,South West,00HD,E06000025,South Gloucestershire,Number,Eligible__25-49,50050
+13,2019-20,K,E12000009,South West,00HD,E06000025,South Gloucestershire,Number,Eligible__25-64,75611
+13,2019-20,K,E12000009,South West,00HD,E06000025,South Gloucestershire,Number,Eligible__50-64,25561
+13,2019-20,K,E12000009,South West,00HE,E06000052,Cornwall,%,Coverage_3andhalfyears__25-49,75.85586015286840000000
+13,2019-20,K,E12000009,South West,00HE,E06000052,Cornwall,%,Coverage_5andhalfyears__50-64,76.09745085781760000000
+13,2019-20,K,E12000009,South West,00HE,E06000052,Cornwall,%,Coverage_in_period__25-64,75.95421736148910000000
+13,2019-20,K,E12000009,South West,00HE,E06000052,Cornwall,Number,Eligible__25-49,83863
+13,2019-20,K,E12000009,South West,00HE,E06000052,Cornwall,Number,Eligible__25-64,141451
+13,2019-20,K,E12000009,South West,00HE,E06000052,Cornwall,Number,Eligible__50-64,57588
+13,2019-20,K,E12000009,South West,00HG,E06000026,Plymouth,%,Coverage_3andhalfyears__25-49,73.71136343155810000000
+13,2019-20,K,E12000009,South West,00HG,E06000026,Plymouth,%,Coverage_5andhalfyears__50-64,76.01674907568270000000
+13,2019-20,K,E12000009,South West,00HG,E06000026,Plymouth,%,Coverage_in_period__25-64,74.48568906444040000000
+13,2019-20,K,E12000009,South West,00HG,E06000026,Plymouth,Number,Eligible__25-49,44388
+13,2019-20,K,E12000009,South West,00HG,E06000026,Plymouth,Number,Eligible__25-64,66837
+13,2019-20,K,E12000009,South West,00HG,E06000026,Plymouth,Number,Eligible__50-64,22449
+13,2019-20,K,E12000009,South West,00HH,E06000027,Torbay,%,Coverage_3andhalfyears__25-49,74.30966964554670000000
+13,2019-20,K,E12000009,South West,00HH,E06000027,Torbay,%,Coverage_5andhalfyears__50-64,75.19174041297930000000
+13,2019-20,K,E12000009,South West,00HH,E06000027,Torbay,%,Coverage_in_period__25-64,74.66694545671790000000
+13,2019-20,K,E12000009,South West,00HH,E06000027,Torbay,Number,Eligible__25-49,19918
+13,2019-20,K,E12000009,South West,00HH,E06000027,Torbay,Number,Eligible__25-64,33478
+13,2019-20,K,E12000009,South West,00HH,E06000027,Torbay,Number,Eligible__50-64,13560
+13,2019-20,K,E12000009,South West,00HQ,E06000058,"Bournemouth, Christchurch and Poole",%,Coverage_3andhalfyears__25-49,71.43226065623160000000
+13,2019-20,K,E12000009,South West,00HQ,E06000058,"Bournemouth, Christchurch and Poole",%,Coverage_5andhalfyears__50-64,75.50583263380320000000
+13,2019-20,K,E12000009,South West,00HQ,E06000058,"Bournemouth, Christchurch and Poole",%,Coverage_in_period__25-64,72.78221164914430000000
+13,2019-20,K,E12000009,South West,00HQ,E06000058,"Bournemouth, Christchurch and Poole",Number,Eligible__25-49,69701
+13,2019-20,K,E12000009,South West,00HQ,E06000058,"Bournemouth, Christchurch and Poole",Number,Eligible__25-64,104248
+13,2019-20,K,E12000009,South West,00HQ,E06000058,"Bournemouth, Christchurch and Poole",Number,Eligible__50-64,34547
+13,2019-20,K,E12000009,South West,00HR,E06000059,Dorset,%,Coverage_3andhalfyears__25-49,78.14677147441760000000
+13,2019-20,K,E12000009,South West,00HR,E06000059,Dorset,%,Coverage_5andhalfyears__50-64,78.83453014413390000000
+13,2019-20,K,E12000009,South West,00HR,E06000059,Dorset,%,Coverage_in_period__25-64,78.44952073407850000000
+13,2019-20,K,E12000009,South West,00HR,E06000059,Dorset,Number,Eligible__25-49,49233
+13,2019-20,K,E12000009,South West,00HR,E06000059,Dorset,Number,Eligible__25-64,87947
+13,2019-20,K,E12000009,South West,00HR,E06000059,Dorset,Number,Eligible__50-64,38714
+13,2019-20,K,E12000009,South West,00HX,E06000030,Swindon,%,Coverage_3andhalfyears__25-49,69.75006381843080000000
+13,2019-20,K,E12000009,South West,00HX,E06000030,Swindon,%,Coverage_5andhalfyears__50-64,74.37528396183550000000
+13,2019-20,K,E12000009,South West,00HX,E06000030,Swindon,%,Coverage_in_period__25-64,71.20667726550080000000
+13,2019-20,K,E12000009,South West,00HX,E06000030,Swindon,Number,Eligible__25-49,43091
+13,2019-20,K,E12000009,South West,00HX,E06000030,Swindon,Number,Eligible__25-64,62900
+13,2019-20,K,E12000009,South West,00HX,E06000030,Swindon,Number,Eligible__50-64,19809
+13,2019-20,K,E12000009,South West,00HY,E06000054,Wiltshire,%,Coverage_3andhalfyears__25-49,77.30929816422560000000
+13,2019-20,K,E12000009,South West,00HY,E06000054,Wiltshire,%,Coverage_5andhalfyears__50-64,77.58892481810830000000
+13,2019-20,K,E12000009,South West,00HY,E06000054,Wiltshire,%,Coverage_in_period__25-64,77.42005203121870000000
+13,2019-20,K,E12000009,South West,00HY,E06000054,Wiltshire,Number,Eligible__25-49,75445
+13,2019-20,K,E12000009,South West,00HY,E06000054,Wiltshire,Number,Eligible__25-64,124925
+13,2019-20,K,E12000009,South West,00HY,E06000054,Wiltshire,Number,Eligible__50-64,49480
+13,2019-20,K,E12000009,South West,00MR,E06000044,Portsmouth,%,Coverage_3andhalfyears__25-49,65.25391849529780000000
+13,2019-20,K,E12000009,South West,00MR,E06000044,Portsmouth,%,Coverage_5andhalfyears__50-64,72.89268030782080000000
+13,2019-20,K,E12000009,South West,00MR,E06000044,Portsmouth,%,Coverage_in_period__25-64,67.51474275221580000000
+13,2019-20,K,E12000009,South West,00MR,E06000044,Portsmouth,Number,Eligible__25-49,39875
+13,2019-20,K,E12000009,South West,00MR,E06000044,Portsmouth,Number,Eligible__25-64,56638
+13,2019-20,K,E12000009,South West,00MR,E06000044,Portsmouth,Number,Eligible__50-64,16763
+13,2019-20,K,E12000009,South West,00MS,E06000045,Southampton,%,Coverage_3andhalfyears__25-49,62.85057742163560000000
+13,2019-20,K,E12000009,South West,00MS,E06000045,Southampton,%,Coverage_5andhalfyears__50-64,71.34532699705820000000
+13,2019-20,K,E12000009,South West,00MS,E06000045,Southampton,%,Coverage_in_period__25-64,65.03965477023560000000
+13,2019-20,K,E12000009,South West,00MS,E06000045,Southampton,Number,Eligible__25-49,50916
+13,2019-20,K,E12000009,South West,00MS,E06000045,Southampton,Number,Eligible__25-64,68592
+13,2019-20,K,E12000009,South West,00MS,E06000045,Southampton,Number,Eligible__50-64,17676
+13,2019-20,K,E12000009,South West,00MW,E06000046,Isle of Wight,%,Coverage_3andhalfyears__25-49,73.77205027991970000000
+13,2019-20,K,E12000009,South West,00MW,E06000046,Isle of Wight,%,Coverage_5andhalfyears__50-64,72.67228489873590000000
+13,2019-20,K,E12000009,South West,00MW,E06000046,Isle of Wight,%,Coverage_in_period__25-64,73.29113171659530000000
+13,2019-20,K,E12000009,South West,00MW,E06000046,Isle of Wight,Number,Eligible__25-49,18934
+13,2019-20,K,E12000009,South West,00MW,E06000046,Isle of Wight,Number,Eligible__25-64,33648
+13,2019-20,K,E12000009,South West,00MW,E06000046,Isle of Wight,Number,Eligible__50-64,14714
+13,2019-20,K,K,South West,K,K,South West,%,Coverage_3andhalfyears__25-49,73.67573936866830000000
+13,2019-20,K,K,South West,K,K,South West,%,Coverage_5andhalfyears__50-64,76.95233620504840000000
+13,2019-20,K,K,South West,K,K,South West,%,Coverage_in_period__25-64,74.86313554512250000000
+13,2019-20,K,K,South West,K,K,South West,Number,Eligible__25-49,1370595
+13,2019-20,K,K,South West,K,K,South West,Number,Eligible__25-64,2149572
+13,2019-20,K,K,South West,K,K,South West,Number,Eligible__50-64,778977
+13,2019-20,S,S,South,S,S,South,%,Coverage_3andhalfyears__25-49,72.87880433875980000000
+13,2019-20,S,S,South,S,S,South,%,Coverage_5andhalfyears__50-64,76.62167074583240000000
+13,2019-20,S,S,South,S,S,South,%,Coverage_in_period__25-64,74.21145699245760000000
+13,2019-20,S,S,South,S,S,South,Number,Eligible__25-49,2457753
+13,2019-20,S,S,South,S,S,South,Number,Eligible__25-64,3816691
+13,2019-20,S,S,South,S,S,South,Number,Eligible__50-64,1358938

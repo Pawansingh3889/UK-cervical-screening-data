@@ -1,0 +1,145 @@
+﻿Table_ref,Collection_Year,Parent_Org_Code,Parent_Org_Name,Indicator,Unit,Value
+25,2019-20,ENG,England,Biopsies_reported_All_Ages,Number,15644
+25,2019-20,ENG,England,Biopsies_unknown_All_Ages,Number,19
+25,2019-20,ENG,England,Biopsies_known_All_Ages,Number,15625
+25,2019-20,ENG,England,Cancer_All_Ages,%,2.0032000000000000000
+25,2019-20,ENG,England,Adeno_in_situ_All_Ages,%,2.8864000000000000000
+25,2019-20,ENG,England,CIN3_All_Ages,%,43.6992000000000000000
+25,2019-20,ENG,England,CIN2_All_Ages,%,23.9424000000000000000
+25,2019-20,ENG,England,CIN1_All_Ages,%,11.8080000000000000000
+25,2019-20,ENG,England,HPV_cerv_All_Ages,%,5.2928000000000000000
+25,2019-20,ENG,England,NoCIN_NoHPV_All_Ages,%,10.1312000000000000000
+25,2019-20,ENG,England,Inad_biopsy_All_Ages,%,0.2368000000000000000
+25,2019-20,ENG,England,CIN_or_worse_All_Ages,%,84.3392000000000000000
+25,2019-20,NEYH,"North East, Yorkshire and the Humber",Biopsies_reported_All_Ages,Number,2452
+25,2019-20,NEYH,"North East, Yorkshire and the Humber",Biopsies_unknown_All_Ages,Number,3
+25,2019-20,NEYH,"North East, Yorkshire and the Humber",Biopsies_known_All_Ages,Number,2449
+25,2019-20,NEYH,"North East, Yorkshire and the Humber",Cancer_All_Ages,%,2.2866476112699100000
+25,2019-20,NEYH,"North East, Yorkshire and the Humber",Adeno_in_situ_All_Ages,%,3.2258064516129000000
+25,2019-20,NEYH,"North East, Yorkshire and the Humber",CIN3_All_Ages,%,42.7929767251940000000
+25,2019-20,NEYH,"North East, Yorkshire and the Humber",CIN2_All_Ages,%,25.3164556962025000000
+25,2019-20,NEYH,"North East, Yorkshire and the Humber",CIN1_All_Ages,%,10.7799101674153000000
+25,2019-20,NEYH,"North East, Yorkshire and the Humber",HPV_cerv_All_Ages,%,3.5933033891384200000
+25,2019-20,NEYH,"North East, Yorkshire and the Humber",NoCIN_NoHPV_All_Ages,%,11.8824009799918000000
+25,2019-20,NEYH,"North East, Yorkshire and the Humber",Inad_biopsy_All_Ages,%,0.1224989791751740000
+25,2019-20,NEYH,"North East, Yorkshire and the Humber",CIN_or_worse_All_Ages,%,84.4017966516946000000
+25,2019-20,R1,North East,Biopsies_reported_All_Ages,Number,946
+25,2019-20,R1,North East,Biopsies_unknown_All_Ages,Number,0
+25,2019-20,R1,North East,Biopsies_known_All_Ages,Number,946
+25,2019-20,R1,North East,Cancer_All_Ages,%,1.6913319238900600000
+25,2019-20,R1,North East,Adeno_in_situ_All_Ages,%,2.6427061310782200000
+25,2019-20,R1,North East,CIN3_All_Ages,%,42.6004228329810000000
+25,2019-20,R1,North East,CIN2_All_Ages,%,29.3868921775899000000
+25,2019-20,R1,North East,CIN1_All_Ages,%,16.3847780126850000000
+25,2019-20,R1,North East,HPV_cerv_All_Ages,%,2.4312896405919700000
+25,2019-20,R1,North East,NoCIN_NoHPV_All_Ages,%,4.7568710359408000000
+25,2019-20,R1,North East,Inad_biopsy_All_Ages,%,0.1057082452431290000
+25,2019-20,R1,North East,CIN_or_worse_All_Ages,%,92.7061310782241000000
+25,2019-20,R10,South West,Biopsies_reported_All_Ages,Number,2722
+25,2019-20,R10,South West,Biopsies_unknown_All_Ages,Number,1
+25,2019-20,R10,South West,Biopsies_known_All_Ages,Number,2721
+25,2019-20,R10,South West,Cancer_All_Ages,%,1.9845644983462000000
+25,2019-20,R10,South West,Adeno_in_situ_All_Ages,%,2.7195883866225700000
+25,2019-20,R10,South West,CIN3_All_Ages,%,44.9467107681000000000
+25,2019-20,R10,South West,CIN2_All_Ages,%,24.1822859242925000000
+25,2019-20,R10,South West,CIN1_All_Ages,%,12.6056596839397000000
+25,2019-20,R10,South West,HPV_cerv_All_Ages,%,4.8144064682102200000
+25,2019-20,R10,South West,NoCIN_NoHPV_All_Ages,%,8.4527747151782400000
+25,2019-20,R10,South West,Inad_biopsy_All_Ages,%,0.2940095553105480000
+25,2019-20,R10,South West,CIN_or_worse_All_Ages,%,86.4388092613010000000
+25,2019-20,R2,North West,Biopsies_reported_All_Ages,Number,2619
+25,2019-20,R2,North West,Biopsies_unknown_All_Ages,Number,10
+25,2019-20,R2,North West,Biopsies_known_All_Ages,Number,2609
+25,2019-20,R2,North West,Cancer_All_Ages,%,2.1847451130701400000
+25,2019-20,R2,North West,Adeno_in_situ_All_Ages,%,3.4495975469528600000
+25,2019-20,R2,North West,CIN3_All_Ages,%,45.2663855883480000000
+25,2019-20,R2,North West,CIN2_All_Ages,%,21.4641625143733000000
+25,2019-20,R2,North West,CIN1_All_Ages,%,9.8121885779992300000
+25,2019-20,R2,North West,HPV_cerv_All_Ages,%,7.5507857416634700000
+25,2019-20,R2,North West,NoCIN_NoHPV_All_Ages,%,9.8121885779992300000
+25,2019-20,R2,North West,Inad_biopsy_All_Ages,%,0.4599463395937140000
+25,2019-20,R2,North West,CIN_or_worse_All_Ages,%,82.1770793407436000000
+25,2019-20,R3,Yorkshire and the Humber,Biopsies_reported_All_Ages,Number,1506
+25,2019-20,R3,Yorkshire and the Humber,Biopsies_unknown_All_Ages,Number,3
+25,2019-20,R3,Yorkshire and the Humber,Biopsies_known_All_Ages,Number,1503
+25,2019-20,R3,Yorkshire and the Humber,Cancer_All_Ages,%,2.6613439787092500000
+25,2019-20,R3,Yorkshire and the Humber,Adeno_in_situ_All_Ages,%,3.5928143712574800000
+25,2019-20,R3,Yorkshire and the Humber,CIN3_All_Ages,%,42.9141716566866000000
+25,2019-20,R3,Yorkshire and the Humber,CIN2_All_Ages,%,22.7544910179641000000
+25,2019-20,R3,Yorkshire and the Humber,CIN1_All_Ages,%,7.2521623419827000000
+25,2019-20,R3,Yorkshire and the Humber,HPV_cerv_All_Ages,%,4.3246839654025300000
+25,2019-20,R3,Yorkshire and the Humber,NoCIN_NoHPV_All_Ages,%,16.3672654690619000000
+25,2019-20,R3,Yorkshire and the Humber,Inad_biopsy_All_Ages,%,0.1330671989354620000
+25,2019-20,R3,Yorkshire and the Humber,CIN_or_worse_All_Ages,%,79.1749833666001000000
+25,2019-20,R4,East Midlands,Biopsies_reported_All_Ages,Number,1368
+25,2019-20,R4,East Midlands,Biopsies_unknown_All_Ages,Number,0
+25,2019-20,R4,East Midlands,Biopsies_known_All_Ages,Number,1368
+25,2019-20,R4,East Midlands,Cancer_All_Ages,%,2.4122807017543900000
+25,2019-20,R4,East Midlands,Adeno_in_situ_All_Ages,%,2.5584795321637400000
+25,2019-20,R4,East Midlands,CIN3_All_Ages,%,47.9532163742690000000
+25,2019-20,R4,East Midlands,CIN2_All_Ages,%,23.0263157894737000000
+25,2019-20,R4,East Midlands,CIN1_All_Ages,%,10.1608187134503000000
+25,2019-20,R4,East Midlands,HPV_cerv_All_Ages,%,5.6286549707602300000
+25,2019-20,R4,East Midlands,NoCIN_NoHPV_All_Ages,%,8.1140350877193000000
+25,2019-20,R4,East Midlands,Inad_biopsy_All_Ages,%,0.1461988304093570000
+25,2019-20,R4,East Midlands,CIN_or_worse_All_Ages,%,86.1111111111111000000
+25,2019-20,R5,West Midlands,Biopsies_reported_All_Ages,Number,1375
+25,2019-20,R5,West Midlands,Biopsies_unknown_All_Ages,Number,3
+25,2019-20,R5,West Midlands,Biopsies_known_All_Ages,Number,1372
+25,2019-20,R5,West Midlands,Cancer_All_Ages,%,2.0408163265306100000
+25,2019-20,R5,West Midlands,Adeno_in_situ_All_Ages,%,3.2798833819242000000
+25,2019-20,R5,West Midlands,CIN3_All_Ages,%,46.2099125364431000000
+25,2019-20,R5,West Midlands,CIN2_All_Ages,%,17.2011661807580000000
+25,2019-20,R5,West Midlands,CIN1_All_Ages,%,11.8075801749271000000
+25,2019-20,R5,West Midlands,HPV_cerv_All_Ages,%,6.1224489795918400000
+25,2019-20,R5,West Midlands,NoCIN_NoHPV_All_Ages,%,13.0466472303207000000
+25,2019-20,R5,West Midlands,Inad_biopsy_All_Ages,%,0.2915451895043730000
+25,2019-20,R5,West Midlands,CIN_or_worse_All_Ages,%,80.5393586005831000000
+25,2019-20,R6,East of England,Biopsies_reported_All_Ages,Number,1946
+25,2019-20,R6,East of England,Biopsies_unknown_All_Ages,Number,0
+25,2019-20,R6,East of England,Biopsies_known_All_Ages,Number,1946
+25,2019-20,R6,East of England,Cancer_All_Ages,%,1.7985611510791400000
+25,2019-20,R6,East of England,Adeno_in_situ_All_Ages,%,2.4152106885919800000
+25,2019-20,R6,East of England,CIN3_All_Ages,%,44.2446043165468000000
+25,2019-20,R6,East of England,CIN2_All_Ages,%,25.8478931140802000000
+25,2019-20,R6,East of England,CIN1_All_Ages,%,12.8468653648510000000
+25,2019-20,R6,East of England,HPV_cerv_All_Ages,%,3.2887975334018500000
+25,2019-20,R6,East of England,NoCIN_NoHPV_All_Ages,%,9.2497430626927000000
+25,2019-20,R6,East of England,Inad_biopsy_All_Ages,%,0.3083247687564230000
+25,2019-20,R6,East of England,CIN_or_worse_All_Ages,%,87.1531346351490000000
+25,2019-20,R7,London,Biopsies_reported_All_Ages,Number,2269
+25,2019-20,R7,London,Biopsies_unknown_All_Ages,Number,1
+25,2019-20,R7,London,Biopsies_known_All_Ages,Number,2268
+25,2019-20,R7,London,Cancer_All_Ages,%,1.4109347442680800000
+25,2019-20,R7,London,Adeno_in_situ_All_Ages,%,2.2486772486772500000
+25,2019-20,R7,London,CIN3_All_Ages,%,35.8024691358025000000
+25,2019-20,R7,London,CIN2_All_Ages,%,28.0423280423280000000
+25,2019-20,R7,London,CIN1_All_Ages,%,13.9329805996473000000
+25,2019-20,R7,London,HPV_cerv_All_Ages,%,5.5114638447971800000
+25,2019-20,R7,London,NoCIN_NoHPV_All_Ages,%,13.0511463844797000000
+25,2019-20,R7,London,Inad_biopsy_All_Ages,%,0.0000000000000000000
+25,2019-20,R7,London,CIN_or_worse_All_Ages,%,81.4373897707231000000
+25,2019-20,R8,South East,Biopsies_reported_All_Ages,Number,893
+25,2019-20,R8,South East,Biopsies_unknown_All_Ages,Number,1
+25,2019-20,R8,South East,Biopsies_known_All_Ages,Number,892
+25,2019-20,R8,South East,Cancer_All_Ages,%,2.0179372197309400000
+25,2019-20,R8,South East,Adeno_in_situ_All_Ages,%,3.3632286995515700000
+25,2019-20,R8,South East,CIN3_All_Ages,%,46.3004484304933000000
+25,2019-20,R8,South East,CIN2_All_Ages,%,23.8789237668161000000
+25,2019-20,R8,South East,CIN1_All_Ages,%,12.8923766816144000000
+25,2019-20,R8,South East,HPV_cerv_All_Ages,%,6.8385650224215300000
+25,2019-20,R8,South East,NoCIN_NoHPV_All_Ages,%,4.4843049327354300000
+25,2019-20,R8,South East,Inad_biopsy_All_Ages,%,0.2242152466367710000
+25,2019-20,R8,South East,CIN_or_worse_All_Ages,%,88.4529147982063000000
+25,2019-20,S,South,Biopsies_reported_All_Ages,Number,3615
+25,2019-20,S,South,Biopsies_unknown_All_Ages,Number,2
+25,2019-20,S,South,Biopsies_known_All_Ages,Number,3613
+25,2019-20,S,South,Cancer_All_Ages,%,1.9928037641848900000
+25,2019-20,S,South,Adeno_in_situ_All_Ages,%,2.8784943260448400000
+25,2019-20,S,South,CIN3_All_Ages,%,45.2809299750900000000
+25,2019-20,S,South,CIN2_All_Ages,%,24.1073899806255000000
+25,2019-20,S,South,CIN1_All_Ages,%,12.6764461666205000000
+25,2019-20,S,South,HPV_cerv_All_Ages,%,5.3141433711597000000
+25,2019-20,S,South,NoCIN_NoHPV_All_Ages,%,7.4730141156933300000
+25,2019-20,S,South,Inad_biopsy_All_Ages,%,0.2767783005812340000
+25,2019-20,S,South,CIN_or_worse_All_Ages,%,86.9360642125657000000

@@ -1,0 +1,85 @@
+﻿Table_ref,Collection_Year,Parent_Org_Code,Parent_Org_Name,Unit,Indicator,Value
+24,2019-20,ENG,England,Number,All_referrals_All_Ages,50240
+24,2019-20,ENG,England,%,Less_than_equal_2wks_All_Ages,33.7500000000000000000
+24,2019-20,ENG,England,%,Over_2wks_up_to_4_All_Ages,48.1011146496815000000
+24,2019-20,ENG,England,%,Over_4wks_up_to_8_All_Ages,16.4888535031847000000
+24,2019-20,ENG,England,%,Over_8wks_up_to_12_All_Ages,1.2082006369426800000
+24,2019-20,ENG,England,%,Over_12wks_All_Ages,0.4518312101910830000
+24,2019-20,ENG,England,%,Within_8wks_All_Ages,98.3399681528662000000
+24,2019-20,NEYH,"North East, Yorkshire and the Humber",Number,All_referrals_All_Ages,7730
+24,2019-20,NEYH,"North East, Yorkshire and the Humber",%,Less_than_equal_2wks_All_Ages,34.3467011642950000000
+24,2019-20,NEYH,"North East, Yorkshire and the Humber",%,Over_2wks_up_to_4_All_Ages,40.9573091849935000000
+24,2019-20,NEYH,"North East, Yorkshire and the Humber",%,Over_4wks_up_to_8_All_Ages,22.5743855109961000000
+24,2019-20,NEYH,"North East, Yorkshire and the Humber",%,Over_8wks_up_to_12_All_Ages,1.5006468305304000000
+24,2019-20,NEYH,"North East, Yorkshire and the Humber",%,Over_12wks_All_Ages,0.6209573091849930000
+24,2019-20,NEYH,"North East, Yorkshire and the Humber",%,Within_8wks_All_Ages,97.8783958602846000000
+24,2019-20,R1,North East,Number,All_referrals_All_Ages,3054
+24,2019-20,R1,North East,%,Less_than_equal_2wks_All_Ages,38.9325474787164000000
+24,2019-20,R1,North East,%,Over_2wks_up_to_4_All_Ages,37.8192534381139000000
+24,2019-20,R1,North East,%,Over_4wks_up_to_8_All_Ages,22.2003929273084000000
+24,2019-20,R1,North East,%,Over_8wks_up_to_12_All_Ages,1.0150622134905000000
+24,2019-20,R1,North East,%,Over_12wks_All_Ages,0.0327439423706614000
+24,2019-20,R1,North East,%,Within_8wks_All_Ages,98.9521938441388000000
+24,2019-20,R10,South West,Number,All_referrals_All_Ages,8197
+24,2019-20,R10,South West,%,Less_than_equal_2wks_All_Ages,32.6338904477248000000
+24,2019-20,R10,South West,%,Over_2wks_up_to_4_All_Ages,52.7388068805661000000
+24,2019-20,R10,South West,%,Over_4wks_up_to_8_All_Ages,13.7733317067220000000
+24,2019-20,R10,South West,%,Over_8wks_up_to_12_All_Ages,0.6221788459192390000
+24,2019-20,R10,South West,%,Over_12wks_All_Ages,0.2317921190679520000
+24,2019-20,R10,South West,%,Within_8wks_All_Ages,99.1460290350128000000
+24,2019-20,R2,North West,Number,All_referrals_All_Ages,6810
+24,2019-20,R2,North West,%,Less_than_equal_2wks_All_Ages,26.3582966226138000000
+24,2019-20,R2,North West,%,Over_2wks_up_to_4_All_Ages,51.0425844346549000000
+24,2019-20,R2,North West,%,Over_4wks_up_to_8_All_Ages,19.7650513950073000000
+24,2019-20,R2,North West,%,Over_8wks_up_to_12_All_Ages,1.7621145374449300000
+24,2019-20,R2,North West,%,Over_12wks_All_Ages,1.0719530102790000000
+24,2019-20,R2,North West,%,Within_8wks_All_Ages,97.1659324522761000000
+24,2019-20,R3,Yorkshire and the Humber,Number,All_referrals_All_Ages,4676
+24,2019-20,R3,Yorkshire and the Humber,%,Less_than_equal_2wks_All_Ages,31.3515825491873000000
+24,2019-20,R3,Yorkshire and the Humber,%,Over_2wks_up_to_4_All_Ages,43.0068434559453000000
+24,2019-20,R3,Yorkshire and the Humber,%,Over_4wks_up_to_8_All_Ages,22.8186484174508000000
+24,2019-20,R3,Yorkshire and the Humber,%,Over_8wks_up_to_12_All_Ages,1.8177929854576600000
+24,2019-20,R3,Yorkshire and the Humber,%,Over_12wks_All_Ages,1.0051325919589400000
+24,2019-20,R3,Yorkshire and the Humber,%,Within_8wks_All_Ages,97.1770744225834000000
+24,2019-20,R4,East Midlands,Number,All_referrals_All_Ages,3878
+24,2019-20,R4,East Midlands,%,Less_than_equal_2wks_All_Ages,35.5079938112429000000
+24,2019-20,R4,East Midlands,%,Over_2wks_up_to_4_All_Ages,41.3615265600825000000
+24,2019-20,R4,East Midlands,%,Over_4wks_up_to_8_All_Ages,21.1449200618876000000
+24,2019-20,R4,East Midlands,%,Over_8wks_up_to_12_All_Ages,1.7019082001031500000
+24,2019-20,R4,East Midlands,%,Over_12wks_All_Ages,0.2836513666838580000
+24,2019-20,R4,East Midlands,%,Within_8wks_All_Ages,98.0144404332130000000
+24,2019-20,R5,West Midlands,Number,All_referrals_All_Ages,3703
+24,2019-20,R5,West Midlands,%,Less_than_equal_2wks_All_Ages,44.8015122873346000000
+24,2019-20,R5,West Midlands,%,Over_2wks_up_to_4_All_Ages,47.2859843370240000000
+24,2019-20,R5,West Midlands,%,Over_4wks_up_to_8_All_Ages,7.3183904941939000000
+24,2019-20,R5,West Midlands,%,Over_8wks_up_to_12_All_Ages,0.4860923575479340000
+24,2019-20,R5,West Midlands,%,Over_12wks_All_Ages,0.1080205238995410000
+24,2019-20,R5,West Midlands,%,Within_8wks_All_Ages,99.4058871185525000000
+24,2019-20,R6,East of England,Number,All_referrals_All_Ages,4866
+24,2019-20,R6,East of England,%,Less_than_equal_2wks_All_Ages,39.5602137279079000000
+24,2019-20,R6,East of England,%,Over_2wks_up_to_4_All_Ages,47.3284011508426000000
+24,2019-20,R6,East of England,%,Over_4wks_up_to_8_All_Ages,11.5906288532676000000
+24,2019-20,R6,East of England,%,Over_8wks_up_to_12_All_Ages,1.1919441019317700000
+24,2019-20,R6,East of England,%,Over_12wks_All_Ages,0.3288121660501440000
+24,2019-20,R6,East of England,%,Within_8wks_All_Ages,98.4792437320181000000
+24,2019-20,R7,London,Number,All_referrals_All_Ages,10851
+24,2019-20,R7,London,%,Less_than_equal_2wks_All_Ages,35.1304027278592000000
+24,2019-20,R7,London,%,Over_2wks_up_to_4_All_Ages,50.0599023131509000000
+24,2019-20,R7,London,%,Over_4wks_up_to_8_All_Ages,13.5010598101557000000
+24,2019-20,R7,London,%,Over_8wks_up_to_12_All_Ages,1.0229471938070200000
+24,2019-20,R7,London,%,Over_12wks_All_Ages,0.2856879550271860000
+24,2019-20,R7,London,%,Within_8wks_All_Ages,98.6913648511658000000
+24,2019-20,R8,South East,Number,All_referrals_All_Ages,4205
+24,2019-20,R8,South East,%,Less_than_equal_2wks_All_Ages,25.1605231866825000000
+24,2019-20,R8,South East,%,Over_2wks_up_to_4_All_Ages,50.2021403091558000000
+24,2019-20,R8,South East,%,Over_4wks_up_to_8_All_Ages,22.4494649227111000000
+24,2019-20,R8,South East,%,Over_8wks_up_to_12_All_Ages,1.5933412604042800000
+24,2019-20,R8,South East,%,Over_12wks_All_Ages,0.5945303210463730000
+24,2019-20,R8,South East,%,Within_8wks_All_Ages,97.8121284185493000000
+24,2019-20,S,South,Number,All_referrals_All_Ages,12402
+24,2019-20,S,South,%,Less_than_equal_2wks_All_Ages,30.0999838735688000000
+24,2019-20,S,South,%,Over_2wks_up_to_4_All_Ages,51.8787292372198000000
+24,2019-20,S,South,%,Over_4wks_up_to_8_All_Ages,16.7150459603290000000
+24,2019-20,S,South,%,Over_8wks_up_to_12_All_Ages,0.9514594420254800000
+24,2019-20,S,South,%,Over_12wks_All_Ages,0.3547814868569590000
+24,2019-20,S,South,%,Within_8wks_All_Ages,98.6937590711176000000

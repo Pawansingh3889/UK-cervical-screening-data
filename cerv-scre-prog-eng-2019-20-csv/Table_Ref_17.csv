@@ -1,0 +1,241 @@
+﻿Table_ref,Collection_Year,Parent_Org_Code,Parent_Org_Name,Unit,Indicator,Value
+17,2019-20,R1,North East,Number,Borderline_Low_Grade_dyskaryosis_GP_All_Ages,8957
+17,2019-20,R1,North East,Number,Borderline_Low_Grade_dyskaryosis_GUM_All_Ages,82
+17,2019-20,R1,North East,Number,Borderline_Low_Grade_dyskaryosis_NHSCC_All_Ages,297
+17,2019-20,R1,North East,Number,Borderline_Low_Grade_dyskaryosis_NHS_Hospital_All_Ages,372
+17,2019-20,R1,North East,Number,Borderline_Low_Grade_dyskaryosis_Other_All_Ages,501
+17,2019-20,R1,North East,Number,Borderline_Low_Grade_dyskaryosis_Private_All_Ages,0
+17,2019-20,R1,North East,Number,Inadequate_GP_All_Ages,1441
+17,2019-20,R1,North East,Number,Inadequate_GUM_All_Ages,13
+17,2019-20,R1,North East,Number,Inadequate_NHSCC_All_Ages,49
+17,2019-20,R1,North East,Number,Inadequate_NHS_Hospital_All_Ages,120
+17,2019-20,R1,North East,Number,Inadequate_Other_All_Ages,42
+17,2019-20,R1,North East,Number,Inadequate_Private_All_Ages,0
+17,2019-20,R1,North East,Number,Moderate_dyskaryosis_GP_All_Ages,1350
+17,2019-20,R1,North East,Number,Moderate_dyskaryosis_GUM_All_Ages,9
+17,2019-20,R1,North East,Number,Moderate_dyskaryosis_NHSCC_All_Ages,34
+17,2019-20,R1,North East,Number,Moderate_dyskaryosis_NHS_Hospital_All_Ages,58
+17,2019-20,R1,North East,Number,Moderate_dyskaryosis_Other_All_Ages,130
+17,2019-20,R1,North East,Number,Moderate_dyskaryosis_Private_All_Ages,0
+17,2019-20,R1,North East,Number,Negative_GP_All_Ages,217198
+17,2019-20,R1,North East,Number,Negative_GUM_All_Ages,688
+17,2019-20,R1,North East,Number,Negative_NHSCC_All_Ages,3768
+17,2019-20,R1,North East,Number,Negative_NHS_Hospital_All_Ages,3373
+17,2019-20,R1,North East,Number,Negative_Other_All_Ages,4440
+17,2019-20,R1,North East,Number,Negative_Private_All_Ages,16
+17,2019-20,R1,North East,Number,Severe_or_worse_GP_All_Ages,1473
+17,2019-20,R1,North East,Number,Severe_or_worse_GUM_All_Ages,9
+17,2019-20,R1,North East,Number,Severe_or_worse_NHSCC_All_Ages,53
+17,2019-20,R1,North East,Number,Severe_or_worse_NHS_Hospital_All_Ages,84
+17,2019-20,R1,North East,Number,Severe_or_worse_Other_All_Ages,112
+17,2019-20,R1,North East,Number,Severe_or_worse_Private_All_Ages,0
+17,2019-20,R2,North West,Number,Borderline_Low_Grade_dyskaryosis_GP_All_Ages,10184
+17,2019-20,R2,North West,Number,Borderline_Low_Grade_dyskaryosis_GUM_All_Ages,131
+17,2019-20,R2,North West,Number,Borderline_Low_Grade_dyskaryosis_NHSCC_All_Ages,256
+17,2019-20,R2,North West,Number,Borderline_Low_Grade_dyskaryosis_NHS_Hospital_All_Ages,2253
+17,2019-20,R2,North West,Number,Borderline_Low_Grade_dyskaryosis_Other_All_Ages,0
+17,2019-20,R2,North West,Number,Borderline_Low_Grade_dyskaryosis_Private_All_Ages,8
+17,2019-20,R2,North West,Number,Inadequate_GP_All_Ages,2136
+17,2019-20,R2,North West,Number,Inadequate_GUM_All_Ages,18
+17,2019-20,R2,North West,Number,Inadequate_NHSCC_All_Ages,41
+17,2019-20,R2,North West,Number,Inadequate_NHS_Hospital_All_Ages,361
+17,2019-20,R2,North West,Number,Inadequate_Other_All_Ages,0
+17,2019-20,R2,North West,Number,Inadequate_Private_All_Ages,1
+17,2019-20,R2,North West,Number,Moderate_dyskaryosis_GP_All_Ages,1508
+17,2019-20,R2,North West,Number,Moderate_dyskaryosis_GUM_All_Ages,14
+17,2019-20,R2,North West,Number,Moderate_dyskaryosis_NHSCC_All_Ages,44
+17,2019-20,R2,North West,Number,Moderate_dyskaryosis_NHS_Hospital_All_Ages,350
+17,2019-20,R2,North West,Number,Moderate_dyskaryosis_Other_All_Ages,0
+17,2019-20,R2,North West,Number,Moderate_dyskaryosis_Private_All_Ages,0
+17,2019-20,R2,North West,Number,Negative_GP_All_Ages,377848
+17,2019-20,R2,North West,Number,Negative_GUM_All_Ages,2325
+17,2019-20,R2,North West,Number,Negative_NHSCC_All_Ages,4741
+17,2019-20,R2,North West,Number,Negative_NHS_Hospital_All_Ages,18818
+17,2019-20,R2,North West,Number,Negative_Other_All_Ages,2
+17,2019-20,R2,North West,Number,Negative_Private_All_Ages,25
+17,2019-20,R2,North West,Number,Severe_or_worse_GP_All_Ages,2499
+17,2019-20,R2,North West,Number,Severe_or_worse_GUM_All_Ages,24
+17,2019-20,R2,North West,Number,Severe_or_worse_NHSCC_All_Ages,70
+17,2019-20,R2,North West,Number,Severe_or_worse_NHS_Hospital_All_Ages,332
+17,2019-20,R2,North West,Number,Severe_or_worse_Other_All_Ages,0
+17,2019-20,R2,North West,Number,Severe_or_worse_Private_All_Ages,0
+17,2019-20,R3,Yorkshire and the Humber,Number,Borderline_Low_Grade_dyskaryosis_GP_All_Ages,5007
+17,2019-20,R3,Yorkshire and the Humber,Number,Borderline_Low_Grade_dyskaryosis_GUM_All_Ages,6
+17,2019-20,R3,Yorkshire and the Humber,Number,Borderline_Low_Grade_dyskaryosis_NHSCC_All_Ages,28
+17,2019-20,R3,Yorkshire and the Humber,Number,Borderline_Low_Grade_dyskaryosis_NHS_Hospital_All_Ages,449
+17,2019-20,R3,Yorkshire and the Humber,Number,Borderline_Low_Grade_dyskaryosis_Other_All_Ages,182
+17,2019-20,R3,Yorkshire and the Humber,Number,Borderline_Low_Grade_dyskaryosis_Private_All_Ages,1
+17,2019-20,R3,Yorkshire and the Humber,Number,Inadequate_GP_All_Ages,2293
+17,2019-20,R3,Yorkshire and the Humber,Number,Inadequate_GUM_All_Ages,1
+17,2019-20,R3,Yorkshire and the Humber,Number,Inadequate_NHSCC_All_Ages,32
+17,2019-20,R3,Yorkshire and the Humber,Number,Inadequate_NHS_Hospital_All_Ages,161
+17,2019-20,R3,Yorkshire and the Humber,Number,Inadequate_Other_All_Ages,81
+17,2019-20,R3,Yorkshire and the Humber,Number,Inadequate_Private_All_Ages,1
+17,2019-20,R3,Yorkshire and the Humber,Number,Moderate_dyskaryosis_GP_All_Ages,1399
+17,2019-20,R3,Yorkshire and the Humber,Number,Moderate_dyskaryosis_GUM_All_Ages,3
+17,2019-20,R3,Yorkshire and the Humber,Number,Moderate_dyskaryosis_NHSCC_All_Ages,39
+17,2019-20,R3,Yorkshire and the Humber,Number,Moderate_dyskaryosis_NHS_Hospital_All_Ages,217
+17,2019-20,R3,Yorkshire and the Humber,Number,Moderate_dyskaryosis_Other_All_Ages,10
+17,2019-20,R3,Yorkshire and the Humber,Number,Moderate_dyskaryosis_Private_All_Ages,0
+17,2019-20,R3,Yorkshire and the Humber,Number,Negative_GP_All_Ages,212328
+17,2019-20,R3,Yorkshire and the Humber,Number,Negative_GUM_All_Ages,93
+17,2019-20,R3,Yorkshire and the Humber,Number,Negative_NHSCC_All_Ages,1936
+17,2019-20,R3,Yorkshire and the Humber,Number,Negative_NHS_Hospital_All_Ages,6034
+17,2019-20,R3,Yorkshire and the Humber,Number,Negative_Other_All_Ages,5617
+17,2019-20,R3,Yorkshire and the Humber,Number,Negative_Private_All_Ages,33
+17,2019-20,R3,Yorkshire and the Humber,Number,Severe_or_worse_GP_All_Ages,1548
+17,2019-20,R3,Yorkshire and the Humber,Number,Severe_or_worse_GUM_All_Ages,1
+17,2019-20,R3,Yorkshire and the Humber,Number,Severe_or_worse_NHSCC_All_Ages,19
+17,2019-20,R3,Yorkshire and the Humber,Number,Severe_or_worse_NHS_Hospital_All_Ages,171
+17,2019-20,R3,Yorkshire and the Humber,Number,Severe_or_worse_Other_All_Ages,40
+17,2019-20,R3,Yorkshire and the Humber,Number,Severe_or_worse_Private_All_Ages,0
+17,2019-20,R4,East Midlands,Number,Borderline_Low_Grade_dyskaryosis_GP_All_Ages,7536
+17,2019-20,R4,East Midlands,Number,Borderline_Low_Grade_dyskaryosis_GUM_All_Ages,34
+17,2019-20,R4,East Midlands,Number,Borderline_Low_Grade_dyskaryosis_NHSCC_All_Ages,98
+17,2019-20,R4,East Midlands,Number,Borderline_Low_Grade_dyskaryosis_NHS_Hospital_All_Ages,644
+17,2019-20,R4,East Midlands,Number,Borderline_Low_Grade_dyskaryosis_Other_All_Ages,24
+17,2019-20,R4,East Midlands,Number,Borderline_Low_Grade_dyskaryosis_Private_All_Ages,2
+17,2019-20,R4,East Midlands,Number,Inadequate_GP_All_Ages,1813
+17,2019-20,R4,East Midlands,Number,Inadequate_GUM_All_Ages,7
+17,2019-20,R4,East Midlands,Number,Inadequate_NHSCC_All_Ages,65
+17,2019-20,R4,East Midlands,Number,Inadequate_NHS_Hospital_All_Ages,154
+17,2019-20,R4,East Midlands,Number,Inadequate_Other_All_Ages,2
+17,2019-20,R4,East Midlands,Number,Inadequate_Private_All_Ages,1
+17,2019-20,R4,East Midlands,Number,Moderate_dyskaryosis_GP_All_Ages,1034
+17,2019-20,R4,East Midlands,Number,Moderate_dyskaryosis_GUM_All_Ages,6
+17,2019-20,R4,East Midlands,Number,Moderate_dyskaryosis_NHSCC_All_Ages,4
+17,2019-20,R4,East Midlands,Number,Moderate_dyskaryosis_NHS_Hospital_All_Ages,103
+17,2019-20,R4,East Midlands,Number,Moderate_dyskaryosis_Other_All_Ages,5
+17,2019-20,R4,East Midlands,Number,Moderate_dyskaryosis_Private_All_Ages,0
+17,2019-20,R4,East Midlands,Number,Negative_GP_All_Ages,256454
+17,2019-20,R4,East Midlands,Number,Negative_GUM_All_Ages,442
+17,2019-20,R4,East Midlands,Number,Negative_NHSCC_All_Ages,3408
+17,2019-20,R4,East Midlands,Number,Negative_NHS_Hospital_All_Ages,5899
+17,2019-20,R4,East Midlands,Number,Negative_Other_All_Ages,383
+17,2019-20,R4,East Midlands,Number,Negative_Private_All_Ages,40
+17,2019-20,R4,East Midlands,Number,Severe_or_worse_GP_All_Ages,1524
+17,2019-20,R4,East Midlands,Number,Severe_or_worse_GUM_All_Ages,3
+17,2019-20,R4,East Midlands,Number,Severe_or_worse_NHSCC_All_Ages,20
+17,2019-20,R4,East Midlands,Number,Severe_or_worse_NHS_Hospital_All_Ages,126
+17,2019-20,R4,East Midlands,Number,Severe_or_worse_Other_All_Ages,4
+17,2019-20,R4,East Midlands,Number,Severe_or_worse_Private_All_Ages,0
+17,2019-20,R5,West Midlands,Number,Borderline_Low_Grade_dyskaryosis_GP_All_Ages,7620
+17,2019-20,R5,West Midlands,Number,Borderline_Low_Grade_dyskaryosis_GUM_All_Ages,32
+17,2019-20,R5,West Midlands,Number,Borderline_Low_Grade_dyskaryosis_NHSCC_All_Ages,97
+17,2019-20,R5,West Midlands,Number,Borderline_Low_Grade_dyskaryosis_NHS_Hospital_All_Ages,611
+17,2019-20,R5,West Midlands,Number,Borderline_Low_Grade_dyskaryosis_Other_All_Ages,0
+17,2019-20,R5,West Midlands,Number,Borderline_Low_Grade_dyskaryosis_Private_All_Ages,1
+17,2019-20,R5,West Midlands,Number,Inadequate_GP_All_Ages,5414
+17,2019-20,R5,West Midlands,Number,Inadequate_GUM_All_Ages,21
+17,2019-20,R5,West Midlands,Number,Inadequate_NHSCC_All_Ages,72
+17,2019-20,R5,West Midlands,Number,Inadequate_NHS_Hospital_All_Ages,347
+17,2019-20,R5,West Midlands,Number,Inadequate_Other_All_Ages,0
+17,2019-20,R5,West Midlands,Number,Inadequate_Private_All_Ages,2
+17,2019-20,R5,West Midlands,Number,Moderate_dyskaryosis_GP_All_Ages,788
+17,2019-20,R5,West Midlands,Number,Moderate_dyskaryosis_GUM_All_Ages,1
+17,2019-20,R5,West Midlands,Number,Moderate_dyskaryosis_NHSCC_All_Ages,15
+17,2019-20,R5,West Midlands,Number,Moderate_dyskaryosis_NHS_Hospital_All_Ages,75
+17,2019-20,R5,West Midlands,Number,Moderate_dyskaryosis_Other_All_Ages,0
+17,2019-20,R5,West Midlands,Number,Moderate_dyskaryosis_Private_All_Ages,0
+17,2019-20,R5,West Midlands,Number,Negative_GP_All_Ages,241063
+17,2019-20,R5,West Midlands,Number,Negative_GUM_All_Ages,476
+17,2019-20,R5,West Midlands,Number,Negative_NHSCC_All_Ages,1613
+17,2019-20,R5,West Midlands,Number,Negative_NHS_Hospital_All_Ages,5325
+17,2019-20,R5,West Midlands,Number,Negative_Other_All_Ages,0
+17,2019-20,R5,West Midlands,Number,Negative_Private_All_Ages,30
+17,2019-20,R5,West Midlands,Number,Severe_or_worse_GP_All_Ages,1215
+17,2019-20,R5,West Midlands,Number,Severe_or_worse_GUM_All_Ages,5
+17,2019-20,R5,West Midlands,Number,Severe_or_worse_NHSCC_All_Ages,21
+17,2019-20,R5,West Midlands,Number,Severe_or_worse_NHS_Hospital_All_Ages,111
+17,2019-20,R5,West Midlands,Number,Severe_or_worse_Other_All_Ages,0
+17,2019-20,R5,West Midlands,Number,Severe_or_worse_Private_All_Ages,0
+17,2019-20,R6,East of England,Number,Borderline_Low_Grade_dyskaryosis_GP_All_Ages,11631
+17,2019-20,R6,East of England,Number,Borderline_Low_Grade_dyskaryosis_GUM_All_Ages,27
+17,2019-20,R6,East of England,Number,Borderline_Low_Grade_dyskaryosis_NHSCC_All_Ages,34
+17,2019-20,R6,East of England,Number,Borderline_Low_Grade_dyskaryosis_NHS_Hospital_All_Ages,700
+17,2019-20,R6,East of England,Number,Borderline_Low_Grade_dyskaryosis_Other_All_Ages,11
+17,2019-20,R6,East of England,Number,Borderline_Low_Grade_dyskaryosis_Private_All_Ages,13
+17,2019-20,R6,East of England,Number,Inadequate_GP_All_Ages,2511
+17,2019-20,R6,East of England,Number,Inadequate_GUM_All_Ages,10
+17,2019-20,R6,East of England,Number,Inadequate_NHSCC_All_Ages,19
+17,2019-20,R6,East of England,Number,Inadequate_NHS_Hospital_All_Ages,188
+17,2019-20,R6,East of England,Number,Inadequate_Other_All_Ages,0
+17,2019-20,R6,East of England,Number,Inadequate_Private_All_Ages,9
+17,2019-20,R6,East of England,Number,Moderate_dyskaryosis_GP_All_Ages,1859
+17,2019-20,R6,East of England,Number,Moderate_dyskaryosis_GUM_All_Ages,3
+17,2019-20,R6,East of England,Number,Moderate_dyskaryosis_NHSCC_All_Ages,5
+17,2019-20,R6,East of England,Number,Moderate_dyskaryosis_NHS_Hospital_All_Ages,163
+17,2019-20,R6,East of England,Number,Moderate_dyskaryosis_Other_All_Ages,0
+17,2019-20,R6,East of England,Number,Moderate_dyskaryosis_Private_All_Ages,2
+17,2019-20,R6,East of England,Number,Negative_GP_All_Ages,317977
+17,2019-20,R6,East of England,Number,Negative_GUM_All_Ages,413
+17,2019-20,R6,East of England,Number,Negative_NHSCC_All_Ages,645
+17,2019-20,R6,East of England,Number,Negative_NHS_Hospital_All_Ages,5687
+17,2019-20,R6,East of England,Number,Negative_Other_All_Ages,275
+17,2019-20,R6,East of England,Number,Negative_Private_All_Ages,104
+17,2019-20,R6,East of England,Number,Severe_or_worse_GP_All_Ages,1994
+17,2019-20,R6,East of England,Number,Severe_or_worse_GUM_All_Ages,4
+17,2019-20,R6,East of England,Number,Severe_or_worse_NHSCC_All_Ages,8
+17,2019-20,R6,East of England,Number,Severe_or_worse_NHS_Hospital_All_Ages,169
+17,2019-20,R6,East of England,Number,Severe_or_worse_Other_All_Ages,2
+17,2019-20,R6,East of England,Number,Severe_or_worse_Private_All_Ages,0
+17,2019-20,R7,London,Number,Borderline_Low_Grade_dyskaryosis_GP_All_Ages,24524
+17,2019-20,R7,London,Number,Borderline_Low_Grade_dyskaryosis_GUM_All_Ages,187
+17,2019-20,R7,London,Number,Borderline_Low_Grade_dyskaryosis_NHSCC_All_Ages,110
+17,2019-20,R7,London,Number,Borderline_Low_Grade_dyskaryosis_NHS_Hospital_All_Ages,5968
+17,2019-20,R7,London,Number,Borderline_Low_Grade_dyskaryosis_Other_All_Ages,4
+17,2019-20,R7,London,Number,Borderline_Low_Grade_dyskaryosis_Private_All_Ages,4
+17,2019-20,R7,London,Number,Inadequate_GP_All_Ages,8005
+17,2019-20,R7,London,Number,Inadequate_GUM_All_Ages,77
+17,2019-20,R7,London,Number,Inadequate_NHSCC_All_Ages,38
+17,2019-20,R7,London,Number,Inadequate_NHS_Hospital_All_Ages,1009
+17,2019-20,R7,London,Number,Inadequate_Other_All_Ages,5
+17,2019-20,R7,London,Number,Inadequate_Private_All_Ages,8
+17,2019-20,R7,London,Number,Moderate_dyskaryosis_GP_All_Ages,1900
+17,2019-20,R7,London,Number,Moderate_dyskaryosis_GUM_All_Ages,21
+17,2019-20,R7,London,Number,Moderate_dyskaryosis_NHSCC_All_Ages,7
+17,2019-20,R7,London,Number,Moderate_dyskaryosis_NHS_Hospital_All_Ages,689
+17,2019-20,R7,London,Number,Moderate_dyskaryosis_Other_All_Ages,0
+17,2019-20,R7,London,Number,Moderate_dyskaryosis_Private_All_Ages,2
+17,2019-20,R7,London,Number,Negative_GP_All_Ages,530527
+17,2019-20,R7,London,Number,Negative_GUM_All_Ages,2593
+17,2019-20,R7,London,Number,Negative_NHSCC_All_Ages,1631
+17,2019-20,R7,London,Number,Negative_NHS_Hospital_All_Ages,25921
+17,2019-20,R7,London,Number,Negative_Other_All_Ages,72
+17,2019-20,R7,London,Number,Negative_Private_All_Ages,81
+17,2019-20,R7,London,Number,Severe_or_worse_GP_All_Ages,1748
+17,2019-20,R7,London,Number,Severe_or_worse_GUM_All_Ages,10
+17,2019-20,R7,London,Number,Severe_or_worse_NHSCC_All_Ages,8
+17,2019-20,R7,London,Number,Severe_or_worse_NHS_Hospital_All_Ages,477
+17,2019-20,R7,London,Number,Severe_or_worse_Other_All_Ages,0
+17,2019-20,R7,London,Number,Severe_or_worse_Private_All_Ages,1
+17,2019-20,S,South,Number,Borderline_Low_Grade_dyskaryosis_GP_All_Ages,32167
+17,2019-20,S,South,Number,Borderline_Low_Grade_dyskaryosis_GUM_All_Ages,185
+17,2019-20,S,South,Number,Borderline_Low_Grade_dyskaryosis_NHSCC_All_Ages,162
+17,2019-20,S,South,Number,Borderline_Low_Grade_dyskaryosis_NHS_Hospital_All_Ages,2373
+17,2019-20,S,South,Number,Borderline_Low_Grade_dyskaryosis_Other_All_Ages,203
+17,2019-20,S,South,Number,Borderline_Low_Grade_dyskaryosis_Private_All_Ages,102
+17,2019-20,S,South,Number,Inadequate_GP_All_Ages,15123
+17,2019-20,S,South,Number,Inadequate_GUM_All_Ages,70
+17,2019-20,S,South,Number,Inadequate_NHSCC_All_Ages,84
+17,2019-20,S,South,Number,Inadequate_NHS_Hospital_All_Ages,926
+17,2019-20,S,South,Number,Inadequate_Other_All_Ages,79
+17,2019-20,S,South,Number,Inadequate_Private_All_Ages,38
+17,2019-20,S,South,Number,Moderate_dyskaryosis_GP_All_Ages,3927
+17,2019-20,S,South,Number,Moderate_dyskaryosis_GUM_All_Ages,22
+17,2019-20,S,South,Number,Moderate_dyskaryosis_NHSCC_All_Ages,25
+17,2019-20,S,South,Number,Moderate_dyskaryosis_NHS_Hospital_All_Ages,385
+17,2019-20,S,South,Number,Moderate_dyskaryosis_Other_All_Ages,33
+17,2019-20,S,South,Number,Moderate_dyskaryosis_Private_All_Ages,11
+17,2019-20,S,South,Number,Negative_GP_All_Ages,789926
+17,2019-20,S,South,Number,Negative_GUM_All_Ages,1998
+17,2019-20,S,South,Number,Negative_NHSCC_All_Ages,2502
+17,2019-20,S,South,Number,Negative_NHS_Hospital_All_Ages,16739
+17,2019-20,S,South,Number,Negative_Other_All_Ages,2410
+17,2019-20,S,South,Number,Negative_Private_All_Ages,1063
+17,2019-20,S,South,Number,Severe_or_worse_GP_All_Ages,4123
+17,2019-20,S,South,Number,Severe_or_worse_GUM_All_Ages,23
+17,2019-20,S,South,Number,Severe_or_worse_NHSCC_All_Ages,28
+17,2019-20,S,South,Number,Severe_or_worse_NHS_Hospital_All_Ages,356
+17,2019-20,S,South,Number,Severe_or_worse_Other_All_Ages,23
+17,2019-20,S,South,Number,Severe_or_worse_Private_All_Ages,7

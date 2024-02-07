@@ -1,0 +1,1121 @@
+﻿Table_ref,Collection_Year,Parent_Org_Code,Parent_Org_Name,Org_Code,Org_ONS_Code,Org_Name,Unit,Indicator,Value
+12,2019-20,A,North East,00CH,E08000037,Gateshead,Number,Eligible_Population_25to64,52340
+12,2019-20,A,North East,00CH,E08000037,Gateshead,Number,Number_Screened_25to64,11742
+12,2019-20,A,North East,00CH,E08000037,Gateshead,%,Borderline_changes_25to64,2.478283086
+12,2019-20,A,North East,00CH,E08000037,Gateshead,%,Low_Grade_dyskaryosis_25to64,1.916198263
+12,2019-20,A,North East,00CH,E08000037,Gateshead,%,Moderate_dyskaryosis_25to64,0.902742293
+12,2019-20,A,North East,00CH,E08000037,Gateshead,%,Negative_25to64,93.88519843
+12,2019-20,A,North East,00CH,E08000037,Gateshead,%,Severe_dyskaryosis_or_worse_25to64,0.817577925
+12,2019-20,A,North East,00CJ,E08000021,Newcastle upon Tyne,Number,Eligible_Population_25to64,80022
+12,2019-20,A,North East,00CJ,E08000021,Newcastle upon Tyne,Number,Number_Screened_25to64,15996
+12,2019-20,A,North East,00CJ,E08000021,Newcastle upon Tyne,%,Borderline_changes_25to64,2.706926732
+12,2019-20,A,North East,00CJ,E08000021,Newcastle upon Tyne,%,Low_Grade_dyskaryosis_25to64,2.269317329
+12,2019-20,A,North East,00CJ,E08000021,Newcastle upon Tyne,%,Moderate_dyskaryosis_25to64,0.525131283
+12,2019-20,A,North East,00CJ,E08000021,Newcastle upon Tyne,%,Negative_25to64,93.66091523
+12,2019-20,A,North East,00CJ,E08000021,Newcastle upon Tyne,%,Severe_dyskaryosis_or_worse_25to64,0.837709427
+12,2019-20,A,North East,00CK,E08000022,North Tyneside,Number,Eligible_Population_25to64,55933
+12,2019-20,A,North East,00CK,E08000022,North Tyneside,Number,Number_Screened_25to64,12290
+12,2019-20,A,North East,00CK,E08000022,North Tyneside,%,Borderline_changes_25to64,3.157038242
+12,2019-20,A,North East,00CK,E08000022,North Tyneside,%,Low_Grade_dyskaryosis_25to64,2.066720911
+12,2019-20,A,North East,00CK,E08000022,North Tyneside,%,Moderate_dyskaryosis_25to64,0.545158666
+12,2019-20,A,North East,00CK,E08000022,North Tyneside,%,Negative_25to64,93.32790887
+12,2019-20,A,North East,00CK,E08000022,North Tyneside,%,Severe_dyskaryosis_or_worse_25to64,0.903173312
+12,2019-20,A,North East,00CL,E08000023,South Tyneside,Number,Eligible_Population_25to64,39225
+12,2019-20,A,North East,00CL,E08000023,South Tyneside,Number,Number_Screened_25to64,8592
+12,2019-20,A,North East,00CL,E08000023,South Tyneside,%,Borderline_changes_25to64,2.141527002
+12,2019-20,A,North East,00CL,E08000023,South Tyneside,%,Low_Grade_dyskaryosis_25to64,1.675977654
+12,2019-20,A,North East,00CL,E08000023,South Tyneside,%,Moderate_dyskaryosis_25to64,0.756517691
+12,2019-20,A,North East,00CL,E08000023,South Tyneside,%,Negative_25to64,94.7160149
+12,2019-20,A,North East,00CL,E08000023,South Tyneside,%,Severe_dyskaryosis_or_worse_25to64,0.709962756
+12,2019-20,A,North East,00CM,E08000024,Sunderland,Number,Eligible_Population_25to64,73832
+12,2019-20,A,North East,00CM,E08000024,Sunderland,Number,Number_Screened_25to64,16347
+12,2019-20,A,North East,00CM,E08000024,Sunderland,%,Borderline_changes_25to64,3.480760996
+12,2019-20,A,North East,00CM,E08000024,Sunderland,%,Low_Grade_dyskaryosis_25to64,2.1533003
+12,2019-20,A,North East,00CM,E08000024,Sunderland,%,Moderate_dyskaryosis_25to64,0.984890194
+12,2019-20,A,North East,00CM,E08000024,Sunderland,%,Negative_25to64,92.66532085
+12,2019-20,A,North East,00CM,E08000024,Sunderland,%,Severe_dyskaryosis_or_worse_25to64,0.715727656
+12,2019-20,A,North East,00EB,E06000001,Hartlepool,Number,Eligible_Population_25to64,23857
+12,2019-20,A,North East,00EB,E06000001,Hartlepool,Number,Number_Screened_25to64,4987
+12,2019-20,A,North East,00EB,E06000001,Hartlepool,%,Borderline_changes_25to64,2.426308402
+12,2019-20,A,North East,00EB,E06000001,Hartlepool,%,Low_Grade_dyskaryosis_25to64,1.584118709
+12,2019-20,A,North East,00EB,E06000001,Hartlepool,%,Moderate_dyskaryosis_25to64,0.661720473
+12,2019-20,A,North East,00EB,E06000001,Hartlepool,%,Negative_25to64,94.46561059
+12,2019-20,A,North East,00EB,E06000001,Hartlepool,%,Severe_dyskaryosis_or_worse_25to64,0.862241829
+12,2019-20,A,North East,00EC,E06000002,Middlesbrough,Number,Eligible_Population_25to64,38174
+12,2019-20,A,North East,00EC,E06000002,Middlesbrough,Number,Number_Screened_25to64,7433
+12,2019-20,A,North East,00EC,E06000002,Middlesbrough,%,Borderline_changes_25to64,2.448540293
+12,2019-20,A,North East,00EC,E06000002,Middlesbrough,%,Low_Grade_dyskaryosis_25to64,1.506794027
+12,2019-20,A,North East,00EC,E06000002,Middlesbrough,%,Moderate_dyskaryosis_25to64,0.457419615
+12,2019-20,A,North East,00EC,E06000002,Middlesbrough,%,Negative_25to64,94.87420961
+12,2019-20,A,North East,00EC,E06000002,Middlesbrough,%,Severe_dyskaryosis_or_worse_25to64,0.713036459
+12,2019-20,A,North East,00EE,E06000003,Redcar and Cleveland,Number,Eligible_Population_25to64,34540
+12,2019-20,A,North East,00EE,E06000003,Redcar and Cleveland,Number,Number_Screened_25to64,7432
+12,2019-20,A,North East,00EE,E06000003,Redcar and Cleveland,%,Borderline_changes_25to64,2.206673843
+12,2019-20,A,North East,00EE,E06000003,Redcar and Cleveland,%,Low_Grade_dyskaryosis_25to64,1.681916039
+12,2019-20,A,North East,00EE,E06000003,Redcar and Cleveland,%,Moderate_dyskaryosis_25to64,0.632400431
+12,2019-20,A,North East,00EE,E06000003,Redcar and Cleveland,%,Negative_25to64,94.67168999
+12,2019-20,A,North East,00EE,E06000003,Redcar and Cleveland,%,Severe_dyskaryosis_or_worse_25to64,0.807319699
+12,2019-20,A,North East,00EF,E06000004,Stockton-on-Tees,Number,Eligible_Population_25to64,50657
+12,2019-20,A,North East,00EF,E06000004,Stockton-on-Tees,Number,Number_Screened_25to64,10821
+12,2019-20,A,North East,00EF,E06000004,Stockton-on-Tees,%,Borderline_changes_25to64,2.411976712
+12,2019-20,A,North East,00EF,E06000004,Stockton-on-Tees,%,Low_Grade_dyskaryosis_25to64,1.487847704
+12,2019-20,A,North East,00EF,E06000004,Stockton-on-Tees,%,Moderate_dyskaryosis_25to64,0.665372886
+12,2019-20,A,North East,00EF,E06000004,Stockton-on-Tees,%,Negative_25to64,94.78791239
+12,2019-20,A,North East,00EF,E06000004,Stockton-on-Tees,%,Severe_dyskaryosis_or_worse_25to64,0.646890306
+12,2019-20,A,North East,00EH,E06000005,Darlington,Number,Eligible_Population_25to64,27556
+12,2019-20,A,North East,00EH,E06000005,Darlington,Number,Number_Screened_25to64,6268
+12,2019-20,A,North East,00EH,E06000005,Darlington,%,Borderline_changes_25to64,3.158902361
+12,2019-20,A,North East,00EH,E06000005,Darlington,%,Low_Grade_dyskaryosis_25to64,2.664326739
+12,2019-20,A,North East,00EH,E06000005,Darlington,%,Moderate_dyskaryosis_25to64,0.717932355
+12,2019-20,A,North East,00EH,E06000005,Darlington,%,Negative_25to64,92.8047224
+12,2019-20,A,North East,00EH,E06000005,Darlington,%,Severe_dyskaryosis_or_worse_25to64,0.654116146
+12,2019-20,A,North East,00EJ,E06000047,County Durham,Number,Eligible_Population_25to64,132467
+12,2019-20,A,North East,00EJ,E06000047,County Durham,Number,Number_Screened_25to64,28181
+12,2019-20,A,North East,00EJ,E06000047,County Durham,%,Borderline_changes_25to64,3.605265959
+12,2019-20,A,North East,00EJ,E06000047,County Durham,%,Low_Grade_dyskaryosis_25to64,2.693303999
+12,2019-20,A,North East,00EJ,E06000047,County Durham,%,Moderate_dyskaryosis_25to64,0.716795004
+12,2019-20,A,North East,00EJ,E06000047,County Durham,%,Negative_25to64,92.26784003
+12,2019-20,A,North East,00EJ,E06000047,County Durham,%,Severe_dyskaryosis_or_worse_25to64,0.716795004
+12,2019-20,A,North East,00EM,E06000057,Northumberland,Number,Eligible_Population_25to64,78902
+12,2019-20,A,North East,00EM,E06000057,Northumberland,Number,Number_Screened_25to64,17051
+12,2019-20,A,North East,00EM,E06000057,Northumberland,%,Borderline_changes_25to64,2.779895607
+12,2019-20,A,North East,00EM,E06000057,Northumberland,%,Low_Grade_dyskaryosis_25to64,2.164095947
+12,2019-20,A,North East,00EM,E06000057,Northumberland,%,Moderate_dyskaryosis_25to64,0.486774969
+12,2019-20,A,North East,00EM,E06000057,Northumberland,%,Negative_25to64,93.59568354
+12,2019-20,A,North East,00EM,E06000057,Northumberland,%,Severe_dyskaryosis_or_worse_25to64,0.973549938
+12,2019-20,A,North East,A,A,North East,Number,Eligible_Population_25to64,687505
+12,2019-20,A,North East,A,A,North East,Number,Number_Screened_25to64,147140
+12,2019-20,A,North East,A,A,North East,%,Borderline_changes_25to64,2.90947397
+12,2019-20,A,North East,A,A,North East,%,Low_Grade_dyskaryosis_25to64,2.113633274
+12,2019-20,A,North East,A,A,North East,%,Moderate_dyskaryosis_25to64,0.678945222
+12,2019-20,A,North East,A,A,North East,%,Negative_25to64,93.51366046
+12,2019-20,A,North East,A,A,North East,%,Severe_dyskaryosis_or_worse_25to64,0.784287074
+12,2019-20,B,North West,00BL,E08000001,Bolton,Number,Eligible_Population_25to64,77927
+12,2019-20,B,North West,00BL,E08000001,Bolton,Number,Number_Screened_25to64,16391
+12,2019-20,B,North West,00BL,E08000001,Bolton,%,Borderline_changes_25to64,0.878530901
+12,2019-20,B,North West,00BL,E08000001,Bolton,%,Low_Grade_dyskaryosis_25to64,2.184125435
+12,2019-20,B,North West,00BL,E08000001,Bolton,%,Moderate_dyskaryosis_25to64,0.536879995
+12,2019-20,B,North West,00BL,E08000001,Bolton,%,Negative_25to64,95.77207004
+12,2019-20,B,North West,00BL,E08000001,Bolton,%,Severe_dyskaryosis_or_worse_25to64,0.628393631
+12,2019-20,B,North West,00BM,E08000002,Bury,Number,Eligible_Population_25to64,52319
+12,2019-20,B,North West,00BM,E08000002,Bury,Number,Number_Screened_25to64,10897
+12,2019-20,B,North West,00BM,E08000002,Bury,%,Borderline_changes_25to64,0.568963935
+12,2019-20,B,North West,00BM,E08000002,Bury,%,Low_Grade_dyskaryosis_25to64,1.752775993
+12,2019-20,B,North West,00BM,E08000002,Bury,%,Moderate_dyskaryosis_25to64,0.449665045
+12,2019-20,B,North West,00BM,E08000002,Bury,%,Negative_25to64,96.5403322
+12,2019-20,B,North West,00BM,E08000002,Bury,%,Severe_dyskaryosis_or_worse_25to64,0.688262825
+12,2019-20,B,North West,00BN,E08000003,Manchester,Number,Eligible_Population_25to64,163875
+12,2019-20,B,North West,00BN,E08000003,Manchester,Number,Number_Screened_25to64,32717
+12,2019-20,B,North West,00BN,E08000003,Manchester,%,Borderline_changes_25to64,0.962802213
+12,2019-20,B,North West,00BN,E08000003,Manchester,%,Low_Grade_dyskaryosis_25to64,2.42075985
+12,2019-20,B,North West,00BN,E08000003,Manchester,%,Moderate_dyskaryosis_25to64,0.537946633
+12,2019-20,B,North West,00BN,E08000003,Manchester,%,Negative_25to64,95.38771892
+12,2019-20,B,North West,00BN,E08000003,Manchester,%,Severe_dyskaryosis_or_worse_25to64,0.690772381
+12,2019-20,B,North West,00BP,E08000004,Oldham,Number,Eligible_Population_25to64,62116
+12,2019-20,B,North West,00BP,E08000004,Oldham,Number,Number_Screened_25to64,12685
+12,2019-20,B,North West,00BP,E08000004,Oldham,%,Borderline_changes_25to64,0.607016161
+12,2019-20,B,North West,00BP,E08000004,Oldham,%,Low_Grade_dyskaryosis_25to64,1.718565235
+12,2019-20,B,North West,00BP,E08000004,Oldham,%,Moderate_dyskaryosis_25to64,0.417816318
+12,2019-20,B,North West,00BP,E08000004,Oldham,%,Negative_25to64,96.57075286
+12,2019-20,B,North West,00BP,E08000004,Oldham,%,Severe_dyskaryosis_or_worse_25to64,0.685849428
+12,2019-20,B,North West,00BQ,E08000005,Rochdale,Number,Eligible_Population_25to64,59557
+12,2019-20,B,North West,00BQ,E08000005,Rochdale,Number,Number_Screened_25to64,12642
+12,2019-20,B,North West,00BQ,E08000005,Rochdale,%,Borderline_changes_25to64,0.59326056
+12,2019-20,B,North West,00BQ,E08000005,Rochdale,%,Low_Grade_dyskaryosis_25to64,1.756051258
+12,2019-20,B,North West,00BQ,E08000005,Rochdale,%,Moderate_dyskaryosis_25to64,0.419237462
+12,2019-20,B,North West,00BQ,E08000005,Rochdale,%,Negative_25to64,96.45625692
+12,2019-20,B,North West,00BQ,E08000005,Rochdale,%,Severe_dyskaryosis_or_worse_25to64,0.775193798
+12,2019-20,B,North West,00BR,E08000006,Salford,Number,Eligible_Population_25to64,73198
+12,2019-20,B,North West,00BR,E08000006,Salford,Number,Number_Screened_25to64,15057
+12,2019-20,B,North West,00BR,E08000006,Salford,%,Borderline_changes_25to64,0.777047221
+12,2019-20,B,North West,00BR,E08000006,Salford,%,Low_Grade_dyskaryosis_25to64,2.483894534
+12,2019-20,B,North West,00BR,E08000006,Salford,%,Moderate_dyskaryosis_25to64,0.551238627
+12,2019-20,B,North West,00BR,E08000006,Salford,%,Negative_25to64,95.23809524
+12,2019-20,B,North West,00BR,E08000006,Salford,%,Severe_dyskaryosis_or_worse_25to64,0.949724381
+12,2019-20,B,North West,00BS,E08000007,Stockport,Number,Eligible_Population_25to64,79389
+12,2019-20,B,North West,00BS,E08000007,Stockport,Number,Number_Screened_25to64,18627
+12,2019-20,B,North West,00BS,E08000007,Stockport,%,Borderline_changes_25to64,0.950233532
+12,2019-20,B,North West,00BS,E08000007,Stockport,%,Low_Grade_dyskaryosis_25to64,2.013206636
+12,2019-20,B,North West,00BS,E08000007,Stockport,%,Moderate_dyskaryosis_25to64,0.456326837
+12,2019-20,B,North West,00BS,E08000007,Stockport,%,Negative_25to64,95.93063832
+12,2019-20,B,North West,00BS,E08000007,Stockport,%,Severe_dyskaryosis_or_worse_25to64,0.649594674
+12,2019-20,B,North West,00BT,E08000008,Tameside,Number,Eligible_Population_25to64,61603
+12,2019-20,B,North West,00BT,E08000008,Tameside,Number,Number_Screened_25to64,13643
+12,2019-20,B,North West,00BT,E08000008,Tameside,%,Borderline_changes_25to64,0.740306384
+12,2019-20,B,North West,00BT,E08000008,Tameside,%,Low_Grade_dyskaryosis_25to64,1.737154585
+12,2019-20,B,North West,00BT,E08000008,Tameside,%,Moderate_dyskaryosis_25to64,0.461775269
+12,2019-20,B,North West,00BT,E08000008,Tameside,%,Negative_25to64,96.37909551
+12,2019-20,B,North West,00BT,E08000008,Tameside,%,Severe_dyskaryosis_or_worse_25to64,0.681668255
+12,2019-20,B,North West,00BU,E08000009,Trafford,Number,Eligible_Population_25to64,65414
+12,2019-20,B,North West,00BU,E08000009,Trafford,Number,Number_Screened_25to64,15204
+12,2019-20,B,North West,00BU,E08000009,Trafford,%,Borderline_changes_25to64,0.868192581
+12,2019-20,B,North West,00BU,E08000009,Trafford,%,Low_Grade_dyskaryosis_25to64,2.065245988
+12,2019-20,B,North West,00BU,E08000009,Trafford,%,Moderate_dyskaryosis_25to64,0.381478558
+12,2019-20,B,North West,00BU,E08000009,Trafford,%,Negative_25to64,96.15232833
+12,2019-20,B,North West,00BU,E08000009,Trafford,%,Severe_dyskaryosis_or_worse_25to64,0.532754538
+12,2019-20,B,North West,00BW,E08000010,Wigan,Number,Eligible_Population_25to64,82794
+12,2019-20,B,North West,00BW,E08000010,Wigan,Number,Number_Screened_25to64,18800
+12,2019-20,B,North West,00BW,E08000010,Wigan,%,Borderline_changes_25to64,0.984042553
+12,2019-20,B,North West,00BW,E08000010,Wigan,%,Low_Grade_dyskaryosis_25to64,2.042553191
+12,2019-20,B,North West,00BW,E08000010,Wigan,%,Moderate_dyskaryosis_25to64,0.494680851
+12,2019-20,B,North West,00BW,E08000010,Wigan,%,Negative_25to64,95.64893617
+12,2019-20,B,North West,00BW,E08000010,Wigan,%,Severe_dyskaryosis_or_worse_25to64,0.829787234
+12,2019-20,B,North West,00BX,E08000011,Knowsley,Number,Eligible_Population_25to64,43038
+12,2019-20,B,North West,00BX,E08000011,Knowsley,Number,Number_Screened_25to64,9183
+12,2019-20,B,North West,00BX,E08000011,Knowsley,%,Borderline_changes_25to64,1.230534684
+12,2019-20,B,North West,00BX,E08000011,Knowsley,%,Low_Grade_dyskaryosis_25to64,2.330393118
+12,2019-20,B,North West,00BX,E08000011,Knowsley,%,Moderate_dyskaryosis_25to64,0.620712186
+12,2019-20,B,North West,00BX,E08000011,Knowsley,%,Negative_25to64,94.92540564
+12,2019-20,B,North West,00BX,E08000011,Knowsley,%,Severe_dyskaryosis_or_worse_25to64,0.892954372
+12,2019-20,B,North West,00BY,E08000012,Liverpool,Number,Eligible_Population_25to64,135308
+12,2019-20,B,North West,00BY,E08000012,Liverpool,Number,Number_Screened_25to64,27791
+12,2019-20,B,North West,00BY,E08000012,Liverpool,%,Borderline_changes_25to64,1.219819366
+12,2019-20,B,North West,00BY,E08000012,Liverpool,%,Low_Grade_dyskaryosis_25to64,2.961390378
+12,2019-20,B,North West,00BY,E08000012,Liverpool,%,Moderate_dyskaryosis_25to64,0.705264294
+12,2019-20,B,North West,00BY,E08000012,Liverpool,%,Negative_25to64,94.22834731
+12,2019-20,B,North West,00BY,E08000012,Liverpool,%,Severe_dyskaryosis_or_worse_25to64,0.885178655
+12,2019-20,B,North West,00BZ,E08000013,St. Helens,Number,Eligible_Population_25to64,46597
+12,2019-20,B,North West,00BZ,E08000013,St. Helens,Number,Number_Screened_25to64,9933
+12,2019-20,B,North West,00BZ,E08000013,St. Helens,%,Borderline_changes_25to64,1.369173462
+12,2019-20,B,North West,00BZ,E08000013,St. Helens,%,Low_Grade_dyskaryosis_25to64,2.003422934
+12,2019-20,B,North West,00BZ,E08000013,St. Helens,%,Moderate_dyskaryosis_25to64,0.382563173
+12,2019-20,B,North West,00BZ,E08000013,St. Helens,%,Negative_25to64,95.43944428
+12,2019-20,B,North West,00BZ,E08000013,St. Helens,%,Severe_dyskaryosis_or_worse_25to64,0.805396154
+12,2019-20,B,North West,00CA,E08000014,Sefton,Number,Eligible_Population_25to64,72235
+12,2019-20,B,North West,00CA,E08000014,Sefton,Number,Number_Screened_25to64,15287
+12,2019-20,B,North West,00CA,E08000014,Sefton,%,Borderline_changes_25to64,0.778439197
+12,2019-20,B,North West,00CA,E08000014,Sefton,%,Low_Grade_dyskaryosis_25to64,2.780139988
+12,2019-20,B,North West,00CA,E08000014,Sefton,%,Moderate_dyskaryosis_25to64,0.693399621
+12,2019-20,B,North West,00CA,E08000014,Sefton,%,Negative_25to64,95.10695362
+12,2019-20,B,North West,00CA,E08000014,Sefton,%,Severe_dyskaryosis_or_worse_25to64,0.641067574
+12,2019-20,B,North West,00CB,E08000015,Wirral,Number,Eligible_Population_25to64,83935
+12,2019-20,B,North West,00CB,E08000015,Wirral,Number,Number_Screened_25to64,17162
+12,2019-20,B,North West,00CB,E08000015,Wirral,%,Borderline_changes_25to64,0.8507167
+12,2019-20,B,North West,00CB,E08000015,Wirral,%,Low_Grade_dyskaryosis_25to64,1.835450414
+12,2019-20,B,North West,00CB,E08000015,Wirral,%,Moderate_dyskaryosis_25to64,0.314648642
+12,2019-20,B,North West,00CB,E08000015,Wirral,%,Negative_25to64,96.40484792
+12,2019-20,B,North West,00CB,E08000015,Wirral,%,Severe_dyskaryosis_or_worse_25to64,0.594336324
+12,2019-20,B,North West,00EQ,E06000049,Cheshire East,Number,Eligible_Population_25to64,101572
+12,2019-20,B,North West,00EQ,E06000049,Cheshire East,Number,Number_Screened_25to64,21727
+12,2019-20,B,North West,00EQ,E06000049,Cheshire East,%,Borderline_changes_25to64,1.721360519
+12,2019-20,B,North West,00EQ,E06000049,Cheshire East,%,Low_Grade_dyskaryosis_25to64,2.025130023
+12,2019-20,B,North West,00EQ,E06000049,Cheshire East,%,Moderate_dyskaryosis_25to64,0.289961799
+12,2019-20,B,North West,00EQ,E06000049,Cheshire East,%,Negative_25to64,95.3053804
+12,2019-20,B,North West,00EQ,E06000049,Cheshire East,%,Severe_dyskaryosis_or_worse_25to64,0.658167257
+12,2019-20,B,North West,00ET,E06000006,Halton,Number,Eligible_Population_25to64,34495
+12,2019-20,B,North West,00ET,E06000006,Halton,Number,Number_Screened_25to64,6989
+12,2019-20,B,North West,00ET,E06000006,Halton,%,Borderline_changes_25to64,1.287737874
+12,2019-20,B,North West,00ET,E06000006,Halton,%,Low_Grade_dyskaryosis_25to64,2.189154385
+12,2019-20,B,North West,00ET,E06000006,Halton,%,Moderate_dyskaryosis_25to64,0.457862355
+12,2019-20,B,North West,00ET,E06000006,Halton,%,Negative_25to64,95.22106167
+12,2019-20,B,North West,00ET,E06000006,Halton,%,Severe_dyskaryosis_or_worse_25to64,0.844183717
+12,2019-20,B,North West,00EU,E06000007,Warrington,Number,Eligible_Population_25to64,56702
+12,2019-20,B,North West,00EU,E06000007,Warrington,Number,Number_Screened_25to64,12260
+12,2019-20,B,North West,00EU,E06000007,Warrington,%,Borderline_changes_25to64,1.411092985
+12,2019-20,B,North West,00EU,E06000007,Warrington,%,Low_Grade_dyskaryosis_25to64,2.088091354
+12,2019-20,B,North West,00EU,E06000007,Warrington,%,Moderate_dyskaryosis_25to64,0.358890701
+12,2019-20,B,North West,00EU,E06000007,Warrington,%,Negative_25to64,95.57096248
+12,2019-20,B,North West,00EU,E06000007,Warrington,%,Severe_dyskaryosis_or_worse_25to64,0.57096248
+12,2019-20,B,North West,00EW,E06000050,Cheshire West and Chester,Number,Eligible_Population_25to64,92288
+12,2019-20,B,North West,00EW,E06000050,Cheshire West and Chester,Number,Number_Screened_25to64,19460
+12,2019-20,B,North West,00EW,E06000050,Cheshire West and Chester,%,Borderline_changes_25to64,1.079136691
+12,2019-20,B,North West,00EW,E06000050,Cheshire West and Chester,%,Low_Grade_dyskaryosis_25to64,1.788283659
+12,2019-20,B,North West,00EW,E06000050,Cheshire West and Chester,%,Moderate_dyskaryosis_25to64,0.400822199
+12,2019-20,B,North West,00EW,E06000050,Cheshire West and Chester,%,Negative_25to64,96.08941418
+12,2019-20,B,North West,00EW,E06000050,Cheshire West and Chester,%,Severe_dyskaryosis_or_worse_25to64,0.642343268
+12,2019-20,B,North West,00EX,E06000008,Blackburn with Darwen,Number,Eligible_Population_25to64,40198
+12,2019-20,B,North West,00EX,E06000008,Blackburn with Darwen,Number,Number_Screened_25to64,7682
+12,2019-20,B,North West,00EX,E06000008,Blackburn with Darwen,%,Borderline_changes_25to64,0.755011716
+12,2019-20,B,North West,00EX,E06000008,Blackburn with Darwen,%,Low_Grade_dyskaryosis_25to64,1.497005988
+12,2019-20,B,North West,00EX,E06000008,Blackburn with Darwen,%,Moderate_dyskaryosis_25to64,0.325436084
+12,2019-20,B,North West,00EX,E06000008,Blackburn with Darwen,%,Negative_25to64,96.69356938
+12,2019-20,B,North West,00EX,E06000008,Blackburn with Darwen,%,Severe_dyskaryosis_or_worse_25to64,0.728976829
+12,2019-20,B,North West,00EY,E06000009,Blackpool,Number,Eligible_Population_25to64,37650
+12,2019-20,B,North West,00EY,E06000009,Blackpool,Number,Number_Screened_25to64,8162
+12,2019-20,B,North West,00EY,E06000009,Blackpool,%,Borderline_changes_25to64,1.078167116
+12,2019-20,B,North West,00EY,E06000009,Blackpool,%,Low_Grade_dyskaryosis_25to64,2.278853222
+12,2019-20,B,North West,00EY,E06000009,Blackpool,%,Moderate_dyskaryosis_25to64,0.490075962
+12,2019-20,B,North West,00EY,E06000009,Blackpool,%,Negative_25to64,95.25851507
+12,2019-20,B,North West,00EY,E06000009,Blackpool,%,Severe_dyskaryosis_or_worse_25to64,0.89438863
+12,2019-20,B,North West,16,E10000006,Cumbria,Number,Eligible_Population_25to64,125020
+12,2019-20,B,North West,16,E10000006,Cumbria,Number,Number_Screened_25to64,28473
+12,2019-20,B,North West,16,E10000006,Cumbria,%,Borderline_changes_25to64,0.930706283
+12,2019-20,B,North West,16,E10000006,Cumbria,%,Low_Grade_dyskaryosis_25to64,1.84736417
+12,2019-20,B,North West,16,E10000006,Cumbria,%,Moderate_dyskaryosis_25to64,0.358234117
+12,2019-20,B,North West,16,E10000006,Cumbria,%,Negative_25to64,96.24907807
+12,2019-20,B,North West,16,E10000006,Cumbria,%,Severe_dyskaryosis_or_worse_25to64,0.614617357
+12,2019-20,B,North West,30,E10000017,Lancashire,Number,Eligible_Population_25to64,313036
+12,2019-20,B,North West,30,E10000017,Lancashire,Number,Number_Screened_25to64,65779
+12,2019-20,B,North West,30,E10000017,Lancashire,%,Borderline_changes_25to64,0.831572386
+12,2019-20,B,North West,30,E10000017,Lancashire,%,Low_Grade_dyskaryosis_25to64,1.73611639
+12,2019-20,B,North West,30,E10000017,Lancashire,%,Moderate_dyskaryosis_25to64,0.337493729
+12,2019-20,B,North West,30,E10000017,Lancashire,%,Negative_25to64,96.44263367
+12,2019-20,B,North West,30,E10000017,Lancashire,%,Severe_dyskaryosis_or_worse_25to64,0.652183828
+12,2019-20,B,North West,B,B,North West,Number,Eligible_Population_25to64,1960266
+12,2019-20,B,North West,B,B,North West,Number,Number_Screened_25to64,416551
+12,2019-20,B,North West,B,B,North West,%,Borderline_changes_25to64,0.970589436
+12,2019-20,B,North West,B,B,North West,%,Low_Grade_dyskaryosis_25to64,2.066253592
+12,2019-20,B,North West,B,B,North West,%,Moderate_dyskaryosis_25to64,0.446043822
+12,2019-20,B,North West,B,B,North West,%,Negative_25to64,95.81587849
+12,2019-20,B,North West,B,B,North West,%,Severe_dyskaryosis_or_worse_25to64,0.701234663
+12,2019-20,D,Yorkshire and the Humber,00CC,E08000016,Barnsley,Number,Eligible_Population_25to64,64505
+12,2019-20,D,Yorkshire and the Humber,00CC,E08000016,Barnsley,Number,Number_Screened_25to64,13838
+12,2019-20,D,Yorkshire and the Humber,00CC,E08000016,Barnsley,%,Borderline_changes_25to64,1.48865443
+12,2019-20,D,Yorkshire and the Humber,00CC,E08000016,Barnsley,%,Low_Grade_dyskaryosis_25to64,1.495880908
+12,2019-20,D,Yorkshire and the Humber,00CC,E08000016,Barnsley,%,Moderate_dyskaryosis_25to64,0.325191502
+12,2019-20,D,Yorkshire and the Humber,00CC,E08000016,Barnsley,%,Negative_25to64,95.56294262
+12,2019-20,D,Yorkshire and the Humber,00CC,E08000016,Barnsley,%,Severe_dyskaryosis_or_worse_25to64,1.127330539
+12,2019-20,D,Yorkshire and the Humber,00CE,E08000017,Doncaster,Number,Eligible_Population_25to64,79870
+12,2019-20,D,Yorkshire and the Humber,00CE,E08000017,Doncaster,Number,Number_Screened_25to64,16269
+12,2019-20,D,Yorkshire and the Humber,00CE,E08000017,Doncaster,%,Borderline_changes_25to64,1.573544778
+12,2019-20,D,Yorkshire and the Humber,00CE,E08000017,Doncaster,%,Low_Grade_dyskaryosis_25to64,1.481344889
+12,2019-20,D,Yorkshire and the Humber,00CE,E08000017,Doncaster,%,Moderate_dyskaryosis_25to64,0.313479624
+12,2019-20,D,Yorkshire and the Humber,00CE,E08000017,Doncaster,%,Negative_25to64,95.97393816
+12,2019-20,D,Yorkshire and the Humber,00CE,E08000017,Doncaster,%,Severe_dyskaryosis_or_worse_25to64,0.657692544
+12,2019-20,D,Yorkshire and the Humber,00CF,E08000018,Rotherham,Number,Eligible_Population_25to64,68180
+12,2019-20,D,Yorkshire and the Humber,00CF,E08000018,Rotherham,Number,Number_Screened_25to64,15079
+12,2019-20,D,Yorkshire and the Humber,00CF,E08000018,Rotherham,%,Borderline_changes_25to64,1.372770078
+12,2019-20,D,Yorkshire and the Humber,00CF,E08000018,Rotherham,%,Low_Grade_dyskaryosis_25to64,1.47224617
+12,2019-20,D,Yorkshire and the Humber,00CF,E08000018,Rotherham,%,Moderate_dyskaryosis_25to64,0.444326547
+12,2019-20,D,Yorkshire and the Humber,00CF,E08000018,Rotherham,%,Negative_25to64,95.92811194
+12,2019-20,D,Yorkshire and the Humber,00CF,E08000018,Rotherham,%,Severe_dyskaryosis_or_worse_25to64,0.782545262
+12,2019-20,D,Yorkshire and the Humber,00CG,E08000019,Sheffield,Number,Eligible_Population_25to64,143759
+12,2019-20,D,Yorkshire and the Humber,00CG,E08000019,Sheffield,Number,Number_Screened_25to64,31775
+12,2019-20,D,Yorkshire and the Humber,00CG,E08000019,Sheffield,%,Borderline_changes_25to64,1.538945712
+12,2019-20,D,Yorkshire and the Humber,00CG,E08000019,Sheffield,%,Low_Grade_dyskaryosis_25to64,1.598741149
+12,2019-20,D,Yorkshire and the Humber,00CG,E08000019,Sheffield,%,Moderate_dyskaryosis_25to64,0.324154209
+12,2019-20,D,Yorkshire and the Humber,00CG,E08000019,Sheffield,%,Negative_25to64,95.95279308
+12,2019-20,D,Yorkshire and the Humber,00CG,E08000019,Sheffield,%,Severe_dyskaryosis_or_worse_25to64,0.585365854
+12,2019-20,D,Yorkshire and the Humber,00CX,E08000032,Bradford,Number,Eligible_Population_25to64,143384
+12,2019-20,D,Yorkshire and the Humber,00CX,E08000032,Bradford,Number,Number_Screened_25to64,27869
+12,2019-20,D,Yorkshire and the Humber,00CX,E08000032,Bradford,%,Borderline_changes_25to64,1.349169328
+12,2019-20,D,Yorkshire and the Humber,00CX,E08000032,Bradford,%,Low_Grade_dyskaryosis_25to64,1.212817109
+12,2019-20,D,Yorkshire and the Humber,00CX,E08000032,Bradford,%,Moderate_dyskaryosis_25to64,0.459291686
+12,2019-20,D,Yorkshire and the Humber,00CX,E08000032,Bradford,%,Negative_25to64,96.33284294
+12,2019-20,D,Yorkshire and the Humber,00CX,E08000032,Bradford,%,Severe_dyskaryosis_or_worse_25to64,0.645878934
+12,2019-20,D,Yorkshire and the Humber,00CY,E08000033,Calderdale,Number,Eligible_Population_25to64,56002
+12,2019-20,D,Yorkshire and the Humber,00CY,E08000033,Calderdale,Number,Number_Screened_25to64,11452
+12,2019-20,D,Yorkshire and the Humber,00CY,E08000033,Calderdale,%,Borderline_changes_25to64,1.379671673
+12,2019-20,D,Yorkshire and the Humber,00CY,E08000033,Calderdale,%,Low_Grade_dyskaryosis_25to64,1.239958086
+12,2019-20,D,Yorkshire and the Humber,00CY,E08000033,Calderdale,%,Moderate_dyskaryosis_25to64,0.567586448
+12,2019-20,D,Yorkshire and the Humber,00CY,E08000033,Calderdale,%,Negative_25to64,96.24519735
+12,2019-20,D,Yorkshire and the Humber,00CY,E08000033,Calderdale,%,Severe_dyskaryosis_or_worse_25to64,0.567586448
+12,2019-20,D,Yorkshire and the Humber,00CZ,E08000034,Kirklees,Number,Eligible_Population_25to64,113117
+12,2019-20,D,Yorkshire and the Humber,00CZ,E08000034,Kirklees,Number,Number_Screened_25to64,23339
+12,2019-20,D,Yorkshire and the Humber,00CZ,E08000034,Kirklees,%,Borderline_changes_25to64,1.491066455
+12,2019-20,D,Yorkshire and the Humber,00CZ,E08000034,Kirklees,%,Low_Grade_dyskaryosis_25to64,1.328248854
+12,2019-20,D,Yorkshire and the Humber,00CZ,E08000034,Kirklees,%,Moderate_dyskaryosis_25to64,0.509876173
+12,2019-20,D,Yorkshire and the Humber,00CZ,E08000034,Kirklees,%,Negative_25to64,96.00668409
+12,2019-20,D,Yorkshire and the Humber,00CZ,E08000034,Kirklees,%,Severe_dyskaryosis_or_worse_25to64,0.664124427
+12,2019-20,D,Yorkshire and the Humber,00DA,E08000035,Leeds,Number,Eligible_Population_25to64,220398
+12,2019-20,D,Yorkshire and the Humber,00DA,E08000035,Leeds,Number,Number_Screened_25to64,45948
+12,2019-20,D,Yorkshire and the Humber,00DA,E08000035,Leeds,%,Borderline_changes_25to64,1.625750849
+12,2019-20,D,Yorkshire and the Humber,00DA,E08000035,Leeds,%,Low_Grade_dyskaryosis_25to64,1.425524506
+12,2019-20,D,Yorkshire and the Humber,00DA,E08000035,Leeds,%,Moderate_dyskaryosis_25to64,0.531035083
+12,2019-20,D,Yorkshire and the Humber,00DA,E08000035,Leeds,%,Negative_25to64,95.86706712
+12,2019-20,D,Yorkshire and the Humber,00DA,E08000035,Leeds,%,Severe_dyskaryosis_or_worse_25to64,0.550622443
+12,2019-20,D,Yorkshire and the Humber,00DB,E08000036,Wakefield,Number,Eligible_Population_25to64,93082
+12,2019-20,D,Yorkshire and the Humber,00DB,E08000036,Wakefield,Number,Number_Screened_25to64,19483
+12,2019-20,D,Yorkshire and the Humber,00DB,E08000036,Wakefield,%,Borderline_changes_25to64,1.56546733
+12,2019-20,D,Yorkshire and the Humber,00DB,E08000036,Wakefield,%,Low_Grade_dyskaryosis_25to64,1.3447621
+12,2019-20,D,Yorkshire and the Humber,00DB,E08000036,Wakefield,%,Moderate_dyskaryosis_25to64,0.600523533
+12,2019-20,D,Yorkshire and the Humber,00DB,E08000036,Wakefield,%,Negative_25to64,95.66288559
+12,2019-20,D,Yorkshire and the Humber,00DB,E08000036,Wakefield,%,Severe_dyskaryosis_or_worse_25to64,0.826361443
+12,2019-20,D,Yorkshire and the Humber,00FA,E06000010,Kingston upon Hull,Number,Eligible_Population_25to64,70676
+12,2019-20,D,Yorkshire and the Humber,00FA,E06000010,Kingston upon Hull,Number,Number_Screened_25to64,14604
+12,2019-20,D,Yorkshire and the Humber,00FA,E06000010,Kingston upon Hull,%,Borderline_changes_25to64,1.006573541
+12,2019-20,D,Yorkshire and the Humber,00FA,E06000010,Kingston upon Hull,%,Low_Grade_dyskaryosis_25to64,1.663927691
+12,2019-20,D,Yorkshire and the Humber,00FA,E06000010,Kingston upon Hull,%,Moderate_dyskaryosis_25to64,0.72582854
+12,2019-20,D,Yorkshire and the Humber,00FA,E06000010,Kingston upon Hull,%,Negative_25to64,95.60394412
+12,2019-20,D,Yorkshire and the Humber,00FA,E06000010,Kingston upon Hull,%,Severe_dyskaryosis_or_worse_25to64,0.999726102
+12,2019-20,D,Yorkshire and the Humber,00FB,E06000011,East Riding of Yorkshire,Number,Eligible_Population_25to64,83619
+12,2019-20,D,Yorkshire and the Humber,00FB,E06000011,East Riding of Yorkshire,Number,Number_Screened_25to64,18094
+12,2019-20,D,Yorkshire and the Humber,00FB,E06000011,East Riding of Yorkshire,%,Borderline_changes_25to64,0.790317232
+12,2019-20,D,Yorkshire and the Humber,00FB,E06000011,East Riding of Yorkshire,%,Low_Grade_dyskaryosis_25to64,1.254559522
+12,2019-20,D,Yorkshire and the Humber,00FB,E06000011,East Riding of Yorkshire,%,Moderate_dyskaryosis_25to64,0.375815187
+12,2019-20,D,Yorkshire and the Humber,00FB,E06000011,East Riding of Yorkshire,%,Negative_25to64,96.94926495
+12,2019-20,D,Yorkshire and the Humber,00FB,E06000011,East Riding of Yorkshire,%,Severe_dyskaryosis_or_worse_25to64,0.630043108
+12,2019-20,D,Yorkshire and the Humber,00FC,E06000012,North East Lincolnshire,Number,Eligible_Population_25to64,39593
+12,2019-20,D,Yorkshire and the Humber,00FC,E06000012,North East Lincolnshire,Number,Number_Screened_25to64,8123
+12,2019-20,D,Yorkshire and the Humber,00FC,E06000012,North East Lincolnshire,%,Borderline_changes_25to64,1.218761541
+12,2019-20,D,Yorkshire and the Humber,00FC,E06000012,North East Lincolnshire,%,Low_Grade_dyskaryosis_25to64,1.674258279
+12,2019-20,D,Yorkshire and the Humber,00FC,E06000012,North East Lincolnshire,%,Moderate_dyskaryosis_25to64,0.553982519
+12,2019-20,D,Yorkshire and the Humber,00FC,E06000012,North East Lincolnshire,%,Negative_25to64,95.53120768
+12,2019-20,D,Yorkshire and the Humber,00FC,E06000012,North East Lincolnshire,%,Severe_dyskaryosis_or_worse_25to64,1.021789979
+12,2019-20,D,Yorkshire and the Humber,00FD,E06000013,North Lincolnshire,Number,Eligible_Population_25to64,42838
+12,2019-20,D,Yorkshire and the Humber,00FD,E06000013,North Lincolnshire,Number,Number_Screened_25to64,8642
+12,2019-20,D,Yorkshire and the Humber,00FD,E06000013,North Lincolnshire,%,Borderline_changes_25to64,0.983568618
+12,2019-20,D,Yorkshire and the Humber,00FD,E06000013,North Lincolnshire,%,Low_Grade_dyskaryosis_25to64,1.990280028
+12,2019-20,D,Yorkshire and the Humber,00FD,E06000013,North Lincolnshire,%,Moderate_dyskaryosis_25to64,0.416570238
+12,2019-20,D,Yorkshire and the Humber,00FD,E06000013,North Lincolnshire,%,Negative_25to64,95.91529738
+12,2019-20,D,Yorkshire and the Humber,00FD,E06000013,North Lincolnshire,%,Severe_dyskaryosis_or_worse_25to64,0.694283731
+12,2019-20,D,Yorkshire and the Humber,00FF,E06000014,York,Number,Eligible_Population_25to64,54214
+12,2019-20,D,Yorkshire and the Humber,00FF,E06000014,York,Number,Number_Screened_25to64,10858
+12,2019-20,D,Yorkshire and the Humber,00FF,E06000014,York,%,Borderline_changes_25to64,0.874930927
+12,2019-20,D,Yorkshire and the Humber,00FF,E06000014,York,%,Low_Grade_dyskaryosis_25to64,1.42751888
+12,2019-20,D,Yorkshire and the Humber,00FF,E06000014,York,%,Moderate_dyskaryosis_25to64,0.423650764
+12,2019-20,D,Yorkshire and the Humber,00FF,E06000014,York,%,Negative_25to64,96.61079388
+12,2019-20,D,Yorkshire and the Humber,00FF,E06000014,York,%,Severe_dyskaryosis_or_worse_25to64,0.663105544
+12,2019-20,D,Yorkshire and the Humber,36,E10000023,North Yorkshire,Number,Eligible_Population_25to64,153415
+12,2019-20,D,Yorkshire and the Humber,36,E10000023,North Yorkshire,Number,Number_Screened_25to64,32611
+12,2019-20,D,Yorkshire and the Humber,36,E10000023,North Yorkshire,%,Borderline_changes_25to64,0.996596241
+12,2019-20,D,Yorkshire and the Humber,36,E10000023,North Yorkshire,%,Low_Grade_dyskaryosis_25to64,1.355370887
+12,2019-20,D,Yorkshire and the Humber,36,E10000023,North Yorkshire,%,Moderate_dyskaryosis_25to64,0.398638496
+12,2019-20,D,Yorkshire and the Humber,36,E10000023,North Yorkshire,%,Negative_25to64,96.58090828
+12,2019-20,D,Yorkshire and the Humber,36,E10000023,North Yorkshire,%,Severe_dyskaryosis_or_worse_25to64,0.668486094
+12,2019-20,D,Yorkshire and the Humber,D,D,Yorkshire and The Humber,Number,Eligible_Population_25to64,1426652
+12,2019-20,D,Yorkshire and the Humber,D,D,Yorkshire and The Humber,Number,Number_Screened_25to64,297984
+12,2019-20,D,Yorkshire and the Humber,D,D,Yorkshire and The Humber,%,Borderline_changes_25to64,1.337655713
+12,2019-20,D,Yorkshire and the Humber,D,D,Yorkshire and The Humber,%,Low_Grade_dyskaryosis_25to64,1.429606959
+12,2019-20,D,Yorkshire and the Humber,D,D,Yorkshire and The Humber,%,Moderate_dyskaryosis_25to64,0.459756229
+12,2019-20,D,Yorkshire and the Humber,D,D,Yorkshire and The Humber,%,Negative_25to64,96.07697058
+12,2019-20,D,Yorkshire and the Humber,D,D,Yorkshire and The Humber,%,Severe_dyskaryosis_or_worse_25to64,0.696010524
+12,2019-20,E,East Midlands,00FK,E06000015,Derby,Number,Eligible_Population_25to64,68680
+12,2019-20,E,East Midlands,00FK,E06000015,Derby,Number,Number_Screened_25to64,14704
+12,2019-20,E,East Midlands,00FK,E06000015,Derby,%,Borderline_changes_25to64,1.305767138
+12,2019-20,E,East Midlands,00FK,E06000015,Derby,%,Low_Grade_dyskaryosis_25to64,1.877040261
+12,2019-20,E,East Midlands,00FK,E06000015,Derby,%,Moderate_dyskaryosis_25to64,0.482861806
+12,2019-20,E,East Midlands,00FK,E06000015,Derby,%,Negative_25to64,95.79026115
+12,2019-20,E,East Midlands,00FK,E06000015,Derby,%,Severe_dyskaryosis_or_worse_25to64,0.544069641
+12,2019-20,E,East Midlands,00FN,E06000016,Leicester,Number,Eligible_Population_25to64,102073
+12,2019-20,E,East Midlands,00FN,E06000016,Leicester,Number,Number_Screened_25to64,19556
+12,2019-20,E,East Midlands,00FN,E06000016,Leicester,%,Borderline_changes_25to64,0.797709143
+12,2019-20,E,East Midlands,00FN,E06000016,Leicester,%,Low_Grade_dyskaryosis_25to64,1.38576396
+12,2019-20,E,East Midlands,00FN,E06000016,Leicester,%,Moderate_dyskaryosis_25to64,0.184086725
+12,2019-20,E,East Midlands,00FN,E06000016,Leicester,%,Negative_25to64,97.19779096
+12,2019-20,E,East Midlands,00FN,E06000016,Leicester,%,Severe_dyskaryosis_or_worse_25to64,0.434649213
+12,2019-20,E,East Midlands,00FP,E06000017,Rutland,Number,Eligible_Population_25to64,8997
+12,2019-20,E,East Midlands,00FP,E06000017,Rutland,Number,Number_Screened_25to64,2064
+12,2019-20,E,East Midlands,00FP,E06000017,Rutland,%,Borderline_changes_25to64,0.629844961
+12,2019-20,E,East Midlands,00FP,E06000017,Rutland,%,Low_Grade_dyskaryosis_25to64,1.986434109
+12,2019-20,E,East Midlands,00FP,E06000017,Rutland,%,Moderate_dyskaryosis_25to64,0.436046512
+12,2019-20,E,East Midlands,00FP,E06000017,Rutland,%,Negative_25to64,96.51162791
+12,2019-20,E,East Midlands,00FP,E06000017,Rutland,%,Severe_dyskaryosis_or_worse_25to64,0.436046512
+12,2019-20,E,East Midlands,00FY,E06000018,Nottingham,Number,Eligible_Population_25to64,84949
+12,2019-20,E,East Midlands,00FY,E06000018,Nottingham,Number,Number_Screened_25to64,17677
+12,2019-20,E,East Midlands,00FY,E06000018,Nottingham,%,Borderline_changes_25to64,1.397295921
+12,2019-20,E,East Midlands,00FY,E06000018,Nottingham,%,Low_Grade_dyskaryosis_25to64,2.172314307
+12,2019-20,E,East Midlands,00FY,E06000018,Nottingham,%,Moderate_dyskaryosis_25to64,0.554392714
+12,2019-20,E,East Midlands,00FY,E06000018,Nottingham,%,Negative_25to64,95.0783504
+12,2019-20,E,East Midlands,00FY,E06000018,Nottingham,%,Severe_dyskaryosis_or_worse_25to64,0.79764666
+12,2019-20,E,East Midlands,17,E10000007,Derbyshire,Number,Eligible_Population_25to64,201940
+12,2019-20,E,East Midlands,17,E10000007,Derbyshire,Number,Number_Screened_25to64,45086
+12,2019-20,E,East Midlands,17,E10000007,Derbyshire,%,Borderline_changes_25to64,1.281994411
+12,2019-20,E,East Midlands,17,E10000007,Derbyshire,%,Low_Grade_dyskaryosis_25to64,1.954043384
+12,2019-20,E,East Midlands,17,E10000007,Derbyshire,%,Moderate_dyskaryosis_25to64,0.543405935
+12,2019-20,E,East Midlands,17,E10000007,Derbyshire,%,Negative_25to64,95.61726478
+12,2019-20,E,East Midlands,17,E10000007,Derbyshire,%,Severe_dyskaryosis_or_worse_25to64,0.603291487
+12,2019-20,E,East Midlands,31,E10000018,Leicestershire,Number,Eligible_Population_25to64,177317
+12,2019-20,E,East Midlands,31,E10000018,Leicestershire,Number,Number_Screened_25to64,38019
+12,2019-20,E,East Midlands,31,E10000018,Leicestershire,%,Borderline_changes_25to64,0.978458139
+12,2019-20,E,East Midlands,31,E10000018,Leicestershire,%,Low_Grade_dyskaryosis_25to64,1.367737184
+12,2019-20,E,East Midlands,31,E10000018,Leicestershire,%,Moderate_dyskaryosis_25to64,0.284068492
+12,2019-20,E,East Midlands,31,E10000018,Leicestershire,%,Negative_25to64,96.84631369
+12,2019-20,E,East Midlands,31,E10000018,Leicestershire,%,Severe_dyskaryosis_or_worse_25to64,0.523422499
+12,2019-20,E,East Midlands,32,E10000019,Lincolnshire,Number,Eligible_Population_25to64,188836
+12,2019-20,E,East Midlands,32,E10000019,Lincolnshire,Number,Number_Screened_25to64,39999
+12,2019-20,E,East Midlands,32,E10000019,Lincolnshire,%,Borderline_changes_25to64,1.225030626
+12,2019-20,E,East Midlands,32,E10000019,Lincolnshire,%,Low_Grade_dyskaryosis_25to64,1.812545314
+12,2019-20,E,East Midlands,32,E10000019,Lincolnshire,%,Moderate_dyskaryosis_25to64,0.457511438
+12,2019-20,E,East Midlands,32,E10000019,Lincolnshire,%,Negative_25to64,95.85239631
+12,2019-20,E,East Midlands,32,E10000019,Lincolnshire,%,Severe_dyskaryosis_or_worse_25to64,0.652516313
+12,2019-20,E,East Midlands,34,E10000021,Northamptonshire,Number,Eligible_Population_25to64,209505
+12,2019-20,E,East Midlands,34,E10000021,Northamptonshire,Number,Number_Screened_25to64,43506
+12,2019-20,E,East Midlands,34,E10000021,Northamptonshire,%,Borderline_changes_25to64,0.963085551
+12,2019-20,E,East Midlands,34,E10000021,Northamptonshire,%,Low_Grade_dyskaryosis_25to64,1.730795752
+12,2019-20,E,East Midlands,34,E10000021,Northamptonshire,%,Moderate_dyskaryosis_25to64,0.291913759
+12,2019-20,E,East Midlands,34,E10000021,Northamptonshire,%,Negative_25to64,96.49013929
+12,2019-20,E,East Midlands,34,E10000021,Northamptonshire,%,Severe_dyskaryosis_or_worse_25to64,0.524065646
+12,2019-20,E,East Midlands,37,E10000024,Nottinghamshire,Number,Eligible_Population_25to64,212737
+12,2019-20,E,East Midlands,37,E10000024,Nottinghamshire,Number,Number_Screened_25to64,47425
+12,2019-20,E,East Midlands,37,E10000024,Nottinghamshire,%,Borderline_changes_25to64,1.288350026
+12,2019-20,E,East Midlands,37,E10000024,Nottinghamshire,%,Low_Grade_dyskaryosis_25to64,1.868212968
+12,2019-20,E,East Midlands,37,E10000024,Nottinghamshire,%,Moderate_dyskaryosis_25to64,0.497627833
+12,2019-20,E,East Midlands,37,E10000024,Nottinghamshire,%,Negative_25to64,95.61834475
+12,2019-20,E,East Midlands,37,E10000024,Nottinghamshire,%,Severe_dyskaryosis_or_worse_25to64,0.727464418
+12,2019-20,E,East Midlands,E,E,East Midlands,Number,Eligible_Population_25to64,1255034
+12,2019-20,E,East Midlands,E,E,East Midlands,Number,Number_Screened_25to64,268036
+12,2019-20,E,East Midlands,E,E,East Midlands,%,Borderline_changes_25to64,1.148353206
+12,2019-20,E,East Midlands,E,E,East Midlands,%,Low_Grade_dyskaryosis_25to64,1.767299915
+12,2019-20,E,East Midlands,E,E,East Midlands,%,Moderate_dyskaryosis_25to64,0.415242729
+12,2019-20,E,East Midlands,E,E,East Midlands,%,Negative_25to64,96.06470773
+12,2019-20,E,East Midlands,E,E,East Midlands,%,Severe_dyskaryosis_or_worse_25to64,0.604396424
+12,2019-20,ENG,England,ENG,ENG,England,Number,Eligible_Population_25to64,15479863
+12,2019-20,ENG,England,ENG,ENG,England,Number,Number_Screened_25to64,3176152
+12,2019-20,ENG,England,ENG,ENG,England,%,Borderline_changes_25to64,1.634682471
+12,2019-20,ENG,England,ENG,ENG,England,%,Low_Grade_dyskaryosis_25to64,2.218533622
+12,2019-20,ENG,England,ENG,ENG,England,%,Moderate_dyskaryosis_25to64,0.485115322
+12,2019-20,ENG,England,ENG,ENG,England,%,Negative_25to64,95.08946675
+12,2019-20,ENG,England,ENG,ENG,England,%,Severe_dyskaryosis_or_worse_25to64,0.572201834
+12,2019-20,F,West Midlands,00CN,E08000025,Birmingham,Number,Eligible_Population_25to64,316656
+12,2019-20,F,West Midlands,00CN,E08000025,Birmingham,Number,Number_Screened_25to64,59870
+12,2019-20,F,West Midlands,00CN,E08000025,Birmingham,%,Borderline_changes_25to64,1.693669618
+12,2019-20,F,West Midlands,00CN,E08000025,Birmingham,%,Low_Grade_dyskaryosis_25to64,1.904125605
+12,2019-20,F,West Midlands,00CN,E08000025,Birmingham,%,Moderate_dyskaryosis_25to64,0.330716553
+12,2019-20,F,West Midlands,00CN,E08000025,Birmingham,%,Negative_25to64,95.56539168
+12,2019-20,F,West Midlands,00CN,E08000025,Birmingham,%,Severe_dyskaryosis_or_worse_25to64,0.506096543
+12,2019-20,F,West Midlands,00CQ,E08000026,Coventry,Number,Eligible_Population_25to64,93414
+12,2019-20,F,West Midlands,00CQ,E08000026,Coventry,Number,Number_Screened_25to64,17829
+12,2019-20,F,West Midlands,00CQ,E08000026,Coventry,%,Borderline_changes_25to64,1.396601043
+12,2019-20,F,West Midlands,00CQ,E08000026,Coventry,%,Low_Grade_dyskaryosis_25to64,1.295641932
+12,2019-20,F,West Midlands,00CQ,E08000026,Coventry,%,Moderate_dyskaryosis_25to64,0.437489483
+12,2019-20,F,West Midlands,00CQ,E08000026,Coventry,%,Negative_25to64,96.39351618
+12,2019-20,F,West Midlands,00CQ,E08000026,Coventry,%,Severe_dyskaryosis_or_worse_25to64,0.47675136
+12,2019-20,F,West Midlands,00CR,E08000027,Dudley,Number,Eligible_Population_25to64,80805
+12,2019-20,F,West Midlands,00CR,E08000027,Dudley,Number,Number_Screened_25to64,16430
+12,2019-20,F,West Midlands,00CR,E08000027,Dudley,%,Borderline_changes_25to64,1.527693244
+12,2019-20,F,West Midlands,00CR,E08000027,Dudley,%,Low_Grade_dyskaryosis_25to64,1.552038953
+12,2019-20,F,West Midlands,00CR,E08000027,Dudley,%,Moderate_dyskaryosis_25to64,0.383444918
+12,2019-20,F,West Midlands,00CR,E08000027,Dudley,%,Negative_25to64,96.06816799
+12,2019-20,F,West Midlands,00CR,E08000027,Dudley,%,Severe_dyskaryosis_or_worse_25to64,0.4686549
+12,2019-20,F,West Midlands,00CS,E08000028,Sandwell,Number,Eligible_Population_25to64,92141
+12,2019-20,F,West Midlands,00CS,E08000028,Sandwell,Number,Number_Screened_25to64,17601
+12,2019-20,F,West Midlands,00CS,E08000028,Sandwell,%,Borderline_changes_25to64,1.539685245
+12,2019-20,F,West Midlands,00CS,E08000028,Sandwell,%,Low_Grade_dyskaryosis_25to64,1.835123004
+12,2019-20,F,West Midlands,00CS,E08000028,Sandwell,%,Moderate_dyskaryosis_25to64,0.46588262
+12,2019-20,F,West Midlands,00CS,E08000028,Sandwell,%,Negative_25to64,95.61388557
+12,2019-20,F,West Midlands,00CS,E08000028,Sandwell,%,Severe_dyskaryosis_or_worse_25to64,0.545423555
+12,2019-20,F,West Midlands,00CT,E08000029,Solihull,Number,Eligible_Population_25to64,56821
+12,2019-20,F,West Midlands,00CT,E08000029,Solihull,Number,Number_Screened_25to64,11867
+12,2019-20,F,West Midlands,00CT,E08000029,Solihull,%,Borderline_changes_25to64,1.845453779
+12,2019-20,F,West Midlands,00CT,E08000029,Solihull,%,Low_Grade_dyskaryosis_25to64,1.921294346
+12,2019-20,F,West Midlands,00CT,E08000029,Solihull,%,Moderate_dyskaryosis_25to64,0.353922643
+12,2019-20,F,West Midlands,00CT,E08000029,Solihull,%,Negative_25to64,95.44956602
+12,2019-20,F,West Midlands,00CT,E08000029,Solihull,%,Severe_dyskaryosis_or_worse_25to64,0.429763209
+12,2019-20,F,West Midlands,00CU,E08000030,Walsall,Number,Eligible_Population_25to64,73239
+12,2019-20,F,West Midlands,00CU,E08000030,Walsall,Number,Number_Screened_25to64,14283
+12,2019-20,F,West Midlands,00CU,E08000030,Walsall,%,Borderline_changes_25to64,1.37226073
+12,2019-20,F,West Midlands,00CU,E08000030,Walsall,%,Low_Grade_dyskaryosis_25to64,1.736329903
+12,2019-20,F,West Midlands,00CU,E08000030,Walsall,%,Moderate_dyskaryosis_25to64,0.385073164
+12,2019-20,F,West Midlands,00CU,E08000030,Walsall,%,Negative_25to64,95.96723377
+12,2019-20,F,West Midlands,00CU,E08000030,Walsall,%,Severe_dyskaryosis_or_worse_25to64,0.539102429
+12,2019-20,F,West Midlands,00CW,E08000031,Wolverhampton,Number,Eligible_Population_25to64,72996
+12,2019-20,F,West Midlands,00CW,E08000031,Wolverhampton,Number,Number_Screened_25to64,14048
+12,2019-20,F,West Midlands,00CW,E08000031,Wolverhampton,%,Borderline_changes_25to64,1.630125285
+12,2019-20,F,West Midlands,00CW,E08000031,Wolverhampton,%,Low_Grade_dyskaryosis_25to64,1.786731207
+12,2019-20,F,West Midlands,00CW,E08000031,Wolverhampton,%,Moderate_dyskaryosis_25to64,0.434225513
+12,2019-20,F,West Midlands,00CW,E08000031,Wolverhampton,%,Negative_25to64,95.67198178
+12,2019-20,F,West Midlands,00CW,E08000031,Wolverhampton,%,Severe_dyskaryosis_or_worse_25to64,0.476936219
+12,2019-20,F,West Midlands,00GA,E06000019,Herefordshire,Number,Eligible_Population_25to64,46232
+12,2019-20,F,West Midlands,00GA,E06000019,Herefordshire,Number,Number_Screened_25to64,9289
+12,2019-20,F,West Midlands,00GA,E06000019,Herefordshire,%,Borderline_changes_25to64,1.916245021
+12,2019-20,F,West Midlands,00GA,E06000019,Herefordshire,%,Low_Grade_dyskaryosis_25to64,1.668640327
+12,2019-20,F,West Midlands,00GA,E06000019,Herefordshire,%,Moderate_dyskaryosis_25to64,0.462913123
+12,2019-20,F,West Midlands,00GA,E06000019,Herefordshire,%,Negative_25to64,95.27397998
+12,2019-20,F,West Midlands,00GA,E06000019,Herefordshire,%,Severe_dyskaryosis_or_worse_25to64,0.678221552
+12,2019-20,F,West Midlands,00GF,E06000020,Telford and Wrekin,Number,Eligible_Population_25to64,47388
+12,2019-20,F,West Midlands,00GF,E06000020,Telford and Wrekin,Number,Number_Screened_25to64,9925
+12,2019-20,F,West Midlands,00GF,E06000020,Telford and Wrekin,%,Borderline_changes_25to64,2.478589421
+12,2019-20,F,West Midlands,00GF,E06000020,Telford and Wrekin,%,Low_Grade_dyskaryosis_25to64,2.38790932
+12,2019-20,F,West Midlands,00GF,E06000020,Telford and Wrekin,%,Moderate_dyskaryosis_25to64,0.37279597
+12,2019-20,F,West Midlands,00GF,E06000020,Telford and Wrekin,%,Negative_25to64,93.93450882
+12,2019-20,F,West Midlands,00GF,E06000020,Telford and Wrekin,%,Severe_dyskaryosis_or_worse_25to64,0.826196474
+12,2019-20,F,West Midlands,00GG,E06000051,Shropshire,Number,Eligible_Population_25to64,76469
+12,2019-20,F,West Midlands,00GG,E06000051,Shropshire,Number,Number_Screened_25to64,16113
+12,2019-20,F,West Midlands,00GG,E06000051,Shropshire,%,Borderline_changes_25to64,1.899087693
+12,2019-20,F,West Midlands,00GG,E06000051,Shropshire,%,Low_Grade_dyskaryosis_25to64,1.750139639
+12,2019-20,F,West Midlands,00GG,E06000051,Shropshire,%,Moderate_dyskaryosis_25to64,0.397194812
+12,2019-20,F,West Midlands,00GG,E06000051,Shropshire,%,Negative_25to64,95.37640415
+12,2019-20,F,West Midlands,00GG,E06000051,Shropshire,%,Severe_dyskaryosis_or_worse_25to64,0.577173711
+12,2019-20,F,West Midlands,00GL,E06000021,Stoke-on-Trent,Number,Eligible_Population_25to64,66913
+12,2019-20,F,West Midlands,00GL,E06000021,Stoke-on-Trent,Number,Number_Screened_25to64,13640
+12,2019-20,F,West Midlands,00GL,E06000021,Stoke-on-Trent,%,Borderline_changes_25to64,2.023460411
+12,2019-20,F,West Midlands,00GL,E06000021,Stoke-on-Trent,%,Low_Grade_dyskaryosis_25to64,1.832844575
+12,2019-20,F,West Midlands,00GL,E06000021,Stoke-on-Trent,%,Moderate_dyskaryosis_25to64,0.549853372
+12,2019-20,F,West Midlands,00GL,E06000021,Stoke-on-Trent,%,Negative_25to64,94.8973607
+12,2019-20,F,West Midlands,00GL,E06000021,Stoke-on-Trent,%,Severe_dyskaryosis_or_worse_25to64,0.696480938
+12,2019-20,F,West Midlands,41,E10000028,Staffordshire,Number,Eligible_Population_25to64,218499
+12,2019-20,F,West Midlands,41,E10000028,Staffordshire,Number,Number_Screened_25to64,44835
+12,2019-20,F,West Midlands,41,E10000028,Staffordshire,%,Borderline_changes_25to64,1.746403479
+12,2019-20,F,West Midlands,41,E10000028,Staffordshire,%,Low_Grade_dyskaryosis_25to64,1.679491469
+12,2019-20,F,West Midlands,41,E10000028,Staffordshire,%,Moderate_dyskaryosis_25to64,0.381398461
+12,2019-20,F,West Midlands,41,E10000028,Staffordshire,%,Negative_25to64,95.57711609
+12,2019-20,F,West Midlands,41,E10000028,Staffordshire,%,Severe_dyskaryosis_or_worse_25to64,0.615590498
+12,2019-20,F,West Midlands,44,E10000031,Warwickshire,Number,Eligible_Population_25to64,154250
+12,2019-20,F,West Midlands,44,E10000031,Warwickshire,Number,Number_Screened_25to64,31976
+12,2019-20,F,West Midlands,44,E10000031,Warwickshire,%,Borderline_changes_25to64,1.307230423
+12,2019-20,F,West Midlands,44,E10000031,Warwickshire,%,Low_Grade_dyskaryosis_25to64,1.275956968
+12,2019-20,F,West Midlands,44,E10000031,Warwickshire,%,Moderate_dyskaryosis_25to64,0.303352514
+12,2019-20,F,West Midlands,44,E10000031,Warwickshire,%,Negative_25to64,96.62246685
+12,2019-20,F,West Midlands,44,E10000031,Warwickshire,%,Severe_dyskaryosis_or_worse_25to64,0.490993245
+12,2019-20,F,West Midlands,47,E10000034,Worcestershire,Number,Eligible_Population_25to64,150669
+12,2019-20,F,West Midlands,47,E10000034,Worcestershire,Number,Number_Screened_25to64,31553
+12,2019-20,F,West Midlands,47,E10000034,Worcestershire,%,Borderline_changes_25to64,1.746268184
+12,2019-20,F,West Midlands,47,E10000034,Worcestershire,%,Low_Grade_dyskaryosis_25to64,2.091718696
+12,2019-20,F,West Midlands,47,E10000034,Worcestershire,%,Moderate_dyskaryosis_25to64,0.418343739
+12,2019-20,F,West Midlands,47,E10000034,Worcestershire,%,Negative_25to64,95.25877096
+12,2019-20,F,West Midlands,47,E10000034,Worcestershire,%,Severe_dyskaryosis_or_worse_25to64,0.484898425
+12,2019-20,F,West Midlands,F,F,West Midlands,Number,Eligible_Population_25to64,1546492
+12,2019-20,F,West Midlands,F,F,West Midlands,Number,Number_Screened_25to64,309259
+12,2019-20,F,West Midlands,F,F,West Midlands,%,Borderline_changes_25to64,1.677234939
+12,2019-20,F,West Midlands,F,F,West Midlands,%,Low_Grade_dyskaryosis_25to64,1.752899673
+12,2019-20,F,West Midlands,F,F,West Midlands,%,Moderate_dyskaryosis_25to64,0.38737757
+12,2019-20,F,West Midlands,F,F,West Midlands,%,Negative_25to64,95.6408706
+12,2019-20,F,West Midlands,F,F,West Midlands,%,Severe_dyskaryosis_or_worse_25to64,0.541617221
+12,2019-20,G,East of England,00JA,E06000031,Peterborough,Number,Eligible_Population_25to64,62636
+12,2019-20,G,East of England,00JA,E06000031,Peterborough,Number,Number_Screened_25to64,12305
+12,2019-20,G,East of England,00JA,E06000031,Peterborough,%,Borderline_changes_25to64,1.227143438
+12,2019-20,G,East of England,00JA,E06000031,Peterborough,%,Low_Grade_dyskaryosis_25to64,1.527834214
+12,2019-20,G,East of England,00JA,E06000031,Peterborough,%,Moderate_dyskaryosis_25to64,0.325071109
+12,2019-20,G,East of England,00JA,E06000031,Peterborough,%,Negative_25to64,96.09101991
+12,2019-20,G,East of England,00JA,E06000031,Peterborough,%,Severe_dyskaryosis_or_worse_25to64,0.828931329
+12,2019-20,G,East of England,00KA,E06000032,Luton,Number,Eligible_Population_25to64,62472
+12,2019-20,G,East of England,00KA,E06000032,Luton,Number,Number_Screened_25to64,11684
+12,2019-20,G,East of England,00KA,E06000032,Luton,%,Borderline_changes_25to64,1.009928107
+12,2019-20,G,East of England,00KA,E06000032,Luton,%,Low_Grade_dyskaryosis_25to64,2.439233139
+12,2019-20,G,East of England,00KA,E06000032,Luton,%,Moderate_dyskaryosis_25to64,0.196850394
+12,2019-20,G,East of England,00KA,E06000032,Luton,%,Negative_25to64,95.94317015
+12,2019-20,G,East of England,00KA,E06000032,Luton,%,Severe_dyskaryosis_or_worse_25to64,0.410818213
+12,2019-20,G,East of England,00KB,E06000055,Bedford,Number,Eligible_Population_25to64,49758
+12,2019-20,G,East of England,00KB,E06000055,Bedford,Number,Number_Screened_25to64,10300
+12,2019-20,G,East of England,00KB,E06000055,Bedford,%,Borderline_changes_25to64,1.252427184
+12,2019-20,G,East of England,00KB,E06000055,Bedford,%,Low_Grade_dyskaryosis_25to64,2.446601942
+12,2019-20,G,East of England,00KB,E06000055,Bedford,%,Moderate_dyskaryosis_25to64,0.359223301
+12,2019-20,G,East of England,00KB,E06000055,Bedford,%,Negative_25to64,95.44660194
+12,2019-20,G,East of England,00KB,E06000055,Bedford,%,Severe_dyskaryosis_or_worse_25to64,0.495145631
+12,2019-20,G,East of England,00KC,E06000056,Central Bedfordshire,Number,Eligible_Population_25to64,76865
+12,2019-20,G,East of England,00KC,E06000056,Central Bedfordshire,Number,Number_Screened_25to64,16494
+12,2019-20,G,East of England,00KC,E06000056,Central Bedfordshire,%,Borderline_changes_25to64,1.455074573
+12,2019-20,G,East of England,00KC,E06000056,Central Bedfordshire,%,Low_Grade_dyskaryosis_25to64,2.322056505
+12,2019-20,G,East of England,00KC,E06000056,Central Bedfordshire,%,Moderate_dyskaryosis_25to64,0.351643022
+12,2019-20,G,East of England,00KC,E06000056,Central Bedfordshire,%,Negative_25to64,95.42864072
+12,2019-20,G,East of England,00KC,E06000056,Central Bedfordshire,%,Severe_dyskaryosis_or_worse_25to64,0.442585182
+12,2019-20,G,East of England,00KF,E06000033,Southend-on-Sea,Number,Eligible_Population_25to64,48898
+12,2019-20,G,East of England,00KF,E06000033,Southend-on-Sea,Number,Number_Screened_25to64,10044
+12,2019-20,G,East of England,00KF,E06000033,Southend-on-Sea,%,Borderline_changes_25to64,2.120669056
+12,2019-20,G,East of England,00KF,E06000033,Southend-on-Sea,%,Low_Grade_dyskaryosis_25to64,2.001194743
+12,2019-20,G,East of England,00KF,E06000033,Southend-on-Sea,%,Moderate_dyskaryosis_25to64,0.477897252
+12,2019-20,G,East of England,00KF,E06000033,Southend-on-Sea,%,Negative_25to64,94.96216647
+12,2019-20,G,East of England,00KF,E06000033,Southend-on-Sea,%,Severe_dyskaryosis_or_worse_25to64,0.438072481
+12,2019-20,G,East of England,00KG,E06000034,Thurrock,Number,Eligible_Population_25to64,48057
+12,2019-20,G,East of England,00KG,E06000034,Thurrock,Number,Number_Screened_25to64,10330
+12,2019-20,G,East of England,00KG,E06000034,Thurrock,%,Borderline_changes_25to64,1.810261375
+12,2019-20,G,East of England,00KG,E06000034,Thurrock,%,Low_Grade_dyskaryosis_25to64,2.013552759
+12,2019-20,G,East of England,00KG,E06000034,Thurrock,%,Moderate_dyskaryosis_25to64,0.377541142
+12,2019-20,G,East of England,00KG,E06000034,Thurrock,%,Negative_25to64,95.39206196
+12,2019-20,G,East of England,00KG,E06000034,Thurrock,%,Severe_dyskaryosis_or_worse_25to64,0.406582769
+12,2019-20,G,East of England,00MG,E06000042,Milton Keynes,Number,Eligible_Population_25to64,80703
+12,2019-20,G,East of England,00MG,E06000042,Milton Keynes,Number,Number_Screened_25to64,16637
+12,2019-20,G,East of England,00MG,E06000042,Milton Keynes,%,Borderline_changes_25to64,2.590611288
+12,2019-20,G,East of England,00MG,E06000042,Milton Keynes,%,Low_Grade_dyskaryosis_25to64,2.680771774
+12,2019-20,G,East of England,00MG,E06000042,Milton Keynes,%,Moderate_dyskaryosis_25to64,0.474845224
+12,2019-20,G,East of England,00MG,E06000042,Milton Keynes,%,Negative_25to64,93.63466971
+12,2019-20,G,East of England,00MG,E06000042,Milton Keynes,%,Severe_dyskaryosis_or_worse_25to64,0.619102002
+12,2019-20,G,East of England,12,E10000003,Cambridgeshire,Number,Eligible_Population_25to64,187871
+12,2019-20,G,East of England,12,E10000003,Cambridgeshire,Number,Number_Screened_25to64,38292
+12,2019-20,G,East of England,12,E10000003,Cambridgeshire,%,Borderline_changes_25to64,1.391935652
+12,2019-20,G,East of England,12,E10000003,Cambridgeshire,%,Low_Grade_dyskaryosis_25to64,3.154705944
+12,2019-20,G,East of England,12,E10000003,Cambridgeshire,%,Moderate_dyskaryosis_25to64,0.788676486
+12,2019-20,G,East of England,12,E10000003,Cambridgeshire,%,Negative_25to64,93.98568892
+12,2019-20,G,East of England,12,E10000003,Cambridgeshire,%,Severe_dyskaryosis_or_worse_25to64,0.678993001
+12,2019-20,G,East of England,22,E10000012,Essex,Number,Eligible_Population_25to64,389730
+12,2019-20,G,East of England,22,E10000012,Essex,Number,Number_Screened_25to64,83674
+12,2019-20,G,East of England,22,E10000012,Essex,%,Borderline_changes_25to64,1.652843177
+12,2019-20,G,East of England,22,E10000012,Essex,%,Low_Grade_dyskaryosis_25to64,2.428472405
+12,2019-20,G,East of England,22,E10000012,Essex,%,Moderate_dyskaryosis_25to64,0.697946794
+12,2019-20,G,East of England,22,E10000012,Essex,%,Negative_25to64,94.52279083
+12,2019-20,G,East of England,22,E10000012,Essex,%,Severe_dyskaryosis_or_worse_25to64,0.697946794
+12,2019-20,G,East of England,26,E10000015,Hertfordshire,Number,Eligible_Population_25to64,334486
+12,2019-20,G,East of England,26,E10000015,Hertfordshire,Number,Number_Screened_25to64,71248
+12,2019-20,G,East of England,26,E10000015,Hertfordshire,%,Borderline_changes_25to64,1.531271053
+12,2019-20,G,East of England,26,E10000015,Hertfordshire,%,Low_Grade_dyskaryosis_25to64,2.429541882
+12,2019-20,G,East of England,26,E10000015,Hertfordshire,%,Moderate_dyskaryosis_25to64,0.585279587
+12,2019-20,G,East of England,26,E10000015,Hertfordshire,%,Negative_25to64,94.89529531
+12,2019-20,G,East of England,26,E10000015,Hertfordshire,%,Severe_dyskaryosis_or_worse_25to64,0.558612172
+12,2019-20,G,East of England,33,E10000020,Norfolk,Number,Eligible_Population_25to64,226318
+12,2019-20,G,East of England,33,E10000020,Norfolk,Number,Number_Screened_25to64,49358
+12,2019-20,G,East of England,33,E10000020,Norfolk,%,Borderline_changes_25to64,1.035293164
+12,2019-20,G,East of England,33,E10000020,Norfolk,%,Low_Grade_dyskaryosis_25to64,1.438469954
+12,2019-20,G,East of England,33,E10000020,Norfolk,%,Moderate_dyskaryosis_25to64,0.303902103
+12,2019-20,G,East of England,33,E10000020,Norfolk,%,Negative_25to64,96.65099882
+12,2019-20,G,East of England,33,E10000020,Norfolk,%,Severe_dyskaryosis_or_worse_25to64,0.571335954
+12,2019-20,G,East of England,42,E10000029,Suffolk,Number,Eligible_Population_25to64,186644
+12,2019-20,G,East of England,42,E10000029,Suffolk,Number,Number_Screened_25to64,41258
+12,2019-20,G,East of England,42,E10000029,Suffolk,%,Borderline_changes_25to64,1.010713074
+12,2019-20,G,East of England,42,E10000029,Suffolk,%,Low_Grade_dyskaryosis_25to64,2.867322701
+12,2019-20,G,East of England,42,E10000029,Suffolk,%,Moderate_dyskaryosis_25to64,0.916185952
+12,2019-20,G,East of England,42,E10000029,Suffolk,%,Negative_25to64,94.37684813
+12,2019-20,G,East of England,42,E10000029,Suffolk,%,Severe_dyskaryosis_or_worse_25to64,0.828930147
+12,2019-20,G,East of England,G,G,East of England,Number,Eligible_Population_25to64,1754438
+12,2019-20,G,East of England,G,G,East of England,Number,Number_Screened_25to64,371624
+12,2019-20,G,East of England,G,G,East of England,%,Borderline_changes_25to64,1.454157966
+12,2019-20,G,East of England,G,G,East of England,%,Low_Grade_dyskaryosis_25to64,2.375250253
+12,2019-20,G,East of England,G,G,East of England,%,Moderate_dyskaryosis_25to64,0.579887198
+12,2019-20,G,East of England,G,G,East of England,%,Negative_25to64,94.96399587
+12,2019-20,G,East of England,G,G,East of England,%,Severe_dyskaryosis_or_worse_25to64,0.626708716
+12,2019-20,H,London,00AB,E09000002,Barking and Dagenham,Number,Eligible_Population_25to64,65186
+12,2019-20,H,London,00AB,E09000002,Barking and Dagenham,Number,Number_Screened_25to64,12431
+12,2019-20,H,London,00AB,E09000002,Barking and Dagenham,%,Borderline_changes_25to64,3.764781594
+12,2019-20,H,London,00AB,E09000002,Barking and Dagenham,%,Low_Grade_dyskaryosis_25to64,2.099589735
+12,2019-20,H,London,00AB,E09000002,Barking and Dagenham,%,Moderate_dyskaryosis_25to64,0.619419194
+12,2019-20,H,London,00AB,E09000002,Barking and Dagenham,%,Negative_25to64,93.14616684
+12,2019-20,H,London,00AB,E09000002,Barking and Dagenham,%,Severe_dyskaryosis_or_worse_25to64,0.370042635
+12,2019-20,H,London,00AC,E09000003,Barnet,Number,Eligible_Population_25to64,125713
+12,2019-20,H,London,00AC,E09000003,Barnet,Number,Number_Screened_25to64,23899
+12,2019-20,H,London,00AC,E09000003,Barnet,%,Borderline_changes_25to64,1.573287585
+12,2019-20,H,London,00AC,E09000003,Barnet,%,Low_Grade_dyskaryosis_25to64,3.18423365
+12,2019-20,H,London,00AC,E09000003,Barnet,%,Moderate_dyskaryosis_25to64,0.623457048
+12,2019-20,H,London,00AC,E09000003,Barnet,%,Negative_25to64,94.18385707
+12,2019-20,H,London,00AC,E09000003,Barnet,%,Severe_dyskaryosis_or_worse_25to64,0.435164651
+12,2019-20,H,London,00AD,E09000004,Bexley,Number,Eligible_Population_25to64,68538
+12,2019-20,H,London,00AD,E09000004,Bexley,Number,Number_Screened_25to64,13937
+12,2019-20,H,London,00AD,E09000004,Bexley,%,Borderline_changes_25to64,2.087967281
+12,2019-20,H,London,00AD,E09000004,Bexley,%,Low_Grade_dyskaryosis_25to64,1.81531176
+12,2019-20,H,London,00AD,E09000004,Bexley,%,Moderate_dyskaryosis_25to64,0.394632991
+12,2019-20,H,London,00AD,E09000004,Bexley,%,Negative_25to64,95.22135323
+12,2019-20,H,London,00AD,E09000004,Bexley,%,Severe_dyskaryosis_or_worse_25to64,0.480734735
+12,2019-20,H,London,00AE,E09000005,Brent,Number,Eligible_Population_25to64,118801
+12,2019-20,H,London,00AE,E09000005,Brent,Number,Number_Screened_25to64,21034
+12,2019-20,H,London,00AE,E09000005,Brent,%,Borderline_changes_25to64,1.649709993
+12,2019-20,H,London,00AE,E09000005,Brent,%,Low_Grade_dyskaryosis_25to64,2.923837596
+12,2019-20,H,London,00AE,E09000005,Brent,%,Moderate_dyskaryosis_25to64,0.342302938
+12,2019-20,H,London,00AE,E09000005,Brent,%,Negative_25to64,94.73233812
+12,2019-20,H,London,00AE,E09000005,Brent,%,Severe_dyskaryosis_or_worse_25to64,0.351811353
+12,2019-20,H,London,00AF,E09000006,Bromley,Number,Eligible_Population_25to64,97140
+12,2019-20,H,London,00AF,E09000006,Bromley,Number,Number_Screened_25to64,19623
+12,2019-20,H,London,00AF,E09000006,Bromley,%,Borderline_changes_25to64,2.007847934
+12,2019-20,H,London,00AF,E09000006,Bromley,%,Low_Grade_dyskaryosis_25to64,1.972175508
+12,2019-20,H,London,00AF,E09000006,Bromley,%,Moderate_dyskaryosis_25to64,0.27518728
+12,2019-20,H,London,00AF,E09000006,Bromley,%,Negative_25to64,95.34729654
+12,2019-20,H,London,00AF,E09000006,Bromley,%,Severe_dyskaryosis_or_worse_25to64,0.397492738
+12,2019-20,H,London,00AG,E09000007,Camden,Number,Eligible_Population_25to64,88139
+12,2019-20,H,London,00AG,E09000007,Camden,Number,Number_Screened_25to64,14506
+12,2019-20,H,London,00AG,E09000007,Camden,%,Borderline_changes_25to64,1.985385358
+12,2019-20,H,London,00AG,E09000007,Camden,%,Low_Grade_dyskaryosis_25to64,4.618778437
+12,2019-20,H,London,00AG,E09000007,Camden,%,Moderate_dyskaryosis_25to64,0.889287192
+12,2019-20,H,London,00AG,E09000007,Camden,%,Negative_25to64,91.92747828
+12,2019-20,H,London,00AG,E09000007,Camden,%,Severe_dyskaryosis_or_worse_25to64,0.579070729
+12,2019-20,H,London,00AH,E09000008,Croydon,Number,Eligible_Population_25to64,121572
+12,2019-20,H,London,00AH,E09000008,Croydon,Number,Number_Screened_25to64,23516
+12,2019-20,H,London,00AH,E09000008,Croydon,%,Borderline_changes_25to64,1.373532914
+12,2019-20,H,London,00AH,E09000008,Croydon,%,Low_Grade_dyskaryosis_25to64,2.827861881
+12,2019-20,H,London,00AH,E09000008,Croydon,%,Moderate_dyskaryosis_25to64,0.348698758
+12,2019-20,H,London,00AH,E09000008,Croydon,%,Negative_25to64,95.13097466
+12,2019-20,H,London,00AH,E09000008,Croydon,%,Severe_dyskaryosis_or_worse_25to64,0.318931791
+12,2019-20,H,London,00AJ,E09000009,Ealing,Number,Eligible_Population_25to64,124524
+12,2019-20,H,London,00AJ,E09000009,Ealing,Number,Number_Screened_25to64,24654
+12,2019-20,H,London,00AJ,E09000009,Ealing,%,Borderline_changes_25to64,1.817149347
+12,2019-20,H,London,00AJ,E09000009,Ealing,%,Low_Grade_dyskaryosis_25to64,2.892025635
+12,2019-20,H,London,00AJ,E09000009,Ealing,%,Moderate_dyskaryosis_25to64,0.373164598
+12,2019-20,H,London,00AJ,E09000009,Ealing,%,Negative_25to64,94.5526081
+12,2019-20,H,London,00AJ,E09000009,Ealing,%,Severe_dyskaryosis_or_worse_25to64,0.365052324
+12,2019-20,H,London,00AK,E09000010,Enfield,Number,Eligible_Population_25to64,102049
+12,2019-20,H,London,00AK,E09000010,Enfield,Number,Number_Screened_25to64,20304
+12,2019-20,H,London,00AK,E09000010,Enfield,%,Borderline_changes_25to64,1.699172577
+12,2019-20,H,London,00AK,E09000010,Enfield,%,Low_Grade_dyskaryosis_25to64,3.142237983
+12,2019-20,H,London,00AK,E09000010,Enfield,%,Moderate_dyskaryosis_25to64,0.586091411
+12,2019-20,H,London,00AK,E09000010,Enfield,%,Negative_25to64,94.18341214
+12,2019-20,H,London,00AK,E09000010,Enfield,%,Severe_dyskaryosis_or_worse_25to64,0.389085894
+12,2019-20,H,London,00AL,E09000011,Greenwich,Number,Eligible_Population_25to64,91981
+12,2019-20,H,London,00AL,E09000011,Greenwich,Number,Number_Screened_25to64,17860
+12,2019-20,H,London,00AL,E09000011,Greenwich,%,Borderline_changes_25to64,2.133258679
+12,2019-20,H,London,00AL,E09000011,Greenwich,%,Low_Grade_dyskaryosis_25to64,2.318029115
+12,2019-20,H,London,00AL,E09000011,Greenwich,%,Moderate_dyskaryosis_25to64,0.526315789
+12,2019-20,H,London,00AL,E09000011,Greenwich,%,Negative_25to64,94.5968645
+12,2019-20,H,London,00AL,E09000011,Greenwich,%,Severe_dyskaryosis_or_worse_25to64,0.425531915
+12,2019-20,H,London,00AM,E09000012,Hackney (inc. City of London),Number,Eligible_Population_25to64,108162
+12,2019-20,H,London,00AM,E09000012,Hackney (inc. City of London),Number,Number_Screened_25to64,20958
+12,2019-20,H,London,00AM,E09000012,Hackney (inc. City of London),%,Borderline_changes_25to64,2.97261189
+12,2019-20,H,London,00AM,E09000012,Hackney (inc. City of London),%,Low_Grade_dyskaryosis_25to64,3.363870598
+12,2019-20,H,London,00AM,E09000012,Hackney (inc. City of London),%,Moderate_dyskaryosis_25to64,0.639373986
+12,2019-20,H,London,00AM,E09000012,Hackney (inc. City of London),%,Negative_25to64,92.54699876
+12,2019-20,H,London,00AM,E09000012,Hackney (inc. City of London),%,Severe_dyskaryosis_or_worse_25to64,0.477144766
+12,2019-20,H,London,00AN,E09000013,Hammersmith and Fulham,Number,Eligible_Population_25to64,78407
+12,2019-20,H,London,00AN,E09000013,Hammersmith and Fulham,Number,Number_Screened_25to64,13145
+12,2019-20,H,London,00AN,E09000013,Hammersmith and Fulham,%,Borderline_changes_25to64,4.161278052
+12,2019-20,H,London,00AN,E09000013,Hammersmith and Fulham,%,Low_Grade_dyskaryosis_25to64,3.324457969
+12,2019-20,H,London,00AN,E09000013,Hammersmith and Fulham,%,Moderate_dyskaryosis_25to64,0.555344237
+12,2019-20,H,London,00AN,E09000013,Hammersmith and Fulham,%,Negative_25to64,91.7611259
+12,2019-20,H,London,00AN,E09000013,Hammersmith and Fulham,%,Severe_dyskaryosis_or_worse_25to64,0.197793838
+12,2019-20,H,London,00AP,E09000014,Haringey,Number,Eligible_Population_25to64,100271
+12,2019-20,H,London,00AP,E09000014,Haringey,Number,Number_Screened_25to64,19587
+12,2019-20,H,London,00AP,E09000014,Haringey,%,Borderline_changes_25to64,1.914535151
+12,2019-20,H,London,00AP,E09000014,Haringey,%,Low_Grade_dyskaryosis_25to64,4.048603666
+12,2019-20,H,London,00AP,E09000014,Haringey,%,Moderate_dyskaryosis_25to64,0.745392352
+12,2019-20,H,London,00AP,E09000014,Haringey,%,Negative_25to64,92.68902844
+12,2019-20,H,London,00AP,E09000014,Haringey,%,Severe_dyskaryosis_or_worse_25to64,0.602440394
+12,2019-20,H,London,00AQ,E09000015,Harrow,Number,Eligible_Population_25to64,80620
+12,2019-20,H,London,00AQ,E09000015,Harrow,Number,Number_Screened_25to64,14514
+12,2019-20,H,London,00AQ,E09000015,Harrow,%,Borderline_changes_25to64,1.164393
+12,2019-20,H,London,00AQ,E09000015,Harrow,%,Low_Grade_dyskaryosis_25to64,2.239217307
+12,2019-20,H,London,00AQ,E09000015,Harrow,%,Moderate_dyskaryosis_25to64,0.241146479
+12,2019-20,H,London,00AQ,E09000015,Harrow,%,Negative_25to64,95.96940885
+12,2019-20,H,London,00AQ,E09000015,Harrow,%,Severe_dyskaryosis_or_worse_25to64,0.385834367
+12,2019-20,H,London,00AR,E09000016,Havering,Number,Eligible_Population_25to64,71548
+12,2019-20,H,London,00AR,E09000016,Havering,Number,Number_Screened_25to64,15031
+12,2019-20,H,London,00AR,E09000016,Havering,%,Borderline_changes_25to64,4.138114563
+12,2019-20,H,London,00AR,E09000016,Havering,%,Low_Grade_dyskaryosis_25to64,1.769676003
+12,2019-20,H,London,00AR,E09000016,Havering,%,Moderate_dyskaryosis_25to64,0.492315881
+12,2019-20,H,London,00AR,E09000016,Havering,%,Negative_25to64,93.21402435
+12,2019-20,H,London,00AR,E09000016,Havering,%,Severe_dyskaryosis_or_worse_25to64,0.385869204
+12,2019-20,H,London,00AS,E09000017,Hillingdon,Number,Eligible_Population_25to64,90721
+12,2019-20,H,London,00AS,E09000017,Hillingdon,Number,Number_Screened_25to64,18402
+12,2019-20,H,London,00AS,E09000017,Hillingdon,%,Borderline_changes_25to64,1.407455711
+12,2019-20,H,London,00AS,E09000017,Hillingdon,%,Low_Grade_dyskaryosis_25to64,2.86381915
+12,2019-20,H,London,00AS,E09000017,Hillingdon,%,Moderate_dyskaryosis_25to64,0.271709597
+12,2019-20,H,London,00AS,E09000017,Hillingdon,%,Negative_25to64,95.12552983
+12,2019-20,H,London,00AS,E09000017,Hillingdon,%,Severe_dyskaryosis_or_worse_25to64,0.331485708
+12,2019-20,H,London,00AT,E09000018,Hounslow,Number,Eligible_Population_25to64,95948
+12,2019-20,H,London,00AT,E09000018,Hounslow,Number,Number_Screened_25to64,18824
+12,2019-20,H,London,00AT,E09000018,Hounslow,%,Borderline_changes_25to64,2.422439439
+12,2019-20,H,London,00AT,E09000018,Hounslow,%,Low_Grade_dyskaryosis_25to64,2.454313642
+12,2019-20,H,London,00AT,E09000018,Hounslow,%,Moderate_dyskaryosis_25to64,0.345303867
+12,2019-20,H,London,00AT,E09000018,Hounslow,%,Negative_25to64,94.49638759
+12,2019-20,H,London,00AT,E09000018,Hounslow,%,Severe_dyskaryosis_or_worse_25to64,0.281555461
+12,2019-20,H,London,00AU,E09000019,Islington,Number,Eligible_Population_25to64,92235
+12,2019-20,H,London,00AU,E09000019,Islington,Number,Number_Screened_25to64,16547
+12,2019-20,H,London,00AU,E09000019,Islington,%,Borderline_changes_25to64,2.248141657
+12,2019-20,H,London,00AU,E09000019,Islington,%,Low_Grade_dyskaryosis_25to64,4.997884813
+12,2019-20,H,London,00AU,E09000019,Islington,%,Moderate_dyskaryosis_25to64,0.8581616
+12,2019-20,H,London,00AU,E09000019,Islington,%,Negative_25to64,91.35795008
+12,2019-20,H,London,00AU,E09000019,Islington,%,Severe_dyskaryosis_or_worse_25to64,0.537861848
+12,2019-20,H,London,00AW,E09000020,Kensington and Chelsea,Number,Eligible_Population_25to64,57794
+12,2019-20,H,London,00AW,E09000020,Kensington and Chelsea,Number,Number_Screened_25to64,8391
+12,2019-20,H,London,00AW,E09000020,Kensington and Chelsea,%,Borderline_changes_25to64,3.64676439
+12,2019-20,H,London,00AW,E09000020,Kensington and Chelsea,%,Low_Grade_dyskaryosis_25to64,3.301156
+12,2019-20,H,London,00AW,E09000020,Kensington and Chelsea,%,Moderate_dyskaryosis_25to64,0.476701228
+12,2019-20,H,London,00AW,E09000020,Kensington and Chelsea,%,Negative_25to64,92.3489453
+12,2019-20,H,London,00AW,E09000020,Kensington and Chelsea,%,Severe_dyskaryosis_or_worse_25to64,0.226433083
+12,2019-20,H,London,00AX,E09000021,Kingston upon Thames,Number,Eligible_Population_25to64,54146
+12,2019-20,H,London,00AX,E09000021,Kingston upon Thames,Number,Number_Screened_25to64,9964
+12,2019-20,H,London,00AX,E09000021,Kingston upon Thames,%,Borderline_changes_25to64,1.4351666
+12,2019-20,H,London,00AX,E09000021,Kingston upon Thames,%,Low_Grade_dyskaryosis_25to64,2.699718988
+12,2019-20,H,London,00AX,E09000021,Kingston upon Thames,%,Moderate_dyskaryosis_25to64,0.451625853
+12,2019-20,H,London,00AX,E09000021,Kingston upon Thames,%,Negative_25to64,94.94179045
+12,2019-20,H,London,00AX,E09000021,Kingston upon Thames,%,Severe_dyskaryosis_or_worse_25to64,0.471698113
+12,2019-20,H,London,00AY,E09000022,Lambeth,Number,Eligible_Population_25to64,131482
+12,2019-20,H,London,00AY,E09000022,Lambeth,Number,Number_Screened_25to64,25438
+12,2019-20,H,London,00AY,E09000022,Lambeth,%,Borderline_changes_25to64,2.36653825
+12,2019-20,H,London,00AY,E09000022,Lambeth,%,Low_Grade_dyskaryosis_25to64,4.096233981
+12,2019-20,H,London,00AY,E09000022,Lambeth,%,Moderate_dyskaryosis_25to64,0.534633226
+12,2019-20,H,London,00AY,E09000022,Lambeth,%,Negative_25to64,92.58982624
+12,2019-20,H,London,00AY,E09000022,Lambeth,%,Severe_dyskaryosis_or_worse_25to64,0.412768299
+12,2019-20,H,London,00AZ,E09000023,Lewisham,Number,Eligible_Population_25to64,106673
+12,2019-20,H,London,00AZ,E09000023,Lewisham,Number,Number_Screened_25to64,21052
+12,2019-20,H,London,00AZ,E09000023,Lewisham,%,Borderline_changes_25to64,1.933307999
+12,2019-20,H,London,00AZ,E09000023,Lewisham,%,Low_Grade_dyskaryosis_25to64,2.968839065
+12,2019-20,H,London,00AZ,E09000023,Lewisham,%,Moderate_dyskaryosis_25to64,0.484514535
+12,2019-20,H,London,00AZ,E09000023,Lewisham,%,Negative_25to64,94.25707771
+12,2019-20,H,London,00AZ,E09000023,Lewisham,%,Severe_dyskaryosis_or_worse_25to64,0.356260688
+12,2019-20,H,London,00BA,E09000024,Merton,Number,Eligible_Population_25to64,74367
+12,2019-20,H,London,00BA,E09000024,Merton,Number,Number_Screened_25to64,13647
+12,2019-20,H,London,00BA,E09000024,Merton,%,Borderline_changes_25to64,2.381475782
+12,2019-20,H,London,00BA,E09000024,Merton,%,Low_Grade_dyskaryosis_25to64,2.447424342
+12,2019-20,H,London,00BA,E09000024,Merton,%,Moderate_dyskaryosis_25to64,0.322415183
+12,2019-20,H,London,00BA,E09000024,Merton,%,Negative_25to64,94.46764857
+12,2019-20,H,London,00BA,E09000024,Merton,%,Severe_dyskaryosis_or_worse_25to64,0.381036125
+12,2019-20,H,London,00BB,E09000025,Newham,Number,Eligible_Population_25to64,119166
+12,2019-20,H,London,00BB,E09000025,Newham,Number,Number_Screened_25to64,23162
+12,2019-20,H,London,00BB,E09000025,Newham,%,Borderline_changes_25to64,2.050772818
+12,2019-20,H,London,00BB,E09000025,Newham,%,Low_Grade_dyskaryosis_25to64,2.150073396
+12,2019-20,H,London,00BB,E09000025,Newham,%,Moderate_dyskaryosis_25to64,0.375615232
+12,2019-20,H,London,00BB,E09000025,Newham,%,Negative_25to64,95.05224074
+12,2019-20,H,London,00BB,E09000025,Newham,%,Severe_dyskaryosis_or_worse_25to64,0.371297815
+12,2019-20,H,London,00BC,E09000026,Redbridge,Number,Eligible_Population_25to64,95194
+12,2019-20,H,London,00BC,E09000026,Redbridge,Number,Number_Screened_25to64,17772
+12,2019-20,H,London,00BC,E09000026,Redbridge,%,Borderline_changes_25to64,3.60117038
+12,2019-20,H,London,00BC,E09000026,Redbridge,%,Low_Grade_dyskaryosis_25to64,1.654287643
+12,2019-20,H,London,00BC,E09000026,Redbridge,%,Moderate_dyskaryosis_25to64,0.348863381
+12,2019-20,H,London,00BC,E09000026,Redbridge,%,Negative_25to64,94.15935179
+12,2019-20,H,London,00BC,E09000026,Redbridge,%,Severe_dyskaryosis_or_worse_25to64,0.236326806
+12,2019-20,H,London,00BD,E09000027,Richmond upon Thames,Number,Eligible_Population_25to64,64049
+12,2019-20,H,London,00BD,E09000027,Richmond upon Thames,Number,Number_Screened_25to64,12484
+12,2019-20,H,London,00BD,E09000027,Richmond upon Thames,%,Borderline_changes_25to64,1.610060878
+12,2019-20,H,London,00BD,E09000027,Richmond upon Thames,%,Low_Grade_dyskaryosis_25to64,2.635373278
+12,2019-20,H,London,00BD,E09000027,Richmond upon Thames,%,Moderate_dyskaryosis_25to64,0.424543416
+12,2019-20,H,London,00BD,E09000027,Richmond upon Thames,%,Negative_25to64,94.92950977
+12,2019-20,H,London,00BD,E09000027,Richmond upon Thames,%,Severe_dyskaryosis_or_worse_25to64,0.400512656
+12,2019-20,H,London,00BE,E09000028,Southwark,Number,Eligible_Population_25to64,118839
+12,2019-20,H,London,00BE,E09000028,Southwark,Number,Number_Screened_25to64,22767
+12,2019-20,H,London,00BE,E09000028,Southwark,%,Borderline_changes_25to64,2.244476655
+12,2019-20,H,London,00BE,E09000028,Southwark,%,Low_Grade_dyskaryosis_25to64,3.496288488
+12,2019-20,H,London,00BE,E09000028,Southwark,%,Moderate_dyskaryosis_25to64,0.531470989
+12,2019-20,H,London,00BE,E09000028,Southwark,%,Negative_25to64,93.37637809
+12,2019-20,H,London,00BE,E09000028,Southwark,%,Severe_dyskaryosis_or_worse_25to64,0.351385778
+12,2019-20,H,London,00BF,E09000029,Sutton,Number,Eligible_Population_25to64,60992
+12,2019-20,H,London,00BF,E09000029,Sutton,Number,Number_Screened_25to64,11977
+12,2019-20,H,London,00BF,E09000029,Sutton,%,Borderline_changes_25to64,2.621691576
+12,2019-20,H,London,00BF,E09000029,Sutton,%,Low_Grade_dyskaryosis_25to64,2.070635384
+12,2019-20,H,London,00BF,E09000029,Sutton,%,Moderate_dyskaryosis_25to64,0.359021458
+12,2019-20,H,London,00BF,E09000029,Sutton,%,Negative_25to64,94.53953411
+12,2019-20,H,London,00BF,E09000029,Sutton,%,Severe_dyskaryosis_or_worse_25to64,0.409117475
+12,2019-20,H,London,00BG,E09000030,Tower Hamlets,Number,Eligible_Population_25to64,111411
+12,2019-20,H,London,00BG,E09000030,Tower Hamlets,Number,Number_Screened_25to64,19586
+12,2019-20,H,London,00BG,E09000030,Tower Hamlets,%,Borderline_changes_25to64,3.160420709
+12,2019-20,H,London,00BG,E09000030,Tower Hamlets,%,Low_Grade_dyskaryosis_25to64,3.277851527
+12,2019-20,H,London,00BG,E09000030,Tower Hamlets,%,Moderate_dyskaryosis_25to64,0.525885837
+12,2019-20,H,London,00BG,E09000030,Tower Hamlets,%,Negative_25to64,92.70397223
+12,2019-20,H,London,00BG,E09000030,Tower Hamlets,%,Severe_dyskaryosis_or_worse_25to64,0.331869703
+12,2019-20,H,London,00BH,E09000031,Waltham Forest,Number,Eligible_Population_25to64,94185
+12,2019-20,H,London,00BH,E09000031,Waltham Forest,Number,Number_Screened_25to64,18588
+12,2019-20,H,London,00BH,E09000031,Waltham Forest,%,Borderline_changes_25to64,2.86744136
+12,2019-20,H,London,00BH,E09000031,Waltham Forest,%,Low_Grade_dyskaryosis_25to64,2.189584678
+12,2019-20,H,London,00BH,E09000031,Waltham Forest,%,Moderate_dyskaryosis_25to64,0.532601679
+12,2019-20,H,London,00BH,E09000031,Waltham Forest,%,Negative_25to64,93.95308801
+12,2019-20,H,London,00BH,E09000031,Waltham Forest,%,Severe_dyskaryosis_or_worse_25to64,0.457284269
+12,2019-20,H,London,00BJ,E09000032,Wandsworth,Number,Eligible_Population_25to64,134018
+12,2019-20,H,London,00BJ,E09000032,Wandsworth,Number,Number_Screened_25to64,26196
+12,2019-20,H,London,00BJ,E09000032,Wandsworth,%,Borderline_changes_25to64,2.111009314
+12,2019-20,H,London,00BJ,E09000032,Wandsworth,%,Low_Grade_dyskaryosis_25to64,4.420522217
+12,2019-20,H,London,00BJ,E09000032,Wandsworth,%,Moderate_dyskaryosis_25to64,0.500076348
+12,2019-20,H,London,00BJ,E09000032,Wandsworth,%,Negative_25to64,92.51030692
+12,2019-20,H,London,00BJ,E09000032,Wandsworth,%,Severe_dyskaryosis_or_worse_25to64,0.458085204
+12,2019-20,H,London,00BK,E09000033,Westminster,Number,Eligible_Population_25to64,85032
+12,2019-20,H,London,00BK,E09000033,Westminster,Number,Number_Screened_25to64,12931
+12,2019-20,H,London,00BK,E09000033,Westminster,%,Borderline_changes_25to64,3.619209651
+12,2019-20,H,London,00BK,E09000033,Westminster,%,Low_Grade_dyskaryosis_25to64,3.88987704
+12,2019-20,H,London,00BK,E09000033,Westminster,%,Moderate_dyskaryosis_25to64,0.464001237
+12,2019-20,H,London,00BK,E09000033,Westminster,%,Negative_25to64,91.75624468
+12,2019-20,H,London,00BK,E09000033,Westminster,%,Severe_dyskaryosis_or_worse_25to64,0.270667388
+12,2019-20,H,London,H,H,London,Number,Eligible_Population_25to64,3028903
+12,2019-20,H,London,H,H,London,Number,Number_Screened_25to64,572727
+12,2019-20,H,London,H,H,London,%,Borderline_changes_25to64,2.30144554
+12,2019-20,H,London,H,H,London,%,Low_Grade_dyskaryosis_25to64,2.992874441
+12,2019-20,H,London,H,H,London,%,Moderate_dyskaryosis_25to64,0.483301817
+12,2019-20,H,London,H,H,London,%,Negative_25to64,93.83056849
+12,2019-20,H,London,H,H,London,%,Severe_dyskaryosis_or_worse_25to64,0.39180971
+12,2019-20,J,South East,00LC,E06000035,Medway,Number,Eligible_Population_25to64,73545
+12,2019-20,J,South East,00LC,E06000035,Medway,Number,Number_Screened_25to64,15026
+12,2019-20,J,South East,00LC,E06000035,Medway,%,Borderline_changes_25to64,1.484094237
+12,2019-20,J,South East,00LC,E06000035,Medway,%,Low_Grade_dyskaryosis_25to64,2.149607347
+12,2019-20,J,South East,00LC,E06000035,Medway,%,Moderate_dyskaryosis_25to64,0.452548915
+12,2019-20,J,South East,00LC,E06000035,Medway,%,Negative_25to64,95.28816718
+12,2019-20,J,South East,00LC,E06000035,Medway,%,Severe_dyskaryosis_or_worse_25to64,0.625582324
+12,2019-20,J,South East,00MA,E06000036,Bracknell Forest,Number,Eligible_Population_25to64,33981
+12,2019-20,J,South East,00MA,E06000036,Bracknell Forest,Number,Number_Screened_25to64,7252
+12,2019-20,J,South East,00MA,E06000036,Bracknell Forest,%,Borderline_changes_25to64,1.309983453
+12,2019-20,J,South East,00MA,E06000036,Bracknell Forest,%,Low_Grade_dyskaryosis_25to64,2.592388307
+12,2019-20,J,South East,00MA,E06000036,Bracknell Forest,%,Moderate_dyskaryosis_25to64,0.496414782
+12,2019-20,J,South East,00MA,E06000036,Bracknell Forest,%,Negative_25to64,95.25648097
+12,2019-20,J,South East,00MA,E06000036,Bracknell Forest,%,Severe_dyskaryosis_or_worse_25to64,0.344732488
+12,2019-20,J,South East,00MB,E06000037,West Berkshire,Number,Eligible_Population_25to64,42877
+12,2019-20,J,South East,00MB,E06000037,West Berkshire,Number,Number_Screened_25to64,8865
+12,2019-20,J,South East,00MB,E06000037,West Berkshire,%,Borderline_changes_25to64,1.477721376
+12,2019-20,J,South East,00MB,E06000037,West Berkshire,%,Low_Grade_dyskaryosis_25to64,2.571912014
+12,2019-20,J,South East,00MB,E06000037,West Berkshire,%,Moderate_dyskaryosis_25to64,0.428652002
+12,2019-20,J,South East,00MB,E06000037,West Berkshire,%,Negative_25to64,95.05922166
+12,2019-20,J,South East,00MB,E06000037,West Berkshire,%,Severe_dyskaryosis_or_worse_25to64,0.46249295
+12,2019-20,J,South East,00MC,E06000038,Reading,Number,Eligible_Population_25to64,53351
+12,2019-20,J,South East,00MC,E06000038,Reading,Number,Number_Screened_25to64,10001
+12,2019-20,J,South East,00MC,E06000038,Reading,%,Borderline_changes_25to64,1.489851015
+12,2019-20,J,South East,00MC,E06000038,Reading,%,Low_Grade_dyskaryosis_25to64,2.949705029
+12,2019-20,J,South East,00MC,E06000038,Reading,%,Moderate_dyskaryosis_25to64,0.439956004
+12,2019-20,J,South East,00MC,E06000038,Reading,%,Negative_25to64,94.60053995
+12,2019-20,J,South East,00MC,E06000038,Reading,%,Severe_dyskaryosis_or_worse_25to64,0.519948005
+12,2019-20,J,South East,00MD,E06000039,Slough,Number,Eligible_Population_25to64,46891
+12,2019-20,J,South East,00MD,E06000039,Slough,Number,Number_Screened_25to64,9410
+12,2019-20,J,South East,00MD,E06000039,Slough,%,Borderline_changes_25to64,1.360255048
+12,2019-20,J,South East,00MD,E06000039,Slough,%,Low_Grade_dyskaryosis_25to64,2.284803401
+12,2019-20,J,South East,00MD,E06000039,Slough,%,Moderate_dyskaryosis_25to64,0.382571732
+12,2019-20,J,South East,00MD,E06000039,Slough,%,Negative_25to64,95.65356004
+12,2019-20,J,South East,00MD,E06000039,Slough,%,Severe_dyskaryosis_or_worse_25to64,0.318809777
+12,2019-20,J,South East,00ME,E06000040,Windsor and Maidenhead,Number,Eligible_Population_25to64,43396
+12,2019-20,J,South East,00ME,E06000040,Windsor and Maidenhead,Number,Number_Screened_25to64,8758
+12,2019-20,J,South East,00ME,E06000040,Windsor and Maidenhead,%,Borderline_changes_25to64,1.484357159
+12,2019-20,J,South East,00ME,E06000040,Windsor and Maidenhead,%,Low_Grade_dyskaryosis_25to64,2.386389587
+12,2019-20,J,South East,00ME,E06000040,Windsor and Maidenhead,%,Moderate_dyskaryosis_25to64,0.422470884
+12,2019-20,J,South East,00ME,E06000040,Windsor and Maidenhead,%,Negative_25to64,95.32998401
+12,2019-20,J,South East,00ME,E06000040,Windsor and Maidenhead,%,Severe_dyskaryosis_or_worse_25to64,0.376798356
+12,2019-20,J,South East,00MF,E06000041,Wokingham,Number,Eligible_Population_25to64,47881
+12,2019-20,J,South East,00MF,E06000041,Wokingham,Number,Number_Screened_25to64,9698
+12,2019-20,J,South East,00MF,E06000041,Wokingham,%,Borderline_changes_25to64,1.515776449
+12,2019-20,J,South East,00MF,E06000041,Wokingham,%,Low_Grade_dyskaryosis_25to64,2.021035265
+12,2019-20,J,South East,00MF,E06000041,Wokingham,%,Moderate_dyskaryosis_25to64,0.360899154
+12,2019-20,J,South East,00MF,E06000041,Wokingham,%,Negative_25to64,95.70014436
+12,2019-20,J,South East,00MF,E06000041,Wokingham,%,Severe_dyskaryosis_or_worse_25to64,0.402144772
+12,2019-20,J,South East,00ML,E06000043,Brighton and Hove,Number,Eligible_Population_25to64,86800
+12,2019-20,J,South East,00ML,E06000043,Brighton and Hove,Number,Number_Screened_25to64,16418
+12,2019-20,J,South East,00ML,E06000043,Brighton and Hove,%,Borderline_changes_25to64,2.058716043
+12,2019-20,J,South East,00ML,E06000043,Brighton and Hove,%,Low_Grade_dyskaryosis_25to64,3.313436472
+12,2019-20,J,South East,00ML,E06000043,Brighton and Hove,%,Moderate_dyskaryosis_25to64,0.517724449
+12,2019-20,J,South East,00ML,E06000043,Brighton and Hove,%,Negative_25to64,93.4888537
+12,2019-20,J,South East,00ML,E06000043,Brighton and Hove,%,Severe_dyskaryosis_or_worse_25to64,0.621269339
+12,2019-20,J,South East,11,E10000002,Buckinghamshire,Number,Eligible_Population_25to64,146821
+12,2019-20,J,South East,11,E10000002,Buckinghamshire,Number,Number_Screened_25to64,30259
+12,2019-20,J,South East,11,E10000002,Buckinghamshire,%,Borderline_changes_25to64,2.435638983
+12,2019-20,J,South East,11,E10000002,Buckinghamshire,%,Low_Grade_dyskaryosis_25to64,2.984236095
+12,2019-20,J,South East,11,E10000002,Buckinghamshire,%,Moderate_dyskaryosis_25to64,0.472586668
+12,2019-20,J,South East,11,E10000002,Buckinghamshire,%,Negative_25to64,93.6547804
+12,2019-20,J,South East,11,E10000002,Buckinghamshire,%,Severe_dyskaryosis_or_worse_25to64,0.452757857
+12,2019-20,J,South East,21,E10000011,East Sussex,Number,Eligible_Population_25to64,136468
+12,2019-20,J,South East,21,E10000011,East Sussex,Number,Number_Screened_25to64,27461
+12,2019-20,J,South East,21,E10000011,East Sussex,%,Borderline_changes_25to64,1.91544372
+12,2019-20,J,South East,21,E10000011,East Sussex,%,Low_Grade_dyskaryosis_25to64,2.51265431
+12,2019-20,J,South East,21,E10000011,East Sussex,%,Moderate_dyskaryosis_25to64,0.353228215
+12,2019-20,J,South East,21,E10000011,East Sussex,%,Negative_25to64,94.60325553
+12,2019-20,J,South East,21,E10000011,East Sussex,%,Severe_dyskaryosis_or_worse_25to64,0.615418229
+12,2019-20,J,South East,29,E10000016,Kent,Number,Eligible_Population_25to64,402706
+12,2019-20,J,South East,29,E10000016,Kent,Number,Number_Screened_25to64,84386
+12,2019-20,J,South East,29,E10000016,Kent,%,Borderline_changes_25to64,1.709999289
+12,2019-20,J,South East,29,E10000016,Kent,%,Low_Grade_dyskaryosis_25to64,2.230227763
+12,2019-20,J,South East,29,E10000016,Kent,%,Moderate_dyskaryosis_25to64,0.489417676
+12,2019-20,J,South East,29,E10000016,Kent,%,Negative_25to64,95.05723698
+12,2019-20,J,South East,29,E10000016,Kent,%,Severe_dyskaryosis_or_worse_25to64,0.51311829
+12,2019-20,J,South East,43,E10000030,Surrey,Number,Eligible_Population_25to64,328433
+12,2019-20,J,South East,43,E10000030,Surrey,Number,Number_Screened_25to64,66435
+12,2019-20,J,South East,43,E10000030,Surrey,%,Borderline_changes_25to64,1.542861444
+12,2019-20,J,South East,43,E10000030,Surrey,%,Low_Grade_dyskaryosis_25to64,2.391811545
+12,2019-20,J,South East,43,E10000030,Surrey,%,Moderate_dyskaryosis_25to64,0.456084895
+12,2019-20,J,South East,43,E10000030,Surrey,%,Negative_25to64,95.16820953
+12,2019-20,J,South East,43,E10000030,Surrey,%,Severe_dyskaryosis_or_worse_25to64,0.441032588
+12,2019-20,J,South East,45,E10000032,West Sussex,Number,Eligible_Population_25to64,224611
+12,2019-20,J,South East,45,E10000032,West Sussex,Number,Number_Screened_25to64,45236
+12,2019-20,J,South East,45,E10000032,West Sussex,%,Borderline_changes_25to64,1.799451764
+12,2019-20,J,South East,45,E10000032,West Sussex,%,Low_Grade_dyskaryosis_25to64,2.35210894
+12,2019-20,J,South East,45,E10000032,West Sussex,%,Moderate_dyskaryosis_25to64,0.294013617
+12,2019-20,J,South East,45,E10000032,West Sussex,%,Negative_25to64,95.04598108
+12,2019-20,J,South East,45,E10000032,West Sussex,%,Severe_dyskaryosis_or_worse_25to64,0.508444602
+12,2019-20,J,South East,J,J,South East,Number,Eligible_Population_25to64,1667761
+12,2019-20,J,South East,J,J,South East,Number,Number_Screened_25to64,339205
+12,2019-20,J,South East,J,J,South East,%,Borderline_changes_25to64,1.735233856
+12,2019-20,J,South East,J,J,South East,%,Low_Grade_dyskaryosis_25to64,2.454562875
+12,2019-20,J,South East,J,J,South East,%,Moderate_dyskaryosis_25to64,0.432776639
+12,2019-20,J,South East,J,J,South East,%,Negative_25to64,94.88274053
+12,2019-20,J,South East,J,J,South East,%,Severe_dyskaryosis_or_worse_25to64,0.494686104
+12,2019-20,K,South West,00HA,E06000022,Bath and North East Somerset,Number,Eligible_Population_25to64,48737
+12,2019-20,K,South West,00HA,E06000022,Bath and North East Somerset,Number,Number_Screened_25to64,10434
+12,2019-20,K,South West,00HA,E06000022,Bath and North East Somerset,%,Borderline_changes_25to64,1.418439716
+12,2019-20,K,South West,00HA,E06000022,Bath and North East Somerset,%,Low_Grade_dyskaryosis_25to64,1.543032394
+12,2019-20,K,South West,00HA,E06000022,Bath and North East Somerset,%,Moderate_dyskaryosis_25to64,0.680467702
+12,2019-20,K,South West,00HA,E06000022,Bath and North East Somerset,%,Negative_25to64,96.02261836
+12,2019-20,K,South West,00HA,E06000022,Bath and North East Somerset,%,Severe_dyskaryosis_or_worse_25to64,0.335441825
+12,2019-20,K,South West,00HB,E06000023,Bristol,Number,Eligible_Population_25to64,137835
+12,2019-20,K,South West,00HB,E06000023,Bristol,Number,Number_Screened_25to64,31076
+12,2019-20,K,South West,00HB,E06000023,Bristol,%,Borderline_changes_25to64,1.663663277
+12,2019-20,K,South West,00HB,E06000023,Bristol,%,Low_Grade_dyskaryosis_25to64,2.683743081
+12,2019-20,K,South West,00HB,E06000023,Bristol,%,Moderate_dyskaryosis_25to64,0.855966019
+12,2019-20,K,South West,00HB,E06000023,Bristol,%,Negative_25to64,94.1433904
+12,2019-20,K,South West,00HB,E06000023,Bristol,%,Severe_dyskaryosis_or_worse_25to64,0.653237225
+12,2019-20,K,South West,00HC,E06000024,North Somerset,Number,Eligible_Population_25to64,55003
+12,2019-20,K,South West,00HC,E06000024,North Somerset,Number,Number_Screened_25to64,12186
+12,2019-20,K,South West,00HC,E06000024,North Somerset,%,Borderline_changes_25to64,1.255539143
+12,2019-20,K,South West,00HC,E06000024,North Somerset,%,Low_Grade_dyskaryosis_25to64,2.076152962
+12,2019-20,K,South West,00HC,E06000024,North Somerset,%,Moderate_dyskaryosis_25to64,0.689315608
+12,2019-20,K,South West,00HC,E06000024,North Somerset,%,Negative_25to64,95.42918103
+12,2019-20,K,South West,00HC,E06000024,North Somerset,%,Severe_dyskaryosis_or_worse_25to64,0.549811259
+12,2019-20,K,South West,00HD,E06000025,South Gloucestershire,Number,Eligible_Population_25to64,75631
+12,2019-20,K,South West,00HD,E06000025,South Gloucestershire,Number,Number_Screened_25to64,17573
+12,2019-20,K,South West,00HD,E06000025,South Gloucestershire,%,Borderline_changes_25to64,1.576281796
+12,2019-20,K,South West,00HD,E06000025,South Gloucestershire,%,Low_Grade_dyskaryosis_25to64,2.111193308
+12,2019-20,K,South West,00HD,E06000025,South Gloucestershire,%,Moderate_dyskaryosis_25to64,0.694246856
+12,2019-20,K,South West,00HD,E06000025,South Gloucestershire,%,Negative_25to64,95.0093894
+12,2019-20,K,South West,00HD,E06000025,South Gloucestershire,%,Severe_dyskaryosis_or_worse_25to64,0.608888636
+12,2019-20,K,South West,00HE,E06000052,Cornwall (inc. Isles of Scilly),Number,Eligible_Population_25to64,141479
+12,2019-20,K,South West,00HE,E06000052,Cornwall (inc. Isles of Scilly),Number,Number_Screened_25to64,29452
+12,2019-20,K,South West,00HE,E06000052,Cornwall (inc. Isles of Scilly),%,Borderline_changes_25to64,1.33097922
+12,2019-20,K,South West,00HE,E06000052,Cornwall (inc. Isles of Scilly),%,Low_Grade_dyskaryosis_25to64,2.030422382
+12,2019-20,K,South West,00HE,E06000052,Cornwall (inc. Isles of Scilly),%,Moderate_dyskaryosis_25to64,0.668884965
+12,2019-20,K,South West,00HE,E06000052,Cornwall (inc. Isles of Scilly),%,Negative_25to64,95.39250306
+12,2019-20,K,South West,00HE,E06000052,Cornwall (inc. Isles of Scilly),%,Severe_dyskaryosis_or_worse_25to64,0.577210376
+12,2019-20,K,South West,00HG,E06000026,Plymouth,Number,Eligible_Population_25to64,66838
+12,2019-20,K,South West,00HG,E06000026,Plymouth,Number,Number_Screened_25to64,14119
+12,2019-20,K,South West,00HG,E06000026,Plymouth,%,Borderline_changes_25to64,1.317373752
+12,2019-20,K,South West,00HG,E06000026,Plymouth,%,Low_Grade_dyskaryosis_25to64,2.146044337
+12,2019-20,K,South West,00HG,E06000026,Plymouth,%,Moderate_dyskaryosis_25to64,0.658686876
+12,2019-20,K,South West,00HG,E06000026,Plymouth,%,Negative_25to64,95.17671223
+12,2019-20,K,South West,00HG,E06000026,Plymouth,%,Severe_dyskaryosis_or_worse_25to64,0.701182803
+12,2019-20,K,South West,00HH,E06000027,Torbay,Number,Eligible_Population_25to64,33486
+12,2019-20,K,South West,00HH,E06000027,Torbay,Number,Number_Screened_25to64,6815
+12,2019-20,K,South West,00HH,E06000027,Torbay,%,Borderline_changes_25to64,1.628760088
+12,2019-20,K,South West,00HH,E06000027,Torbay,%,Low_Grade_dyskaryosis_25to64,2.714600147
+12,2019-20,K,South West,00HH,E06000027,Torbay,%,Moderate_dyskaryosis_25to64,0.821716801
+12,2019-20,K,South West,00HH,E06000027,Torbay,%,Negative_25to64,94.01320616
+12,2019-20,K,South West,00HH,E06000027,Torbay,%,Severe_dyskaryosis_or_worse_25to64,0.821716801
+12,2019-20,K,South West,00HQ,E06000058,"Bournemouth, Christchurch and Poole",Number,Eligible_Population_25to64,104280
+12,2019-20,K,South West,00HQ,E06000058,"Bournemouth, Christchurch and Poole",Number,Number_Screened_25to64,21794
+12,2019-20,K,South West,00HQ,E06000058,"Bournemouth, Christchurch and Poole",%,Borderline_changes_25to64,1.303110948
+12,2019-20,K,South West,00HQ,E06000058,"Bournemouth, Christchurch and Poole",%,Low_Grade_dyskaryosis_25to64,2.541984032
+12,2019-20,K,South West,00HQ,E06000058,"Bournemouth, Christchurch and Poole",%,Moderate_dyskaryosis_25to64,0.646967055
+12,2019-20,K,South West,00HQ,E06000058,"Bournemouth, Christchurch and Poole",%,Negative_25to64,94.99862347
+12,2019-20,K,South West,00HQ,E06000058,"Bournemouth, Christchurch and Poole",%,Severe_dyskaryosis_or_worse_25to64,0.50931449
+12,2019-20,K,South West,00HR,E06000059,Dorset,Number,Eligible_Population_25to64,87961
+12,2019-20,K,South West,00HR,E06000059,Dorset,Number,Number_Screened_25to64,18524
+12,2019-20,K,South West,00HR,E06000059,Dorset,%,Borderline_changes_25to64,1.274022889
+12,2019-20,K,South West,00HR,E06000059,Dorset,%,Low_Grade_dyskaryosis_25to64,2.310516087
+12,2019-20,K,South West,00HR,E06000059,Dorset,%,Moderate_dyskaryosis_25to64,0.377888145
+12,2019-20,K,South West,00HR,E06000059,Dorset,%,Negative_25to64,95.37896783
+12,2019-20,K,South West,00HR,E06000059,Dorset,%,Severe_dyskaryosis_or_worse_25to64,0.658605053
+12,2019-20,K,South West,00HX,E06000030,Swindon,Number,Eligible_Population_25to64,62938
+12,2019-20,K,South West,00HX,E06000030,Swindon,Number,Number_Screened_25to64,12682
+12,2019-20,K,South West,00HX,E06000030,Swindon,%,Borderline_changes_25to64,1.450875256
+12,2019-20,K,South West,00HX,E06000030,Swindon,%,Low_Grade_dyskaryosis_25to64,1.529727172
+12,2019-20,K,South West,00HX,E06000030,Swindon,%,Moderate_dyskaryosis_25to64,0.378489197
+12,2019-20,K,South West,00HX,E06000030,Swindon,%,Negative_25to64,96.27030437
+12,2019-20,K,South West,00HX,E06000030,Swindon,%,Severe_dyskaryosis_or_worse_25to64,0.370604006
+12,2019-20,K,South West,00HY,E06000054,Wiltshire,Number,Eligible_Population_25to64,124974
+12,2019-20,K,South West,00HY,E06000054,Wiltshire,Number,Number_Screened_25to64,26508
+12,2019-20,K,South West,00HY,E06000054,Wiltshire,%,Borderline_changes_25to64,1.226044968
+12,2019-20,K,South West,00HY,E06000054,Wiltshire,%,Low_Grade_dyskaryosis_25to64,1.55802022
+12,2019-20,K,South West,00HY,E06000054,Wiltshire,%,Moderate_dyskaryosis_25to64,0.494190433
+12,2019-20,K,South West,00HY,E06000054,Wiltshire,%,Negative_25to64,96.31809265
+12,2019-20,K,South West,00HY,E06000054,Wiltshire,%,Severe_dyskaryosis_or_worse_25to64,0.403651728
+12,2019-20,K,South West,00MR,E06000044,Portsmouth,Number,Eligible_Population_25to64,56748
+12,2019-20,K,South West,00MR,E06000044,Portsmouth,Number,Number_Screened_25to64,11207
+12,2019-20,K,South West,00MR,E06000044,Portsmouth,%,Borderline_changes_25to64,2.418131525
+12,2019-20,K,South West,00MR,E06000044,Portsmouth,%,Low_Grade_dyskaryosis_25to64,2.560899438
+12,2019-20,K,South West,00MR,E06000044,Portsmouth,%,Moderate_dyskaryosis_25to64,0.419380744
+12,2019-20,K,South West,00MR,E06000044,Portsmouth,%,Negative_25to64,94.0929776
+12,2019-20,K,South West,00MR,E06000044,Portsmouth,%,Severe_dyskaryosis_or_worse_25to64,0.50861069
+12,2019-20,K,South West,00MS,E06000045,Southampton,Number,Eligible_Population_25to64,68673
+12,2019-20,K,South West,00MS,E06000045,Southampton,Number,Number_Screened_25to64,13079
+12,2019-20,K,South West,00MS,E06000045,Southampton,%,Borderline_changes_25to64,2.30139919
+12,2019-20,K,South West,00MS,E06000045,Southampton,%,Low_Grade_dyskaryosis_25to64,2.828962459
+12,2019-20,K,South West,00MS,E06000045,Southampton,%,Moderate_dyskaryosis_25to64,0.680480159
+12,2019-20,K,South West,00MS,E06000045,Southampton,%,Negative_25to64,93.49338634
+12,2019-20,K,South West,00MS,E06000045,Southampton,%,Severe_dyskaryosis_or_worse_25to64,0.695771848
+12,2019-20,K,South West,00MW,E06000046,Isle of Wight,Number,Eligible_Population_25to64,33660
+12,2019-20,K,South West,00MW,E06000046,Isle of Wight,Number,Number_Screened_25to64,6676
+12,2019-20,K,South West,00MW,E06000046,Isle of Wight,%,Borderline_changes_25to64,2.09706411
+12,2019-20,K,South West,00MW,E06000046,Isle of Wight,%,Low_Grade_dyskaryosis_25to64,2.441581786
+12,2019-20,K,South West,00MW,E06000046,Isle of Wight,%,Moderate_dyskaryosis_25to64,0.584182145
+12,2019-20,K,South West,00MW,E06000046,Isle of Wight,%,Negative_25to64,94.42780108
+12,2019-20,K,South West,00MW,E06000046,Isle of Wight,%,Severe_dyskaryosis_or_worse_25to64,0.449370881
+12,2019-20,K,South West,18,E10000008,Devon,Number,Eligible_Population_25to64,194711
+12,2019-20,K,South West,18,E10000008,Devon,Number,Number_Screened_25to64,41372
+12,2019-20,K,South West,18,E10000008,Devon,%,Borderline_changes_25to64,1.237551968
+12,2019-20,K,South West,18,E10000008,Devon,%,Low_Grade_dyskaryosis_25to64,2.054529634
+12,2019-20,K,South West,18,E10000008,Devon,%,Moderate_dyskaryosis_25to64,0.568017016
+12,2019-20,K,South West,18,E10000008,Devon,%,Negative_25to64,95.63231171
+12,2019-20,K,South West,18,E10000008,Devon,%,Severe_dyskaryosis_or_worse_25to64,0.507589674
+12,2019-20,K,South West,23,E10000013,Gloucestershire,Number,Eligible_Population_25to64,163718
+12,2019-20,K,South West,23,E10000013,Gloucestershire,Number,Number_Screened_25to64,35643
+12,2019-20,K,South West,23,E10000013,Gloucestershire,%,Borderline_changes_25to64,1.24007519
+12,2019-20,K,South West,23,E10000013,Gloucestershire,%,Low_Grade_dyskaryosis_25to64,1.708610386
+12,2019-20,K,South West,23,E10000013,Gloucestershire,%,Moderate_dyskaryosis_25to64,0.418034397
+12,2019-20,K,South West,23,E10000013,Gloucestershire,%,Negative_25to64,96.15352243
+12,2019-20,K,South West,23,E10000013,Gloucestershire,%,Severe_dyskaryosis_or_worse_25to64,0.479757596
+12,2019-20,K,South West,24,E10000014,Hampshire,Number,Eligible_Population_25to64,357208
+12,2019-20,K,South West,24,E10000014,Hampshire,Number,Number_Screened_25to64,75272
+12,2019-20,K,South West,24,E10000014,Hampshire,%,Borderline_changes_25to64,1.794824105
+12,2019-20,K,South West,24,E10000014,Hampshire,%,Low_Grade_dyskaryosis_25to64,2.293017324
+12,2019-20,K,South West,24,E10000014,Hampshire,%,Moderate_dyskaryosis_25to64,0.455680731
+12,2019-20,K,South West,24,E10000014,Hampshire,%,Negative_25to64,94.89318737
+12,2019-20,K,South West,24,E10000014,Hampshire,%,Severe_dyskaryosis_or_worse_25to64,0.563290467
+12,2019-20,K,South West,38,E10000025,Oxfordshire,Number,Eligible_Population_25to64,199176
+12,2019-20,K,South West,38,E10000025,Oxfordshire,Number,Number_Screened_25to64,39424
+12,2019-20,K,South West,38,E10000025,Oxfordshire,%,Borderline_changes_25to64,1.638595779
+12,2019-20,K,South West,38,E10000025,Oxfordshire,%,Low_Grade_dyskaryosis_25to64,2.72169237
+12,2019-20,K,South West,38,E10000025,Oxfordshire,%,Moderate_dyskaryosis_25to64,0.383015422
+12,2019-20,K,South West,38,E10000025,Oxfordshire,%,Negative_25to64,94.69866071
+12,2019-20,K,South West,38,E10000025,Oxfordshire,%,Severe_dyskaryosis_or_worse_25to64,0.558035714
+12,2019-20,K,South West,40,E10000027,Somerset,Number,Eligible_Population_25to64,139756
+12,2019-20,K,South West,40,E10000027,Somerset,Number,Number_Screened_25to64,29790
+12,2019-20,K,South West,40,E10000027,Somerset,%,Borderline_changes_25to64,1.336018798
+12,2019-20,K,South West,40,E10000027,Somerset,%,Low_Grade_dyskaryosis_25to64,2.225579053
+12,2019-20,K,South West,40,E10000027,Somerset,%,Moderate_dyskaryosis_25to64,0.493454179
+12,2019-20,K,South West,40,E10000027,Somerset,%,Negative_25to64,95.43470963
+12,2019-20,K,South West,40,E10000027,Somerset,%,Severe_dyskaryosis_or_worse_25to64,0.510238335
+12,2019-20,K,South West,K,K,South West,Number,Eligible_Population_25to64,2152812
+12,2019-20,K,South West,K,K,South West,Number,Number_Screened_25to64,453626
+12,2019-20,K,South West,K,K,South West,%,Borderline_changes_25to64,1.51534524
+12,2019-20,K,South West,K,K,South West,%,Low_Grade_dyskaryosis_25to64,2.212174787
+12,2019-20,K,South West,K,K,South West,%,Moderate_dyskaryosis_25to64,0.546485431
+12,2019-20,K,South West,K,K,South West,%,Negative_25to64,95.17950911
+12,2019-20,K,South West,K,K,South West,%,Severe_dyskaryosis_or_worse_25to64,0.546485431
+12,2019-20,S,South,S,S,South,Number,Eligible_Population_25to64,3820573
+12,2019-20,S,South,S,S,South,Number,Number_Screened_25to64,792831
+12,2019-20,S,South,S,S,South,%,Borderline_changes_25to64,1.609422437
+12,2019-20,S,South,S,S,South,%,Low_Grade_dyskaryosis_25to64,2.315878163
+12,2019-20,S,South,S,S,South,%,Moderate_dyskaryosis_25to64,0.497836235
+12,2019-20,S,South,S,S,South,%,Negative_25to64,95.05253957
+12,2019-20,S,South,S,S,South,%,Severe_dyskaryosis_or_worse_25to64,0.524323595
